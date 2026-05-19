@@ -62,22 +62,22 @@
     "mediaSentiment": -0.5,
     "socialSentiment": -0.7,
     "regime": "滞胀",
-    "fearGreedIndex": 35,
+    "fearGreedIndex": 30,
     "hotThemes": [
-      {
-        "keyword": "AI代理",
-        "momentumScore": 8,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "先进封装",
-        "momentumScore": 7,
-        "trendDirection": "up"
-      },
       {
         "keyword": "避险资产",
         "momentumScore": 9,
         "trendDirection": "up"
+      },
+      {
+        "keyword": "地缘冲突",
+        "momentumScore": 8,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "AI代理",
+        "momentumScore": 7,
+        "trendDirection": "down"
       },
       {
         "keyword": "存储芯片",
@@ -85,7 +85,7 @@
         "trendDirection": "down"
       },
       {
-        "keyword": "量子计算",
+        "keyword": "智能汽车",
         "momentumScore": 5,
         "trendDirection": "up"
       }
