@@ -98,7 +98,7 @@ export async function POST(request: NextRequest) {
 
   try {
     const response = await getClient().chat.completions.create({
-      model: process.env.DEEPSEEK_MODEL || 'deepseek-chat',
+      model: process.env.DEEPSEEK_MODEL || 'deepseek-v4-flash',
       messages: [
         {
           role: 'system',

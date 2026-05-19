@@ -82,7 +82,7 @@ export async function POST(request: NextRequest) {
   // ---- 3. 调用 DeepSeek 沙盘推演 ----
   try {
     const response = await getClient().chat.completions.create({
-      model: process.env.DEEPSEEK_MODEL || 'deepseek-chat',
+      model: process.env.DEEPSEEK_MODEL || 'deepseek-v4-flash',
       messages: [
         {
           role: 'system',
