@@ -1,5 +1,78 @@
 [
   {
+    "title": "社区抵制数据中心数十亿美元项目，科技巨头押注万亿美元应对",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/05/18/communities-are-blocking-billions-in-data-centers-big-tech-has-wagered-1-trillion-otherwise/",
+    "category": "AI_MODEL",
+    "summary": [
+      "社区抵制导致数据中心项目取消创纪录",
+      "超大规模云厂商万亿赌注面临落地风险"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "社区抗议运动正在以史无前例的速度取消AI数据中心建设项目，但谷歌、微软、亚马逊等科技巨头仍计划在未来五年投入超一万亿美元建设新设施，赌注规模远超前几轮基建浪潮。",
+      "transmissionChain": "社区阻力直接导致PJM电网电价飙升，数据中心巷电价破千美元；推高项目成本与时间表，拖累英伟达GPU/服务器出货；倒逼OpenAI、Anthropic等公司雇佣社区事务专员，利好公关与法律咨询公司。",
+      "chinaMarketMapping": "中国数据西算东数政策可缓解土地/电力冲突，但西部绿电资源丰富地区同样面临环保阻力。A股数据中心运营商（光环新网）可能因国内政策优势吸引外资回流，但整体投资节奏需跟踪地方审批节奏。"
+    },
+    "publishedAt": "2026-05-18T16:49:03Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-19T16:56:25.490Z"
+  },
+  {
+    "title": "分析师警告SpaceX上市后面临马斯克效应重大风险",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/tylerroush/2026/05/18/spacex-could-face-musk-effect-with-major-risks-after-ipo-analyst-warns/",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "SpaceX预计6月12日上市",
+      "估值2万亿美元",
+      "马斯克个人行为可能引发波动"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "SpaceX计划以2万亿美元估值进行史上最大IPO，但分析师警告马斯克争议言行可能导致股价剧烈波动，类似特斯拉的马斯克效应。公司持有6.37亿美元比特币。",
+      "transmissionChain": "如果IPO成功，将点燃太空经济板块，Starlink营收验证LEO通信商业模型。对手如Amazon Kuiper和OneWeb也受关注。同时，马斯克言论可能影响特斯拉股价，进而波及A股新能源车板块。",
+      "chinaMarketMapping": "SpaceX IPO将提振全球航天投资情绪，利好中国航天产业链（中国卫星、航天电子），但国内民营火箭公司（星际荣耀、蓝箭航天）短期内仍需政策支持。"
+    },
+    "publishedAt": "2026-05-18T16:42:27Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-19T16:56:25.490Z"
+  },
+  {
+    "title": "特朗言论缓解地缘紧张 美股涨跌互现科技股承压",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AB%96%E5%8C%96%E8%A7%A3%E5%9C%B0%E7%B7%A3%E7%B7%8A%E5%BC%B5-%E7%BE%8E%E8%82%A1%E6%BC%B2%E8%B7%8C%E4%BA%92%E8%A6%8B%E7%A7%91%E6%8A%80%E8%82%A1%E6%89%BF%E5%A3%93-003522235.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "特朗普宣布应沙特与阿联酋要求延迟轰炸伊朗",
+      "原油价格回落但科技股仍受利率压制下跌"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "特朗普在采访中承认伊朗战争拖累降息需等待停火，导致市场波动率下降但科技股因利率预期未变而承压。地缘风险短暂缓和但谈判僵局持续。",
+      "transmissionChain": "油价回落利好航空与物流板块，但美联储降息预期推迟继续压制科技股估值；军工股受延迟轰炸影响回调；伊朗停火方案通过巴基斯坦转交，中东外交格局变化影响能源安全。",
+      "chinaMarketMapping": "若美伊冲突降温，中国依赖中东石油进口的压力缓解，利好中石油、中石化炼化成本；但中美地缘竞争依然激烈，台湾议题未解。A股能源化工板块短期受益，但科技股跟随美股承压。"
+    },
+    "publishedAt": "2026-05-18T16:35:22Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-19T16:56:25.490Z"
+  },
+  {
+    "title": "NextEra-Dominion交易预示AI公用事业超大型并购新时代",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/pmn/business-pmn/nextera-dominion-deal-signals-new-era-of-ai-utility-mega-mergers",
+    "category": "AI_MODEL",
+    "summary": [
+      "NextEra以670亿美元收购Dominion",
+      "AI需求驱动电力行业整合"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "NextEra Energy以670亿美元收购Dominion Energy，是美国史上最大的公用事业并购，旨在扩大可再生能源与电网规模以满足AI数据中心电力需求。",
+      "transmissionChain": "并购将加速Cleal Energy（清洁能源）装机，利好太阳能与储能板块（Enphase、Fluence）；电网设备商GE Vernova、西门子歌美飒订单增加；同时推高其他公用事业估值，引发更多整合。",
+      "chinaMarketMapping": "中国电力企业如华能国际、国电南瑞将受益于国内AI电力需求增长，但并购管控较严。中国特高压与智能电网投资持续，平高电气、许继电气等设备商受益。"
+    },
+    "publishedAt": "2026-05-18T16:13:45Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-19T16:56:25.490Z"
+  },
+  {
     "title": "苹果全面改造Siri新细节曝光，希望超越竞争对手",
     "source": "The Independent",
     "url": "https://www.the-independent.com/tech/apple-siri-new-iphone-update-b2978688.html",
@@ -127,6 +200,24 @@
     "publishedAt": "2026-05-18T15:50:00Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-19T16:09:50.543Z"
+  },
+  {
+    "title": "黄仁勋兆元宴528登场！英伟达传提前卡位2nm 台积电鸿海全面进入AI备战",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%85%86%E5%85%83%E5%AE%B4-528%E7%99%BB%E5%A0%B4-%E8%BC%9D%E9%81%94%E5%82%B3%E6%8F%90%E5%89%8D%E5%8D%A1%E4%BD%8D2%E5%A5%88%E7%B1%B3-%E7%A2%B0%E7%89%99%E7%8C%89%E5%8F%8D%E5%BA%94-235000747.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "黄仁勋5月28日访台举办兆元宴",
+      "英伟达提前卡位2nm制程"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "供应链消息称英伟达已与台积电洽谈2nm产能分配，计划2027年量产。黄仁勋访台将宣布与鸿海、广达等供应链扩充计划，总计订单规模超万亿元新台币。",
+      "transmissionChain": "台积电2nm产能提前导入，设备商ASML、应用材料订单增加；鸿海、广达AI服务器出货量上调；CoWoS封装产能持续紧张，日月光、欣兴受益。",
+      "chinaMarketMapping": "英伟达2nm提前意味着台积电先进制程领先中芯国际至少两代，国内AI芯片厂商追赶难度加大。但国产设备商（中微、北方华创）可以寻求在成熟制程扩产中寻求替代机会。"
+    },
+    "publishedAt": "2026-05-18T15:50:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-19T16:56:25.490Z"
   },
   {
     "title": "欧盟计划采取更严厉贸易措施应对中国出口激增",
@@ -645,96 +736,6 @@
       "chinaMarketMapping": "中国AI企业（如百度、阿里、科大讯飞）面临类似的企业AI adoption机遇，但受限于芯片出口管制与模型能力差距。国内企业软件公司（如用友、金蝶）需加快AI集成，否则可能被外资厂商抢占市场。利好国产AI芯片（寒武纪、海光信息）与模型厂商。"
     },
     "publishedAt": "2026-05-18T08:48:22Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:02:25.481Z"
-  },
-  {
-    "title": "SK海力士加速建设龙仁工厂，存储短缺推动产能竞赛",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260518VL210/sk-hynix-fab-capacity-demand-production.html",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "SK海力士加速建设龙仁半导体集群",
-      "存储市场紧缩推动韩国芯片制造商加快长期产能计划"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "SK海力士正在加速建设龙仁半导体集群，以应对存储市场紧缩。AI服务器对HBM与LPDDR需求爆发，英伟达Vera Rubin平台LPDDR需求将超苹果与三星总和，推动存储厂商扩产。",
-      "transmissionChain": "SK海力士扩产将增加存储芯片供应，缓解短缺，但建设周期长，短期供需仍紧张。利好上游设备商（ASML、东京电子）与材料商。同时，三星面临罢工威胁，SK海力士扩产可能抢占市场份额。存储价格短期维持高位，但长期可能因产能过剩回落。",
-      "chinaMarketMapping": "中国存储厂商（长鑫存储、长江存储）面临扩产压力，但受限于设备出口管制。国产替代逻辑强化，利好设备与材料企业（北方华创、中微公司）。同时，存储涨价利好国内模组厂（江波龙、佰维存储），但需警惕产能过剩风险。"
-    },
-    "publishedAt": "2026-05-18T08:40:36Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:02:25.481Z"
-  },
-  {
-    "title": "美国财长贝森特称访华非常成功，贸易紧张缓解",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/bessent-china-visit-crypto-impact/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "美国财长贝森特称访华非常成功",
-      "贸易紧张缓解，可能利好数字资产市场"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国财长贝森特称访华非常成功，贸易紧张缓解。但川习会未在AI芯片与技术管控上取得突破，仅达成具体贸易措施。市场对中美关系缓和预期已部分反映，但缺乏细节。",
-      "transmissionChain": "贸易紧张缓解利好全球贸易与供应链，尤其是半导体与新能源。但AI芯片管制未放松，中国科技股可能因预期落空而回调。数字资产市场受益于风险偏好提升，但监管不确定性仍存。",
-      "chinaMarketMapping": "A股与港股短期受贸易缓和提振，但AI芯片管制未解，国产替代逻辑不变。利好出口导向型企业（光伏、家电），但科技股可能获利了结。投资者需关注后续具体措施，避免追高。"
-    },
-    "publishedAt": "2026-05-18T08:33:47Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:02:25.481Z"
-  },
-  {
-    "title": "汇丰银行押注40亿美元于中国清洁能源出口繁荣",
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/HSBC-Bets-4-Billion-on-Chinas-Clean-Energy-Export-Boom.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "汇丰设立40亿美元投资工具",
-      "用于中国清洁能源技术出口，包括风电、光伏、电动车、数据中心与AI"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "汇丰银行设立40亿美元可持续与转型资本投资工具，用于投资中国清洁能源技术出口，包括风电、光伏、电动车、数据中心与AI。显示国际资本看好中国新能源产业链。",
-      "transmissionChain": "汇丰的投资将直接利好中国新能源出口企业（隆基绿能、宁德时代、比亚迪），加速其全球化布局。同时，数据中心与AI投资将拉动算力需求，利好英伟达与国产AI芯片。但需注意欧盟去风险化政策可能抵消部分利好。",
-      "chinaMarketMapping": "A股新能源板块（光伏、风电、电动车）获得资金流入，但需关注产能过剩与贸易壁垒。AI数据中心建设利好服务器与光模块厂商（中际旭创、新易盛）。投资者可关注汇丰投资的具体标的。"
-    },
-    "publishedAt": "2026-05-18T08:15:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:02:25.481Z"
-  },
-  {
-    "title": "中美协议细节落空，富瑞示警中国AI股恐遭获利了结",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E7%BE%8E%E5%8D%94%E8%AD%B0%E7%B4%B0%E7%AF%80%E8%90%BD%E7%A9%BA-%E5%AF%8C%E7%91%9E%E7%A4%BA%E8%AD%A6%E4%B8%AD%E5%9C%8Bai%E8%82%A1%E6%81%90%E9%81%AD%E7%8D%B2%E5%88%A9%E4%BA%86%E7%B5%90-074708761.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "富瑞报告指出川习会未公布AI、芯片具体措施",
-      "中国AI股可能遭获利了结"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "富瑞发表报告指出，川习会结束后未公布AI、芯片或稀土相关具体执行措施，短线上中国AI相关个股可能遭遇抛售压力。此前部分概念股已提前反映缓和预期。",
-      "transmissionChain": "中国AI股（如中科曙光、寒武纪）可能回调，但国产替代长期逻辑不变。资金可能转向其他板块（如新能源、消费）。同时，美国芯片管制未放松，利好国内设备与材料企业。",
-      "chinaMarketMapping": "A股AI概念股短期承压，投资者应避免追高。但国产GPU与半导体设备企业（海光信息、北方华创）仍有政策支撑。关注后续中美谈判进展。"
-    },
-    "publishedAt": "2026-05-18T07:47:08Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:02:25.481Z"
-  },
-  {
-    "title": "欧盟拟推供应链去风险化，企业单一供应商采购上限或设30%-40%",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E6%AD%90%E7%9B%9F%E6%93%AC%E7%A5%AD%E4%BE%9B%E6%87%89%E9%8F%88-%E5%8E%BB%E9%A2%A8%E9%9A%AA%E5%8C%96-%E4%BC%81%E6%A5%AD%E5%96%AE-%E4%BE%9B%E6%87%89%E5%95%86%E6%8E%A1%E8%B3%BC%E4%B8%8A%E9%99%90%E6%81%90%E8%A8%AD30-%E8%87%B340-074629812.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "欧盟拟要求企业关键零部件从至少三家供应商采购",
-      "单一供应商采购上限30%-40%，旨在降低对中国供应链依赖"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "欧盟据传正在研拟新规，要求欧洲企业关键零部件从至少三家不同供应商采购，单一供应商采购上限30%-40%，且不能全部来自同一国家。此举实质上是延续去风险化政策，降低对中国供应链的集中依赖。",
-      "transmissionChain": "新规将影响化工、工业机械、能源设备、电子零部件与汽车供应链。中国企业（如宁德时代、比亚迪）在欧洲市场份额可能受限，但利好东南亚与印度供应商。欧洲本土企业（如西门子、巴斯夫）可能受益，但短期成本上升。",
-      "chinaMarketMapping": "中国出口企业面临欧盟市场准入风险，需加速海外建厂（如宁德时代匈牙利工厂）。利好已在欧洲布局的企业（如比亚迪、吉利）。同时，国内供应链自主化需求上升，利好国产替代（半导体、高端制造）。投资者需关注欧盟立法进展。"
-    },
-    "publishedAt": "2026-05-18T07:46:29Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-19T09:02:25.481Z"
   }

@@ -58,35 +58,35 @@
   {
     "date": "2026-05-19",
     "confidence": 45,
-    "liquidity": 40,
-    "mediaSentiment": -0.5,
-    "socialSentiment": -0.7,
+    "liquidity": 35,
+    "mediaSentiment": -0.4,
+    "socialSentiment": -0.6,
     "regime": "滞胀",
-    "fearGreedIndex": 30,
+    "fearGreedIndex": 35,
     "hotThemes": [
       {
-        "keyword": "避险资产",
-        "momentumScore": 9,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "地缘冲突",
+        "keyword": "AI数据基础设施",
         "momentumScore": 8,
         "trendDirection": "up"
       },
       {
-        "keyword": "AI代理",
+        "keyword": "存储芯片涨价",
         "momentumScore": 7,
-        "trendDirection": "down"
+        "trendDirection": "up"
       },
       {
-        "keyword": "存储芯片",
+        "keyword": "机器人/具身智能",
+        "momentumScore": 7,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "低空经济/飞行汽车",
         "momentumScore": 6,
-        "trendDirection": "down"
+        "trendDirection": "up"
       },
       {
-        "keyword": "智能汽车",
-        "momentumScore": 5,
+        "keyword": "避险资产",
+        "momentumScore": 8,
         "trendDirection": "up"
       }
     ]
