@@ -54,3 +54,11 @@ jobs:
           git add -f src/data/latest.json
           git add src/data/
           git diff --staged --quiet || (git commit -m "chore: auto updated marketing radar data [skip ci]" && git push)
+
+      - name: Send email report
+        if: always()
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+        run: node scripts/send_report.js
