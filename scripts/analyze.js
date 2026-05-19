@@ -12,17 +12,23 @@
 const OpenAI = require('openai');
 
 /* ======================================================================
-   客户端初始化
+   客户端初始化（惰性初始化，避免缺失 API Key 时直接崩溃）
    ====================================================================== */
 
 const DEEPSEEK_BASE_URL = process.env.DEEPSEEK_BASE_URL || 'https://api.deepseek.com';
 const DEEPSEEK_MODEL = process.env.DEEPSEEK_MODEL || 'deepseek-v4-flash';
 
-const client = new OpenAI({
-  baseURL: DEEPSEEK_BASE_URL,
-  apiKey: process.env.DEEPSEEK_API_KEY || '',
-  timeout: 120000,
-});
+let _client = null;
+function getClient() {
+  if (!_client) {
+    _client = new OpenAI({
+      baseURL: DEEPSEEK_BASE_URL,
+      apiKey: process.env.DEEPSEEK_API_KEY || process.env.OPENAI_API_KEY || 'sk-placeholder',
+      timeout: 120000,
+    });
+  }
+  return _client;
+}
 
 /* ======================================================================
    默认值
@@ -596,7 +602,7 @@ async function analyzeTextStream(textStream, options = {}) {
   if (enableThinking) console.log('[analyze] 🧠 思考模式已开启');
 
   try {
-    const response = await client.chat.completions.create(requestBody);
+    const response = await getClient().chat.completions.create(requestBody);
 
     const rawContent = response.choices?.[0]?.message?.content;
     if (!rawContent) throw new Error('API 返回内容为空');

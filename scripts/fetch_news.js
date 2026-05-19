@@ -451,8 +451,15 @@ const REDDIT_RSS_FALLBACKS = {
   'https://www.reddit.com/r/singularity/.rss': 'https://rsshub.app/reddit/r/singularity',
 };
 const CHINESE_RSS_SOURCES = [
-  { name: '36氪', url: 'https://rsshub.app/36kr/news' },
-  { name: '华尔街见闻', url: 'https://rsshub.app/wallstreetcn/news' },
+  { name: '财新金融', url: 'http://caixin.com/rss/finance.xml' },
+  { name: '财新经济', url: 'http://caixin.com/rss/economy.xml' },
+];
+
+const WALLSTREETCN_KEYWORDS = [
+  '快讯', '异动', '政策', '大盘', '华尔街', '尾盘', '开盘',
+  '央行', '降准', '降息', '逆回购', 'MLF', 'LPR',
+  '收盘', '午盘', 'A股', '港股', '北向', '南向',
+  '紧急', '重磅', '突发', '监管', '证监会',
 ];
 
 /* ======================================================================
@@ -964,6 +971,18 @@ async function fetchChineseNews() {
         results.push({ title: item.title, source: item.source?.name || '中文媒体', url: item.url, description: item.description || '', category: categorizeArticle(item.title, item.description), lang: 'zh', publishedAt: item.publishedAt || new Date().toISOString() });
       }
       console.log(`[fetch_news] ✅ NewsAPI 中文: ${results.length} 条`);
+      // 华尔街见闻平替 → NewsAPI 中文结果关键字二次洗涤
+      const wsnItems = results.filter(item =>
+        WALLSTREETCN_KEYWORDS.some(kw =>
+          item.title.includes(kw) || (item.description && item.description.includes(kw))
+        )
+      );
+      if (wsnItems.length > 0) {
+        for (const item of wsnItems) {
+          results.push({ ...item, source: '华尔街见闻', url: item.url + '#wallstreetcn' });
+        }
+        console.log(`[fetch_news] ✅ 华尔街见闻平替: ${wsnItems.length} 条宏观快讯（NewsAPI 二次洗涤）`);
+      }
     } catch (err) {
       console.warn(`[fetch_news] ⚠ 中文 NewsAPI 失败: ${err.message}`);
     }
