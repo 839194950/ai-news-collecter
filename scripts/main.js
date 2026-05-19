@@ -989,6 +989,7 @@ async function main() {
   }
 
   console.log(`\n[main] ✅ v6 深度扩容管道执行完毕。`);
+  process.exit(0);
 }
 
 main().catch((err) => {
