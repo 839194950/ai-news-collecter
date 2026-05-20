@@ -1,5 +1,138 @@
 [
   {
+    "title": "英伟达高管亲自向AI巨头交付首批Vera CPU系统",
+    "source": "PCMag",
+    "url": "https://me.pcmag.com/en/ai/37229/nvidia-exec-hand-delivers-first-vera-cpu-systems-to-ai-heavy-hitters",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达交付首批独立Vera CPU给OpenAI、Anthropic、SpaceX AI和甲骨文",
+      "这是英伟达首款独立CPU，专为Agentic AI设计",
+      "与GPU配合推理，优化数据中心算力配比"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达高管Ian Buck上周五和本周一向Anthropic、OpenAI、SpaceX AI和甲骨文云亲自交付首批Vera CPU系统。Vera CPU是英伟达首款独立产品线的CPU，采用台积电3nm工艺，集成了超过1000亿晶体管，专为AI推理和Agentic AI工作负载设计。该CPU与英伟达GPU配合，可将数据中心CPU/GPU配比从当前的1:4提升至1:1，显著降低整体TCO。",
+      "transmissionChain": "Vera CPU的成功交付标志着英伟达从GPU垄断者向全栈AI平台转型，直接威胁AMD EPYC和英特尔Xeon在数据中心的份额。上游利好台积电3nm产能利用率，下游利好服务器代工厂（鸿海、广达、纬创）获得更多订单。对于云厂商，可降低对英伟达高端GPU的依赖，提高算力灵活性。长期看，CPU+GPU协同将推动AI推理市场爆发，利好边缘计算和AI应用开发。",
+      "chinaMarketMapping": "对A股影响：英伟达CPU出货验证了AI基础设施需求持续强劲，利好中际旭创（光模块）、沪电股份（PCB）。但国产CPU厂商（海光信息、龙芯中科）在AI推理领域面临更激烈竞争。中国云厂商（阿里云、腾讯云）可能加速采用国产AI芯片（昇腾、寒武纪）以摆脱对英伟达依赖，政府层面已要求党政云优先国产方案。鸿海、广达等台系服务器代工商将直接获得Vera Rubin平台订单。"
+    },
+    "publishedAt": "2026-05-19T16:12:17Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T16:40:50.009Z"
+  },
+  {
+    "title": "谷歌I/O大会全面押注AI：搜索改版、Gemini更新与百美元月费套餐齐发",
+    "source": "Yahoo奇摩",
+    "url": "https://tw.stock.yahoo.com/news/google-o%E6%8A%BC%E6%B3%A8ai-%E6%90%9C%E5%B0%8B%E6%A1%86%E5%A4%A7%E6%94%B9%E7%89%88-gemini%E6%9B%B4%E6%96%B0%E8%88%87%E7%99%BE%E7%BE%8E%E5%85%83%E6%9C%88%E8%B2%BB%E5%A5%97%E9%A4%90%E9%BD%8A%E7%99%BC-000610559.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "谷歌发布Gemini 3.0，搜索引入生成式摘要",
+      "推出每月100美元的AI Ultra订阅",
+      "与黑石合资成立TPU云公司"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "谷歌在I/O大会上宣布多项AI重大更新：Gemini模型升级至3.0版本，支持多模态推理；搜索框25年来首次大改版，加入生成式答案摘要；推出每月100美元的AI Ultra订阅套餐，并将最高端套餐从250美元降至200美元。同时，谷歌与黑石集团成立合资云公司，黑石出资50亿美元持多数股权，基于TPU提供计算即服务，目标2027年达到500兆瓦容量。",
+      "transmissionChain": "谷歌搜索改版将冲击传统SEO行业，倒逼企业优化生成式搜索适配。AI Ultra订阅直接对标微软Copilot和OpenAI Plus，价格战可能提升AI应用普及率。TPU云合资威胁英伟达CUDA生态，利好AMD和ASIC设计公司如博通、Marvell。黑石的50亿美元资本注入表明私募巨头看好AI算力长期回报，将加速数据中心建设，利好电力公用事业股。",
+      "chinaMarketMapping": "对中国A股：百度文心一言和阿里通义千问面临更激烈的全球竞争，需加速本土化模型迭代。TPU云合资可能采用台积电3nm制程，利好中芯国际（代工）、长电科技（封装）。中国云厂商（阿里云、华为云）可能被迫降价或提供更优质服务，利好IDC公司（光环新网、宝信软件）。长期看，谷歌入局AI云服务将推动中国AI监管细则出台，统一AI服务标准。"
+    },
+    "publishedAt": "2026-05-19T16:06:10Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T16:40:50.009Z"
+  },
+  {
+    "title": "欧洲央行6月决策遭中东战火绑架，柯赫警告若霍尔木兹不通恐被迫升息",
+    "source": "Yahoo奇摩",
+    "url": "https://tw.stock.yahoo.com/news/ecb-6%E6%9C%88%E6%B1%BA%E7%AD%96%E9%81%AD%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E7%B6%81%E6%9E%B6-%E6%9F%AF%E8%B5%AB%E7%A4%BA%E8%AD%A6%E8%8D%B7%E5%A7%86%E8%8C%B2%E4%B8%8D%E9%80%9A%E6%81%90%E8%A2%AB%E8%BF%AB%E5%8D%87%E6%81%AF-235643170.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "欧洲央行管委柯赫警告若霍尔木兹海峡不通航，6月可能被迫升息",
+      "能源价格回落是维持利率不变的关键",
+      "中东地缘风险波及欧元区货币政策"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "欧洲央行管理委员会委员、奥地利央行行长柯赫表示，若中东冲突导致霍尔木兹海峡持续不通航，能源价格无法回落，欧洲央行在6月11日会议可能别无选择只能升息。当前市场原本押注降息或维持不变，但地缘政治风险正迫使货币政策路径修正。柯赫强调必须看到海峡恢复通航、石油和化肥等关键产品正常流入全球市场。",
+      "transmissionChain": "若ECB被迫升息，将推高欧债收益率，进而影响全球利率环境。欧洲经济本已疲弱，升息可能引发衰退。能源成本上升将打击欧洲制造业（汽车、化工、钢铁），利空欧洲资产价格。全球资金可能流向美国或中国，推高美元。对中国出口而言，欧洲需求减弱是不利因素，但欧洲需要中国制造的可替代能源设备（光伏、电池）。",
+      "chinaMarketMapping": "对中国A股：若欧洲衰退，出口导向型公司（家电、机械、光伏）面临订单下滑风险。但中国光伏（隆基、晶科）和锂电池（宁德时代）因欧洲能源转型需求可能受益。同时，中国可加大从俄罗斯进口折扣石油，降低自身成本，利好中国石油、中国石化。总体而言，地缘溢价利好石油天然气板块，但利空制造业。"
+    },
+    "publishedAt": "2026-05-19T15:56:43Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T16:40:50.009Z"
+  },
+  {
+    "title": "美财长贝森特：对华休战不急续约，川习会前关税筹码仍握美方手中",
+    "source": "Yahoo奇摩",
+    "url": "https://tw.stock.yahoo.com/news/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E5%B0%8D%E4%B8%AD%E4%BC%91%E6%88%B0%E4%B8%8D%E6%80%A5%E7%BA%8C%E7%B4%84-%E5%B7%9D%E7%BF%92%E6%9C%83%E5%89%8D%E9%97%9C%E7%A8%85%E7%B1%8C%E7%A2%BC%E4%BB%8D%E6%8F%A1%E7%BE%8E%E6%96%B9%E6%89%8B%E4%B8%AD-233913956.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "贝森特表示不急于延长11月到期的对华关税休战协议",
+      "美方掌握关税筹码，中国可能在降低关税方面做出让步",
+      "暗示贸易谈判将在川习会前保持高压"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国财长贝森特在G7财长会议期间表示，川普政府不急于延长将于11月到期的对华关税与关键矿产贸易休战协议。他指出，只要美国不再进一步提高关税，中国可能接受美国新的301条款关税。贝森特暗示中国在关税问题上“捡了便宜”，美方将利用这段时间施压中国在技术转让和市场开放方面让步。",
+      "transmissionChain": "若关税休战不续约，中国对美出口商品（家电、电子产品、玩具）将重新面临高额关税，影响出口企业利润。但中国可通过汇率贬值对冲部分影响（人民币已走弱）。科技领域，若美国扩大对华为、中芯的制裁，将加速中国半导体国产替代进程。此外，关键矿产（稀土、钨）方面，中国可能限制出口以反制，利好中国稀土板块（北方稀土）。川习会前，特朗普保留关税工具作为谈判筹码。",
+      "chinaMarketMapping": "对A股，出口压力下内需消费和国产替代板块受益。家电（美的、格力）需关注海外营收占比，但可通过东南亚产能规避。半导体（中芯国际、北方华创）国产替代逻辑强化。稀土（北方稀土、五矿稀土）作为反制工具，具备交易性机会。关税不确定性加大的背景下，建议增配防御性板块（公用事业、黄金）。"
+    },
+    "publishedAt": "2026-05-19T15:39:13Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T16:40:50.009Z"
+  },
+  {
+    "title": "黑石与谷歌合资成立TPU云公司，大规模商业化挑战英伟达",
+    "source": "Cool3c",
+    "url": "https://www.cool3c.com/article/248699",
+    "category": "AI_MODEL",
+    "summary": [
+      "黑石出资50亿美元持TPU云合资公司多数股权",
+      "基于谷歌TPU提供计算即服务",
+      "目标2027年达到500兆瓦容量"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "黑石集团与谷歌宣布成立合资云公司，黑石出资50亿美元持有主要股份，谷歌提供TPU技术和管理。合资公司将基于谷歌定制TPU芯片向企业提供AI计算即服务，目标到2027年实现500兆瓦容量的数据中心规模。此举是谷歌将内部TPU对外商业化的重大举措，直接挑战英伟达CUDA + GPU生态。黑石作为全球最大另类资产管理公司，代表机构资本对AI算力基础设施的长期看好。",
+      "transmissionChain": "TPU云合资将降低企业使用AI算力的门槛，尤其是依赖英伟达GPU的云客户可多一个选择。利好ASIC设计公司（博通、Marvell）因为TPU属于定制芯片，可能增加对ASIC采购。同时，电力需求将进一步推动能源公司（NextEra、杜克能源）和光模块供应商（中际旭创）。对英伟达而言，生态垄断被打破，但短期内GPU仍占主导。黑石的资本注入可加速数据中心建设，利好服务器代工与建筑商。",
+      "chinaMarketMapping": "对中国市场，谷歌TPU云合资可能受限于美国出口管制，无法直接服务中国客户，但中国企业可以借鉴其商业模式。百度昆仑芯、阿里平头哥、华为昇腾需加速芯片方案商业化，形成对标。同时，该合资可能刺激中国私募资本进入AI算力领域，利好宝信软件、数据港等IDC公司。中长期看，中国AI云服务市场竞争将更激烈，降价让利给中小开发者。"
+    },
+    "publishedAt": "2026-05-19T15:34:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T16:40:50.009Z"
+  },
+  {
+    "title": "AMD AI开发者大会首次在中国举行，苏姿丰出席谈AI代理新趋势",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/952/513.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "AMD AI DevDay 2026在上海举办",
+      "苏姿丰称AI进入CPU+GPU时代，配比向1:1演进",
+      "发布MI400加速器和EPYC Turin处理器"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "AMD首次在中国举办AI开发者大会，CEO苏姿丰出席并宣布AI已进入CPU+GPU协同时代，数据中心CPU/GPU配比从1:4向1:1演进。AMD发布MI400加速器（性能较MI350提升50%）和EPYC Turin处理器（96核）。同时与零一万物等中国AI公司合作，强化软件生态。苏姿丰强调AI代理（Agent）广泛使用CPU是转变关键。",
+      "transmissionChain": "AMD的CPU+GPU战略直接挑战英伟达GPU主导地位，数据表明推理负载确实需要更多CPU资源。利好CPU生态合作厂商（广达、纬颖）及电源管理公司（台达电）。MI400若获得云厂商采用，将提升台积电3nm和CoWoS产能利用率。对英特尔形成两面夹击，英特尔18A制程急需突破。开发者大会在中国举办体现AMD重视中国市场，同时暗示绕开出口管制的可能性。",
+      "chinaMarketMapping": "对A股，AMD新产品有望带动国产服务器厂商（浪潮信息、中科曙光）需求。但中国超算和AI服务器更倾向国产芯片，AMD在中国区营收增长空间有限。不过，苏姿丰的乐观表态提振了AI芯片板块情绪，利好功率半导体（斯达半导）和散热（双鸿）。更重要的是，CPU+GPU趋势利好国产CPU（海光信息、龙芯中科）在推理场景的应用。"
+    },
+    "publishedAt": "2026-05-19T14:49:35Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T16:40:50.009Z"
+  },
+  {
+    "title": "普丁访华会晤习近平，川普刚走中俄展现坚实盟友关系",
+    "source": "Yahoo奇摩",
+    "url": "https://tw.news.yahoo.com/%E6%99%AE%E4%B8%81%E8%A8%AA%E4%B8%AD%E6%9C%83%E6%9A%A4%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%B7%9D%E6%99%AE%E5%89%9B%E8%B5%B0%E4%B8%AD%E4%BF%84%E5%B1%95%E7%8F%BE%E5%A0%85%E5%AF%A6%E7%9B%9F%E5%8F%8B%E9%97%9C%E4%BF%82-143731972.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "普丁在特朗普离开后访华，与习近平会晤",
+      "签署能源、基础设施和科技合作协议",
+      "展示中俄战略伙伴关系对抗西方压力"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "俄罗斯总统普丁在特朗普结束对华访问后迅速抵达北京，与习近平举行会谈。双方签署多项合作协议，包括扩大石油和天然气贸易、共同开发北极航道、深化太空合作等。普丁强调中俄关系“坚不可摧”，习近平称两国是“战略协作伙伴”。此次访问旨在展示中俄团结，回应美国对两国的制裁与竞争。",
+      "transmissionChain": "中俄能源协议将使中国获得折扣石油和天然气，降低对中东和海上运输的依赖。利好中国能源安全，但可能面临美国二级制裁风险。北极航道开发将推动造船业（中国船舶）和港口建设。太空合作可能涉及卫星导航（北斗与格洛纳斯兼容），利好中国卫星产业链。长期看，中俄贸易本币结算比例上升，削弱美元储备地位，利好人民币国际化。",
+      "chinaMarketMapping": "对A股，中俄贸易主题受益板块包括：石油天然气（中国石油、中曼石油）、航运（中远海特）、港口基建（连云港、锦州港）、农业（北大荒作为俄罗斯远东粮食进口受益）。但需注意美国制裁引致的外资流出风险。军工板块（航发动力）可能获得俄罗斯技术合作短期催化。总体，能源安全和人民币资产吸引力提升。"
+    },
+    "publishedAt": "2026-05-19T14:37:31Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T16:40:50.009Z"
+  },
+  {
     "title": "三星与工会缩小分歧，但罢工临近",
     "source": "RTE",
     "url": "https://www.rte.ie/news/business/2026/0519/1574120-samsung-strike-threat/",
@@ -592,131 +725,5 @@
     "publishedAt": "2026-05-19T06:35:13Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "马斯克诉OpenAI案败诉，陪审团认定超过诉讼时效",
-    "source": "C-sharpcorner.com",
-    "url": "https://www.c-sharpcorner.com/article/openai-vs-elon-musk-explained-what-happened-and-why-it-matters/",
-    "category": "AI_MODEL",
-    "summary": [
-      "马斯克索赔1500亿美元被驳回",
-      "扫清OpenAI上市最大法律障碍"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国陪审团一致裁定马斯克对OpenAI及CEO奥特曼的违约诉讼因超过3年诉讼时效而被驳回。马斯克指控OpenAI背离非营利初衷并谋求商业利益，但法庭采信被告关于起诉时效的抗辩。判决即刻生效，不可上诉。",
-      "transmissionChain": "OpenAI上市障碍清除，估值或超8000亿美元，现有投资者（微软、Thrive Capital）账面收益暴增。竞争对手Anthropic压力加大，可能加速自身IPO或寻求融资。企业客户对OpenAI的信任度回升，API调用量有望增长。",
-      "chinaMarketMapping": "OpenAI快速上市将进一步巩固其全球领先地位，对国内大模型厂商形成压力。百度、科大讯飞、商汤等需要更快推进商业化落地。A股AI概念股短期受情绪提振，但长期仍需看自身能力。国内创业者应关注开源模型生态，避开与巨头直接竞争。"
-    },
-    "publishedAt": "2026-05-19T05:48:13Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "科罗拉多州签署AI新责任法案，问责重点转向单一决策层面",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E7%A7%91%E7%BE%85%E6%8B%89%E5%A4%9A%E5%B7%9E%E6%96%B0%E8%A6%8F-ai-%E8%B2%AC%E4%BB%BB%E8%BD%89%E5%90%91%E6%B1%BA%E7%AD%96%E5%B1%A4%E7%B4%9A-%E4%BC%81%E6%A5%AD%E9%9D%A2%E8%87%A8%E6%8C%91%E6%88%B0-054016763.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "新法案替代2024年AI法规",
-      "要求企业对AI做出的每个决策负责"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "科罗拉多州长签署SB26-189法案，将雇主使用AI辅助决策的责任从系统级别的合规转向针对每个单一决策的问责。企业在使用AI进行招聘、信贷、医疗等决策时，必须能够解释和辩护每一项具体决策，违规罚款大幅提高。新法将于2027年1月1日生效。",
-      "transmissionChain": "企业合规成本显著上升，AI审计与解释性软件需求爆发。人力资源科技公司（Workday、SAP SuccessFactors）需升级产品。保险公司可能开发AI责任险新险种。中小型企业使用AI的门槛提高，可能减缓AI应用普及。",
-      "chinaMarketMapping": "中国尚未出台类似精细法律，但参考欧盟AI法案，未来可能跟进。国内AI合规咨询公司（如奇安信、绿盟科技）可提前布局。A股AI应用企业需关注监管动态，建立内部AI伦理委员会。短期对AI应用推广构成情绪压力。"
-    },
-    "publishedAt": "2026-05-19T05:40:16Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "谷歌与黑石集团联手成立AI云公司",
-    "source": "Business Insider",
-    "url": "https://www.businessinsider.com/smart-people-react-google-blackstone-collab-5-billion-ai-company-2026-5",
-    "category": "AI_MODEL",
-    "summary": [
-      "谷歌与私募黑石合资50亿美元成立AI云公司",
-      "基于谷歌TPU提供计算即服务，黑石持股主要"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "谷歌与黑石联合成立合资AI云公司，黑石出资50亿美元占主要股份，合资公司基于谷歌TPU芯片提供计算即服务。谷歌贡献技术与工程资源，黑石提供大规模资本与数据中心运营能力。",
-      "transmissionChain": "直接利好谷歌云计算部门（GCP）与TPU供应商；AWS、Azure面临竞争压力；黑石通过基础设施投资获得稳定现金流；中小企业获得低成本AI算力入口。上游芯片厂（博通、Marvell）受益于TPU采购，下游AI应用开发者降低成本。",
-      "chinaMarketMapping": "中国AI云市场由阿里云、华为云、百度智能云主导，谷歌/黑石合资短期内不会直接冲击。但长期看，合资模式可能被国内复制（如腾讯+国资基金）。A股AI算力租赁标的（如中科曙光、光环新网）面临海外低成本竞争。国内创业公司需警惕巨头资本优势，建议聚焦行业垂直应用。"
-    },
-    "publishedAt": "2026-05-19T05:40:07Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "Anthropic CEO警告AI将引发‘严重就业危机’，初级白领岗位面临替代",
-    "source": "ANI News",
-    "url": "https://www.aninews.in/news/business/anthropic-ceo-dario-amodei-warns-of-serious-employment-crisis-as-ai-set-to-replace-entry-level-jobs20260519102246",
-    "category": "AI_MODEL",
-    "summary": [
-      "AI将在1-2年内取代大量初级白领",
-      "政府需准备再培训与社会安全网"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Anthropic CEO在公开场合表示，基于当前AI能力进展，未来12-24个月内，大量初级白领岗位（客服、文案、数据录入等）将被AI智能体取代。他呼吁政府立即开始规划大规模再培训计划与社会保障体系，以避免社会动荡。",
-      "transmissionChain": "人力资源外包公司（如Indeed、Manpower）业务模式面临颠覆；高端咨询与创意岗位价值提升。AI教育公司（Duolingo、Coursera）可能受益于技能升级需求。企业需要为AI替代员工支付过渡成本，短期利润受压。",
-      "chinaMarketMapping": "中国同样面临AI替代服务业的压力，但制造业回流提供一定的就业缓冲。政策可能加速推动AI职业教育（如达内科技、传智教育）。A股中，人力资源服务公司（外服控股、科锐国际）未来需关注其AI转型能力。政府可能出台AI税或机器人税，影响企业投资意愿。"
-    },
-    "publishedAt": "2026-05-19T05:01:58Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "美国30年期国债收益率升至5.1%，创2007年7月以来新高",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/30-year-treasury-yield-highest-since-2007/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "美债长端收益率飙升",
-      "风险资产估值承压，流动性收紧预期"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "由于市场对美联储维持高利率预期以及中东战争推高通胀预期，美国30年期国债收益率突破5.1%关口，创下近19年新高。10年期收益率同步升至4.9%附近。全球债市遭遇抛售，日本、德国国债收益率跟随上升。",
-      "transmissionChain": "科技股估值受压（折现率上升），纳斯达克领跌；房地产信托与高杠杆企业融资成本上升；新兴市场货币贬值压力增加。但银行股因净息差扩大而受益。商品市场承压，但黄金因避险需求相对坚挺。",
-      "chinaMarketMapping": "中美利差扩大至-150个基点，人民币贬值压力增加，短期不利于A股外资流入。中国央行或加大宽松力度对冲，利好债市但压制股市风险偏好。A股高估值成长股（AI、半导体）面临回调压力，防御性板块（银行、公用事业）相对抗跌。"
-    },
-    "publishedAt": "2026-05-19T04:52:48Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "特朗普应海湾盟友呼吁取消对伊朗的打击计划",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/trump-cancels-iran-strike-gulf-allies/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "特朗普临时取消军事打击",
-      "中东地缘风险短期缓和"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "特朗普在听取沙特与阿联酋领导人呼吁后，决定取消原定对伊朗核设施的军事打击。美国白宫声明强调外交窗口仍开放，但军事选项未排除。此前霍尔木兹海峡紧张局势推高原油至115美元，取消计划后原油回落至103美元。",
-      "transmissionChain": "原油价格下跌缓解通胀担忧，但美债收益率仍因前期战争溢价居高不下。军工股（洛克希德马丁）短期回调；航空、运输股受益于燃油成本下降。中东主权基金可能重新布局风险资产。",
-      "chinaMarketMapping": "原油价格下跌利好中国炼化企业（中国石化）与航空公司（中国国航），降低输入性通胀压力。但地缘不确定性仍在，A股原油板块短期承压。全球风险偏好修复可能短暂提振A股科技股，但需关注后续局势演变。"
-    },
-    "publishedAt": "2026-05-19T04:52:48Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "美国30年期国债收益率升至5.1%，创2007年7月以来新高",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/us-30-year-yield-5-percent/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "美债30年收益率突破5.1%",
-      "风险资产估值承压，流动性收紧预期"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国30年期国债收益率升至5.1%，创自2007年7月以来的新高。长端利率飙升主要是受通胀预期上升、财政赤字忧虑以及美联储可能维持高利率的影响。这对全球风险资产的估值构成严重压力。",
-      "transmissionChain": "长期收益率上升直接提高股市的贴现率，高估值的科技股首当其冲（纳斯达克当日下跌）。同时，房贷利率上升冲击房地产市场，银行股可能受益于利差扩大但受经济放缓担忧拖累。新兴市场面临资本外流压力。",
-      "chinaMarketMapping": "中国10年期国债收益率相对稳定（3.2%左右），中美利差倒挂加深，人民币汇率承压但央行有管理工具。中国股市受益于国内流动性宽松，但外资流出可能拖累蓝筹股。"
-    },
-    "publishedAt": "2026-05-19T04:52:48Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:34:27.261Z"
   }
 ]
