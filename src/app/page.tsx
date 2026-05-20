@@ -841,14 +841,14 @@ function SectorEntryCard({
   return (
     <Link
       href={href}
-      className="block border border-neutral-200/40 rounded-2xl p-5 sm:p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]"
+      className="block border border-neutral-200/40 rounded-xl sm:rounded-2xl p-3 sm:p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]"
       style={heatStyle}
     >
-      <div className="flex items-center justify-between gap-3 mb-3">
-        <span className="text-base font-semibold text-slate-800 shrink-0">{title}</span>
+      <div className="flex items-center justify-between gap-2 sm:gap-3">
+        <span className="text-sm sm:text-base font-semibold text-slate-800 truncate">{title}</span>
         <SectorBadge label={sector.status} />
       </div>
-      <p className="text-sm text-slate-500 leading-relaxed line-clamp-2">
+      <p className="text-xs sm:text-sm text-slate-500 leading-relaxed line-clamp-2 mt-1 sm:mt-3">
         {sector.latestNews[0]}
       </p>
     </Link>
@@ -896,7 +896,7 @@ function CalibrationMatrixChart({ matrix, archiveCount }: { matrix?: Record<stri
         <span className="text-xs text-slate-400">数据随每日归档案自动滚动更新</span>
       </div>
 
-      <div className="flex flex-col sm:flex-row items-stretch gap-8">
+      <div className="flex flex-col sm:flex-row items-stretch gap-5 sm:gap-8">
         {/* —— Chart —— */}
         <div className="flex-1 h-64 relative">
           <ResponsiveContainer width="100%" height="100%">
@@ -1401,7 +1401,7 @@ function FearGreedGauge({ value, themes }: {
           <div className="text-sm font-semibold text-slate-500 tracking-wider uppercase mb-2">{'当日异动主题'}</div>
           <p className="text-xs text-slate-400 mb-5">Hot Themes · 动量资金流向</p>
 
-          <div className="flex flex-col gap-3">
+          <div className="flex flex-row sm:flex-col gap-3 overflow-x-auto sm:overflow-x-visible pb-1 sm:pb-0 scrollbar-none">
             {themes && themes.length > 0 ? (
               themes.map((theme, idx) => {
                 const isUp = theme.trendDirection === "up";
@@ -1413,17 +1413,17 @@ function FearGreedGauge({ value, themes }: {
                 return (
                   <div
                     key={theme.keyword + idx}
-                    className="flex flex-col gap-1.5 bg-neutral-50/90 border border-neutral-100/60 hover:bg-neutral-100/80 rounded-xl px-4 py-2.5 transition-all duration-200"
+                    className="shrink-0 w-44 sm:w-auto flex flex-col gap-1.5 bg-neutral-50/90 border border-neutral-100/60 hover:bg-neutral-100/80 rounded-xl px-3 sm:px-4 py-2 sm:py-2.5 transition-all duration-200"
                   >
                     <div className="flex items-center justify-between">
-                      <div className="flex items-center gap-2">
-                        <span className="text-sm font-semibold text-slate-800">{theme.keyword}</span>
-                        <span className={`text-xs font-bold ${textColor}`}>{arrow}</span>
+                      <div className="flex items-center gap-1.5 sm:gap-2 min-w-0">
+                        <span className="text-sm font-semibold text-slate-800 truncate">{theme.keyword}</span>
+                        <span className={`text-xs font-bold shrink-0 ${textColor}`}>{arrow}</span>
                       </div>
-                      <span className={`text-xs font-bold tabular-nums ${textColor}`}>{theme.momentumScore}/10</span>
+                      <span className={`text-xs font-bold tabular-nums shrink-0 ${textColor}`}>{theme.momentumScore}/10</span>
                     </div>
                     {/* 动量能量条 */}
-                    <div className="w-full h-1.5 bg-neutral-200/60 rounded-full overflow-hidden">
+                    <div className="w-full h-1 sm:h-1.5 bg-neutral-200/60 rounded-full overflow-hidden">
                       <div
                         className={`h-full rounded-full transition-all duration-700 ${barColor}`}
                         style={{ width: `${pct}%` }}
@@ -1772,7 +1772,7 @@ export default function Home() {
       {/* ---- 全局导航头 ---- */}
       <NavHeader lastUpdated={data.lastUpdated} />
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 mt-6 sm:mt-10 space-y-6 sm:space-y-8">
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 mt-5 sm:mt-10 space-y-5 sm:space-y-8">
 
         {/* ======== 全球六大核心大盘基准（常驻）+ 周期切换 ======== */}
         <div className="flex items-center justify-between mb-1">
@@ -1839,10 +1839,10 @@ export default function Home() {
             Tab 1：全球雷达总览
             ================================================================ */}
         {activeTab === 0 && (
-          <div className="space-y-8">
+          <div className="space-y-5 sm:space-y-8">
 
             {/* —— 1a. 核心图表区：信心指数 + 美林时钟 —— */}
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 sm:gap-8">
               {/* 左：宏观信心指数面积图 / 60D 时光机 */}
               <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 flex flex-col">
                 <div className="flex items-center justify-between mb-6">
@@ -1902,6 +1902,7 @@ export default function Home() {
                 {historyView === '7d' && (
                   <div className="flex-1 w-full">
                     {chartsReady && (
+                      <div className="min-h-[200px] sm:min-h-0">
                       <ResponsiveContainer width="100%" aspect={16 / 3.5} minWidth={0}>
                         <AreaChart data={historyTrend} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
                           <defs>
@@ -1934,6 +1935,7 @@ export default function Home() {
                           />
                         </AreaChart>
                       </ResponsiveContainer>
+                    </div>
                     )}
                   </div>
                 )}
@@ -1942,6 +1944,7 @@ export default function Home() {
                 {historyView === '60d' && (
                   <div className="flex-1 w-full">
                     {chartsReady && macroChartData60d.length > 0 && (
+                      <div className="min-h-[200px] sm:min-h-0">
                       <ResponsiveContainer width="100%" aspect={16 / 3.5} minWidth={0}>
                         <LineChart data={macroChartData60d} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
                           <defs>
@@ -1986,6 +1989,7 @@ export default function Home() {
                           />
                         </LineChart>
                       </ResponsiveContainer>
+                    </div>
                     )}
                     {macroChartData60d.length === 0 && (
                       <div className="flex items-center justify-center h-32 text-sm text-slate-400">
@@ -2032,6 +2036,7 @@ export default function Home() {
               </p>
               <div className="w-full">
                 {chartsReady && (
+                  <div className="min-h-[200px] sm:min-h-0">
                   <ResponsiveContainer width="100%" aspect={16 / 3.5} minWidth={0}>
                     <LineChart data={sentimentHistory} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
                       <CartesianGrid stroke="#F1F5F9" strokeDasharray="4 4" />
@@ -2046,7 +2051,6 @@ export default function Home() {
                           boxShadow: "0 2px 8px rgba(0,0,0,0.02)",
                         }}
                       />
-                      <Legend wrapperStyle={{ fontSize: "12px", color: "#94a3b8", marginTop: "4px" }} />
                       <Line
                         name="传统媒体"
                         type="monotone"
@@ -2067,6 +2071,7 @@ export default function Home() {
                       />
                     </LineChart>
                   </ResponsiveContainer>
+                  </div>
                 )}
               </div>
             </div>
@@ -2088,24 +2093,37 @@ export default function Home() {
               </div>
             </div>
 
-            {/* —— 1e. 底部指标卡：监管压力 + 市场情绪 —— */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              <div className="bg-neutral-50/50 border border-neutral-200/40 rounded-2xl p-7 flex items-center space-x-5 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
-                <div className="p-4 bg-amber-50 text-amber-600 rounded-xl"><AlertTriangle className="w-5 h-5" /></div>
-                <div>
-                  <div className="text-sm font-medium text-slate-500">全球政策监管压力等级</div>
-                  <div className="text-2xl font-bold text-slate-800 mt-1">
+            {/* —— 1e. 底部指标卡：监管压力 + 市场情绪（移动端: 全宽进度条 + 大数值） —— */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-8">
+              <div className="bg-neutral-50/50 border border-neutral-200/40 rounded-2xl p-4 sm:p-7 flex items-start sm:items-center space-x-4 sm:space-x-5 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+                <div className="p-3 sm:p-4 bg-amber-50 text-amber-600 rounded-xl shrink-0"><AlertTriangle className="w-4 h-4 sm:w-5 sm:h-5" /></div>
+                <div className="flex-1 min-w-0">
+                  <div className="text-xs sm:text-sm font-medium text-slate-500">全球政策监管压力等级</div>
+                  <div className="text-3xl sm:text-2xl font-bold text-slate-800 mt-1">
                     {mm.regulatoryPressure} <span className="text-base text-slate-500 font-normal">/ 100</span>
+                  </div>
+                  <div className="mt-2 sm:mt-3 w-full h-2 sm:h-1.5 bg-neutral-200/60 rounded-full overflow-hidden">
+                    <div className="h-full bg-amber-400/80 rounded-full transition-all" style={{ width: `${mm.regulatoryPressure}%` }} />
                   </div>
                 </div>
               </div>
-              <div className="bg-neutral-50/50 border border-neutral-200/40 rounded-2xl p-7 flex items-center space-x-5 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
-                <div className="p-4 bg-slate-50 text-slate-600 rounded-xl"><TrendingUp className="w-5 h-5" /></div>
-                <div>
-                  <div className="text-sm font-medium text-slate-500">大盘多空情绪合成</div>
-                  <div className="text-2xl font-bold text-slate-800 mt-1">
-                    {mm.mediaSentiment > 0 ? "+" : ""}{mm.mediaSentiment}
-                    <span className="text-base text-slate-500 font-normal ml-1">(媒体) / {mm.socialSentiment}(社媒)</span>
+              <div className="bg-neutral-50/50 border border-neutral-200/40 rounded-2xl p-4 sm:p-7 flex items-start sm:items-center space-x-4 sm:space-x-5 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+                <div className="p-3 sm:p-4 bg-slate-50 text-slate-600 rounded-xl shrink-0"><TrendingUp className="w-4 h-4 sm:w-5 sm:h-5" /></div>
+                <div className="flex-1 min-w-0">
+                  <div className="text-xs sm:text-sm font-medium text-slate-500">大盘多空情绪合成</div>
+                  <div className="text-base sm:text-2xl font-bold text-slate-800 mt-1 flex flex-wrap items-baseline gap-x-3 gap-y-1">
+                    <span>{mm.mediaSentiment > 0 ? "+" : ""}{mm.mediaSentiment} <span className="text-xs sm:text-base text-slate-400 font-normal">媒体</span></span>
+                    <span className="text-slate-300 hidden sm:inline">/</span>
+                    <span>{mm.socialSentiment > 0 ? "+" : ""}{mm.socialSentiment} <span className="text-xs sm:text-base text-slate-400 font-normal">社媒</span></span>
+                  </div>
+                  {/* 双轨情绪进度条：媒体 vs 社媒 */}
+                  <div className="mt-2 sm:mt-3 space-y-1.5">
+                    <div className="w-full h-1.5 sm:h-1 bg-neutral-200/60 rounded-full overflow-hidden">
+                      <div className="h-full bg-slate-600/70 rounded-full transition-all" style={{ width: `${((mm.mediaSentiment + 1) / 2) * 100}%` }} />
+                    </div>
+                    <div className="w-full h-1.5 sm:h-1 bg-neutral-200/60 rounded-full overflow-hidden">
+                      <div className="h-full bg-amber-500/70 rounded-full transition-all" style={{ width: `${((mm.socialSentiment + 1) / 2) * 100}%` }} />
+                    </div>
                   </div>
                 </div>
               </div>
@@ -2117,14 +2135,14 @@ export default function Home() {
             Tab 2：AI 辩证思维
             ================================================================ */}
         {activeTab === 1 && (
-          <div className="space-y-8">
+          <div className="space-y-5 sm:space-y-8">
             {/* —— 2a. 宏观异动背离警示（条件渲染） —— */}
             {data.macroDivergence?.detected && data.macroDivergence && (
               <MacroDivergenceAlert message={data.macroDivergence.message} detail={data.macroDivergence.detail} />
             )}
 
             {/* —— 2b. 多空双轨辩证 —— */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-5 sm:gap-8">
               {/* 多方乐观推演 */}
               <div className="bg-white border border-neutral-200/40 rounded-3xl p-10 relative overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
                 <div className="absolute top-0 left-0 w-1 h-full bg-emerald-400/40" />
@@ -2297,13 +2315,13 @@ export default function Home() {
             Tab 3：行业情报流
             ================================================================ */}
         {activeTab === 2 && (
-          <div className="space-y-8">
+          <div className="space-y-5 sm:space-y-8">
 
             {/* —— 3a. 行业深度解读（dynamicSectors 动态卡片矩阵） —— */}
             {dynamicSectors && dynamicSectors.length > 0 && (
               <div className="space-y-4">
                 <h2 className="text-lg font-semibold tracking-tight text-slate-800">行业深度解读</h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3 sm:gap-4 divide-y sm:divide-y-0 divide-neutral-100 [&>*]:pb-3 sm:[&>*]:pb-0">
                   {dynamicSectors.map((sector) => (
                     <SectorEntryCard
                       key={sector.id}
@@ -2329,7 +2347,7 @@ export default function Home() {
             />
 
 {/* —— 3b. 全球情报瀑布流 + 行业动量侧边栏 —— */}
-            <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 lg:grid-cols-4 gap-5 sm:gap-8">
               {/* 新闻瀑布流（占 3 列） */}
               <div className="lg:col-span-3 space-y-5">
                 <div className="flex items-center justify-between pl-2">
