@@ -1697,7 +1697,7 @@ export default function Home() {
   const allTags = [...new Set((data.articles ?? []).map((a: any) => a.category).filter(Boolean))] as string[];
   const filterByDate = (articles: any[]) => {
     const now = Date.now();
-    const ranges: Record<string, number> = { today: 86400000, '3d': 259200000, '7d': 604800000 };
+    const ranges: Record<string, number> = { today: 172800000, '3d': 259200000, '7d': 604800000 };
     const maxAge = ranges[timeRange] || 86400000;
     return articles.filter(a => {
       if (!a.publishedAt) return true;
