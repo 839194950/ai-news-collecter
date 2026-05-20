@@ -6,6 +6,8 @@
 name: Auto Fetch & Analyze
 
 on:
+  push:
+    branches: [main]
   schedule:
     # 北京时间 上午 09:40 → UTC 01:40 — 捕捉美股夜盘收盘与 A 股开盘动量
     - cron: '40 1 * * 1-5'
