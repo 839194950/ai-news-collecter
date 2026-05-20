@@ -1,5 +1,59 @@
 [
   {
+    "title": "月之暗面Kimi融资获国资加持，国智投、中国移动等央企巨头入场",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/952/336.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "多家国资机构和央企巨头已出现在Kimi最新股东名单中",
+      "月之暗面正在进行20亿美元融资，处于收尾阶段"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "月之暗面（Kimi）完成新一轮国资入局，包括国智投、北京人工智能基金、中国移动等。此前已有互联网大厂与产业基金支持。本轮融资20亿美元，估值或超百亿。Kimi K2.5模型集成至Cursor等全球编程应用。",
+      "transmissionChain": "国资入局→Kimi获得长期资金与政策背书→加速国产大模型研发→带动国产算力（寒武纪、海光信息）与数据服务需求→Cursor等应用优化进一步吸收全球开发者，强化中国AI生态。",
+      "chinaMarketMapping": "直接利好：Kimi估值提升带动AI大模型板块情绪；国产算力芯片（寒武纪、海光）获得更多采购机会；数据标注与治理公司（海天瑞声）受益。对港股：阿里巴巴、腾讯等大模型投资者间接受益。"
+    },
+    "publishedAt": "2026-05-19T07:39:15Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T07:50:07.142Z"
+  },
+  {
+    "title": "黑石集团取得谷歌新TPU云多数股权",
+    "source": "The Next Web",
+    "url": "https://thenextweb.com/news/google-blackstone-tpu-cloud-joint-venture-5bn/",
+    "category": "AI_MODEL",
+    "summary": [
+      "黑石与谷歌合资成立AI云公司，黑石出资50亿美元，整体交易规模250亿美元",
+      "基于谷歌TPU提供计算即服务，目标2027年达到500兆瓦容量"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "谷歌与私募巨头黑石联合成立合资企业，黑石提供50亿美元股权（加杠杆后总价值250亿），基于谷歌TPU芯片提供AI计算即服务。该云公司将构建500兆瓦容量数据中心，2027年投产。",
+      "transmissionChain": "大资本进入AI云基础设施→加剧云计算竞争（AWS、Azure）→提高TPU生态依赖度→推动服务器、电力、光模块需求增长→黑石后期将退出获利，REITs等金融工具跟进。",
+      "chinaMarketMapping": "短期对国内AI算力租赁公司（光环新网、奥飞数据）构成竞争压力，但长期推动国产算力自主替代。国产TPU替代（华为昇腾、寒武纪思元）重要性凸显。此外，光模块（中际旭创、新易盛）受益于全球数据中心建设。"
+    },
+    "publishedAt": "2026-05-19T07:37:28Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T07:50:07.142Z"
+  },
+  {
+    "title": "外交部：中美同意开展人工智能政府间对话",
+    "source": "36kr.com",
+    "url": "https://36kr.com/newsflashes/3815898306797064",
+    "category": "AI_MODEL",
+    "summary": [
+      "外交部宣布中美两国元首同意开展AI政府间对话",
+      "将推动AI发展与治理合作"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "外交部发言人郭嘉昆证实，特朗普访华期间，中美两国元首就人工智能问题进行了建设性交流，同意开展政府间对话。这是全球两个最大AI国家首次正式建立治理层面的沟通机制。",
+      "transmissionChain": "对话机制→降低AI技术出口管制风险→中美科技股估值修复→AI领域联合标准制定→美国放松对华AI芯片封锁预期→利好中国AI算力自主建设。",
+      "chinaMarketMapping": "直接利好自主AI算力与模型公司，寒武纪、海光信息、科大讯飞等有望获得国际协作机会。同时，美国半导体设备出口中国的限制可能阶段性松动，利好中芯国际、华虹半导体。"
+    },
+    "publishedAt": "2026-05-19T07:32:29Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T07:50:07.142Z"
+  },
+  {
     "title": "英特尔与高通竞购Tenstorrent，英伟达替代者交易来临",
     "source": "The Next Web",
     "url": "https://thenextweb.com/news/tenstorrent-intel-qualcomm-takeover-jim-keller-risc-v/",
@@ -664,57 +718,5 @@
     "publishedAt": "2026-05-19T03:42:46Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "谷歌与黑石集团联合成立AI云公司，投资50亿美元",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/info-tech/google-blackstone-to-launch-ai-cloud-venture-to-meet-data-centre-demand/article70996479.ece",
-    "category": "AI_MODEL",
-    "summary": [
-      "合资企业将提供基于谷歌TPU芯片的计算即服务；黑石出50亿美元股权，持有主要股份。"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "黑石与谷歌联手，说明传统PE正在为AI基建提供大规模长线资本，以缓解科技巨头自身资产负债表压力；谷歌TPU借此绕过英伟达GPU瓶颈。",
-      "transmissionChain": "直接利好谷歌云端业务与TPU生态链（博通、台积电）；黑石有望获得稳定现金回报。但长期看可能削弱英伟达在AI算力市场的独占性，促进多元供给。",
-      "chinaMarketMapping": "国内云厂商（阿里云、华为云、腾讯云）面临更激烈的全球竞争，但也会加速自主芯片（阿里平头哥、华为昇腾）的部署。A股中关注中科曙光（国产算力）与光环新网（数据中心运营）。"
-    },
-    "publishedAt": "2026-05-19T03:31:54Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T03:45:58.942Z"
-  },
-  {
-    "title": "美国社会浮现AI反情绪：毕业典礼被嘘、议员家遭枪击",
-    "source": "Yahoo Entertainment",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dba9c7df-2621-49f6-b4eb-4cd1dfe585ce",
-    "category": "AI_MODEL",
-    "summary": [
-      "前谷歌CEO施密特称公众对AI的负面情绪增速超过AI产业自身涨幅；毕业典礼抗议AI取代工作等事件频发。"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "AI快速发展引发就业焦虑与伦理担忧，民调显示反AI情绪蔓延可能转化为政府监管行动与社区抵制数据中心建设。",
-      "transmissionChain": "增加AI公司公关成本，拖累数据中心审批流程，或导致监管加码（欧盟AI法案加速实施）；对AI应用层公司（如客服、翻译）需求可能产生短期压制，但长期倒逼企业更注重伦理。",
-      "chinaMarketMapping": "中国社会对AI接受度较高（政府培训+公众好奇），但同样需关注就业替代压力。国内AI应用应更强调“人机协作”，利好智能办公（金山办公）、教育（科大讯飞）等社会价值高的赛道。"
-    },
-    "publishedAt": "2026-05-19T03:26:54Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T03:45:58.942Z"
-  },
-  {
-    "title": "美国社会浮现AI反情绪：毕业典礼被嘘、议员家遭枪击",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/...",
-    "category": "AI_MODEL",
-    "summary": [
-      "前谷歌CEO施密特称对AI的负面情绪增速超过AI产业涨幅",
-      "AI取代工作担忧引发暴力事件"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国多地出现针对AI的反抗事件：大学毕业典礼上学生抗议AI取代工作岗位，一名议员住所遭枪击（与AI立法相关）。前谷歌CEO施密特指出公众对AI的负面情绪增长速度已超过AI产业自身增长。",
-      "transmissionChain": "反AI情绪可能导致州级监管加速（如加州AI安全法案），增加企业合规成本。社交媒体平台可能限制AI内容，影响商业化。科技公司招聘方向或被迫调整，增加公共事务岗位（OpenAI已着手招聘社区关系负责人）。",
-      "chinaMarketMapping": "中国目前对AI的舆论相对温和（政府主导+就业安全感较高），但若未来AI替代制造业/服务业岗位效应显现，也可能引发社会关切。投资者需关注政府对于AI就业影响的补偿政策动态，可能利好职业教育（中公教育）和人力资源公司。"
-    },
-    "publishedAt": "2026-05-19T03:26:54Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:33:21.610Z"
   }
 ]
