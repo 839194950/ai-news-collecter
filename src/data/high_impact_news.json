@@ -1,5 +1,23 @@
 [
   {
+    "title": "英特尔与高通竞购Tenstorrent，英伟达替代者交易来临",
+    "source": "The Next Web",
+    "url": "https://thenextweb.com/news/tenstorrent-intel-qualcomm-takeover-jim-keller-risc-v/",
+    "category": "AI_MODEL",
+    "summary": [
+      "英特尔与高通初步接触Jim Keller领导的AI芯片初创Tenstorrent",
+      "Tenstorrent去年融资8亿美元，估值32亿美元，背后有贝索斯与三星支持"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "彭博报道英特尔与高通正在进行早期收购谈判，收购对象是Jim Keller领导的AI芯片初创公司Tenstorrent，该公司去年以32亿美元估值融资8亿美元，投资者包括贝索斯和三星。Tenstorrent采用RISC-V架构，被视为英伟达GPU的潜在替代方案。",
+      "transmissionChain": "如果英特尔收购成功，将强化其AI芯片实力，与英伟达、AMD竞争，并推动RISC-V生态成熟；高通若拿下，则补足其服务器芯片短板。无论谁成功，都将加速AI芯片架构多元化，削弱英伟达的垄断地位。",
+      "chinaMarketMapping": "Tenstorrent曾表示愿向中国出售芯片，若被英特尔/高通收购，可能面临美国出口管制，对中国AI算力供应不利。但RISC-V开源特性或激励中国本土RISC-V设计（如玄铁系列），利好阿里平头哥、赛昉科技等。A股相关标的：北京君正（RISC-V）、全志科技（AI SoC）。"
+    },
+    "publishedAt": "2026-05-19T07:28:06Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T07:34:27.261Z"
+  },
+  {
     "title": "NextEra世纪并购掀海外电力能源ETF狂飙",
     "source": "Technews.tw",
     "url": "https://finance.technews.tw/2026/05/19/nextera/",
@@ -36,6 +54,24 @@
     "addedAt": "2026-05-20T07:18:22.294Z"
   },
   {
+    "title": "特朗普应海湾盟友呼吁取消对伊朗的打击计划",
+    "source": "Rigzone",
+    "url": "https://www.rigzone.com/news/wire/trump_delays_planned_strike_after_gulf_allies_appealed-19-may-2026-183719-article/",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "特朗普临时取消对伊朗的军事打击，称‘推迟一小会儿，希望永远不发生’",
+      "中东地缘风险短期缓和，但谈判仍在进行"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国总统特朗普表示，在海湾盟国呼吁后，他决定推迟对伊朗的打击计划，称‘推迟一小会儿，也许永远不执行，但可能只是一段时间，因为我们与伊朗进行了非常深入的讨论。’这一表态暂时缓解了中东爆发全面战争的风险。",
+      "transmissionChain": "打击取消导致原油价格应声下跌（CL=F跌1.05%至103美元），缓解通胀压力，利好全球经济。航空与运输股受益于燃料成本下降，但国防股可能承压。同时，地缘风险溢价消退，避险资产黄金短期回调。",
+      "chinaMarketMapping": "中国作为石油净进口国，油价下跌降低输入性通胀压力，利好制造业与航空公司。人民币汇率可能小幅回升（USDCNY跌0.16%）。A股石油化工板块（中国石油、上海石化）短期利空，但航空（中国国航、南方航空）受益。"
+    },
+    "publishedAt": "2026-05-19T07:07:38Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T07:34:27.261Z"
+  },
+  {
     "title": "Meta公布5月20日重组细节",
     "source": "RTE",
     "url": "https://www.rte.ie/news/business/2026/0519/1574070-meta-lays-out-details-of-may-20-restructuring/",
@@ -52,6 +88,24 @@
     "publishedAt": "2026-05-19T07:06:50Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T07:18:22.294Z"
+  },
+  {
+    "title": "机构投资者一周内净卖出10.7亿美元比特币和加密资产，结束连续流入",
+    "source": "The Daily Hodl",
+    "url": "https://dailyhodl.com/2026/05/19/michael-saylors-strategy-buys-2010000-worth-of-bitcoin-in-one-of-the-firms-largest-acquisitions-ever-2",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "CoinShares数据显示加密资产流出10.7亿美元，7周来首次负值",
+      "比特币价格承压，目前跌破关键支撑"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "CoinShares最新数据显示，机构投资者在一周内净卖出10.7亿美元的比特币和加密资产，结束了此前连续七周的净流入态势。这是年内第三大单周流出规模，反映机构对加密市场的短期看法转向谨慎。",
+      "transmissionChain": "机构资金流出对比特币价格形成压力，可能触发散户跟风抛售，加密货币市场短期承压。但MicroStrategy仍在买入（2.01亿美元），显示长线多头与短线空头的博弈加剧。",
+      "chinaMarketMapping": "中国内地对加密货币的严格管制使得这一流出影响有限，但香港比特币现货ETF刚刚启动，可能受到情绪冲击。国内投资者仍需警惕虚拟货币风险，远离高波动资产。"
+    },
+    "publishedAt": "2026-05-19T07:04:12Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T07:34:27.261Z"
   },
   {
     "title": "Meta在同一周将7000人调至AI角色并裁员10%",
@@ -142,6 +196,24 @@
     "publishedAt": "2026-05-19T06:43:07Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T07:18:22.294Z"
+  },
+  {
+    "title": "高盛示警股市回调风险加大，面临“减速带风险”",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B%E7%A4%BA%E8%AD%A6%E8%82%A1%E5%B8%82%E5%9B%9E%E8%AA%BF%E9%A2%A8%E9%9A%AA%E5%8A%A0%E5%A4%A7-%E8%87%A8%E9%9D%A2-%E6%B8%9B%E9%80%9F%E5%B8%B6%E9%A2%A8%E9%9A%AA-064307982.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "高盛策略师警告若石油供应中断持续，通胀飙升将引发股市回调",
+      "债券收益率攀升可能引发负回报波动"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "高盛集团策略师Peter Oppenheimer团队发布报告指出，尽管股市因伊朗战争冲击后反弹至纪录高点，但回调风险正在加大，尤其若石油供应持续中断导致通胀飙升。债券收益率攀升也构成威胁，股市面临‘减速带风险’（speed bump）。",
+      "transmissionChain": "高盛的警告将影响机构投资者的风险偏好，可能促使资金从股市暂时转向债券或现金。如果通胀预期进一步上升，美联储可能推迟降息，导致科技股估值承压。能源股短期受益于油价维持高位，但整体市场情绪转向谨慎。",
+      "chinaMarketMapping": "中国股市相对独立，但全球风险偏好下降会通过北向资金影响A股，尤其外资重仓的消费与科技龙头。欧洲股市已出现分化，媒体涨、大宗商品跌。A股投资者需警惕外资流出风险，但国内政策托底（财政、货币宽松）可能提供对冲。"
+    },
+    "publishedAt": "2026-05-19T06:43:07Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T07:34:27.261Z"
   },
   {
     "title": "黄仁勋：中国终将开放AI芯片市场 台湾仍是半导体制造核心",
@@ -268,6 +340,24 @@
     "publishedAt": "2026-05-19T04:52:48Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T05:52:19.197Z"
+  },
+  {
+    "title": "美国30年期国债收益率升至5.1%，创2007年7月以来新高",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/us-30-year-yield-5-percent/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "美债30年收益率突破5.1%",
+      "风险资产估值承压，流动性收紧预期"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国30年期国债收益率升至5.1%，创自2007年7月以来的新高。长端利率飙升主要是受通胀预期上升、财政赤字忧虑以及美联储可能维持高利率的影响。这对全球风险资产的估值构成严重压力。",
+      "transmissionChain": "长期收益率上升直接提高股市的贴现率，高估值的科技股首当其冲（纳斯达克当日下跌）。同时，房贷利率上升冲击房地产市场，银行股可能受益于利差扩大但受经济放缓担忧拖累。新兴市场面临资本外流压力。",
+      "chinaMarketMapping": "中国10年期国债收益率相对稳定（3.2%左右），中美利差倒挂加深，人民币汇率承压但央行有管理工具。中国股市受益于国内流动性宽松，但外资流出可能拖累蓝筹股。"
+    },
+    "publishedAt": "2026-05-19T04:52:48Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T07:34:27.261Z"
   },
   {
     "title": "谷歌与黑石联手成立AI云公司",
@@ -624,94 +714,6 @@
       "chinaMarketMapping": "中国目前对AI的舆论相对温和（政府主导+就业安全感较高），但若未来AI替代制造业/服务业岗位效应显现，也可能引发社会关切。投资者需关注政府对于AI就业影响的补偿政策动态，可能利好职业教育（中公教育）和人力资源公司。"
     },
     "publishedAt": "2026-05-19T03:26:54Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:33:21.610Z"
-  },
-  {
-    "title": "美国社会浮现AI反情绪：毕业典礼被嘘、议员家遭枪击",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E7%A4%BE%E6%9C%83%E6%B5%AE%E7%8F%BE-ai-%E5%8F%8D%E6%83%85%E7%B7%92-%E7%95%A2%E6%A5%AD%E5%85%B8%E7%A6%AE%E8%A2%AB%E5%99%92-054016763.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "前谷歌CEO施密特称AI负面情绪增速超过产业",
-      "暴力事件引发安全担忧"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "施密特指出，民众对AI的负面情绪增长速度快于AI产业本身，这对行业长期发展构成阻碍。应届毕业典礼上，学生们高喊反AI口号冲场；支持AI的国会议员住宅遭到枪击，虽无人受伤但社会对立加剧。",
-      "transmissionChain": "企业可能推迟AI功能发布以避免公关危机；政客将利用反AI情绪拉选票，可能出台不利行业的政策。AI安全公司（网络安全、内容审查）需求上升。AI人才招聘可能受声誉影响。",
-      "chinaMarketMapping": "中国社会虽然对AI接受度较高，但就业替代忧虑同样存在。政府可能更注重AI伦理与安全，出台类似科罗拉多法案的法规。A股AI监管与安全标的（美亚柏科、北信源）可关注技术储备。投资者需警惕政策黑天鹅。"
-    },
-    "publishedAt": "2026-05-19T03:26:54Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "台积电规划1nm芯片路线图，最多新建12座晶圆厂",
-    "source": "TechNode",
-    "url": "http://technode.com/2026/05/19/tsmc-plans-1nm-chip-roadmap-and-up-to-12-new-fabs/",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "台积电在2nm即将量产之际，进一步披露1nm目标；新厂将分散于中国台湾、美国等地。"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "台积电作为半导体霸主，持续大举投资先进制程，巩固其护城河；同时利用新建厂缓解地缘政治压力。",
-      "transmissionChain": "刺激半导体设备需求（ASML、应用材料），利好台积电供应链（家登、帆宣、信骅）；但也可能加剧全球芯片产能过剩风险，尤其成熟制程方面。",
-      "chinaMarketMapping": "国内芯片代工（中芯国际、华虹半导体）相较台积电差距进一步拉大，但先进封装与IP设计（芯原股份）反而迎来国产替代机会。A股关注北方华创（刻蚀机）、中微公司（等离子体刻蚀）。"
-    },
-    "publishedAt": "2026-05-19T03:26:28Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T03:45:58.942Z"
-  },
-  {
-    "title": "台积电规划1nm芯片路线图，最多新建12座晶圆厂",
-    "source": "TechNode",
-    "url": "https://technode.com/2026/05/19/tsmc-plans-1nm-roadmap/",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "台积电披露1nm制程目标",
-      "新厂将分散于台湾、美国等地，最多12座"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "台积电在2nm即将量产之际，进一步披露了1nm工艺研发路线图，并计划在全球建设多达12座新晶圆厂，包括台湾、美国亚利桑那、日本熊本等地，以确保未来5-10年的先进制程产能供应。",
-      "transmissionChain": "先进制程投资加码直接利好设备商（ASML、应用材料、科磊）和材料商（信越化学、陶氏）。同时，IC设计公司（英伟达、AMD、苹果）将获得更先进工艺支持，进一步推高算力天花板。但巨额资本支出可能稀释台积电短期利润率。",
-      "chinaMarketMapping": "中国半导体设备国产替代紧迫性进一步强化，中微公司、北方华创等有望加速渗透中高端刻蚀/薄膜设备。但受制于出口管制，短期内难以参与1nm供应链，本土制造停留在成熟制程。A股相关标的需警惕技术差距扩大的估值折价。"
-    },
-    "publishedAt": "2026-05-19T03:26:28Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:33:21.610Z"
-  },
-  {
-    "title": "马斯克诉OpenAI案败诉，陪审团认为超过诉讼时效",
-    "source": "Inside.com.tw",
-    "url": "https://www.inside.com.tw/article/41322-elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
-    "category": "AI_MODEL",
-    "summary": [
-      "马斯克状告OpenAI及CEO奥特曼违约，索赔1500亿美元；陪审团两小时内一致裁定超过起诉期限；判决扫除OpenAI上市最大法律障碍。"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "陪审团认定马斯克在2015年签署的文件距今已超过法定诉讼时效，故驳回其全部诉求。这直接清除了OpenAI从非盈利转型为盈利公司并可能进行IPO的法律障碍。",
-      "transmissionChain": "短期扫除IPO障碍，利好微软（持有OpenAI 49%股权）与安信龙（OpenAI投资者）；中长期可能加速大模型商业化竞争，迫使谷歌、Anthropic加速上市或融资，AI应用层并购增加。",
-      "chinaMarketMapping": "对国内AI企业（百度文心、字节豆包）而言，OpenAI上市将吸收大量国际资本，但也会带来全球最强竞争对手。国产大模型需更快商业化落地，可关注百度（9888.HK）、商汤（0020.HK）等标的。"
-    },
-    "publishedAt": "2026-05-19T03:23:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T03:45:58.942Z"
-  },
-  {
-    "title": "黄仁勳预期中国终将迎来辉达芯片，台湾仍为芯片制造业核心",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E7%BF%92%E6%9C%83%E5%BE%8C%E9%A6%96%E7%99%BC%E8%81%B2-%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A0%90%E6%9C%9F%E4%B8%AD%E5%9C%8B%E7%B5%82%E5%B0%87%E8%BF%8E%E8%BC%9D%E9%81%94%E6%99%B6%E7%89%87-%E5%8F%B0%E7%81%A3%E4%BB%8D%E7%82%BA%E6%99%B6%E7%89%87%E8%A3%BD%E9%80%A0%E6%A5%AD%E7%9A%84%E6%A0%B8%E5%BF%83-032000016.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "黄仁勋在川习会后续访表示中国最终将进口英伟达高端AI芯片",
-      "强调台湾在全球半导体制造不可替代的核心地位"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达CEO黄仁勋接受彭博专访时，预计中国政府最终将批准高端AI芯片（如H200）进口，同时重申台湾是全球半导体制造的核心节点。其表态发生在陪同美国总统特朗普访问中国后，暗示中美科技脱钩可能出现阶段性缓和。",
-      "transmissionChain": "若中国放开英伟达芯片进口，将直接利好英伟达（NVDA）营收预期，同时刺激中国本土AI公司算力基础设施部署。但国产替代逻辑（华为昇腾等）短期承压。台湾半导体设备与材料供应商（ASML、应用材料）受益于台积电持续扩产。",
-      "chinaMarketMapping": "A股英伟达概念股（工业富联、中际旭创）将受情绪提振，但需注意中美政策反复风险。国产芯片替代标的（寒武纪、海光信息）面临竞争加剧压力。投资者应区分：国产替代长期逻辑不变，但短期估值可能受压。"
-    },
-    "publishedAt": "2026-05-19T03:20:00Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T04:33:21.610Z"
   }

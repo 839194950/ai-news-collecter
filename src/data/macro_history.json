@@ -67,12 +67,12 @@
   },
   {
     "date": "2026-05-20",
-    "confidence": 60,
+    "confidence": 50,
     "liquidity": 48,
     "mediaSentiment": -0.1,
     "socialSentiment": -0.2,
     "regime": "过热",
-    "fearGreedIndex": 40,
+    "fearGreedIndex": 35,
     "hotThemes": [
       {
         "keyword": "AI代理",
@@ -91,12 +91,12 @@
       },
       {
         "keyword": "存储芯片",
-        "momentumScore": 6,
+        "momentumScore": 4,
         "trendDirection": "down"
       },
       {
         "keyword": "消费电子",
-        "momentumScore": 4,
+        "momentumScore": 3,
         "trendDirection": "down"
       }
     ]
