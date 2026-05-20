@@ -1,5 +1,149 @@
 [
   {
+    "title": "三星与工会缩小分歧，但罢工临近",
+    "source": "RTE",
+    "url": "https://www.rte.ie/news/business/2026/0519/1574120-samsung-strike-threat/",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "三星与工会谈判取得进展，但仍有分歧",
+      "若罢工爆发将影响存储芯片与代工产能"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星电子与韩国工会的谈判在调停下缩小分歧，但仍有两个主要未解难题：取消50%奖金上限和15%利润分配。工会威胁将于5月22日开始为期18天的罢工，涉及4.8万人。",
+      "transmissionChain": "罢工若发生，将直接影响三星的DRAM、NAND和晶圆代工产能，导致全球存储芯片短缺加剧，短期内推高SSD和内存价格。替代供应商（美光、海力士、长江存储）将受益。同时，三星客户可能寻求第二货源。",
+      "chinaMarketMapping": "中国存储厂商（长江存储、长鑫存储）将受益于三星产能缺口，加速国产替代。A股存储概念股（如兆易创新、北京君正）有望提振。但需注意，若罢工持续过久，可能拖累全球电子产业链，进而影响中国消费电子出口。"
+    },
+    "publishedAt": "2026-05-19T10:24:14Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
+  },
+  {
+    "title": "美国防部释放军事基地土地 助建AI数据中心",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E9%87%8B%E5%87%BA%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%9C%9F%E5%9C%B0-%E5%8A%A9%E5%BB%BAai%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83-102259.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "美国陆军与空军将释出军事基地土地用于AI数据中心建设",
+      "加速算力部署，降低选址难度"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国国防部宣布与陆军、空军合作，释放部分军事基地的土地给私营公司建设AI数据中心，旨在缩短数据中心建设周期，满足AI对算力的爆炸性需求。",
+      "transmissionChain": "此举将大幅降低AI基础设施的土地成本，吸引更多民间资本投入。数据中心建设将拉动上游电力设备、冷却系统、建筑承包需求。微软、谷歌、亚马逊等云巨头可能受益最大。",
+      "chinaMarketMapping": "中国同样面临AI算力短缺问题，但土地资源更为紧张。国内数据中心建设主要依赖东部发达地区工业用地，西部绿电资源丰富但网络延迟高。此举可能推动中国借鉴类似政策，释放闲置工业用地或利用西部优势。A股数据中心标的（如光环新网、宝信软件）长期受益。"
+    },
+    "publishedAt": "2026-05-19T10:22:59Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
+  },
+  {
+    "title": "陪审团驳回马斯克对OpenAI的诉讼，认定超过诉讼时效",
+    "source": "Ghacks Technology News",
+    "url": "https://www.ghacks.net/2026/05/19/jury-rejects-elon-musks-openai-lawsuit-finding-statute-of-limitations-had-expired/",
+    "category": "AI_MODEL",
+    "summary": [
+      "陪审团一致裁定马斯克诉讼超过时效",
+      "OpenAI上市最大法律障碍清除，估值或超8000亿美元"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国加州联邦陪审团驳回了埃隆·马斯克对OpenAI、CEO Sam Altman及微软的诉讼，理由是已过诉讼时效。该诉讼原本寻求1500亿美元赔偿，指控OpenAI背离非营利初心。",
+      "transmissionChain": "判决扫除了OpenAI首次公开募股（IPO）的最后法律障碍，预计OpenAI将在2026年底前递交招股书，估值冲击万亿。这对微软、Google等现有投资者构成利好，但同时加剧AI行业竞争，加速人才和资本向OpenAI集中。",
+      "chinaMarketMapping": "对A股/港股而言，OpenAI上市将带动全球AI估值天花板抬升，利好中国AI概念股（如百度、商汤、科大讯飞）。但同时也强化了美国在AI领域的领先地位，中国AI企业需加大自主研发投入以应对竞争，国产替代逻辑（华为昇腾、寒武纪）受益。"
+    },
+    "publishedAt": "2026-05-19T10:18:44Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
+  },
+  {
+    "title": "花旗称30年期美债收益率的下一关键位可能在5.5%",
+    "source": "36kr.com",
+    "url": "https://36kr.com/newsflashes/3816054853164807",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "花旗表示30年期美债收益率新目标可能在5.5%",
+      "当前已触及5.16%创2007年新高"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "花旗集团策略师吉姆·麦考密克指出，由于通胀担忧扩散，债券交易员正将30年期美债收益率目标锁定在5.5%，该水平上次出现是在22年前。巴克莱和法国巴黎银行也警告债券抛售可能尚未结束。",
+      "transmissionChain": "美债收益率若升至5.5%，将进一步打击风险资产估值，尤其对高估值的科技股形成巨大压力。同时，房贷利率、企业融资成本上升，可能抑制经济活动和AI基础设施投资。外资可能回流美元资产，新兴市场资本外流压力加大。",
+      "chinaMarketMapping": "对中国A股和港股而言，美债收益率上升会引发北向资金流出，短期承压。但中国货币政策独立性较强，可通过降准降息对冲。对国内债市，中美利差扩大可能限制中国降息空间。投资者应增加防御性配置，关注高股息和低波动板块。"
+    },
+    "publishedAt": "2026-05-19T10:11:44Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
+  },
+  {
+    "title": "“杀手机器人”来了：乌克兰的猎头无人机吓坏俄罗斯人",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/davidhambling/2026/05/19/slaughterbots-now-ukraines-head-hunting-drones-terrify-russians/",
+    "category": "AI_MODEL",
+    "summary": [
+      "乌克兰使用AI制导FPV无人机精准打击头部",
+      "俄方声称被这种新式恐怖武器震慑"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "福布斯报道，乌克兰开始使用一种新型AI制导FPV无人机，能够自动识别并精准攻击士兵头部，据称俄方对此感到恐惧。该技术将AI视觉与高精度弹药结合，实现“猎头”效果。",
+      "transmissionChain": "此类武器可能改变战场规则，推动全球军队加速研发AI自主攻击系统。电子战和反无人机需求随之爆发。军工承包商（如洛克希德·马丁、通用动力）面临伦理压力，但收入潜力巨大。",
+      "chinaMarketMapping": "中国军工企业（如中航无人机、航天彩虹）有望受益于全球AI武器化趋势，但出口受国际公约限制。国内投资者可关注与AI视觉相关的国防公司（如高德红外、大立科技）。同时，该报道存在夸大可能，不宜过度解读。"
+    },
+    "publishedAt": "2026-05-19T10:08:46Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
+  },
+  {
+    "title": "长江存储启动IPO辅导 辅导机构为中信证券",
+    "source": "Cnbeta.com.tw",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1562940.htm",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "长江存储正式启动IPO辅导，计划6月递交科创板申请",
+      "无控股股东，国资背景深厚"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "长江存储在湖北证监局办理辅导备案，保荐机构为中信证券。公司股权结构多元，无控股股东，最大股东湖北长晟持股26.54%，背后是武汉光谷管委会。此前路透报道其计划6月中旬递交科创板申请。",
+      "transmissionChain": "长江存储IPO将募集资金用于NAND Flash产能扩张与先进制程研发，直接挑战三星、海力士地位。同时将带动国产存储设备（北方华创、中微公司）、材料（安集科技）需求。对全球存储市场，中国产能增加可能加速价格下行周期。",
+      "chinaMarketMapping": "长江存储上市将提升A股半导体板块估值，尤其是存储芯片和设备材料方向。投资者可关注国产替代逻辑下的北方华创（设备）、长电科技（封测）、兆易创新（存储控制器）。但需注意美国出口管制风险，若设备禁运可能影响产能爬坡。"
+    },
+    "publishedAt": "2026-05-19T10:05:53Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
+  },
+  {
+    "title": "苏姿丰谈AI：在科技行业30余年 从未像今天这样为AI感到兴奋",
+    "source": "Cnbeta.com.tw",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1562936.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "AMD苏姿丰预测5年内50亿人每天使用AI",
+      "强调需要多样化模型与工作流"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "AMD董事长兼CEO苏姿丰在AMD AI开发者日上表示，AI发展处于历史性节点，预测未来5年50亿人每天使用AI，并强调多样化应用场景需要多种模型和工作流。",
+      "transmissionChain": "苏姿丰的乐观表态旨在提振投资者对AMD AI业务（MI400、CPU）的信心，与英伟达争夺生态话语权。若AI普及率如期增长，将带动算力需求持续爆发，利好芯片、云服务与AI应用全产业链。但对传统软件企业构成转型压力。",
+      "chinaMarketMapping": "中国AI市场同样潜力巨大，但芯片进口受限。国产AI芯片（华为昇腾、寒武纪）需抓住窗口期。A股AI应用公司（如金山办公、科大讯飞）将受益于AI渗透率提升。但需注意苏姿丰言论存在利益相关，不宜全信。"
+    },
+    "publishedAt": "2026-05-19T10:05:25Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
+  },
+  {
+    "title": "渣打银行宣布大裁员！AI取代后勤工作 全球逾7000人恐失业",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E6%B8%A3%E6%89%93%E9%8A%B6%E8%A1%8C%E5%AE%A3%E5%B8%83%E5%A4%A7%E8%A3%81%E5%93%A1-ai%E5%8F%96%E4%BB%A3%E5%BE%8C%E5%8B%A4%E5%B7%A5%E4%BD%9C-%E5%85%A8%E7%90%83%E9%80%BE7000%E4%BA%BA%E6%81%90%E5%A4%B1%E6%A5%AD-093351018.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "渣打银行计划未来四年裁减7000多个职位",
+      "主要针对后勤与行政岗位，占企业职能部门的15%"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "渣打银行宣布将大规模引入AI和自动化技术，未来四年裁减超过7000个工作岗位，主要集中在后台和行政职能，约占整体人力成本的15%，旨在提升运营效率。",
+      "transmissionChain": "此举将加速金融行业AI替代人工的进程，利好AI软件（如Salesforce、Palantir）和RPA（机器人流程自动化）公司。被裁员的劳动者将增加就业市场供给，推高部分行业人力成本。对银行股，短期削减成本提升利润，但长期可能面临服务质量和员工 morale 问题。",
+      "chinaMarketMapping": "中国银行业也在推进AI转型，但进度稍慢。招商银行、工商银行等已有智能客服和风控系统。此事件将推动国内银行加速AI投入，利好AI金融科技公司（如恒生电子、同花顺）。同时，社会对AI替代就业的担忧加剧，可能引发监管对裁员的限制。"
+    },
+    "publishedAt": "2026-05-19T09:33:51Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
+  },
+  {
     "title": "戴尔AI工厂客户超5000家，受英伟达驱动需求",
     "source": "Digitimes",
     "url": "https://www.digitimes.com/news/a20260519VL218/dell-nvidia-data-hardware-software.html",
@@ -232,6 +376,24 @@
     "publishedAt": "2026-05-19T07:13:03Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T07:18:22.294Z"
+  },
+  {
+    "title": "NextEra世纪并购掀海外电力能源ETF狂飙",
+    "source": "Technews.tw",
+    "url": "https://technews.tw/2026/05/19/nextera-dominion-merger/",
+    "category": "AI_MODEL",
+    "summary": [
+      "NextEra以670亿美元收购Dominion成全球最大受监管电力公司",
+      "AI数据中心电力需求刺激行业整合"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "NextEra Energy宣布以670亿美元收购Dominion Energy，交易创电力行业历史纪录，合并后将成为美国最大的受监管电力公司，覆盖从佛罗里达到弗吉尼亚的AI数据中心集群。",
+      "transmissionChain": "此并购明确展示了AI基础设施对电力的巨大需求，将推动更多公用事业公司合并以满足数据中心负荷。上游电力设备（变压器、输电线路、冷却系统）需求激增，清洁能源（尤其是核能和太阳能）受益。",
+      "chinaMarketMapping": "中国的AI数据中心也面临电力紧张，国家可能加速西电东送和特高压建设。A股电力设备（特变电工、国电南瑞）和新能源（隆基绿能、通威股份）得到催化。同时，公用事业（长江电力）的高分红属性受避险资金青睐。"
+    },
+    "publishedAt": "2026-05-19T07:13:03Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T10:30:53.609Z"
   },
   {
     "title": "Analog Devices接近以15亿美元现金收购Empower Semiconductor的AI电源芯片",
@@ -556,167 +718,5 @@
     "publishedAt": "2026-05-19T04:52:48Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T07:34:27.261Z"
-  },
-  {
-    "title": "特朗普称应海湾国家请求取消了计划中的对伊朗打击行动",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/trump-iran-attack-called-off-gulf-states/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "特朗普临时取消军事打击并称‘推迟一小会儿，希望永远不发生’",
-      "中东地缘风险短期缓和，但谈判仍在进行"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "特朗普在Truth Social上宣布应海湾国家（沙特、阿联酋）请求，取消原定的对伊朗空袭计划。此前美军已部署到位，但因盟友担心油价暴涨与资本外逃而叫停。事实上美伊双方仍在通过阿曼进行间接谈判。",
-      "transmissionChain": "地缘风险缓和立即导致原油大跌2%，布伦特回落至102美元。避险资产（黄金、美元）回落，风险资产短期反弹。但核心矛盾未解，若谈判破裂冲突可能随时重启。对航运、保险业影响复杂：短期保费下降，长期不确定性仍存。",
-      "chinaMarketMapping": "中国作为最大石油进口国直接受益于油价下跌，降低输入性通胀压力，利好航空、化工等用油行业。但中东不稳定长期影响一带一路基础设施与能源合作，中国可能加速推进人民币石油结算。A股军工板块短期承压，但南海/台海风险独立于中东。"
-    },
-    "publishedAt": "2026-05-19T04:52:48Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T09:10:01.288Z"
-  },
-  {
-    "title": "谷歌与黑石联手成立AI云公司",
-    "source": "Lokmattimes.com",
-    "url": "https://www.lokmattimes.com/business/google-blackstone-join-hands-to-form-ai-cloud-company/",
-    "category": "AI_MODEL",
-    "summary": [
-      "全球科技巨头谷歌与私募巨头黑石联合成立AI云公司",
-      "合资企业将基于谷歌TPU芯片提供计算即服务，黑石出资50亿美元占主要股份"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "谷歌与黑石合资成立AI云公司，黑石出资50亿美元持有主要股权，提供基于谷歌TPU的计算即服务。这是资本与技术的深度绑定，旨在对抗AWS和微软Azure在AI云市场的主导地位。",
-      "transmissionChain": "利好谷歌云服务（GCP）与TPU生态，推动AI算力成本下降；黑石获取稳定现金流与科技敞口。对A股影响：国内AI云厂商面临竞争压力，但国产算力（如华为昇腾）替代逻辑强化；光模块与服务器供应链受益于全球云资本开支增长。",
-      "chinaMarketMapping": "对中国AI云市场：国内阿里云、华为云面临国际巨头竞争，但国产化政策壁垒提供保护。利好国产算力芯片（华为昇腾、海光信息）及服务器厂商（浪潮信息、中科曙光）。光模块供应商（中际旭创、新易盛）将受益于全球数据中心投资增加。"
-    },
-    "publishedAt": "2026-05-19T04:38:30Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:42:34.644Z"
-  },
-  {
-    "title": "AI需求推动美国电力巨头合并",
-    "source": "Independent.ie",
-    "url": "https://www.independent.ie/business/world/merger-to-create-us-power-giant-as-ai-drives-demand/a/152028572.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "NextEra Energy以670亿美元收购Dominion Energy，创电力行业最大交易",
-      "新巨头覆盖佛罗里达至弗吉尼亚AI数据中心集群"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "NextEra Energy同意以约670亿美元股票收购Dominion Energy，创建覆盖美国东南至中大西洋地区的巨型公用事业公司。该交易是电力行业史上最大规模收购，直接由AI数据中心电力需求驱动，旨在整合供电网络以满足弗吉尼亚等地不断增长的算力负载。",
-      "transmissionChain": "交易利好美国公用事业板块（NEE、D、CEG），推高行业整合预期。上游能源设备商（GE Vernova、Siemens Energy）受益于加速建设的发电设施。但社区抗议及监管审批风险可能拖延项目，影响短期股价。对新能源（太阳能、风能）需求增加，但天然气短期仍为主力。",
-      "chinaMarketMapping": "对中国A股电力板块影响有限，但强化‘AI电力概念’主题，利好国电电力（600795）、长江电力（600900）等电力股估值。投资者可关注国内数据中心园区配套电力企业（如科华数据、润泽科技），但需警惕国内电力市场化改革落地节奏。"
-    },
-    "publishedAt": "2026-05-19T04:30:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:33:21.610Z"
-  },
-  {
-    "title": "马斯克诉OpenAI案败诉",
-    "source": "Independent.ie",
-    "url": "https://www.independent.ie/world-news/elon-musk-loses-his-lawsuit-against-openai-and-boss-sam-altman/a/152039366.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "美国陪审团裁定马斯克对OpenAI的诉讼因超过诉讼时效被驳回",
-      "判决扫除OpenAI IPO最大法律障碍，估值或超8000亿美元"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "陪审团历时不到两小时一致裁定马斯克起诉OpenAI及其CEO奥特曼违约的指控因超过诉讼时效而被驳回。该判决阻止了马斯克索赔1500亿美元，并为OpenAI潜在的首次公开发行清除了重大法律风险。",
-      "transmissionChain": "OpenAI上市预期升温，利好其现有股东（微软等），并可能带动AI一级市场估值提升。但诉讼中披露的内部管理问题可能使监管机构加强审查，增加IPO合规成本。竞争对手Anthropic、Cohere等也将面临更大融资竞争。",
-      "chinaMarketMapping": "对中国AI创业公司影响间接：OpenAI上市将吸引全球资本回流至AI头部企业，可能挤出对中国AI概念股的风险投资。但百度文心、阿里通义等国产大模型受益于国产替代逻辑，若OpenAI退出中国市场则利好本土公司份额提升。"
-    },
-    "publishedAt": "2026-05-19T04:30:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:33:21.610Z"
-  },
-  {
-    "title": "黄仁勋：中国终将开放英伟达AI芯片市场",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%AE-%E4%B8%AD%E5%9C%8B%E7%B5%82%E5%B0%87%E9%96%8B%E6%94%BEai%E6%99%B6%E7%89%87%E5%B8%82%E5%A0%B4-043000212.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "黄仁勋预期中国最终将允许进口英伟达高端AI芯片",
-      "重申台湾在全球半导体制造核心地位"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "黄仁勋在川习会后续专访中表示，中国出于自身AI发展需要，最终将放松对英伟达高端AI芯片的进口限制。但他同时强调，台湾仍然是不可替代的半导体制造中心，地缘格局不会改变。目前H200芯片对华出口仍受限。",
-      "transmissionChain": "若中国解禁，英伟达数据中心收入将获得额外20-30%增长。中国互联网巨头（阿里、腾讯、字节）可重新获得先进算力，加速国产替代进程但短期仍依赖海外。台积电、日月光等台湾半导体企业受益于英伟达订单深化。国内AI芯片公司（华为昇腾、海光信息）竞争压力加大。",
-      "chinaMarketMapping": "短期利空国产AI芯片概念（寒武纪、海光信息），但长期看，开放将刺激国内AI应用爆发，利好云服务商（阿里、腾讯）与AI应用公司。A股投资者需警惕国产替代逻辑弱化，但可关注与英伟达合作密切的服务器代工商（工业富联）。政策落地时间未知，建议保持观望。"
-    },
-    "publishedAt": "2026-05-19T04:30:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "DDR5一年暴涨414%！前三星高管预测中国扩产使DRAM明年下半年反转下跌",
-    "source": "Technews.tw",
-    "url": "https://technews.tw/2026/05/19/ex-samsung-chip-boss-see-china-dram/",
-    "category": "AI_MODEL",
-    "summary": [
-      "前三星芯片总裁庆桂显警告中国DRAM扩产将导致价格下跌",
-      "DDR5涨幅414%后见顶，明年下半年或回落"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "前三星半导体总裁、现任顾问庆桂显公开表示，中国大举扩充DRAM产能将在明年下半年导致供过于求，终结DDR5一年414%的涨幅。并警告若AI投资回报率不及预期，2028年后需求可能萎缩。此言论来自三星内部人士，可能带有打压竞争对手中国扩产预期的意图。",
-      "transmissionChain": "上游：中国DRAM扩产长期利空三星、SK海力士、美光。中游：模组厂如金士顿、威刚面临库存减值风险。下游：服务器与PC厂商将受益于价格下跌。但短期，三星工会罢工威胁可能延缓价格下跌节奏。",
-      "chinaMarketMapping": "直接利好中国DRAM制造商长鑫存储（IPO在即）和兆易创新，但需警惕产能扩张后的价格战。A股存储芯片设计公司（北京君正、东芯股份）短期受益于国产替代情绪，但中期面临利润压缩。对创业者，需关注HBM等高附加值产品，避开DDR4/5红海。"
-    },
-    "publishedAt": "2026-05-19T04:19:13Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:23:08.051Z"
-  },
-  {
-    "title": "DDR5一年暴涨414%！前三星高管预测中国扩产使DRAM明年下半年反转下跌",
-    "source": "Technews.tw",
-    "url": "https://technews.tw/2026/05/19/ddr5-price-surge-414-percent/",
-    "category": "AI_MODEL",
-    "summary": [
-      "前三星芯片总裁庆桂显警告中国DRAM扩产将导致价格下跌",
-      "若AI投资回报不及预期，2028年后需求萎缩"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "庆桂显在公开演讲中表示，中国记忆体企业大规模投资DRAM产能，预计2027年释放巨量供给，DDR5价格将从当前高位显著回落。他强调，记忆体行业周期由供给驱动，中国力量将使原本预计2028年的拐点提前至2026下半年。",
-      "transmissionChain": "美光、三星、SK海力士面临去库存压力，资本开支或放缓。服务器厂商（戴尔、联想）成本将下降，AI服务器利润改善。HBM因AI需求仍坚挺，但标准DRAM转弱。中国长鑫存储市占率有望从5%升至15%，带动国产设备与材料需求。",
-      "chinaMarketMapping": "利好A股存储模组与封测企业（深科技、太极实业），但利空高价囤货的经销商。国内AI芯片企业（寒武纪）的HBM采购成本短期仍高，但标准DRAM降价可降低服务器BOM成本。投资者应密切关注长鑫科创板IPO节奏，提前布局国产替代链。"
-    },
-    "publishedAt": "2026-05-19T04:19:13Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "DDR5一年暴涨414%！前三星高管预测中国扩产使DRAM明年下半年反转下跌",
-    "source": "Technews.tw",
-    "url": "https://www.technews.tw/...",
-    "category": "AI_MODEL",
-    "summary": [
-      "前三星芯片总裁庆桂显警告中国DRAM扩产将导致价格下跌",
-      "若AI投资回报不及预期，2028年后需求萎缩"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "前三星芯片总裁庆桂显在活动上表示，DDR5价格已从低位暴涨414%，但中国DRAM扩产将在明年下半年使市场转向供过于求，价格反转下跌。他还警示若AI投资回报率低于预期，2028年后整体需求可能萎缩。",
-      "transmissionChain": "存储价格见顶预期直接冲击三星、SK海力士和美光股价，并传导至消费电子与服务器成本。中国存储厂（长鑫、长存）扩产加速利好国产替代设备商，但可能引发行业恶性竞争。",
-      "chinaMarketMapping": "A股存储芯片设计公司（兆易创新、北京君正）短期承压，但设备板块（北方华创、中微公司）受益于扩产。长鑫存储IPO将为国产存储带来资金，但需关注产能过剩风险。"
-    },
-    "publishedAt": "2026-05-19T04:19:13Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "Anthropic收购Stainless，切断OpenAI和Google的SDK工具",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/info-tech/anthropic-to-let-partners-share-mythos-cybersecurity-findings-with-others/article70996521.ece",
-    "category": "AI_MODEL",
-    "summary": [
-      "Anthropic收购SDK生成工具商Stainless并终止对外服务",
-      "此举切断了竞争对手的开发者基础设施，强化自身AI代理生态"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Anthropic收购知名的API/SDK生成工具Stainless后，立即停止对OpenAI、Google等竞争对手的SDK服务。Stainless是众多AI公司依赖的开发者工具，此举旨在巩固Anthropic在AI代理生态的领导地位。",
-      "transmissionChain": "OpenAI和Google开发者短期内面临SDK工具缺失，增加开发和迁移成本。长期看可能催生替代工具。利好其他SDK厂商（如Postman）以及Anthropic产业链（客户迁移）。AI代理标准（MCP）争夺战加剧。",
-      "chinaMarketMapping": "对中国AI企业：此事件凸显AI基础设施自主可控的重要性。国内SDK与工具链供应商（如飞桨、MindSpore生态）可能获得发展机会。同时，中国AI公司对海外工具依赖降低，利好国产替代软件厂商（如卓易信息）。"
-    },
-    "publishedAt": "2026-05-19T04:19:11Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:42:34.644Z"
   }
 ]

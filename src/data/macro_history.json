@@ -67,10 +67,10 @@
   },
   {
     "date": "2026-05-20",
-    "confidence": 50,
-    "liquidity": 48,
-    "mediaSentiment": 0,
-    "socialSentiment": -0.2,
+    "confidence": 45,
+    "liquidity": 38,
+    "mediaSentiment": -0.1,
+    "socialSentiment": -0.3,
     "regime": "滞胀",
     "fearGreedIndex": 35,
     "hotThemes": [
@@ -80,19 +80,19 @@
         "trendDirection": "up"
       },
       {
-        "keyword": "先进封装",
+        "keyword": "电力基础设施",
         "momentumScore": 8,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "避险资产",
-        "momentumScore": 7,
         "trendDirection": "up"
       },
       {
         "keyword": "存储芯片",
         "momentumScore": 6,
         "trendDirection": "down"
+      },
+      {
+        "keyword": "国防军工",
+        "momentumScore": 7,
+        "trendDirection": "up"
       },
       {
         "keyword": "消费电子",
