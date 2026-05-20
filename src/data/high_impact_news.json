@@ -1,5 +1,23 @@
 [
   {
+    "title": "谷歌与黑石联手成立AI云公司",
+    "source": "Lokmattimes.com",
+    "url": "https://www.lokmattimes.com/business/google-blackstone-join-hands-to-form-ai-cloud-company/",
+    "category": "AI_MODEL",
+    "summary": [
+      "全球科技巨头谷歌与私募巨头黑石联合成立AI云公司",
+      "合资企业将基于谷歌TPU芯片提供计算即服务，黑石出资50亿美元占主要股份"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "谷歌与黑石合资成立AI云公司，黑石出资50亿美元持有主要股权，提供基于谷歌TPU的计算即服务。这是资本与技术的深度绑定，旨在对抗AWS和微软Azure在AI云市场的主导地位。",
+      "transmissionChain": "利好谷歌云服务（GCP）与TPU生态，推动AI算力成本下降；黑石获取稳定现金流与科技敞口。对A股影响：国内AI云厂商面临竞争压力，但国产算力（如华为昇腾）替代逻辑强化；光模块与服务器供应链受益于全球云资本开支增长。",
+      "chinaMarketMapping": "对中国AI云市场：国内阿里云、华为云面临国际巨头竞争，但国产化政策壁垒提供保护。利好国产算力芯片（华为昇腾、海光信息）及服务器厂商（浪潮信息、中科曙光）。光模块供应商（中际旭创、新易盛）将受益于全球数据中心投资增加。"
+    },
+    "publishedAt": "2026-05-19T04:38:30Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:42:34.644Z"
+  },
+  {
     "title": "AI需求推动美国电力巨头合并",
     "source": "Independent.ie",
     "url": "https://www.independent.ie/business/world/merger-to-create-us-power-giant-as-ai-drives-demand/a/152028572.html",
@@ -52,6 +70,24 @@
     "publishedAt": "2026-05-19T04:19:13Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T04:23:08.051Z"
+  },
+  {
+    "title": "Anthropic收购Stainless，切断OpenAI和Google的SDK工具",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/info-tech/anthropic-to-let-partners-share-mythos-cybersecurity-findings-with-others/article70996521.ece",
+    "category": "AI_MODEL",
+    "summary": [
+      "Anthropic收购SDK生成工具商Stainless并终止对外服务",
+      "此举切断了竞争对手的开发者基础设施，强化自身AI代理生态"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Anthropic收购知名的API/SDK生成工具Stainless后，立即停止对OpenAI、Google等竞争对手的SDK服务。Stainless是众多AI公司依赖的开发者工具，此举旨在巩固Anthropic在AI代理生态的领导地位。",
+      "transmissionChain": "OpenAI和Google开发者短期内面临SDK工具缺失，增加开发和迁移成本。长期看可能催生替代工具。利好其他SDK厂商（如Postman）以及Anthropic产业链（客户迁移）。AI代理标准（MCP）争夺战加剧。",
+      "chinaMarketMapping": "对中国AI企业：此事件凸显AI基础设施自主可控的重要性。国内SDK与工具链供应商（如飞桨、MindSpore生态）可能获得发展机会。同时，中国AI公司对海外工具依赖降低，利好国产替代软件厂商（如卓易信息）。"
+    },
+    "publishedAt": "2026-05-19T04:19:11Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:42:34.644Z"
   },
   {
     "title": "AI盛宴无视能源红线！商品老将示警：美股或迎血腥“大白鲨时刻”",
@@ -142,6 +178,24 @@
     "publishedAt": "2026-05-19T03:42:46Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T04:33:21.610Z"
+  },
+  {
+    "title": "小鹏汽车首款量产Robotaxi下线，目标2027年无人驾驶运营",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/952/223.htm",
+    "category": "SMART_MOBILITY",
+    "summary": [
+      "小鹏GX量产下线，具备L4级能力，使用4颗自研AI芯片（算力3000 TOPS）",
+      "计划2027年实现无人驾驶运营，广州将开示范运营"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "小鹏汽车首款量产Robotaxi GX在广州工厂下线，搭载4颗自研AI芯片（3000 TOPS算力），具备L4级自动驾驶能力。计划2027年实现商业化无人驾驶运营，广州率先开放示范。",
+      "transmissionChain": "利好小鹏供应链（摄像头、雷达、域控制器），以及高精地图与V2X产业。对特斯拉FSD形成竞争压力。推动自动驾驶芯片需求，英伟达、地平线受益。中国Robotaxi赛道进入量产阶段。",
+      "chinaMarketMapping": "对中国A股：德赛西威（域控制器）、中科创达（软件）、万集科技（V2X）直接受益。百度Apollo生态面临竞争，但整体利好自动驾驶产业链。关注广州本地出租车运营公司（如广汽集团）的转型机会。"
+    },
+    "publishedAt": "2026-05-19T03:42:46Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:42:34.644Z"
   },
   {
     "title": "谷歌与黑石集团联合成立AI云公司，投资50亿美元",
@@ -662,61 +716,5 @@
     "publishedAt": "2026-05-18T15:05:25Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-19T16:09:50.543Z"
-  },
-  {
-    "title": "苹果在DRAM谈判中失势，重心转向保供而非谈价",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1562842.htm",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "苹果在DRAM谈判中失去议价优势",
-      "超大规模云厂商大举吃进产能",
-      "英伟达Rubin平台将加剧LPDDR短缺"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "在AI需求推动下，DDR5内存溢价超400%，超大规模云厂商大量采购，使苹果在DRAM谈判中处于劣势，战略从压价转向保供。英伟达Rubin平台将进一步吞噬LPDDR产能。",
-      "transmissionChain": "DRAM供应紧张利好存储厂商（三星、SK海力士、美光），但增加苹果等终端厂商成本。云厂商（亚马逊、微软）受益于AI算力扩张，但需承担更高硬件成本。",
-      "chinaMarketMapping": "中国手机厂商（小米、OPPO）同样面临存储成本上升压力。但国产存储厂商（长鑫科技、长江存储）有望受益于供应紧张与国产替代。A股存储概念股（兆易创新、北京君正）可能受提振。"
-    },
-    "publishedAt": "2026-05-18T15:05:10Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T16:09:50.543Z"
-  },
-  {
-    "title": "微软AI首席执行官警告AI可能在18个月内取代许多办公室工作",
-    "source": "The Indian Express",
-    "url": "https://indianexpress.com/article/trending/trending-globally/microsoft-ai-chief-mustafa-suleyman-warns-ai-could-replace-many-office-jobs-in-18-months-10695748/",
-    "category": "AI_MODEL",
-    "summary": [
-      "微软AI首席执行官穆斯塔法·苏莱曼警告AI可能在18个月内取代许多办公室工作",
-      "计算能力与AI模型能力的快速加速推动这一转变"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "微软AI首席执行官穆斯塔法·苏莱曼公开警告，AI可能在18个月内取代大量办公室工作。这一预测基于计算能力与AI模型能力的快速加速。微软作为AI应用龙头，其Copilot产品已渗透到Office、Azure等核心业务，苏莱曼的言论既是行业预判，也隐含对微软AI产品的市场推广意图。",
-      "transmissionChain": "该言论直接冲击劳动力市场预期，可能加速企业AI自动化投资，利好微软、谷歌等AI平台公司，以及AI应用软件商（如赛富时、Adobe）。同时，利空传统人力资源服务与低技能白领岗位。长期看，AI替代将推动教育、再培训行业需求，但短期可能引发社会焦虑与监管关注。",
-      "chinaMarketMapping": "对中国市场，AI替代劳动力趋势同样显著，但中国劳动力成本相对较低，替代速度可能慢于美国。利好中国AI应用公司（百度、科大讯飞），但利空外包服务与低端白领岗位。中国政府可能加速AI伦理与就业保障政策制定，推动职业教育与技能培训。"
-    },
-    "publishedAt": "2026-05-18T10:06:20Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "中微公司拼半导体制造设备自主，中芯国际已采购800台设备",
-    "source": "Technews.tw",
-    "url": "https://technews.tw/2026/05/18/amec-founder-yin-zhiyao-talk-2026/",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "中微公司董事长尹志尧表示公司已具备生产全球最先进芯片制造设备的能力",
-      "中微的等离子蚀刻技术已成为业界标准",
-      "中芯国际已采购800台中微设备"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "中微公司董事长尹志尧表示，中微已具备生产全球最先进芯片制造设备的能力，其等离子蚀刻技术已成为业界标准，并被多家国际竞争对手采用。中芯国际已采购800台中微设备，显示中国半导体设备自主化取得重大进展。",
-      "transmissionChain": "中微的技术突破将加速中国半导体产业链自主化，减少对应用材料、泛林等美日设备商的依赖。利好中微公司、北方华创等设备商，以及中芯国际、华虹半导体等晶圆厂。同时，可能引发美国对华设备出口管制进一步升级。",
-      "chinaMarketMapping": "直接利好A股半导体设备板块（北方华创、中微公司、盛美上海）。中芯国际采购800台设备验证国产设备可靠性，加速国产替代进程。但先进制程仍受制于ASML光刻机，需关注荷兰出口管制动态。"
-    },
-    "publishedAt": "2026-05-18T10:04:26Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
   }
 ]
