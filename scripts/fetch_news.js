@@ -13,6 +13,20 @@ const RSSParser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
+/* ======================================================================
+   工具函数
+   ====================================================================== */
+
+/**
+ * 返回北京时间 (UTC+8) 的 YYYY-MM-DD 日期字符串
+ * @param {Date} [d] - 可选 Date 对象，默认为当前时间
+ */
+function getBeijingDateStr(d) {
+  const date = d || new Date();
+  const beijingMs = date.getTime() + 8 * 3600000;
+  return new Date(beijingMs).toISOString().slice(0, 10);
+}
+
 /* Finnhub 美股行情免费通道 — 从 https://finnhub.io/register 免费获取 Token */
 const FINNHUB_TOKEN = process.env.FINNHUB_TOKEN || '';
 
@@ -95,7 +109,7 @@ function formatMarketDate(date, timezone = 'America/New_York') {
 function sliceToLatestTradingDay(timestamps, closes, timezone) {
   const dateGroups = {};
   timestamps.forEach((ts, i) => {
-    const dateKey = new Date(ts * 1000).toISOString().slice(0, 10);
+    const dateKey = getBeijingDateStr(new Date(ts * 1000));
     if (!dateGroups[dateKey]) dateGroups[dateKey] = [];
     dateGroups[dateKey].push(i);
   });
@@ -255,7 +269,7 @@ async function directYahooIntradayDailyFallback(symbol, timezone = 'America/New_
   const dateGroups = {};
   timestamps.forEach((ts, i) => {
     if (closes[i] == null) return;
-    const dateKey = new Date(ts * 1000).toISOString().slice(0, 10);
+    const dateKey = getBeijingDateStr(new Date(ts * 1000));
     if (!dateGroups[dateKey]) dateGroups[dateKey] = [];
     dateGroups[dateKey].push({ ts, close: closes[i] });
   });
@@ -862,7 +876,7 @@ async function fetchNewsAPI() {
   }
   try {
     const agent = await getProxyAgent();
-    const fromDate = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
+    const fromDate = getBeijingDateStr(new Date(Date.now() - 7 * 86400000));
     const response = await axios.get(`${NEWS_API_BASE}/everything`, {
       params: { q: NEWS_QUERY_STRING, language: 'en', sortBy: 'publishedAt', pageSize: NEWS_EVERYTHING_PAGE_SIZE, from: fromDate, apiKey },
       timeout: 20000,
@@ -955,7 +969,7 @@ async function fetchChineseNews() {
   if (apiKey) {
     try {
       const agent = await getProxyAgent();
-      const fromDate = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
+      const fromDate = getBeijingDateStr(new Date(Date.now() - 7 * 86400000));
       const response = await axios.get(`${NEWS_API_BASE}/everything`, {
         params: { q: CN_NEWS_QUERY_STRING, language: 'zh', sortBy: 'publishedAt', pageSize: NEWS_EVERYTHING_PAGE_SIZE, from: fromDate, apiKey },
         timeout: 20000,

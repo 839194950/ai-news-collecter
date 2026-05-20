@@ -26,6 +26,16 @@ function ensureDir(dir) {
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 }
 
+/**
+ * 返回北京时间 (UTC+8) 的 YYYY-MM-DD 日期字符串
+ * @param {Date} [d] - 可选 Date 对象，默认为当前时间
+ */
+function getBeijingDateStr(d) {
+  const date = d || new Date();
+  const beijingMs = date.getTime() + 8 * 3600000;
+  return new Date(beijingMs).toISOString().slice(0, 10);
+}
+
 /* ======================================================================
    高影响力事件池管理（金鱼记忆破解）
    ====================================================================== */
@@ -185,7 +195,7 @@ function loadHistoryContextLegacy() {
 
   for (let i = 1; i <= 3; i++) {
     const d = new Date(Date.now() - i * 86400000);
-    const dateStr = d.toISOString().slice(0, 10);
+    const dateStr = getBeijingDateStr(d);
     const filePath = path.join(HISTORY_DIR, `${dateStr}.json`);
 
     if (fs.existsSync(filePath)) {
@@ -263,7 +273,7 @@ function loadReconciliationContext(marketBenchmarks) {
 
   // 查找 3 天前的记录
   const targetDate = new Date(Date.now() - 3 * 86400000);
-  const dateStr = targetDate.toISOString().slice(0, 10);
+  const dateStr = getBeijingDateStr(targetDate);
   const oldEntry = history.find(r => r.date === dateStr);
 
   if (!oldEntry) {
@@ -528,7 +538,7 @@ function persistReport(report) {
   ensureDir(DATA_DIR);
 
   const now = new Date();
-  const dateStr = now.toISOString().slice(0, 10); // YYYY-MM-DD
+  const dateStr = getBeijingDateStr(now); // YYYY-MM-DD (北京时间)
 
   // === Step 1: 刚性每日历史档案仓（每天仅一份，完整覆盖） ===
   ensureDir(ARCHIVES_DIR);
@@ -544,7 +554,7 @@ function persistReport(report) {
 
   // === Step 3: 保持 history/ 向后兼容 ===
   ensureDir(HISTORY_DIR);
-  const histDateStr = now.toISOString().slice(0, 10);
+  const histDateStr = getBeijingDateStr(now);
   const historyPath = path.join(HISTORY_DIR, `${histDateStr}.json`);
 
   if (fs.existsSync(historyPath)) {
@@ -596,7 +606,7 @@ function appendMacroHistory(report) {
 
   const sentTracker = report.marketSentimentTracker || {};
   const record = {
-    date: new Date().toISOString().slice(0, 10),
+    date: getBeijingDateStr(),
     confidence: Math.round(report.macroMetrics?.economicConfidence ?? 50),
     liquidity: liquidity,
     mediaSentiment: report.macroMetrics?.mediaSentiment ?? 0,
