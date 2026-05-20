@@ -1,5 +1,95 @@
 [
   {
+    "title": "DDR5一年暴涨414%！前三星高管预测中国扩产使DRAM明年下半年反转下跌",
+    "source": "Technews.tw",
+    "url": "https://technews.tw/2026/05/19/ex-samsung-chip-boss-see-china-dram/",
+    "category": "AI_MODEL",
+    "summary": [
+      "前三星芯片总裁庆桂显警告中国DRAM扩产将导致价格下跌",
+      "DDR5涨幅414%后见顶，明年下半年或回落"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "前三星半导体总裁、现任顾问庆桂显公开表示，中国大举扩充DRAM产能将在明年下半年导致供过于求，终结DDR5一年414%的涨幅。并警告若AI投资回报率不及预期，2028年后需求可能萎缩。此言论来自三星内部人士，可能带有打压竞争对手中国扩产预期的意图。",
+      "transmissionChain": "上游：中国DRAM扩产长期利空三星、SK海力士、美光。中游：模组厂如金士顿、威刚面临库存减值风险。下游：服务器与PC厂商将受益于价格下跌。但短期，三星工会罢工威胁可能延缓价格下跌节奏。",
+      "chinaMarketMapping": "直接利好中国DRAM制造商长鑫存储（IPO在即）和兆易创新，但需警惕产能扩张后的价格战。A股存储芯片设计公司（北京君正、东芯股份）短期受益于国产替代情绪，但中期面临利润压缩。对创业者，需关注HBM等高附加值产品，避开DDR4/5红海。"
+    },
+    "publishedAt": "2026-05-19T04:19:13Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:23:08.051Z"
+  },
+  {
+    "title": "AI盛宴无视能源红线！商品老将示警：美股或迎血腥“大白鲨时刻”",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/ai%E7%9B%9B%E5%AE%B4%E7%84%A1%E8%A6%96%E8%83%BD%E6%BA%90%E7%B4%85%E7%B7%9A-%E5%95%86%E5%93%81%E8%80%81%E5%B0%87%E7%A4%BA%E8%AD%A6-%E7%BE%8E%E8%82%A1%E6%88%96%E8%BF%8E%E8%A1%80%E8%85%A5-%E5%A4%A7%E7%99%BD%E9%AF%8A%E6%99%82%E5%88%BB-121803896.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "高盛前商品主管Jeff Currie警告AI能源需求导致美股风险",
+      "比喻为《大白鲨》场景，投资者忽视远方鲨鱼鳍"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "高盛前大宗商品主管、Abaxx Exchange联合主席Jeff Currie用电影《大白鲨》形容当前市场：AI狂潮中投资者对能源瓶颈视而不见，而电力短缺、电价飙升、数据中心受阻等‘鲨鱼鳍’已浮现。Currie建议做多能源股、做空科技股。",
+      "transmissionChain": "上游：能源股（电力、天然气、核电）受益于AI需求，资金流入增加。中游：数据中心建设成本上升，可能拖累AI基础设施投资回报率。下游：科技公司若无法控制能源成本，利润受压，估值回调。",
+      "chinaMarketMapping": "中国同样面临AI电力压力，但政策通过‘东数西算’引导数据中心向西部清洁能源地区布局。利好电力股（华能国际、长江电力）和能源IT公司（国电南瑞）。对A股：需警惕高能耗AI公司如中科曙光、浪潮信息的电力成本风险，但数据中心节能技术（液冷）公司如英维克受益。"
+    },
+    "publishedAt": "2026-05-19T04:18:03Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:23:08.051Z"
+  },
+  {
+    "title": "Anthropic收购SDK供应商Stainless，切断OpenAI和Google的开发者基础设施",
+    "source": "Inside.com.tw",
+    "url": "https://www.inside.com.tw/article/41323-anthropic-acquires-stainless",
+    "category": "AI_MODEL",
+    "summary": [
+      "Anthropic收购Stainless并停止对外服务，强化AI代理生态系统",
+      "OpenAI、Google失去关键SDK生成工具，开发依赖加深"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Anthropic收购了SDK生成工具商Stainless，并立即终止其对OpenAI、Google等第三方服务，转而将其工具私有化以加速自身AI代理（MCP协议）的开发。Stainless此前是多家AI公司共享的基础设施层，此举意味着Anthropic试图通过控制开发者工具链来锁定生态。",
+      "transmissionChain": "上游：SDK工具短缺将迫使OpenAI和Google自研或寻找替代方案，增加开发成本。中游：AI代理应用开发者将更倾向于使用Anthropic的Claude和MCP协议，带动其API调用量。下游：企业级AI应用可能因底层工具差异而转向Anthropic生态。",
+      "chinaMarketMapping": "中国AI公司（如百度、字节跳动）目前依赖自研或开源SDK，短期不受直接影响，但长期若MCP成为标准，需兼容Anthropic生态。利好国内SDK替代厂商如极视角、旷视科技，但需加速自主研发。对A股：科大讯飞、三六零等可关注自研MCP兼容层的机会。"
+    },
+    "publishedAt": "2026-05-19T04:04:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:23:08.051Z"
+  },
+  {
+    "title": "谷歌与黑石集团联合成立AI云公司，投资50亿美元",
+    "source": "The Indian Express",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/google-blackstone-to-launch-ai-cloud-venture-to-meet-data-centre-demand-10696783/",
+    "category": "AI_MODEL",
+    "summary": [
+      "合资企业提供基于谷歌TPU的计算即服务",
+      "黑石出资50亿美元占主要股份"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "谷歌与黑石成立AI云公司，黑石投入50亿美元股权，合资公司将利用谷歌TPU和黑石的数据中心资产提供AI计算服务。这是金融资本与科技巨头深度捆绑AI基建的标志性事件，可能改变AI云市场格局。",
+      "transmissionChain": "上游：谷歌TPU需求增长，利好台积电制造。中游：传统云厂商（AWS、Azure）面临竞争，可能跟进类似合作。下游：AI初创公司获得更多算力选择，但可能被锁定在谷歌生态。",
+      "chinaMarketMapping": "类似模式可能在中国出现：阿里云+国家大基金、腾讯云+地方国资。利好国内数据中心运营商（万国数据、世纪互联）和电力供应商。A股光环新网、数据港等受益。但需注意，中国AI云市场已高度集中，新进入者壁垒高。"
+    },
+    "publishedAt": "2026-05-19T03:45:24Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:23:08.051Z"
+  },
+  {
+    "title": "小鹏汽车首款量产Robotaxi下线，目标2027年无人驾驶运营",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/952/219.htm",
+    "category": "SMART_MOBILITY",
+    "summary": [
+      "小鹏GX量产，具备L4级能力",
+      "使用4颗自研AI芯片，算力3000 TOPS"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "小鹏汽车在广州工厂正式量产首款无人出租车GX，搭载4颗自研AI芯片（总算力3000 TOPS），实现L4级自动驾驶。目标2027年在全国多个城市开展完全无人驾驶运营。这是中国车企在Robotaxi领域的里程碑。",
+      "transmissionChain": "上游：激光雷达（禾赛科技、速腾聚创）、摄像头（舜宇光学）等供应商受益。中游：出行平台（滴滴、高德）可能与小鹏合作运营。下游：消费者出行成本降低，但法规与公众接受度仍是挑战。",
+      "chinaMarketMapping": "直接利好禾赛科技（激光雷达）、德赛西威（域控制器）、四维图新（高精地图）。A股自动驾驶概念股（中科创达、经纬恒润）情绪提振。对创业者，Robotaxi产业链中传感器清洗、远程监控等细分领域有机会。"
+    },
+    "publishedAt": "2026-05-19T03:42:46Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:23:08.051Z"
+  },
+  {
     "title": "谷歌与黑石集团联合成立AI云公司，投资50亿美元",
     "source": "BusinessLine",
     "url": "https://www.thehindubusinessline.com/info-tech/google-blackstone-to-launch-ai-cloud-venture-to-meet-data-centre-demand/article70996479.ece",
@@ -83,6 +173,24 @@
     "publishedAt": "2026-05-19T03:13:38Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "调查：34家AI公司年收入狂飙，OpenAI和Anthropic鲸吞89%份额",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/952/192.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "34家AI初创年收入接近800亿美元，半年增长112%",
+      "市场极度集中，头部效应明显"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "The Information调查全球34家AI公司，年化收入接近800亿美元，六个月内增长112%，其中OpenAI与Anthropic合计占89%。数据表明AI商业化正在爆发，但收入高度集中在基础模型层，中小公司面临生存压力。",
+      "transmissionChain": "上游：英伟达、台积电等硬件供应商受益最大。中游：模型层垄断使API调用价格居高，应用层公司利润被压缩。下游：企业客户面临高成本，可能转向开源模型或自研。",
+      "chinaMarketMapping": "中国AI市场同样集中，阿里云、百度智能云占据主要份额。但国产大模型（文心、通义、混元）收入规模远小于国际巨头。需关注AI应用层公司（如金山办公、万兴科技）能否避开模型层竞争，通过垂直场景获利。"
+    },
+    "publishedAt": "2026-05-19T03:11:43Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:23:08.051Z"
   },
   {
     "title": "长鑫存储盈利激增，凸显中国存储与逻辑芯片产业链协同",
@@ -615,118 +723,5 @@
     "publishedAt": "2026-05-18T09:52:43Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "特朗普讨论恢复对伊朗的军事行动",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/trump-discusses-resuming-combat-operations-against-iran-with-security-team/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "特朗普与安全团队讨论恢复对伊朗的军事行动",
-      "地区安全局势可能进一步动荡",
-      "影响全球市场与联盟关系"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "特朗普与安全团队讨论恢复对伊朗的军事行动，显示美伊紧张局势可能升级为直接冲突。此前伊朗已控制霍尔木兹海峡，并激活导弹掩体。特朗普的强硬立场可能旨在施压伊朗，但军事行动风险真实存在。",
-      "transmissionChain": "军事行动将导致油价飙升、全球避险情绪升温，利好军工股（洛克希德·马丁、雷神）与能源股。同时，风险资产（科技股、加密货币）将遭抛售。全球供应链（尤其是半导体与汽车）可能因中东冲突而中断。",
-      "chinaMarketMapping": "对中国，美伊冲突可能推高油价与地缘风险，但中国作为中立国可能受益于能源转口贸易。A股军工板块（中航沈飞、航发动力）可能受情绪提振，但整体市场承压。中国可能加速人民币国际化与石油人民币结算。"
-    },
-    "publishedAt": "2026-05-18T09:52:27Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "价值万亿市值的OpenAI上市成败将由奥克兰陪审团裁定",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1562816.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "OpenAI与马斯克的法律纠纷庭审中，陪审团最早周一裁决",
-      "裁决可能撤销OpenAI盈利化改制，判令赔付1340亿美元",
-      "结果将决定OpenAI能否冲刺万亿市值IPO"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "OpenAI与埃隆·马斯克的法律纠纷进入陪审团裁决阶段。马斯克指控OpenAI背离非营利初衷，要求撤销盈利化改制并索赔1340亿美元。若马斯克胜诉，OpenAI可能被迫恢复非营利状态，其万亿市值IPO计划将受阻。",
-      "transmissionChain": "若OpenAI败诉，其估值将大幅缩水，利空微软等投资者，但可能利好其他AI公司（如Anthropic、Cohere）。若胜诉，OpenAI将扫清IPO障碍，成为AI领域最大上市公司，带动AI板块估值提升。",
-      "chinaMarketMapping": "对中国AI产业，OpenAI的上市成败将影响全球AI估值体系。若OpenAI成功上市，将提振中国AI公司（百度、商汤）的估值预期。若失败，可能引发AI泡沫担忧。中国AI公司需关注法律风险，尤其是非营利转盈利的合规问题。"
-    },
-    "publishedAt": "2026-05-18T09:35:36Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "Anthropic将就Mythos发现的网络安全漏洞向全球金融监管机构作通报",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1562814.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "Anthropic同意向各国主要财政部与央行通报其AI模型发现的金融系统漏洞",
-      "金融稳定委员会主席提出请求",
-      "Claude Mythos预览版模型能力受关注"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Anthropic同意向全球金融监管机构通报其AI模型发现的金融系统网络安全漏洞。金融稳定委员会主席、英国央行行长安德鲁·贝利提出请求，希望Anthropic向委员会成员介绍Claude Mythos模型的能力。这显示AI在网络安全领域的应用潜力与监管关注。",
-      "transmissionChain": "该事件将推动AI安全技术在全球金融体系的应用，利好网络安全公司（如CrowdStrike、Palo Alto Networks）。同时，可能加速金融监管机构对AI安全标准的制定，增加合规成本。Anthropic的Claude模型获得权威背书，有利于其商业化。",
-      "chinaMarketMapping": "对中国金融安全领域，该事件提醒监管机构关注AI安全风险。利好中国网络安全公司（奇安信、深信服）与AI安全初创企业。同时，可能推动中国金融监管机构与AI公司合作，加速AI在金融风控领域的应用。"
-    },
-    "publishedAt": "2026-05-18T09:35:27Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "百度2026年Q1净利润同比暴跌55.36%",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/951/959.htm",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "百度Q1营收320.75亿元同比降1.16%",
-      "净利润34.45亿元同比降55.36%",
-      "AI云业务增长但搜索广告承压"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "百度2026年Q1财报显示营收微降，净利润腰斩，主要受搜索广告收入下滑与爱奇艺亏损拖累。AI云业务虽增长12%，但未能抵消传统业务颓势。",
-      "transmissionChain": "百度业绩疲软直接利空港股百度集团，并可能拖累中概股整体情绪。AI云增长利好百度智能云合作伙伴，但广告业务下滑反映宏观经济压力。",
-      "chinaMarketMapping": "对A股影响：百度业绩不佳可能引发对互联网板块的担忧，但AI云增长验证国产算力需求，利好中科曙光、浪潮信息等算力基础设施标的。"
-    },
-    "publishedAt": "2026-05-18T09:26:34Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "欧盟计划5月29日强制要求从非中国供应商采购",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/eu-mandate-non-chinese-suppliers/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "欧盟拟要求企业关键零部件从至少三家供应商采购",
-      "单一供应商采购上限30%-40%",
-      "旨在降低对中国供应链依赖"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "欧盟计划5月29日通过新规，强制企业关键零部件从至少三家供应商采购，单一供应商上限30%-40%，旨在降低对中国供应链依赖。",
-      "transmissionChain": "该政策将加速全球供应链重组，利好印度、东南亚制造，利空中国出口导向型企业。半导体、新能源、医药等产业链将面临搬迁压力。",
-      "chinaMarketMapping": "对A股影响：短期利空出口依赖型企业，但长期倒逼国产替代。利好国内半导体设备、材料公司，如北方华创、中微公司。同时，中国可能加速内循环与自主可控。"
-    },
-    "publishedAt": "2026-05-18T09:25:57Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "微软AI CEO预测白领工作2027年被自动化",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/microsoft-ai-ceo-white-collar-automation-2027/",
-    "category": "AI_MODEL",
-    "summary": [
-      "微软AI CEO预测AI将自动化白领工作",
-      "劳动力市场需快速适应"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "微软AI CEO预测到2027年AI将自动化大量白领工作，引发劳动力市场担忧。这反映AI技术渗透加速。",
-      "transmissionChain": "该预测利好AI自动化软件公司，如UiPath、微软自身。但利空人力资源与外包行业，可能引发社会政策调整。",
-      "chinaMarketMapping": "对A股影响：利好AI应用公司如科大讯飞、恒生电子。但可能加剧就业焦虑，推动职业教育与AI培训需求。"
-    },
-    "publishedAt": "2026-05-18T09:24:42Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
   }
 ]

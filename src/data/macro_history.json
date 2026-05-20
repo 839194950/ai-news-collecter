@@ -69,14 +69,19 @@
     "date": "2026-05-20",
     "confidence": 55,
     "liquidity": 48,
-    "mediaSentiment": 0,
+    "mediaSentiment": -0.1,
     "socialSentiment": -0.2,
     "regime": "过热",
-    "fearGreedIndex": 48,
+    "fearGreedIndex": 35,
     "hotThemes": [
       {
-        "keyword": "AI云基础设施",
+        "keyword": "AI代理",
         "momentumScore": 9,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "先进封装",
+        "momentumScore": 8,
         "trendDirection": "up"
       },
       {
@@ -85,18 +90,13 @@
         "trendDirection": "down"
       },
       {
-        "keyword": "自动驾驶",
-        "momentumScore": 8,
+        "keyword": "智能驾驶",
+        "momentumScore": 7,
         "trendDirection": "up"
       },
       {
         "keyword": "避险资产",
-        "momentumScore": 7,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "代币化金融",
-        "momentumScore": 7,
+        "momentumScore": 5,
         "trendDirection": "up"
       }
     ]
