@@ -64,5 +64,41 @@
     "regime": "过热",
     "fearGreedIndex": 50,
     "hotThemes": []
+  },
+  {
+    "date": "2026-05-20",
+    "confidence": 55,
+    "liquidity": 48,
+    "mediaSentiment": 0,
+    "socialSentiment": -0.2,
+    "regime": "过热",
+    "fearGreedIndex": 48,
+    "hotThemes": [
+      {
+        "keyword": "AI云基础设施",
+        "momentumScore": 9,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "存储芯片",
+        "momentumScore": 6,
+        "trendDirection": "down"
+      },
+      {
+        "keyword": "自动驾驶",
+        "momentumScore": 8,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "避险资产",
+        "momentumScore": 7,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "代币化金融",
+        "momentumScore": 7,
+        "trendDirection": "up"
+      }
+    ]
   }
 ]

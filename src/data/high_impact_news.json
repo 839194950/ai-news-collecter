@@ -1,5 +1,158 @@
 [
   {
+    "title": "谷歌与黑石集团联合成立AI云公司，投资50亿美元",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/info-tech/google-blackstone-to-launch-ai-cloud-venture-to-meet-data-centre-demand/article70996479.ece",
+    "category": "AI_MODEL",
+    "summary": [
+      "合资企业将提供基于谷歌TPU芯片的计算即服务；黑石出50亿美元股权，持有主要股份。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "黑石与谷歌联手，说明传统PE正在为AI基建提供大规模长线资本，以缓解科技巨头自身资产负债表压力；谷歌TPU借此绕过英伟达GPU瓶颈。",
+      "transmissionChain": "直接利好谷歌云端业务与TPU生态链（博通、台积电）；黑石有望获得稳定现金回报。但长期看可能削弱英伟达在AI算力市场的独占性，促进多元供给。",
+      "chinaMarketMapping": "国内云厂商（阿里云、华为云、腾讯云）面临更激烈的全球竞争，但也会加速自主芯片（阿里平头哥、华为昇腾）的部署。A股中关注中科曙光（国产算力）与光环新网（数据中心运营）。"
+    },
+    "publishedAt": "2026-05-19T03:31:54Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "美国社会浮现AI反情绪：毕业典礼被嘘、议员家遭枪击",
+    "source": "Yahoo Entertainment",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dba9c7df-2621-49f6-b4eb-4cd1dfe585ce",
+    "category": "AI_MODEL",
+    "summary": [
+      "前谷歌CEO施密特称公众对AI的负面情绪增速超过AI产业自身涨幅；毕业典礼抗议AI取代工作等事件频发。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "AI快速发展引发就业焦虑与伦理担忧，民调显示反AI情绪蔓延可能转化为政府监管行动与社区抵制数据中心建设。",
+      "transmissionChain": "增加AI公司公关成本，拖累数据中心审批流程，或导致监管加码（欧盟AI法案加速实施）；对AI应用层公司（如客服、翻译）需求可能产生短期压制，但长期倒逼企业更注重伦理。",
+      "chinaMarketMapping": "中国社会对AI接受度较高（政府培训+公众好奇），但同样需关注就业替代压力。国内AI应用应更强调“人机协作”，利好智能办公（金山办公）、教育（科大讯飞）等社会价值高的赛道。"
+    },
+    "publishedAt": "2026-05-19T03:26:54Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "台积电规划1nm芯片路线图，最多新建12座晶圆厂",
+    "source": "TechNode",
+    "url": "http://technode.com/2026/05/19/tsmc-plans-1nm-chip-roadmap-and-up-to-12-new-fabs/",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "台积电在2nm即将量产之际，进一步披露1nm目标；新厂将分散于中国台湾、美国等地。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台积电作为半导体霸主，持续大举投资先进制程，巩固其护城河；同时利用新建厂缓解地缘政治压力。",
+      "transmissionChain": "刺激半导体设备需求（ASML、应用材料），利好台积电供应链（家登、帆宣、信骅）；但也可能加剧全球芯片产能过剩风险，尤其成熟制程方面。",
+      "chinaMarketMapping": "国内芯片代工（中芯国际、华虹半导体）相较台积电差距进一步拉大，但先进封装与IP设计（芯原股份）反而迎来国产替代机会。A股关注北方华创（刻蚀机）、中微公司（等离子体刻蚀）。"
+    },
+    "publishedAt": "2026-05-19T03:26:28Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "马斯克诉OpenAI案败诉，陪审团认为超过诉讼时效",
+    "source": "Inside.com.tw",
+    "url": "https://www.inside.com.tw/article/41322-elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
+    "category": "AI_MODEL",
+    "summary": [
+      "马斯克状告OpenAI及CEO奥特曼违约，索赔1500亿美元；陪审团两小时内一致裁定超过起诉期限；判决扫除OpenAI上市最大法律障碍。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "陪审团认定马斯克在2015年签署的文件距今已超过法定诉讼时效，故驳回其全部诉求。这直接清除了OpenAI从非盈利转型为盈利公司并可能进行IPO的法律障碍。",
+      "transmissionChain": "短期扫除IPO障碍，利好微软（持有OpenAI 49%股权）与安信龙（OpenAI投资者）；中长期可能加速大模型商业化竞争，迫使谷歌、Anthropic加速上市或融资，AI应用层并购增加。",
+      "chinaMarketMapping": "对国内AI企业（百度文心、字节豆包）而言，OpenAI上市将吸收大量国际资本，但也会带来全球最强竞争对手。国产大模型需更快商业化落地，可关注百度（9888.HK）、商汤（0020.HK）等标的。"
+    },
+    "publishedAt": "2026-05-19T03:23:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "黄仁勋预计中国最终将开放英伟达AI芯片市场",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-market-for-nvidia-ai-chips-to-open-over-time-ceo-jensen-huang/articleshow/131189547.cms",
+    "category": "AI_MODEL",
+    "summary": [
+      "黄仁勋在川习后接受彭博专访表示中国终将允许进口英伟达高端AI芯片；重申台湾在全球半导体制造的核心地位。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "黄仁勋利用川习会后缓和气氛释放乐观预期，但美国商务部与财政部尚未修改实体清单，华为昇腾等国产芯片仍在追赶。英伟达H200的出口许可依然悬而未决。",
+      "transmissionChain": "若中国确实开放，英伟达营收将获得每年额外100亿美元增量，利好英伟达供应链（台积电、鸿海、信骅）；同时对国内AI芯片厂商（华为、寒武纪、海光）形成一定竞争压力，但会倒逼其加速研发。",
+      "chinaMarketMapping": "短期对国产芯片概念股构成利空，但长期看市场开放将提升国内AI算力总水平，促进大模型与应用生态发展。A股关注中科曙光（算力服务器）、工业富联（AI服务器组装），以及海光信息（CPU+DCU对标）。"
+    },
+    "publishedAt": "2026-05-19T03:13:38Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "长鑫存储盈利激增，凸显中国存储与逻辑芯片产业链协同",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260519PD216/cxmt-ipo-dram-profit-semiconductor-industry.html",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "长鑫存储IPO财务数据揭示其从多年亏损转为大幅盈利；国内存储与逻辑芯片产业加速协同。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "长鑫受益于DDR5涨价与国产替代需求，盈利暴增；但其IPO招股书可能放大乐观预期以抬高估值，需警惕产能过剩风险。",
+      "transmissionChain": "短期利好长鑫IPO认购热度，带动存储板块（兆易创新、澜起科技）估值提升；中期中国存储扩产能缓解AI算力缺内存的瓶颈，但可能压制全球价格。",
+      "chinaMarketMapping": "存储芯片国产化加速，A股兆易创新（NOR Flash+DRAM合作）、澜起科技（内存接口）直接受益，同时利好存储测试设备厂商（华峰测控）。"
+    },
+    "publishedAt": "2026-05-19T03:11:30Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "三星奖金悬殊引爆劳资纠纷，或威胁半导体霸主地位",
+    "source": "Techbang.com",
+    "url": "https://www.techbang.com/posts/129505-samsung-ai-profit-strike",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "内存部门奖金是逻辑部门5倍，引发内部矛盾；工会威胁罢工，可能演变为大规模停产。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星利润过度依赖内存业务，逻辑芯片与代工持续亏损，导致内部分配失衡；若罢工成行，将进一步动摇三星的全球代工领先地位。",
+      "transmissionChain": "短期利好市场竞争者（台积电、海力士），若罢工持续超2周，DRAM价格将飙升；但三星客户（苹果、英伟达）可能加速转单，长期损害三星市占。",
+      "chinaMarketMapping": "国内存储厂商（长鑫存储、福建晋华）迎来抢夺三星份额的窗口期；同时利好三星代工客户转单中芯国际（但受限于工艺）。A股关注长电科技（封测）与兆易创新（存储设计）。"
+    },
+    "publishedAt": "2026-05-19T03:00:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "小鹏汽车成为首家量产无人出租车的中国车企",
+    "source": "Technews.tw",
+    "url": "https://technews.tw/2026/05/19/xpeng-mass-production-robotaxi-gx/",
+    "category": "SMART_MOBILITY",
+    "summary": [
+      "小鹏GX在广州工厂正式量产，具备L4级能力，使用4颗自研AI芯片（3000 TOPS）。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "小鹏成为全球少数真正实现L4级量产的车企，技术路线与特斯拉FSD (纯视觉) 不同，仍使用自研芯片，成本与能效平衡是关键。",
+      "transmissionChain": "利好小鹏汽车股价及供应链（德赛西威、均胜电子、禾赛科技）；使百度Apollo、滴滴等竞争对手加速追赶；推动激光雷达替代方案（如4D成像雷达）市场扩大。",
+      "chinaMarketMapping": "国内自动驾驶产业链（传感器、域控、软件）迎来新一轮投资机会；A股关注德赛西威（域控制器）、中科创达（软件平台）、经纬恒润（电子系统）。"
+    },
+    "publishedAt": "2026-05-19T02:58:30Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "三星前总裁预警：明年下半年内存价格可能见顶回落",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E6%98%9F%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%89%8D%E7%B8%BD%E8%A3%81%E7%A4%BA%E8%AD%A6-%E6%98%8E%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%A8%98%E6%86%B6%E9%AB%94%E5%83%B9%E6%A0%BC%E6%81%90%E5%8F%8D%E8%BD%89%E4%B8%8B%E8%B7%8C-025045968.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "庆桂显指出中国DRAM扩产将导致供过于求；若AI投资回报率不如预期，2028年后需求可能萎缩。"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "作为三星核心智囊，庆桂显的言论具极高权威性；中国长鑫存储与福建晋华正在快速提升DDR5产能，预计明年下半年达产高峰。",
+      "transmissionChain": "直接利空三星、海力士、美光股价，冲击台厂南亚科、华邦电；但利好内存接口厂澜起科技，以及下游服务器与手机厂商（成本下降）。",
+      "chinaMarketMapping": "A股中长鑫存储若IPO成功，将强化国产存储逻辑，但板块短期承压；建议关注存储封测环节（通富微电、华天科技），以及受益于价格下降的消费电子龙头（立讯精密、歌尔股份）。"
+    },
+    "publishedAt": "2026-05-19T02:50:45Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
     "title": "社区抵制数据中心数十亿美元项目，科技巨头押注万亿美元应对",
     "source": "Fortune",
     "url": "https://fortune.com/2026/05/18/communities-are-blocking-billions-in-data-centers-big-tech-has-wagered-1-trillion-otherwise/",
@@ -575,168 +728,5 @@
     "publishedAt": "2026-05-18T09:24:42Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "北京成为全球外交焦点，普京与特朗普一周内先后访华",
-    "source": "Globalsecurity.org",
-    "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260518-globaltimes01.htm",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "普京5月19-20日访华",
-      "特朗普刚结束访华",
-      "北京成为全球外交焦点"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "俄罗斯总统普京将于5月19-20日访华，紧随特朗普之后。北京成为全球外交中心，显示中国在大国博弈中的关键角色。",
-      "transmissionChain": "普京访华可能深化中俄能源与军事合作，利好中俄贸易与能源板块。同时，中美俄三角关系影响全球地缘格局。",
-      "chinaMarketMapping": "对A股影响：利好中俄贸易概念股如锦州港，以及能源合作相关公司。但需警惕西方对华制裁风险。"
-    },
-    "publishedAt": "2026-05-18T09:23:21Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "CLARITY法案可能8月初由特朗普签署",
-    "source": "CryptoSlate",
-    "url": "https://cryptoslate.com/clarity-act-could-be-signed-into-law-by-president-donald-trump-in-early-august-galaxy-digital/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "CLARITY法案可能在8月3日那周签署",
-      "加密市场结构法案取得进展"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Galaxy Digital预计CLARITY法案可能在8月3日那周由特朗普签署，为加密市场提供监管清晰度。",
-      "transmissionChain": "该法案若通过将利好加密交易所、托管机构与投资者，推动机构资金入场。但短期不确定性仍存。",
-      "chinaMarketMapping": "对A股影响：无直接关联，但全球加密监管清晰化可能间接利好香港加密ETF市场。"
-    },
-    "publishedAt": "2026-05-18T09:21:55Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "摩根大通戴蒙警告市场过度乐观",
-    "source": "The Daily Hodl",
-    "url": "https://dailyhodl.com/2026/05/18/jpmorgans-jamie-dimon-warns-of-too-much-market-exuberance-names-complex-issues-that-could-affect-equities/",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "戴蒙警告市场出现泡沫迹象",
-      "指出地缘政治、通胀等复杂问题"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "摩根大通CEO戴蒙警告市场过度乐观，指出地缘政治、通胀与利率上升等风险可能冲击股市。",
-      "transmissionChain": "戴蒙的警告可能引发市场获利回吐，特别是科技股。银行股可能受益于利率上升，但整体风险偏好下降。",
-      "chinaMarketMapping": "对A股影响：短期利空风险偏好，但A股相对独立，外资流出压力可能加大。"
-    },
-    "publishedAt": "2026-05-18T09:15:37Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "ASML与塔塔电子合作推进印度半导体制造",
-    "source": "Verdict",
-    "url": "https://www.verdict.co.uk/asml-tata-electronics-semiconductor-india/",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "ASML与塔塔电子签署协议",
-      "支持印度古吉拉特邦半导体工厂"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "ASML与塔塔电子签署协议，支持印度古吉拉特邦半导体工厂建设，使用ASML光刻机。",
-      "transmissionChain": "该合作推动印度半导体制造，可能分流部分中国台湾与大陆的芯片代工订单。利好ASML设备需求，但印度基础设施仍是瓶颈。",
-      "chinaMarketMapping": "对A股影响：长期可能利空中国半导体代工，但短期影响有限。利好国产设备替代，如北方华创。"
-    },
-    "publishedAt": "2026-05-18T09:13:06Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "腾讯音乐完成收购喜马拉雅",
-    "source": "36kr.com",
-    "url": "https://36kr.com/newsflashes/3814580304371456",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "腾讯音乐以12.6亿美元现金加股票收购喜马拉雅",
-      "喜马拉雅成为全资子公司"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "腾讯音乐宣布完成对喜马拉雅的收购，对价包括最高12.6亿美元现金及最多1.75亿股A类普通股。喜马拉雅成为全资子公司。",
-      "transmissionChain": "收购整合音频内容生态，利好腾讯音乐与喜马拉雅协同效应。可能引发在线音频行业整合，利空竞争对手荔枝等。",
-      "chinaMarketMapping": "对A股影响：利好腾讯音乐（港股），但A股音频概念股如芒果超媒可能面临竞争。"
-    },
-    "publishedAt": "2026-05-18T09:11:44Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "黄仁勋批评美国对华AI芯片出口禁令“完全荒谬”",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/why-wake-up-in-the-morning-jensen-huang-calls-out-us-push-to-ban-ai-chip-exports-to-china-calls-it-completely-ridiculous/articleshow/131171939.cms",
-    "category": "AI_MODEL",
-    "summary": [
-      "黄仁勋称完全禁止对华AI芯片出口荒谬",
-      "认为会迫使中国自主研发，损害美国领导地位"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达CEO黄仁勋批评美国全面禁止AI芯片对华出口的政策，认为将迫使中国自主研发，最终损害美国半导体领导地位。",
-      "transmissionChain": "黄仁勋的言论可能影响美国政策制定，但短期出口限制不会放松。利好中国国产AI芯片公司，如华为昇腾、寒武纪。",
-      "chinaMarketMapping": "对A股影响：利好国产AI芯片概念股，如寒武纪、海光信息。同时利好半导体设备国产替代。"
-    },
-    "publishedAt": "2026-05-18T09:10:09Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "SpaceX可能以2万亿美元估值IPO，持有6.37亿美元比特币",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/spacex-ipo-2t-bitcoin-holdings/",
-    "category": "AI_MODEL",
-    "summary": [
-      "SpaceX目标6月12日上市",
-      "估值2万亿美元，持有比特币"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "SpaceX计划6月12日纳斯达克上市，估值或达2万亿美元，并持有6.37亿美元比特币。",
-      "transmissionChain": "SpaceX IPO将引爆太空经济与AI交叉领域投资，利好卫星互联网、火箭回收产业链。比特币持仓可能提振加密市场情绪。",
-      "chinaMarketMapping": "对A股影响：利好卫星互联网概念股如中国卫星、北斗星通。但高估值可能引发市场波动。"
-    },
-    "publishedAt": "2026-05-18T08:58:11Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:32:01.834Z"
-  },
-  {
-    "title": "摩根士丹利警告债券抛售威胁股市反弹",
-    "source": "Financial Post",
-    "url": "https://financialpost.com/pmn/business-pmn/morgan-stanleys-wilson-warns-stock-rally-at-risk-from-bond-rout",
-    "category": "AI_MODEL",
-    "summary": [
-      "摩根士丹利策略师警告全球债券抛售可能终结AI驱动的股市反弹",
-      "股市面临显著回调风险"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "摩根士丹利首席策略师Mike Wilson发布报告，警告全球债券抛售（美债收益率飙升突破5%）可能终结AI驱动的股市反弹，股市面临显著回调风险。这是顶级投行对当前市场风险的最新预警。",
-      "transmissionChain": "债券收益率上升提高无风险利率，压制所有风险资产估值，尤其是高估值的科技股。AI股（英伟达、AMD等）首当其冲。资金可能从股市流向债市，引发连锁抛售。同时，收益率上升增加企业融资成本，影响AI基础设施投资。",
-      "chinaMarketMapping": "中国A股与港股同样受美债收益率影响，但相对独立。国内利率下行周期提供缓冲，但外资流出压力加大。AI概念股（如中科曙光、浪潮信息）可能跟随美股回调，但国产替代逻辑提供支撑。投资者需警惕全球风险偏好下降对A股的传导。"
-    },
-    "publishedAt": "2026-05-18T08:55:48Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:02:25.481Z"
-  },
-  {
-    "title": "赛富时CEO称2026年将花费3亿美元购买Anthropic tokens",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/salesforce-to-spend-300-million-on-anthropic-tokens-in-2026-ceo-marc-benioff/articleshow/131171528.cms",
-    "category": "AI_MODEL",
-    "summary": [
-      "赛富时CEO透露2026年将花费近3亿美元购买Anthropic tokens",
-      "主要用于AI驱动的软件开发和编码辅助"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "赛富时CEO Marc Benioff公开表示公司预计2026年将花费近3亿美元购买Anthropic的AI tokens，主要用于软件开发和编码辅助。这标志着企业级AI应用从试点转向大规模采购，Anthropic作为OpenAI的竞争对手获得关键客户。",
-      "transmissionChain": "赛富时作为CRM巨头，其AI投入将带动企业软件行业AI adoption加速。Anthropic获得大额订单，利好其估值与融资能力。上游算力提供商（英伟达、AMD）间接受益。同时，竞争对手微软、谷歌等可能加大AI投入，引发AI军备竞赛。",
-      "chinaMarketMapping": "中国AI企业（如百度、阿里、科大讯飞）面临类似的企业AI adoption机遇，但受限于芯片出口管制与模型能力差距。国内企业软件公司（如用友、金蝶）需加快AI集成，否则可能被外资厂商抢占市场。利好国产AI芯片（寒武纪、海光信息）与模型厂商。"
-    },
-    "publishedAt": "2026-05-18T08:48:22Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T09:02:25.481Z"
   }
 ]
