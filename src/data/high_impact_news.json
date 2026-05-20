@@ -1,5 +1,41 @@
 [
   {
+    "title": "AI需求推动美国电力巨头合并",
+    "source": "Independent.ie",
+    "url": "https://www.independent.ie/business/world/merger-to-create-us-power-giant-as-ai-drives-demand/a/152028572.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "NextEra Energy以670亿美元收购Dominion Energy，创电力行业最大交易",
+      "新巨头覆盖佛罗里达至弗吉尼亚AI数据中心集群"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "NextEra Energy同意以约670亿美元股票收购Dominion Energy，创建覆盖美国东南至中大西洋地区的巨型公用事业公司。该交易是电力行业史上最大规模收购，直接由AI数据中心电力需求驱动，旨在整合供电网络以满足弗吉尼亚等地不断增长的算力负载。",
+      "transmissionChain": "交易利好美国公用事业板块（NEE、D、CEG），推高行业整合预期。上游能源设备商（GE Vernova、Siemens Energy）受益于加速建设的发电设施。但社区抗议及监管审批风险可能拖延项目，影响短期股价。对新能源（太阳能、风能）需求增加，但天然气短期仍为主力。",
+      "chinaMarketMapping": "对中国A股电力板块影响有限，但强化‘AI电力概念’主题，利好国电电力（600795）、长江电力（600900）等电力股估值。投资者可关注国内数据中心园区配套电力企业（如科华数据、润泽科技），但需警惕国内电力市场化改革落地节奏。"
+    },
+    "publishedAt": "2026-05-19T04:30:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:33:21.610Z"
+  },
+  {
+    "title": "马斯克诉OpenAI案败诉",
+    "source": "Independent.ie",
+    "url": "https://www.independent.ie/world-news/elon-musk-loses-his-lawsuit-against-openai-and-boss-sam-altman/a/152039366.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "美国陪审团裁定马斯克对OpenAI的诉讼因超过诉讼时效被驳回",
+      "判决扫除OpenAI IPO最大法律障碍，估值或超8000亿美元"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "陪审团历时不到两小时一致裁定马斯克起诉OpenAI及其CEO奥特曼违约的指控因超过诉讼时效而被驳回。该判决阻止了马斯克索赔1500亿美元，并为OpenAI潜在的首次公开发行清除了重大法律风险。",
+      "transmissionChain": "OpenAI上市预期升温，利好其现有股东（微软等），并可能带动AI一级市场估值提升。但诉讼中披露的内部管理问题可能使监管机构加强审查，增加IPO合规成本。竞争对手Anthropic、Cohere等也将面临更大融资竞争。",
+      "chinaMarketMapping": "对中国AI创业公司影响间接：OpenAI上市将吸引全球资本回流至AI头部企业，可能挤出对中国AI概念股的风险投资。但百度文心、阿里通义等国产大模型受益于国产替代逻辑，若OpenAI退出中国市场则利好本土公司份额提升。"
+    },
+    "publishedAt": "2026-05-19T04:30:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:33:21.610Z"
+  },
+  {
     "title": "DDR5一年暴涨414%！前三星高管预测中国扩产使DRAM明年下半年反转下跌",
     "source": "Technews.tw",
     "url": "https://technews.tw/2026/05/19/ex-samsung-chip-boss-see-china-dram/",
@@ -90,6 +126,24 @@
     "addedAt": "2026-05-20T04:23:08.051Z"
   },
   {
+    "title": "小鹏汽车首款量产Robotaxi下线",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/952/239.htm",
+    "category": "SMART_MOBILITY",
+    "summary": [
+      "小鹏GX量产，具备L4级能力",
+      "使用4颗自研AI芯片，算力3000 TOPS"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "小鹏汽车首款量产Robotaxi车型GX在广州工厂正式下线，该车搭载4颗自研AI芯片（总算力3000 TOPS），计划2027年实现完全无人驾驶运营，并已在广州开启示范运营。",
+      "transmissionChain": "小鹏成为全球首家量产Robotaxi的车企，领先Waymo（改装车）和特斯拉（FSD未落地）。产业链中，传感器供应商（禾赛科技、速腾聚创）、芯片设计商（黑芝麻智能）受益。同时推动国内自动驾驶政策法规加速制定。",
+      "chinaMarketMapping": "利好A股智能驾驶板块，德赛西威、华域汽车等零部件厂商确定性强。但需关注L4级事故责任立法进展，若出现重大事故可能打击行业信心。长期看，Robotaxi运营利润空间巨大，小鹏有望成为平台型公司，但短期成本高昂面临财务压力。"
+    },
+    "publishedAt": "2026-05-19T03:42:46Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:33:21.610Z"
+  },
+  {
     "title": "谷歌与黑石集团联合成立AI云公司，投资50亿美元",
     "source": "BusinessLine",
     "url": "https://www.thehindubusinessline.com/info-tech/google-blackstone-to-launch-ai-cloud-venture-to-meet-data-centre-demand/article70996479.ece",
@@ -124,6 +178,24 @@
     "addedAt": "2026-05-20T03:45:58.942Z"
   },
   {
+    "title": "美国社会浮现AI反情绪：毕业典礼被嘘、议员家遭枪击",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/...",
+    "category": "AI_MODEL",
+    "summary": [
+      "前谷歌CEO施密特称对AI的负面情绪增速超过AI产业涨幅",
+      "AI取代工作担忧引发暴力事件"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国多地出现针对AI的反抗事件：大学毕业典礼上学生抗议AI取代工作岗位，一名议员住所遭枪击（与AI立法相关）。前谷歌CEO施密特指出公众对AI的负面情绪增长速度已超过AI产业自身增长。",
+      "transmissionChain": "反AI情绪可能导致州级监管加速（如加州AI安全法案），增加企业合规成本。社交媒体平台可能限制AI内容，影响商业化。科技公司招聘方向或被迫调整，增加公共事务岗位（OpenAI已着手招聘社区关系负责人）。",
+      "chinaMarketMapping": "中国目前对AI的舆论相对温和（政府主导+就业安全感较高），但若未来AI替代制造业/服务业岗位效应显现，也可能引发社会关切。投资者需关注政府对于AI就业影响的补偿政策动态，可能利好职业教育（中公教育）和人力资源公司。"
+    },
+    "publishedAt": "2026-05-19T03:26:54Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:33:21.610Z"
+  },
+  {
     "title": "台积电规划1nm芯片路线图，最多新建12座晶圆厂",
     "source": "TechNode",
     "url": "http://technode.com/2026/05/19/tsmc-plans-1nm-chip-roadmap-and-up-to-12-new-fabs/",
@@ -141,6 +213,24 @@
     "addedAt": "2026-05-20T03:45:58.942Z"
   },
   {
+    "title": "台积电规划1nm芯片路线图，最多新建12座晶圆厂",
+    "source": "TechNode",
+    "url": "https://technode.com/2026/05/19/tsmc-plans-1nm-roadmap/",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "台积电披露1nm制程目标",
+      "新厂将分散于台湾、美国等地，最多12座"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台积电在2nm即将量产之际，进一步披露了1nm工艺研发路线图，并计划在全球建设多达12座新晶圆厂，包括台湾、美国亚利桑那、日本熊本等地，以确保未来5-10年的先进制程产能供应。",
+      "transmissionChain": "先进制程投资加码直接利好设备商（ASML、应用材料、科磊）和材料商（信越化学、陶氏）。同时，IC设计公司（英伟达、AMD、苹果）将获得更先进工艺支持，进一步推高算力天花板。但巨额资本支出可能稀释台积电短期利润率。",
+      "chinaMarketMapping": "中国半导体设备国产替代紧迫性进一步强化，中微公司、北方华创等有望加速渗透中高端刻蚀/薄膜设备。但受制于出口管制，短期内难以参与1nm供应链，本土制造停留在成熟制程。A股相关标的需警惕技术差距扩大的估值折价。"
+    },
+    "publishedAt": "2026-05-19T03:26:28Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:33:21.610Z"
+  },
+  {
     "title": "马斯克诉OpenAI案败诉，陪审团认为超过诉讼时效",
     "source": "Inside.com.tw",
     "url": "https://www.inside.com.tw/article/41322-elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
@@ -156,6 +246,24 @@
     "publishedAt": "2026-05-19T03:23:00Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T03:45:58.942Z"
+  },
+  {
+    "title": "黄仁勳预期中国终将迎来辉达芯片，台湾仍为芯片制造业核心",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E7%BF%92%E6%9C%83%E5%BE%8C%E9%A6%96%E7%99%BC%E8%81%B2-%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A0%90%E6%9C%9F%E4%B8%AD%E5%9C%8B%E7%B5%82%E5%B0%87%E8%BF%8E%E8%BC%9D%E9%81%94%E6%99%B6%E7%89%87-%E5%8F%B0%E7%81%A3%E4%BB%8D%E7%82%BA%E6%99%B6%E7%89%87%E8%A3%BD%E9%80%A0%E6%A5%AD%E7%9A%84%E6%A0%B8%E5%BF%83-032000016.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "黄仁勋在川习会后续访表示中国最终将进口英伟达高端AI芯片",
+      "强调台湾在全球半导体制造不可替代的核心地位"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达CEO黄仁勋接受彭博专访时，预计中国政府最终将批准高端AI芯片（如H200）进口，同时重申台湾是全球半导体制造的核心节点。其表态发生在陪同美国总统特朗普访问中国后，暗示中美科技脱钩可能出现阶段性缓和。",
+      "transmissionChain": "若中国放开英伟达芯片进口，将直接利好英伟达（NVDA）营收预期，同时刺激中国本土AI公司算力基础设施部署。但国产替代逻辑（华为昇腾等）短期承压。台湾半导体设备与材料供应商（ASML、应用材料）受益于台积电持续扩产。",
+      "chinaMarketMapping": "A股英伟达概念股（工业富联、中际旭创）将受情绪提振，但需注意中美政策反复风险。国产芯片替代标的（寒武纪、海光信息）面临竞争加剧压力。投资者应区分：国产替代长期逻辑不变，但短期估值可能受压。"
+    },
+    "publishedAt": "2026-05-19T03:20:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T04:33:21.610Z"
   },
   {
     "title": "黄仁勋预计中国最终将开放英伟达AI芯片市场",
@@ -608,119 +716,6 @@
       "chinaMarketMapping": "直接利好A股半导体设备板块（北方华创、中微公司、盛美上海）。中芯国际采购800台设备验证国产设备可靠性，加速国产替代进程。但先进制程仍受制于ASML光刻机，需关注荷兰出口管制动态。"
     },
     "publishedAt": "2026-05-18T10:04:26Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "字节跳动砍三成AI项目、腾讯换船：中国AI应用进入成本与场景重整期",
-    "source": "Technews.tw",
-    "url": "https://finance.technews.tw/2026/05/18/doubao-cuts-tencent-pivots-chinas-ai-enters-a-self-correction-cycle/",
-    "category": "AI_MODEL",
-    "summary": [
-      "字节跳动砍掉约三成AI应用项目，放弃广撒网策略",
-      "腾讯也调整AI战略，从大模型转向应用层",
-      "中国AI市场从规模扩张进入成本与场景重整期"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "字节跳动近期砍掉约三成AI应用项目，放弃惯用的广撒网打法，转向聚焦核心产品。腾讯也调整AI战略，从大模型转向应用层。字节跳动2025年AI推理成本超过80亿人民币，高昂成本迫使公司优化资源配置。中国AI市场从追求规模与补贴式扩张，转向更重视成本、效率与可持续性。",
-      "transmissionChain": "字节与腾讯的收缩将减少AI应用领域的过度竞争，利好头部AI公司（如百度、科大讯飞）与AI基础设施提供商（如英伟达、中科曙光）。同时，中小AI创业公司面临融资困难，行业洗牌加速。长期看，资源集中将推动AI应用在垂直场景（如金融、医疗）的深度落地。",
-      "chinaMarketMapping": "对中国AI产业，短期阵痛但长期利好。字节与腾讯的调整表明AI商业化必须回归商业本质，利好有场景与数据优势的头部企业。A股AI概念股可能短期承压，但长期价值凸显。国产AI芯片（华为昇腾、寒武纪）受益于推理成本优化需求。"
-    },
-    "publishedAt": "2026-05-18T10:00:18Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "沙特阿美与Pasqal推出沙特首台量子计算机及中东首个商用量子计算云平台",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/05/18/3296401/0/en/Aramco-and-Pasqal-launch-Saudi-Arabia-s-first-quantum-computer-and-Middle-East-s-first-commercial-Quantum-Computing-as-a-Service-platform.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "沙特阿美与Pasqal合作推出沙特首台量子计算机",
-      "中东首个商用量子计算云平台",
-      "Pasqal的中性原子技术路线具有可扩展性优势"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "沙特阿美与法国量子计算公司Pasqal合作，正式推出沙特首台量子计算机及中东首个商用量子计算云平台。Pasqal采用中性原子技术路线，具有可扩展性优势。此举显示石油巨头对量子计算在能源勘探、金融建模等领域应用的重视。",
-      "transmissionChain": "该事件标志着量子计算在中东地区的商业化落地，可能带动中东主权基金投资量子计算产业链。利好Pasqal及其供应商，以及全球量子计算公司（如IonQ、Rigetti）。同时，可能加速量子计算在能源、金融领域的应用探索。",
-      "chinaMarketMapping": "对中国量子计算产业，沙特阿美的合作显示量子计算商业化加速，中国量子计算公司（国盾量子、本源量子）面临国际竞争与机遇。A股量子计算概念股（科大国创、神州信息）可能受情绪提振，但需关注技术差距。"
-    },
-    "publishedAt": "2026-05-18T10:00:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "小鹏汽车首款量产Robotaxi下线，目标2027年实现无人驾驶运营",
-    "source": "SoyaCincau.com",
-    "url": "https://soyacincau.com/2026/05/18/xpeng-mass-produced-robotaxi-factory-rolloff-l4-operation-by-2027/",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "小鹏汽车首款量产Robotaxi下线",
-      "目标2027年实现无人驾驶运营",
-      "首个实现全栈自研量产Robotaxi的中国车企"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "小鹏汽车首款量产Robotaxi在广州工厂下线，目标2027年实现无人驾驶运营。小鹏成为首个实现全栈自研量产Robotaxi的中国车企，标志着中国自动驾驶商业化进入新阶段。该车基于小鹏现有平台，搭载L4级自动驾驶硬件。",
-      "transmissionChain": "小鹏Robotaxi量产将推动自动驾驶产业链发展，利好激光雷达（禾赛科技、速腾聚创）、高精地图（四维图新）与芯片（英伟达、地平线）供应商。同时，可能加速中国Robotaxi运营牌照发放，与百度Apollo、滴滴等竞争。",
-      "chinaMarketMapping": "直接利好A股自动驾驶产业链（德赛西威、中科创达、华阳集团）。小鹏作为新势力代表，其量产能力验证中国自动驾驶技术领先性。但需关注政策法规与安全风险，L4级运营仍需监管批准。"
-    },
-    "publishedAt": "2026-05-18T09:56:30Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "OpenAI为星际之门高薪招聘社区事务负责人，旨在减少数据中心建设阻力",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/951/971.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "OpenAI招聘社区事务负责人，核心职责是与数据中心所在地社区沟通",
-      "衡量成效的核心指标之一是减少社区阻力",
-      "科技企业投入数千亿美元建设数据中心，但社区担忧水资源与能源消耗"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "OpenAI发布社区事务负责人招聘，旨在减少星际之门数据中心建设阻力。科技企业正投入数千亿美元建设数据中心，但各地社区担忧水资源与能源消耗。OpenAI将减少社区阻力作为核心考核指标，显示公众关系已成为AI基础设施扩张的关键瓶颈。",
-      "transmissionChain": "该事件凸显AI数据中心建设的社会成本，可能推动更高效的冷却技术（液冷）与可再生能源使用，利好相关设备商（如英维克、Vertiv）。同时，社区阻力可能延缓数据中心建设进度，影响AI算力供给，间接利好现有数据中心运营商（如Equinix）。",
-      "chinaMarketMapping": "中国数据中心建设同样面临能耗与水资源压力，但政府支持力度较大。利好中国液冷技术公司（如英维克、高澜股份）与绿色电力供应商。A股数据中心板块（光环新网、宝信软件）可能受益于AI算力需求增长，但需关注能耗政策风险。"
-    },
-    "publishedAt": "2026-05-18T09:55:06Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "美债收益率飙破5%！AI股恐迎大震荡，警告市场正在重算估值",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E9%A3%86%E7%A0%B45-ai%E8%82%A1%E6%81%90%E8%BF%8E%E5%A4%A7%E9%9C%87%E7%9B%AA-%E4%BB%96%E8%AD%A6%E5%91%8A-%E5%B8%82%E5%A0%B4%E6%AD%A3%E5%9C%A8%E9%87%8D%E7%AE%97%E4%BC%B0%E5%80%BC-095500357.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "美国30年期公债殖利率站上5%",
-      "高成长科技股与AI概念股对利率变化特别敏感",
-      "市场正重新调整全球资产估值基准"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国30年期国债收益率突破5%，引发全球金融市场震荡。前台积电工程师、基金经理沈万钧分析指出，长天期公债殖利率攀升代表市场正重新调整全球资产估值基准，尤其高成长科技股与AI概念股由于获利多反映在未来数年，对利率变化特别敏感，未来波动恐明显加剧。",
-      "transmissionChain": "美债收益率飙升直接压制科技股估值，尤其是高市盈率的AI股（如英伟达、AMD）。资金可能从成长股流向价值股与防御板块。同时，高利率增加企业融资成本，可能抑制AI资本开支，利空数据中心与芯片设备商。但长期看，AI生产力提升可能抵消利率影响。",
-      "chinaMarketMapping": "对中国市场，美债收益率飙升可能导致外资流出A股，尤其是北向资金重仓的科技与消费龙头。但中国货币政策相对独立，国内利率下行空间有限，A股可能相对抗跌。利好高股息防御板块（银行、公用事业），利空高估值AI与半导体股。"
-    },
-    "publishedAt": "2026-05-18T09:55:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-19T10:10:37.770Z"
-  },
-  {
-    "title": "伊朗警告美国，霍尔木兹海峡紧张局势升级",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/iran-warns-us-as-tensions-rise-in-strait-of-hormuz-shipping-corridor/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "伊朗警告美国，霍尔木兹海峡紧张局势升级",
-      "可能扰乱全球航运路线，影响石油市场与国际贸易稳定"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "伊朗警告美国，霍尔木兹海峡紧张局势升级。伊朗此前已控制海峡，全球航运被迫改道。此次警告暗示可能进一步采取行动，包括对海峡内船只收费或干扰。霍尔木兹海峡是全球最重要的石油运输通道，约占全球石油贸易的三分之一。",
-      "transmissionChain": "若局势升级，油价将飙升，全球通胀压力加大，利好能源股（埃克森美孚、雪佛龙）与航运股（马士基）。同时，避险资产（黄金、美元）受追捧，风险资产（股市、加密货币）承压。供应链中断可能冲击全球制造业。",
-      "chinaMarketMapping": "对中国，油价上涨将增加输入性通胀压力，利空航空、化工等行业。但中国作为石油进口大国，可能加速战略石油储备释放与新能源替代。A股能源板块（中国石油、中国石化）受益，但整体市场情绪受压制。"
-    },
-    "publishedAt": "2026-05-18T09:52:43Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-19T10:10:37.770Z"
   }

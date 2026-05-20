@@ -67,12 +67,12 @@
   },
   {
     "date": "2026-05-20",
-    "confidence": 55,
-    "liquidity": 48,
-    "mediaSentiment": -0.1,
-    "socialSentiment": -0.2,
+    "confidence": 60,
+    "liquidity": 53,
+    "mediaSentiment": 0,
+    "socialSentiment": -0.15,
     "regime": "过热",
-    "fearGreedIndex": 35,
+    "fearGreedIndex": 48,
     "hotThemes": [
       {
         "keyword": "AI代理",
@@ -85,19 +85,19 @@
         "trendDirection": "up"
       },
       {
+        "keyword": "避险资产",
+        "momentumScore": 7,
+        "trendDirection": "up"
+      },
+      {
         "keyword": "存储芯片",
         "momentumScore": 6,
         "trendDirection": "down"
       },
       {
-        "keyword": "智能驾驶",
-        "momentumScore": 7,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "避险资产",
-        "momentumScore": 5,
-        "trendDirection": "up"
+        "keyword": "消费电子",
+        "momentumScore": 4,
+        "trendDirection": "down"
       }
     ]
   }
