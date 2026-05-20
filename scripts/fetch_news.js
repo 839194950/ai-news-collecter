@@ -70,6 +70,22 @@ async function createRSSParser() {
   });
 }
 
+/** Fetch RSS XML via axios, sanitize broken entities, then parse. Handles feeds
+ *  like Caixin whose raw XML contains unescaped & or bare HTML in descriptions. */
+async function fetchAndParseRSS(url) {
+  const agent = await getProxyAgent();
+  const res = await axios.get(url, {
+    responseType: 'text',
+    timeout: 15000,
+    ...(agent ? { httpsAgent: agent } : {}),
+  });
+  let xml = res.data;
+  // Fix unescaped & (but preserve valid entities like &amp; &lt; &gt; &quot; &apos; &#123;)
+  xml = xml.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+  const parser = await createRSSParser();
+  return parser.parseString(xml);
+}
+
 /* ======================================================================
    Yahoo Finance 数据获取（双模式）
    模式 A: yahoo-finance2 (npm 包, 适用无代理环境)
@@ -457,16 +473,16 @@ const CN_NEWS_QUERY_STRING =
   'OR 美联储 OR 降息 OR 通胀 OR 人民币汇率 OR A股 )';
 const NEWS_EVERYTHING_PAGE_SIZE = 100;
 const REDDIT_FEEDS = [
-  'https://www.reddit.com/r/technology/.rss',
-  'https://www.reddit.com/r/singularity/.rss',
+  'https://old.reddit.com/r/technology/.rss',
+  'https://old.reddit.com/r/singularity/.rss',
 ];
 const REDDIT_RSS_FALLBACKS = {
-  'https://www.reddit.com/r/technology/.rss': 'https://rsshub.app/reddit/r/technology',
-  'https://www.reddit.com/r/singularity/.rss': 'https://rsshub.app/reddit/r/singularity',
+  'https://old.reddit.com/r/technology/.rss': 'https://rsshub.app/reddit/r/technology',
+  'https://old.reddit.com/r/singularity/.rss': 'https://rsshub.app/reddit/r/singularity',
 };
 const CHINESE_RSS_SOURCES = [
-  { name: '财新金融', url: 'http://caixin.com/rss/finance.xml' },
-  { name: '财新经济', url: 'http://caixin.com/rss/economy.xml' },
+  { name: '36氪', url: 'https://36kr.com/feed' },
+  { name: '钛媒体', url: 'https://www.tmtpost.com/rss' },
 ];
 
 const WALLSTREETCN_KEYWORDS = [
@@ -1003,8 +1019,7 @@ async function fetchChineseNews() {
   }
   for (const source of CHINESE_RSS_SOURCES) {
     try {
-      const parser = await createRSSParser();
-      const feed = await parser.parseURL(source.url);
+      const feed = await fetchAndParseRSS(source.url);
       if (feed?.items?.length) {
         let count = 0;
         for (const item of feed.items) {
