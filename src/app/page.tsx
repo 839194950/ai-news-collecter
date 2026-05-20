@@ -1682,8 +1682,14 @@ export default function Home() {
       }
       const body = await res.json();
       const rawArticles = body.articles || [];
+      // 按北京时间过滤：只显示发布日与所选档案日期匹配的文章
+      const filtered = rawArticles.filter((a: any) => {
+        if (!a.publishedAt) return true;
+        const bjMs = new Date(a.publishedAt).getTime() + 8 * 3600000;
+        return new Date(bjMs).toISOString().slice(0, 10) === date;
+      });
       // 通过归一化转换器强行将历史旧格式映射为三段论结构
-      const normalized = Array.isArray(rawArticles) ? rawArticles.map(normalizeArticleData) : [];
+      const normalized = Array.isArray(filtered) ? filtered.map(normalizeArticleData) : [];
       setArchiveArticles(normalized);
     } catch {
       setArchiveError('网络异常，无法调取历史卷宗');
