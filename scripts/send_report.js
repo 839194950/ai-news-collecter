@@ -319,6 +319,11 @@ const html = `<!DOCTYPE html>
 
       <!-- ===== 底部 ===== -->
       <div style="background:#f8fafc;border-top:1px solid #e2e8f0;padding:20px 28px;text-align:center;">
+        <div style="margin-bottom:12px;">
+          <a href="https://ai-news-collecter-seven.vercel.app/" style="font-size:13px;color:#2563eb;text-decoration:none;font-weight:600;">
+            🌐 在线看盘 → ai-news-collecter-seven.vercel.app
+          </a>
+        </div>
         <div style="font-size:11px;color:#94a3b8;line-height:1.6;">
           本报告由 AI 自动生成，仅供参考，不构成投资建议。<br>
           数据来源: DeepSeek V4 智能分析 · ${dateStr}

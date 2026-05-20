@@ -88,15 +88,15 @@ function StockCard({ stock }: { stock: Stock }) {
   const isDown = rawChange != null && rawChange < 0;
 
   return (
-    <div className="bg-white border border-neutral-200/40 rounded-2xl p-6 space-y-5 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+    <div className="bg-white border border-neutral-200/40 rounded-2xl p-4 sm:p-6 space-y-4 sm:space-y-5 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
       {/* 顶部：名称 + 代码 + 实时股价 + 涨跌幅 */}
       <div className="flex items-start justify-between">
-        <div>
-          <span className="text-lg font-semibold text-slate-900">{stock.name}</span>
-          <span className="ml-2 text-sm text-slate-400 font-mono">{stock.code}</span>
+        <div className="min-w-0 flex-1 mr-2">
+          <span className="text-base sm:text-lg font-semibold text-slate-900 truncate block">{stock.name}</span>
+          <span className="text-sm text-slate-400 font-mono">{stock.code}</span>
         </div>
-        <div className="text-right">
-          <div className="text-2xl font-bold text-slate-900 tabular-nums">
+        <div className="text-right shrink-0">
+          <div className="text-xl sm:text-2xl font-bold text-slate-900 tabular-nums">
             {hasPrice ? fmtValue(stock.price!, stock.code) : "--"}
           </div>
           {rawChange != null && (
@@ -141,7 +141,7 @@ function StockCard({ stock }: { stock: Stock }) {
               <span className="text-[10px] font-semibold text-indigo-500 bg-indigo-50 border border-indigo-100 px-2 py-0.5 rounded-full">AI 动态入选</span>
             </div>
           )}
-          <p className="text-base text-slate-800 leading-relaxed">{stock.reason}</p>
+          <p className="text-sm sm:text-base text-slate-800 leading-relaxed">{stock.reason}</p>
         </div>
       )}
     </div>
@@ -392,7 +392,7 @@ export default function InvestPage() {
             <span className="text-sm font-semibold text-slate-700">AI 实时自定义选股舱</span>
             <span className="text-[10px] text-slate-400 font-mono bg-slate-50 px-2 py-0.5 rounded-full border border-slate-100">DeepSeek V4</span>
           </div>
-          <div className="flex gap-3">
+          <div className="flex flex-col sm:flex-row gap-3">
             <input
               type="text"
               placeholder="输入您的自定义投资策略，如：低市盈率 + 算力国产替代 + 绝对股价低于30元..."
@@ -404,7 +404,7 @@ export default function InvestPage() {
             <button
               onClick={handleFilterSubmit}
               disabled={filterLoading || !filterQuery.trim()}
-              className="px-6 py-3 bg-indigo-600 hover:bg-indigo-500 disabled:bg-slate-300 disabled:cursor-not-allowed text-white rounded-xl text-sm font-medium transition-all shadow-sm flex items-center gap-2 shrink-0"
+              className="px-6 py-3 bg-indigo-600 hover:bg-indigo-500 disabled:bg-slate-300 disabled:cursor-not-allowed text-white rounded-xl text-sm font-medium transition-all shadow-sm flex items-center justify-center gap-2 shrink-0"
             >
               {filterLoading ? (
                 <>
@@ -489,7 +489,7 @@ export default function InvestPage() {
             ))}
           </div>
         ) : (
-          <div className="bg-white border border-neutral-200/40 rounded-3xl p-12 text-center">
+          <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 sm:p-12 text-center">
             <div className="text-slate-300 mb-2">
               <TrendingUp className="w-8 h-8 mx-auto" />
             </div>

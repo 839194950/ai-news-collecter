@@ -462,7 +462,7 @@ function NewsCard({
       className="bg-white border border-neutral-200/40 rounded-2xl transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)] cursor-pointer overflow-hidden"
       onClick={onToggle}
     >
-      <div className="p-6 flex flex-col md:flex-row md:items-center justify-between gap-4">
+      <div className="p-4 sm:p-6 flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div className="space-y-2">
           <div className="flex items-center flex-wrap gap-x-2 gap-y-1">
             <span className="px-2.5 py-0.5 bg-slate-50 border border-slate-100 rounded text-xs font-medium text-slate-500">
@@ -480,7 +480,7 @@ function NewsCard({
         </div>
       </div>
       {isExpanded && (
-        <div className="px-6 pb-6 pt-3 border-t border-slate-50 bg-slate-50/30 space-y-4 animate-fadeIn">
+        <div className="px-4 sm:px-6 pb-6 pt-3 border-t border-slate-50 bg-slate-50/30 space-y-4 animate-fadeIn">
           {article.forensicAnalysis ? (
             <div className="space-y-4">
               <div className="bg-white border border-slate-100 rounded-xl p-4">
@@ -841,7 +841,7 @@ function SectorEntryCard({
   return (
     <Link
       href={href}
-      className="block border border-neutral-200/40 rounded-2xl p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]"
+      className="block border border-neutral-200/40 rounded-2xl p-5 sm:p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]"
       style={heatStyle}
     >
       <div className="flex items-center justify-between gap-3 mb-3">
@@ -887,7 +887,7 @@ function CalibrationMatrixChart({ matrix, archiveCount }: { matrix?: Record<stri
     v >= 80 ? '#ef4444' : v >= 60 ? '#d97706' : '#64748b';
 
   return (
-    <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+    <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
       {/* Title */}
       <div className="flex items-center justify-between mb-6">
         <span className="text-sm font-semibold text-slate-500 tracking-wider uppercase">
@@ -1005,7 +1005,7 @@ function IndustryHeatmap({ radar }: { radar: Array<{ subject: string; hotness: n
   const isolated = sectorAvgCorr.filter(s => s.avg < 30);
 
   return (
-    <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+    <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
       {/* Title */}
       <div className="text-sm font-semibold text-slate-500 tracking-wider uppercase mb-2">
         行业流动性关联热力图 <span className="text-slate-300 font-normal">Liquidity Correlation Matrix</span>
@@ -1108,7 +1108,7 @@ function ButterflyCascadeTree({ factors }: { factors: string[] }) {
   );
 
   return (
-    <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+    <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
       <div className="text-sm font-semibold text-slate-500 tracking-wider uppercase mb-6">
         利益传导级联网络树 <span className="text-slate-300 font-normal">Butterfly Effect Cascade</span>
       </div>
@@ -1283,7 +1283,7 @@ function AICalibrationScoreCard({
   if (aiCalibrationScore == null && !aiReview) return null;
 
   return (
-    <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+    <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
       <div className="text-sm font-semibold text-slate-500 tracking-wider uppercase mb-5">
         AI 预测真实校准度 <span className="text-slate-300 font-normal">Self-Calibration</span>
       </div>
@@ -1353,7 +1353,7 @@ function FearGreedGauge({ value, themes }: {
   const guidance = getTradingGuidance(clamped);
 
   return (
-    <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+    <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {/* ---- 左侧：恐惧贪婪仪表盘 + 操盘决策指引 ---- */}
         <div className="flex flex-col justify-center">
@@ -1844,7 +1844,7 @@ export default function Home() {
             {/* —— 1a. 核心图表区：信心指数 + 美林时钟 —— */}
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
               {/* 左：宏观信心指数面积图 / 60D 时光机 */}
-              <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 flex flex-col">
+              <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 flex flex-col">
                 <div className="flex items-center justify-between mb-6">
                   <div className="space-y-1.5">
                     <div className="flex items-center gap-3">
@@ -1865,7 +1865,7 @@ export default function Home() {
                       )}
                     </div>
                     <div className="flex items-baseline gap-4">
-                      <span className="text-5xl font-bold text-slate-900 tracking-tight">{displayConfidence}</span>
+                      <span className="text-4xl sm:text-5xl font-bold text-slate-900 tracking-tight">{displayConfidence}</span>
                       <div>
                         <span className="text-base font-medium text-slate-500">/ 100 宏观信心指数</span>
                         <div className="text-sm text-red-500 font-medium mt-0.5">
@@ -1997,7 +1997,7 @@ export default function Home() {
               </div>
 
               {/* 右：美林投资时钟 + 流动性压力 */}
-              <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 flex flex-col">
+              <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 flex flex-col">
                 <MerrillLynchClockDisplay quadrant={selectedRecord?.regime || data.marketRegime?.quadrant || "过热"} />
                 <LiquidityStressGauge score={selectedRecord?.liquidity ?? (() => {
                   const mm = data.macroMetrics ?? { economicConfidence: 50, regulatoryPressure: 50, blackSwanProbability: 0 };
@@ -2013,7 +2013,7 @@ export default function Home() {
             />
 
             {/* —— 1c. 舆情背离双线图 —— */}
-            <div className="bg-white border border-neutral-200/40 rounded-3xl p-8">
+            <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8">
               <div className="flex items-center justify-between mb-5">
                 <span className="text-sm font-semibold text-slate-500 tracking-wider uppercase">
                   舆情背离指数
@@ -2081,7 +2081,7 @@ export default function Home() {
             <CalibrationMatrixChart matrix={(data as any).calibrationMatrix} archiveCount={archiveCount} />
 
             {/* —— 1d. 宏观资产映射矩阵（无边框 Apple 风格表格） —— */}
-            <div className="bg-white border border-neutral-200/40 rounded-3xl p-8">
+            <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8">
               <span className="text-sm font-semibold text-slate-500 tracking-wider uppercase">宏观资产映射矩阵</span>
               <div className="mt-6">
                 <AssetImpactTable assets={data.assetImpact ?? {}} />
@@ -2201,7 +2201,7 @@ export default function Home() {
             <ButterflyCascadeTree factors={data.catalystFactors ?? []} />
 
             {/* —— 2d. 宏观黑天鹅沙盘模拟舱 —— */}
-            <div className="bg-white border border-neutral-200/40 rounded-3xl p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
+            <div className="bg-white border border-neutral-200/40 rounded-3xl p-5 sm:p-8 transition-all duration-300 hover:shadow-[0_20px_40px_rgba(0,0,0,0.025)]">
               <div className="flex items-center gap-3 mb-1">
                 <Sparkles className="w-5 h-5 text-slate-400" />
                 <h2 className="text-base font-semibold text-slate-800">宏观黑天鹅沙盘模拟舱</h2>
