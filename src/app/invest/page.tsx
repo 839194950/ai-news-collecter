@@ -62,7 +62,7 @@ function fmtValue(val: string | number | null | undefined, code: string): string
   const sym = isACode(code) ? '¥' : '$';
   if (typeof val === 'number') return `${sym}${val.toFixed(2)}`;
   // 处理区间字符串如 "3.5-4.2" → "¥3.5-¥4.2"
-  return String(val).replace(/(\d+\.?\d*)/g, `${sym}$1`);
+  return String(val).replace(/(\d+\.?\d*)/g, (m) => `${sym}${m}`);
 }
 
 function filterByTier(stocks: Stock[], tierKey: TierKey): Stock[] {
