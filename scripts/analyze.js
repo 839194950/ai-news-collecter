@@ -271,7 +271,6 @@ ${highImpactBlock}
 请严格按照以下 JSON 结构输出。不要包含任何 markdown 代码块标记，不要附带任何说明文字，只输出原始 JSON：
 
 {
-  "lastUpdated": "ISO 8601 时间戳",
   "macroMetrics": {
     "economicConfidence": 0-100,
     "regulatoryPressure": 0-100,
@@ -398,7 +397,7 @@ function ensureGlobalInvestmentRadar(radar) {
 function ensureCompleteReport(report) {
   if (!report || typeof report !== 'object') report = {};
 
-  report.lastUpdated = report.lastUpdated || new Date().toISOString();
+  report.lastUpdated = new Date().toISOString();
 
   // macroMetrics
   const mm = report.macroMetrics || {};

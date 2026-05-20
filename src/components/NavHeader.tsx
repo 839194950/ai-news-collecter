@@ -9,6 +9,14 @@ const NAV_LINKS = [
   { href: "/invest", label: "资产掘金雷达" },
 ];
 
+function formatBeijingTime(isoStr: string): string {
+  const d = new Date(isoStr);
+  if (isNaN(d.getTime())) return isoStr;
+  const bj = new Date(d.getTime() + 8 * 3600000);
+  const pad = (n: number) => String(n).padStart(2, '0');
+  return `${bj.getUTCFullYear()}-${pad(bj.getUTCMonth() + 1)}-${pad(bj.getUTCDate())} ${pad(bj.getUTCHours())}:${pad(bj.getUTCMinutes())}`;
+}
+
 export default function NavHeader({ lastUpdated }: { lastUpdated?: string }) {
   const pathname = usePathname();
 
@@ -44,7 +52,7 @@ export default function NavHeader({ lastUpdated }: { lastUpdated?: string }) {
             <RefreshCw className="w-3.5 h-3.5" /> 数据每 8 小时自动推演
           </span>
           {lastUpdated && (
-            <span className="border-l border-slate-200 pl-5">更新: {lastUpdated}</span>
+            <span className="border-l border-slate-200 pl-5">更新: {formatBeijingTime(lastUpdated)}</span>
           )}
         </div>
       </div>
