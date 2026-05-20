@@ -1,5 +1,149 @@
 [
   {
+    "title": "戴尔AI工厂客户超5000家，受英伟达驱动需求",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260519VL218/dell-nvidia-data-hardware-software.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "戴尔AI工厂本季新增1000家企业客户",
+      "使用英伟达芯片和软件打造企业AI应用"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "戴尔AI Factory服务器采用英伟达GPU和AI Enterprise软件，本季度企业客户从4000增至5000家，证明传统企业AI部署正在加速。戴尔已成为企业级AI基础设施‘最后一公里’的关键集成商。",
+      "transmissionChain": "利好英伟达及整个AI产业链：服务器代工厂（工业富联、广达）、散热（双鸿、奇鋐）、存储（美光）等。戴尔自身股价受提振，但面临超微电脑和惠普的竞争。对云厂商（AWS、Azure）构成一定替代，但企业混合部署需求更大。",
+      "chinaMarketMapping": "中国AI服务器厂商（浪潮信息、中科曙光）面临戴尔在国内的竞争，但国产化政策保护下，国内企业更倾向采购国产服务器。不过出口管制下，戴尔无法销售高性能GPU服务器给中国，反而利好华为昇腾生态。"
+    },
+    "publishedAt": "2026-05-19T08:59:47Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
+    "title": "英伟达向Anthropic、OpenAI、SpaceX AI等交付首批Vera CPU系统",
+    "source": "TweakTown",
+    "url": "https://www.tweaktown.com/news/111686/nvidia-hand-delivers-the-first-vera-cpu-systems-to-anthropic-openai-spacexai-and-more/index.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达高管亲自交付首批独立Vera CPU",
+      "专为Agentic AI设计，与GPU配合提供推理能力"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达副总裁Ian Buck亲手将首批Vera CPU交付给顶级AI公司。Vera是英伟达首款独立CPU，基于ARM架构，主要面向AI推理与代理型任务，功耗较低。此举标志英伟达从GPU扩展到CPU领域，意图构建完整AI计算平台。",
+      "transmissionChain": "Vera CPU将加深AI公司对英伟达生态的绑定，增加切换成本。对AMD、英特尔形成直接威胁，特别是数据中心CPU市场。同时利好英伟达供应链（台积电CoWoS、安费诺连接器）。但Vera初期可能受限于软件生态，长期看有望替代部分英特尔至强CPU。",
+      "chinaMarketMapping": "中国AI公司（百度、字节、阿里）因出口管制无法获得Vera，被迫采用国产CPU（海光、鲲鹏）或自研（平头哥）。这将加速中国AI芯片自主化，但短期内算力差距拉大。对A股海光信息、龙芯中科构成情绪利好。"
+    },
+    "publishedAt": "2026-05-19T08:57:06Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
+    "title": "渣打银行裁员超7000人，用AI替代‘低价值人力资本’",
+    "source": "CNA",
+    "url": "https://www.channelnewsasia.com/business/stanchart-cut-over-7000-jobs-boost-ai-replace-lower-value-human-capital-6130096",
+    "category": "AI_MODEL",
+    "summary": [
+      "渣打计划未来四年裁员7000人",
+      "用技术替代低附加值岗位，提升AI在运营中的比重"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "渣打银行宣布未来四年裁撤7000个岗位（约占总员工10%），主要涉及后台、运营、客服等低价值人工，将投资AI与自动化技术。这是银行业AI替代白领的又一个标志性案例，此前摩根大通、汇丰等已有类似计划。",
+      "transmissionChain": "直接利好AI服务商（Palantir、C3.ai）与对话式AI公司（Nuance、Five9）。但增加社会就业压力与反AI情绪。长期看，全球银行将削减30%后台岗位，节省成本用于技术投资。对消费者服务可能因减少人工服务而体验下降。",
+      "chinaMarketMapping": "中国银行业（工农中建）也在推进AI客服与智能风控，但国有企业就业压力大，裁员速度较慢。利好A股金融IT公司（恒生电子、宇信科技）以及AI应用标的（科大讯飞）。但需警惕银行减少IT采购预算的行业周期。"
+    },
+    "publishedAt": "2026-05-19T08:55:49Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
+    "title": "RAMageddon冲击内存供应链，AI浪潮推升笔记本与手机价格",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/ramageddon-%E8%A1%9D%E6%93%8A%E8%A8%98%E6%86%B6%E9%AB%94%E4%BE%9B%E6%87%89%E9%8F%88-ai%E6%B5%AA%E6%BD%AE%E6%8E%A8%E5%8D%87%E7%AD%86%E9%9B%BB%E8%88%87%E6%89%8B%E6%A9%9F%E5%83%B9%E6%A0%BC-085459571.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "全球内存芯片短缺导致DDR5价格暴涨",
+      "AI服务器消耗HBM挤占消费电子DRAM产能"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "AI服务器对HBM和DDR5的需求暴增，导致全球内存产能短缺，DDR5一年涨幅达414%。笔记本和手机厂商被迫提价。但前三星芯片总裁警告中国DRAM扩产将导致价格明年下半年反转。当前仍处于供需缺口高峰期。",
+      "transmissionChain": "存储涨价直接利好三星、SK海力士、美光，但中国扩产预期压制长期估值。下游PC与手机品牌（联想、戴尔、苹果）毛利率承压，可能主动减产。国产替代（长鑫、兆易创新）短期受益于价格高企，但长期面临产能过剩风险。",
+      "chinaMarketMapping": "中国手机与PC厂商（小米、华为、联想）成本上升，但可转嫁消费者。国内存储概念股（兆易创新、澜起科技）短期有交易性机会，但需警惕价格拐点。长鑫科技科创板IPO（待核准）若成功将加剧供给过剩预期。"
+    },
+    "publishedAt": "2026-05-19T08:54:59Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
+    "title": "黑石向谷歌合资AI基础设施公司投资50亿美元，使用TPU芯片",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "黑石与谷歌成立合资AI云公司，黑石出资50亿美元占主要股份",
+      "基于谷歌TPU提供计算即服务，目标2027年500兆瓦容量"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "黑石与谷歌成立合资公司，黑石出资50亿美元，整体交易规模250亿美元，谷歌提供TPU芯片和软件栈，合资公司向企业出售算力服务。此举使黑石深度绑定AI算力基础设施，同时谷歌获得大规模资金支持以扩大TPU生态。",
+      "transmissionChain": "对谷歌而言，TPU云业务获得长期资本支撑，可与AWS/Nvidia竞争；对黑石，获得AI时代核心资产现金流。对英伟达构成直接竞争，但短期因需求爆发市场可容纳多玩家。同时对AMD、英特尔等算力供应商形成压力。",
+      "chinaMarketMapping": "国内AI云厂商（阿里云、华为云、百度云）面临更激烈的全球竞争，但中美AI对话后中国也有可能引进谷歌TPU或加速自研（寒武纪、海光）。对A股AI算力租赁公司（鸿博股份、朗科科技）构成情绪利好，但实质影响有限。长期需关注国产TPU替代进程。"
+    },
+    "publishedAt": "2026-05-19T08:53:36Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
+    "title": "AI数据中心与加密挖矿推升民生负担，美国多州电费2030年前或暴增50%",
+    "source": "Technews.tw",
+    "url": "https://finance.technews.tw/2026/05/19/data-centers-could-contribute-to-a-more-than-50-increase-in-some-states-utility-prices-by-2030/",
+    "category": "AI_MODEL",
+    "summary": [
+      "研究报告警告AI数据中心与加密挖矿将推高美国电费",
+      "维吉尼亚州等数据中心密集区冲击最明显"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "《Environmental Research Letters》发表研究指出，到2030年美国整体批发电价平均上涨6%-29%，数据中心密集区（如维吉尼亚）可能高达57%。主要原因是AI服务器与加密货币矿机的高能耗。该研究基于美国能源信息署数据与AI投资增长预测。",
+      "transmissionChain": "电价上涨将直接提高AI云服务的运营成本，可能转嫁给终端客户，抑制中小企业AI采用。同时推动科技公司投资核能（SMR）与可再生能源，利好核电（NuScale）与储能公司。加密矿商因成本上升被迫转向低电价区域或关闭。公用事业股因电价上涨预期近期大涨。",
+      "chinaMarketMapping": "中国同样面临AI数据中心电力紧张，但中国电网更集中且政府补贴可控电价。国内数据中心运营商（光环新网、宝信软件）可能受益于稀缺性溢价。同时促进液冷技术（英维克）与绿色电力交易（三峡能源）需求。但需警惕政策限电风险。"
+    },
+    "publishedAt": "2026-05-19T08:40:31Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
+    "title": "恩智浦推CoreRide平台，联手英业达、台达电组建车用AI生态",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E6%81%A9%E6%99%BA%E6%B5%A6%E6%8E%A8coreride%E5%B9%B3%E5%8F%B0-%E6%8F%AA%E8%8B%B1%E6%A5%AD%E9%81%94-%E5%8F%B0%E9%81%94%E9%9B%BB%E7%B5%84%E8%BB%8A%E7%94%A8ai%E7%94%9F%E6%85%8B%E7%B3%BB-081700081.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "恩智浦发布CoreRide区域参考系统，与台厂深度合作",
+      "目标降低软件开发复杂性，加速软件定义汽车落地"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "恩智浦联合英业达、台达电、Vector推出CoreRide区域控制器平台，是业界首款经预验证的参考设计。它将多个ECU功能集成到单一域控制器，降低60%电子架构复杂度。英业达负责制造，台达电提供电源管理。",
+      "transmissionChain": "该平台将加速传统车厂向区域架构转型，为台厂（英业达、台达）带来新订单。对现有Tier1供应商（博世、大陆集团）构成竞争。同时推动车用MCU与SoC需求，利好恩智浦本身及意法半导体。",
+      "chinaMarketMapping": "中国车厂（比亚迪、蔚来、小鹏）多自研电子架构，对外部平台依赖较低。但中国Tier1（德赛西威、经纬恒润）可能借鉴该平台思路，推出类似国产方案。A股汽车电子（均胜电子、华阳集团）需关注竞争格局。"
+    },
+    "publishedAt": "2026-05-19T08:17:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
+    "title": "三星罢工谈判有进展？韩官员坦言2分歧未解",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E4%B8%89%E6%98%9F%E7%BD%B7%E5%B7%A5%E8%AB%87%E5%88%A4%E6%9C%89%E9%80%B2%E5%B1%95-%E9%9F%93%E5%AE%98%E5%93%A1%E5%9D%A6%E8%A8%802%E5%88%86%E6%AD%A7%E6%9C%AA%E8%A7%A3-074215996.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "三星罢工最后期限临近，劳资谈判仍有2项分歧",
+      "若罢工爆发将影响存储芯片与代工产能"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星电子劳资双方今日进入第二天协商，距离5月20日罢工截止不到48小时。官员表示仍有2项关键分歧（工资涨幅与分红制度）未解决。谈判若破裂，将首次发生三星工会大罢工，影响全球存储与代工产能。",
+      "transmissionChain": "罢工将推升存储芯片价格，利好美光、SK海力士及中国长鑫。代工客户（英伟达、AMD）可能将订单转向台积电。对三星自身品牌声誉造成长期损害。韩国政府可能介入调解以避免出口损失。",
+      "chinaMarketMapping": "中国存储厂商（兆易创新、长鑫）将因三星产能受限获得订单转移机会。手机产业链（小米、OPPO）可能面临芯片提价压力。A股存储板块短期有交易性机会，但需警惕罢工解决后价格回落。"
+    },
+    "publishedAt": "2026-05-19T08:12:09Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
     "title": "月之暗面Kimi融资获国资加持，国智投、中国移动等央企巨头入场",
     "source": "Ithome.com",
     "url": "https://www.ithome.com/0/952/336.htm",
@@ -414,6 +558,24 @@
     "addedAt": "2026-05-20T07:34:27.261Z"
   },
   {
+    "title": "特朗普称应海湾国家请求取消了计划中的对伊朗打击行动",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/trump-iran-attack-called-off-gulf-states/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "特朗普临时取消军事打击并称‘推迟一小会儿，希望永远不发生’",
+      "中东地缘风险短期缓和，但谈判仍在进行"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "特朗普在Truth Social上宣布应海湾国家（沙特、阿联酋）请求，取消原定的对伊朗空袭计划。此前美军已部署到位，但因盟友担心油价暴涨与资本外逃而叫停。事实上美伊双方仍在通过阿曼进行间接谈判。",
+      "transmissionChain": "地缘风险缓和立即导致原油大跌2%，布伦特回落至102美元。避险资产（黄金、美元）回落，风险资产短期反弹。但核心矛盾未解，若谈判破裂冲突可能随时重启。对航运、保险业影响复杂：短期保费下降，长期不确定性仍存。",
+      "chinaMarketMapping": "中国作为最大石油进口国直接受益于油价下跌，降低输入性通胀压力，利好航空、化工等用油行业。但中东不稳定长期影响一带一路基础设施与能源合作，中国可能加速推进人民币石油结算。A股军工板块短期承压，但南海/台海风险独立于中东。"
+    },
+    "publishedAt": "2026-05-19T04:52:48Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-20T09:10:01.288Z"
+  },
+  {
     "title": "谷歌与黑石联手成立AI云公司",
     "source": "Lokmattimes.com",
     "url": "https://www.lokmattimes.com/business/google-blackstone-join-hands-to-form-ai-cloud-company/",
@@ -556,167 +718,5 @@
     "publishedAt": "2026-05-19T04:19:11Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T04:42:34.644Z"
-  },
-  {
-    "title": "Anthropic收购Stainless并停止对外服务，切断竞争对手开发者工具",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/info-tech/openai-avoided-costly-court-loss-to-elon-musk-but-neither-side-unscathed/article70996614.ece",
-    "category": "AI_MODEL",
-    "summary": [
-      "Anthropic收购SDK生成平台Stainless",
-      "终止对OpenAI和Google的API密钥支持"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Anthropic收购了API SDK生成工具Stainless，并立即终止该平台对非Anthropic客户的服务，直接切断了OpenAI、Google等竞争对手的开发者基础设施。Stainless此前为多家AI公司提供标准化SDK生成服务，这一收购使Anthropic独享其技术，并迫使竞争对手自建类似工具。",
-      "transmissionChain": "OpenAI与Google的开发者体验受损，迁移成本上升，部分中小开发者可能转向Anthropic生态。Anthropic通过控制开发者工具链增强用户粘性，类似微软对GitHub的锁定。长期看，AI应用开发可能进一步向头部模型集中，创新活力受压制。",
-      "chinaMarketMapping": "国内AI公司（字节、百度）需警惕国际生态碎片化风险，应加快自研SDK与工具链建设。此事件提醒国内创业者，不要过度依赖单一国外模型API，应构建多模型兼容架构。A股软件开发工具标的（如泛微网络、用友网络）可能受益于企业自建AI基础设施的需求。"
-    },
-    "publishedAt": "2026-05-19T04:19:11Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "AI盛宴无视能源红线！商品老将示警：美股或迎血腥“大白鲨时刻”",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/ai%E7%9B%9B%E5%AE%B4%E7%84%A1%E8%A6%96%E8%83%BD%E6%BA%90%E7%B4%85%E7%B7%9A-%E5%95%86%E5%93%81%E8%80%81%E5%B0%87%E7%A4%BA%E8%AD%A6-%E7%BE%8E%E8%82%A1%E6%88%96%E8%BF%8E%E8%A1%80%E8%85%A5-%E5%A4%A7%E7%99%BD%E9%AF%8A%E6%99%82%E5%88%BB-121803896.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "高盛前商品主管Jeff Currie警告AI能源需求导致美股风险",
-      "比喻为《大白鲨》场景，投资者忽视远方鲨鱼鳍"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "高盛前大宗商品主管、Abaxx Exchange联合主席Jeff Currie用电影《大白鲨》形容当前市场：AI狂潮中投资者对能源瓶颈视而不见，而电力短缺、电价飙升、数据中心受阻等‘鲨鱼鳍’已浮现。Currie建议做多能源股、做空科技股。",
-      "transmissionChain": "上游：能源股（电力、天然气、核电）受益于AI需求，资金流入增加。中游：数据中心建设成本上升，可能拖累AI基础设施投资回报率。下游：科技公司若无法控制能源成本，利润受压，估值回调。",
-      "chinaMarketMapping": "中国同样面临AI电力压力，但政策通过‘东数西算’引导数据中心向西部清洁能源地区布局。利好电力股（华能国际、长江电力）和能源IT公司（国电南瑞）。对A股：需警惕高能耗AI公司如中科曙光、浪潮信息的电力成本风险，但数据中心节能技术（液冷）公司如英维克受益。"
-    },
-    "publishedAt": "2026-05-19T04:18:03Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:23:08.051Z"
-  },
-  {
-    "title": "Anthropic收购SDK供应商Stainless，切断OpenAI和Google的开发者基础设施",
-    "source": "Inside.com.tw",
-    "url": "https://www.inside.com.tw/article/41323-anthropic-acquires-stainless",
-    "category": "AI_MODEL",
-    "summary": [
-      "Anthropic收购Stainless并停止对外服务，强化AI代理生态系统",
-      "OpenAI、Google失去关键SDK生成工具，开发依赖加深"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Anthropic收购了SDK生成工具商Stainless，并立即终止其对OpenAI、Google等第三方服务，转而将其工具私有化以加速自身AI代理（MCP协议）的开发。Stainless此前是多家AI公司共享的基础设施层，此举意味着Anthropic试图通过控制开发者工具链来锁定生态。",
-      "transmissionChain": "上游：SDK工具短缺将迫使OpenAI和Google自研或寻找替代方案，增加开发成本。中游：AI代理应用开发者将更倾向于使用Anthropic的Claude和MCP协议，带动其API调用量。下游：企业级AI应用可能因底层工具差异而转向Anthropic生态。",
-      "chinaMarketMapping": "中国AI公司（如百度、字节跳动）目前依赖自研或开源SDK，短期不受直接影响，但长期若MCP成为标准，需兼容Anthropic生态。利好国内SDK替代厂商如极视角、旷视科技，但需加速自主研发。对A股：科大讯飞、三六零等可关注自研MCP兼容层的机会。"
-    },
-    "publishedAt": "2026-05-19T04:04:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:23:08.051Z"
-  },
-  {
-    "title": "谷歌与黑石集团联合成立AI云公司，投资50亿美元",
-    "source": "The Indian Express",
-    "url": "https://indianexpress.com/article/technology/tech-news-technology/google-blackstone-to-launch-ai-cloud-venture-to-meet-data-centre-demand-10696783/",
-    "category": "AI_MODEL",
-    "summary": [
-      "合资企业提供基于谷歌TPU的计算即服务",
-      "黑石出资50亿美元占主要股份"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "谷歌与黑石成立AI云公司，黑石投入50亿美元股权，合资公司将利用谷歌TPU和黑石的数据中心资产提供AI计算服务。这是金融资本与科技巨头深度捆绑AI基建的标志性事件，可能改变AI云市场格局。",
-      "transmissionChain": "上游：谷歌TPU需求增长，利好台积电制造。中游：传统云厂商（AWS、Azure）面临竞争，可能跟进类似合作。下游：AI初创公司获得更多算力选择，但可能被锁定在谷歌生态。",
-      "chinaMarketMapping": "类似模式可能在中国出现：阿里云+国家大基金、腾讯云+地方国资。利好国内数据中心运营商（万国数据、世纪互联）和电力供应商。A股光环新网、数据港等受益。但需注意，中国AI云市场已高度集中，新进入者壁垒高。"
-    },
-    "publishedAt": "2026-05-19T03:45:24Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:23:08.051Z"
-  },
-  {
-    "title": "小鹏汽车首款量产Robotaxi下线，目标2027年无人驾驶运营",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/952/219.htm",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "小鹏GX量产，具备L4级能力",
-      "使用4颗自研AI芯片，算力3000 TOPS"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "小鹏汽车在广州工厂正式量产首款无人出租车GX，搭载4颗自研AI芯片（总算力3000 TOPS），实现L4级自动驾驶。目标2027年在全国多个城市开展完全无人驾驶运营。这是中国车企在Robotaxi领域的里程碑。",
-      "transmissionChain": "上游：激光雷达（禾赛科技、速腾聚创）、摄像头（舜宇光学）等供应商受益。中游：出行平台（滴滴、高德）可能与小鹏合作运营。下游：消费者出行成本降低，但法规与公众接受度仍是挑战。",
-      "chinaMarketMapping": "直接利好禾赛科技（激光雷达）、德赛西威（域控制器）、四维图新（高精地图）。A股自动驾驶概念股（中科创达、经纬恒润）情绪提振。对创业者，Robotaxi产业链中传感器清洗、远程监控等细分领域有机会。"
-    },
-    "publishedAt": "2026-05-19T03:42:46Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:23:08.051Z"
-  },
-  {
-    "title": "小鹏汽车首款量产Robotaxi下线",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/952/239.htm",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "小鹏GX量产，具备L4级能力",
-      "使用4颗自研AI芯片，算力3000 TOPS"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "小鹏汽车首款量产Robotaxi车型GX在广州工厂正式下线，该车搭载4颗自研AI芯片（总算力3000 TOPS），计划2027年实现完全无人驾驶运营，并已在广州开启示范运营。",
-      "transmissionChain": "小鹏成为全球首家量产Robotaxi的车企，领先Waymo（改装车）和特斯拉（FSD未落地）。产业链中，传感器供应商（禾赛科技、速腾聚创）、芯片设计商（黑芝麻智能）受益。同时推动国内自动驾驶政策法规加速制定。",
-      "chinaMarketMapping": "利好A股智能驾驶板块，德赛西威、华域汽车等零部件厂商确定性强。但需关注L4级事故责任立法进展，若出现重大事故可能打击行业信心。长期看，Robotaxi运营利润空间巨大，小鹏有望成为平台型公司，但短期成本高昂面临财务压力。"
-    },
-    "publishedAt": "2026-05-19T03:42:46Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:33:21.610Z"
-  },
-  {
-    "title": "小鹏汽车首款量产Robotaxi下线，目标2027年无人驾驶运营",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/952/223.htm",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "小鹏GX量产下线，具备L4级能力，使用4颗自研AI芯片（算力3000 TOPS）",
-      "计划2027年实现无人驾驶运营，广州将开示范运营"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "小鹏汽车首款量产Robotaxi GX在广州工厂下线，搭载4颗自研AI芯片（3000 TOPS算力），具备L4级自动驾驶能力。计划2027年实现商业化无人驾驶运营，广州率先开放示范。",
-      "transmissionChain": "利好小鹏供应链（摄像头、雷达、域控制器），以及高精地图与V2X产业。对特斯拉FSD形成竞争压力。推动自动驾驶芯片需求，英伟达、地平线受益。中国Robotaxi赛道进入量产阶段。",
-      "chinaMarketMapping": "对中国A股：德赛西威（域控制器）、中科创达（软件）、万集科技（V2X）直接受益。百度Apollo生态面临竞争，但整体利好自动驾驶产业链。关注广州本地出租车运营公司（如广汽集团）的转型机会。"
-    },
-    "publishedAt": "2026-05-19T03:42:46Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T04:42:34.644Z"
-  },
-  {
-    "title": "小鹏汽车首款量产Robotaxi下线，目标2027年实现无人驾驶运营",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/952/249.htm",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "小鹏GX量产，具备L4级能力",
-      "使用4颗自研AI芯片，算力3000 TOPS"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "小鹏汽车宣布其首款量产Robotaxi车型GX在广州工厂正式下线。该车配备4颗自研图灵AI芯片，总算力3000 TOPS，传感器方案包括13个摄像头、5个毫米波雷达与2个激光雷达，安全设计冗余超过行业标准。计划2027年底前在广州限定区域提供无人驾驶运营服务。",
-      "transmissionChain": "小鹏自动驾驶技术商业化领先国内对手，有望率先实现robotaxi营收。供应链中，德赛西威（域控）、联创电子（摄像头）、禾赛科技（激光雷达）等核心供应商直接受益。传统出租车公司面临颠覆，但可与车企合作转型。",
-      "chinaMarketMapping": "A股智能驾驶板块情绪提振，政策预期升温。小鹏GX量产将倒逼百度Apollo、滴滴等加速推进。建议关注激光雷达（禾赛、速腾聚创）与高精地图（四维图新）标的。但需注意运营牌照审批与安全性争议可能延缓商业化节奏。"
-    },
-    "publishedAt": "2026-05-19T03:42:46Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T05:52:19.197Z"
-  },
-  {
-    "title": "小鹏汽车首款量产Robotaxi下线，目标2027年无人驾驶运营",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/952/...",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "小鹏GX在广州工厂量产，L4级能力",
-      "使用4颗自研AI芯片，算力3000 TOPS"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "小鹏汽车首款量产Robotaxi GX在广州工厂正式下线，具备L4级自动驾驶能力，搭载4颗自研AI芯片，总算力3000 TOPS。公司计划2027年实现无人驾驶运营，广州将率先开展示范运营。",
-      "transmissionChain": "小鹏量产Robotaxi标志中国自动驾驶商业化里程碑，推动激光雷达、高精地图、AI芯片需求。利好供应商如禾赛科技、德赛西威。竞争对手百度、滴滴等加速落地。",
-      "chinaMarketMapping": "A股自动驾驶板块（德赛西威、中科创达、均胜电子）情绪提振。政策层面若广州示范运营顺利，可能加速全国L3/L4法规开放。但运营安全与盈利模式尚需验证，概念股有炒作风险。"
-    },
-    "publishedAt": "2026-05-19T03:42:46Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
   }
 ]

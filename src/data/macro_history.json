@@ -67,9 +67,9 @@
   },
   {
     "date": "2026-05-20",
-    "confidence": 45,
-    "liquidity": 45,
-    "mediaSentiment": -0.1,
+    "confidence": 50,
+    "liquidity": 48,
+    "mediaSentiment": 0,
     "socialSentiment": -0.2,
     "regime": "滞胀",
     "fearGreedIndex": 35,
@@ -80,7 +80,7 @@
         "trendDirection": "up"
       },
       {
-        "keyword": "电力基础设施",
+        "keyword": "先进封装",
         "momentumScore": 8,
         "trendDirection": "up"
       },
@@ -91,12 +91,12 @@
       },
       {
         "keyword": "存储芯片",
-        "momentumScore": 5,
+        "momentumScore": 6,
         "trendDirection": "down"
       },
       {
-        "keyword": "科技股回调",
-        "momentumScore": 9,
+        "keyword": "消费电子",
+        "momentumScore": 4,
         "trendDirection": "down"
       }
     ]
