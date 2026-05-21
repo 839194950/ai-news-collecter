@@ -119,7 +119,7 @@ function fmtPrice(val, code) {
   if (val == null || val === '--' || val === '') return '--';
   const sym = isACode(code) ? '¥' : '$';
   if (typeof val === 'number') return sym + val.toFixed(2);
-  return String(val).replace(/(\d+\.?\d*)/g, sym + '$1');
+  return String(val).replace(/(\d+\.?\d*)/g, (m) => sym + m);
 }
 
 function stockCardHTML(stock, idx) {
