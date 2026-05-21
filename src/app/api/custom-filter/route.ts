@@ -108,14 +108,18 @@ export async function POST(request: NextRequest) {
 - 根据基本面、行业主题、成长逻辑进行定性判断，挑选最符合用户策略描述的标的
 - 每支入选股票必须给出 60 字以内的【动态入选理由】
 - 严禁硬编码价格分档或绝对价格区间——价格筛选由后端系统自动完成
-- 如果没有任何股票符合条件，返回空数组
+- 如果没有任何股票符合条件，results 返回空数组
+
+## 输出格式（必须遵守）
+只输出 JSON，不要 markdown 代码块：
+{ "results": [{ "code": "股票代码", "dynamicReason": "动态入选理由（60 字以内）" }] }
 
 ## 铁律 — 禁止伪造数据
-你只能在返回结果中输出以下字段：code（股票代码）、dynamicReason（动态入选理由）。严禁输出任何价格、市盈率、建仓区间等数值字段——这些必须由系统后端从股票池中原地读取最新真实数据。`,
+你只能输出 code 和 dynamicReason 字段。严禁输出任何价格、市盈率、建仓区间等数值字段——这些必须由系统后端从股票池中原地读取最新真实数据。`,
         },
         {
           role: 'user',
-          content: `【全量股票池（所有数据均为最新真实行情）】\n${stockPoolSummary}\n\n【自定义投资策略】\n${query}\n\n请精选最符合要求的标的。只返回 code 和 dynamicReason，不要包含任何价格数据。`,
+          content: `【全量股票池（所有数据均为最新真实行情）】\n${stockPoolSummary}\n\n【自定义投资策略】\n${query}\n\n请精选最符合要求的标的，按 {"results": [{"code": "...", "dynamicReason": "..."}]} 格式返回。不要包含任何价格数据。`,
         },
       ],
       response_format: { type: 'json_object' },
