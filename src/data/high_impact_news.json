@@ -1,5 +1,167 @@
 [
   {
+    "title": "台湾行政院通过2949亿国防特别预算，举债88亿支应",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E6%94%BF%E9%99%A2%E9%80%9A%E9%81%8E2949%E5%84%84%E5%9C%8B%E9%98%B2%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97-%E8%88%89%E5%82%B588%E5%84%84%E6%94%AF%E6%87%89-064345661.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "行政院通过国防特别预算，总需求2949亿新台币",
+      "115年度先编列88亿元，用于对美军购"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台湾行政院院会通过国防特别预算案，总经费2949亿9098万元，分八年编列，首期115年度88亿元，以举债支应。赖清德520演说也强调将持续发展无人机产业，建构不对称战力。",
+      "transmissionChain": "预算主要用于对美军购（F-16V、M1A2坦克、无人机），带动美国军工股（洛马、雷神）订单。台湾本土军工企业（雷虎科技、汉翔）获得转单机会。半导体及精密机械产业（台积电、鸿海）通过‘非红供应链’定位受益。但蓝白阵营后续审议可能再砍预算，增加不确定性。",
+      "chinaMarketMapping": "对中国国防板块形成对比刺激：A股军工板块（中航沈飞、中国动力）受益于‘加快建设世界一流军队’战略。若台海紧张升级，可能加速国产替代。但短期外资担忧地缘风险，沪深300承压。投资者可关注军民融合细分，如无人机（航天彩虹）、雷达（国睿科技）。"
+    },
+    "publishedAt": "2026-05-20T06:43:45Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
+    "title": "三星因薪资谈判破裂面临罢工",
+    "source": "Abcnews.com",
+    "url": "https://abcnews.com/Technology/wireStory/samsung-faces-strike-after-pay-talks-union-fall-133138591",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "三星电子管理层的最后一刻薪资谈判失败",
+      "三星工会宣布从5月21日起罢工18天，涉及4.7万名员工"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星电子与全国三星电子工会（NSEU）谈判破裂，工会宣布从5月21日起罢工18天，涉及4.7万名员工，是三星55年历史上首次大罢工。核心诉求是加薪7%与改善绩效奖金。",
+      "transmissionChain": "罢工直接影响三星内存（HBM与DDR5）、代工（Exynos与逻辑芯片）和消费电子（Galaxy手机）产能。HBM供应紧张将推升价格，利好SK海力士、美光。代工客户（高通、AMD）可能转移订单至台积电，冲击三星晶圆厂利用率。消费电子出货延迟，影响苹果、小米等客户。",
+      "chinaMarketMapping": "对中国存储国产替代有利：长江存储IPO、长鑫存储扩产加速，政府要求关键芯片自主可控。A股存储概念（兆易创新、北京君正）短期受益于涨价预期。但若罢工造成全球存储短缺，中国手机、服务器厂商采购成本上升，利润承压。三星西安工厂是否受波及需关注。"
+    },
+    "publishedAt": "2026-05-20T06:43:01Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
+    "title": "赖清德执政2周年宣布0至18岁每月发5000元津贴",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%9F%B7%E6%94%BF2%E5%91%A8%E5%B9%B4-%E5%AE%A3%E5%B8%830%E5%88%B018%E6%AD%B2%E6%AF%8F%E6%9C%88%E7%99%BC5000%E5%85%83%E6%B4%A5%E8%B2%BC-064002413.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "赖清德520谈话宣布0至18岁每月5000元成长津贴",
+      "同时提出国防特别预算与维持台海和平稳定目标"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "赖清德在就职2周年谈话中宣布针对少子化问题的家庭支持政策：0到18岁每人每月5000元津贴，年预算约2000亿元，不会排挤其他预算。同时证实军购追加预算。",
+      "transmissionChain": "该政策直接刺激台湾内需消费：零售、母婴、教育板块受益。长期可能提高出生率，利好房地产与幼教。但2000亿支出增加财政压力，可能推升台湾公债收益率，影响金融股。军购追加也强化台湾'非红供应链'地位，半导体与无人机产业链受益。",
+      "chinaMarketMapping": "对中国大陆来说，台湾福利政策对比凸显大陆在鼓励生育方面的不足，但中国大陆财政可承受更大力度。A股婴童概念（贝因美、孩子王）可能受逻辑映射而短炒。国防预算对比则凸显大陆军工重要性，利好国产替代。但台湾政策对A股直接实质影响有限。"
+    },
+    "publishedAt": "2026-05-20T06:40:02Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
+    "title": "Meta要求员工在家办公然后凌晨4点发裁员邮件：内部备忘录流出",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/meta-told-employees-to-work-from-home-then-sent-4-am-layoff-emails-leaked-memo-reads-were-now-at-the-stage-where-/articleshow/131218944.cms",
+    "category": "AI_MODEL",
+    "summary": [
+      "Meta裁员约8000人，凌晨4点发送解雇邮件",
+      "重组聚焦AI，转岗7000人至AI团队"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Meta在全球裁员约8000人（约10%），包括爱尔兰、印度等地员工。公司要求员工在家办公后发送解雇邮件，手段引发争议。同时内部备忘录显示，公司将裁员作为AI重组的一部分，大量员工将调至AI职位。",
+      "transmissionChain": "Meta裁员节省成本约50亿美元/年，资金投向AI基础设施（Llama模型、元宇宙AI）。裁员冲击技术人员信心，但利好AI工具（如Cursor）提高开发效率。对广告商而言，Meta AI工具（Advantage+）可能提升广告ROI，吸引预算从Google转移。",
+      "chinaMarketMapping": "对中国科技公司（字节跳动、腾讯）而言，Meta的AI优先战略表明需加大AI投入，否则面临竞争落后。A股AI概念短期受情绪压制，但长期看中国AI人才可能回流，利好国内AI大厂。注意Meta裁员对代工（富士康）影响不大。"
+    },
+    "publishedAt": "2026-05-20T06:37:05Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
+    "title": "AI大神Karpathy加入Anthropic，押注‘AI帮AI做研究’",
+    "source": "Yahoo Entertainment",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cbdad23a-3e59-4524-95a3-18afdb6b0fb6",
+    "category": "AI_MODEL",
+    "summary": [
+      "OpenAI联合创始人Andrej Karpathy加入Anthropic预训练团队",
+      "将组建Claude自我加速预训练团队，推动‘AI帮AI做研究’"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Karpathy在5月19日宣布加入Anthropic的预训练团队，将组建新团队专注于Claude模型的自我加速预训练，目标是让AI辅助AI研究，提升训练效率。他此前在OpenAI和Tesla任职。",
+      "transmissionChain": "Karpathy的加盟可能加速Anthropic在预训练效率上的突破，降低对英伟达GPU的依赖。人才从OpenAI流向竞争对手，削弱OpenAI领先地位。Anthropic估值提升，有利于其融资或上市。对英伟达而言，更高效的训练算法可能减少GPU需求，长期利空。",
+      "chinaMarketMapping": "中国AI大模型公司（百度、阿里）正面对人才流失风险（国内顶尖AI科学家被海外挖角），需加强人才激励。但消息也鼓励中国发展自主训练框架，减少对国外模型依赖。A股中，寒武纪等AI芯片企业长期受益于中国算力生态建设。"
+    },
+    "publishedAt": "2026-05-20T06:31:41Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
+    "title": "中国海关拒绝英伟达RTX 5090 D v2显卡入口通行证",
+    "source": "Unwire.hk",
+    "url": "https://unwire.hk/2026/05/20/china-bans-nvidia-rtx-5090-d-v2-import/wireless-home/desktop-pc/",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "英伟达专为中国设计的RTX 5090 D v2被中国海关禁令拦截",
+      "禁令毫无先兆，英伟达措手不及"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达为遵守美国出口管制而设计的降级版RTX 5090 D v2显卡，在进入中国市场时被中国海关拒绝放行。这不是美国禁令，而是中国海关自主行动，可能为反制美国技术封锁。",
+      "transmissionChain": "禁令直接打击英伟达在中国消费级GPU市场的收入，利好本土显卡厂商（景嘉微、摩尔线程）。数据中心GPU（H20等）同样面临风险。中国游戏玩家转向AMD或国产显卡，渠道商库存受损。",
+      "chinaMarketMapping": "对中国来说，这是自主可控的又一次胜利，但短期游戏玩家和AI爱好者面临高端显卡短缺。A股景嘉微等GPU概念短期有资金炒作，但需警惕若中美贸易战升级，更多芯片被禁，国产替代必须加速但没有先进制程下难度很大。"
+    },
+    "publishedAt": "2026-05-20T06:31:12Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
+    "title": "英伟达豪掷900亿美元布局AI生态系，以投资‘固桩’客户与供应链",
+    "source": "Technews.tw",
+    "url": "https://finance.technews.tw/2026/05/20/nvidias-jensen-huang-bankrolls-ai-boom-with-90bn-deal-spree/",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达投资约900亿美元，覆盖云、光通讯、数据中心等",
+      "意图将客户与初创牢固绑定在自身生态"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达在近期完成约900亿美元的交易，投资范围包括云服务（CoreWeave）、光通讯（Coherent）、数据中心（Equinix）等。其战略是不仅卖芯片，还通过股权投资锁定客户和供应链，巩固AI生态霸权。",
+      "transmissionChain": "英伟达的投资将强化其AI工厂全栈能力，影响下游竞争格局。被投资公司（如CoreWeave）将优先采用英伟达产品，排挤AMD。光通讯公司（Coherent）增加产能，利好上游材料。对AWS、谷歌等自研芯片客户施加压力，促使他们更快推出替代方案。",
+      "chinaMarketMapping": "英伟达生态扩张对中国AI产业形成技术封锁风险。中国企业（华为、中科曙光）必须加速昇腾、算力基建。A股光通讯（中际旭创、新易盛）受益于全球数通需求，但需警惕如果英伟达投资供应商后，中国公司可能被排除在高端供应链外。"
+    },
+    "publishedAt": "2026-05-20T06:20:13Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
+    "title": "习近平呼吁中东全面停火，建立更公正的全球规则体系",
+    "source": "The Irish Times",
+    "url": "https://www.irishtimes.com/world/asia-pacific/2026/05/20/xi-calls-for-comprehensive-middle-east-ceasefire-and-more-just-global-rules-system/",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "习近平在与普京会谈时呼吁中东全面停火",
+      "同时倡导建立更公正的全球规则体系"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "中国国家主席习近平在北京与俄罗斯总统普京进行会晤，公开呼吁中东冲突各方实现全面停火，并倡导改革全球治理体系，使其更加公正。这是在特朗普离开中国后、普京立即访华的背景下进行的。",
+      "transmissionChain": "中俄元首会晤强化两国战略协作，可能推动‘去美元化’和本币结算，削弱美元地位。中东停火呼吁若被采纳，将缓解油价风险，利好航空、航运业。但若谈判失败，可能引发新一轮制裁，影响全球能源供应。",
+      "chinaMarketMapping": "对中国股市而言，地缘缓和利好一带一路板块（中国交建、中国铁建）和人民币资产。但若中美关系因中俄靠近而紧张，出口企业面临关税风险。人民币国际化概念（跨境支付CIPS）短期有催化。"
+    },
+    "publishedAt": "2026-05-20T06:10:45Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
+    "title": "白宫宣布即将出台比特币储备计划，官员称扫清法律障碍",
+    "source": "Naturalnews.com",
+    "url": "https://www.naturalnews.com/2026-05-20-white-house-announces-imminent-bitcoin-reserve-plan.html",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "白宫数字资产顾问委员会执行主任透露美国战略比特币储备(SBR)即将正式宣布",
+      "法律障碍已清除"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "白宫官员Patrick Witt声称美国战略比特币储备计划即将宣布，法律障碍已清除。但来源Naturalnews.com以阴谋论报道知名，可信度存疑。",
+      "transmissionChain": "若消息属实，将极大提振比特币价格（可能突破10万美元），带动加密矿企（MARA、RIOT）和Coinbase。美元稳定币需求增加，非美元货币承压。但若为假新闻，比特币将回调。",
+      "chinaMarketMapping": "中国禁止加密货币交易，但中美资产联动下比特币大涨可能刺激A股区块链概念（四方精创、易见股份）短炒。实际上，中国政府可能加速数字人民币推进以对抗美元加密霸权。"
+    },
+    "publishedAt": "2026-05-20T06:00:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T06:48:16.677Z"
+  },
+  {
     "title": "欧洲电动车销量因石油冲击而飙升",
     "source": "OilPrice.com",
     "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-EV-Sales-Surge-as-Oil-Shock-Hits-Drivers.html",
@@ -563,167 +725,5 @@
     "publishedAt": "2026-05-19T07:37:28Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T07:50:07.142Z"
-  },
-  {
-    "title": "外交部：中美同意开展人工智能政府间对话",
-    "source": "36kr.com",
-    "url": "https://36kr.com/newsflashes/3815898306797064",
-    "category": "AI_MODEL",
-    "summary": [
-      "外交部宣布中美两国元首同意开展AI政府间对话",
-      "将推动AI发展与治理合作"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "外交部发言人郭嘉昆证实，特朗普访华期间，中美两国元首就人工智能问题进行了建设性交流，同意开展政府间对话。这是全球两个最大AI国家首次正式建立治理层面的沟通机制。",
-      "transmissionChain": "对话机制→降低AI技术出口管制风险→中美科技股估值修复→AI领域联合标准制定→美国放松对华AI芯片封锁预期→利好中国AI算力自主建设。",
-      "chinaMarketMapping": "直接利好自主AI算力与模型公司，寒武纪、海光信息、科大讯飞等有望获得国际协作机会。同时，美国半导体设备出口中国的限制可能阶段性松动，利好中芯国际、华虹半导体。"
-    },
-    "publishedAt": "2026-05-19T07:32:29Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:50:07.142Z"
-  },
-  {
-    "title": "英特尔与高通竞购Tenstorrent，英伟达替代者交易来临",
-    "source": "The Next Web",
-    "url": "https://thenextweb.com/news/tenstorrent-intel-qualcomm-takeover-jim-keller-risc-v/",
-    "category": "AI_MODEL",
-    "summary": [
-      "英特尔与高通初步接触Jim Keller领导的AI芯片初创Tenstorrent",
-      "Tenstorrent去年融资8亿美元，估值32亿美元，背后有贝索斯与三星支持"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "彭博报道英特尔与高通正在进行早期收购谈判，收购对象是Jim Keller领导的AI芯片初创公司Tenstorrent，该公司去年以32亿美元估值融资8亿美元，投资者包括贝索斯和三星。Tenstorrent采用RISC-V架构，被视为英伟达GPU的潜在替代方案。",
-      "transmissionChain": "如果英特尔收购成功，将强化其AI芯片实力，与英伟达、AMD竞争，并推动RISC-V生态成熟；高通若拿下，则补足其服务器芯片短板。无论谁成功，都将加速AI芯片架构多元化，削弱英伟达的垄断地位。",
-      "chinaMarketMapping": "Tenstorrent曾表示愿向中国出售芯片，若被英特尔/高通收购，可能面临美国出口管制，对中国AI算力供应不利。但RISC-V开源特性或激励中国本土RISC-V设计（如玄铁系列），利好阿里平头哥、赛昉科技等。A股相关标的：北京君正（RISC-V）、全志科技（AI SoC）。"
-    },
-    "publishedAt": "2026-05-19T07:28:06Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:34:27.261Z"
-  },
-  {
-    "title": "NextEra世纪并购掀海外电力能源ETF狂飙",
-    "source": "Technews.tw",
-    "url": "https://finance.technews.tw/2026/05/19/nextera/",
-    "category": "AI_MODEL",
-    "summary": [
-      "NextEra以670亿美元收购Dominion，成全球最大受监管电力公司",
-      "美国电力ETF受AI数据中心需求提振大涨"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国大型电力公司NextEra Energy同意以670亿美元收购同业Dominion Energy，合并后将成为全球市值最大的受监管电力公司，覆盖从佛罗里达到弗吉尼亚的AI数据中心集群。交易反映AI算力需求正推动电力行业大规模整合。",
-      "transmissionChain": "直接利好NextEra股东，电力ETF资金涌入。AI数据中心开发商（如AMT、DLR）因电力供应稳定受益，上游输电设备商（如GE Vernova）订单增加。传统发电面临清洁能源转型加速。",
-      "chinaMarketMapping": "中国电力企业（长江电力、华能国际）可能效仿进行整合，特高压建设与储能需求提升。AI数据中心西迁至西部能源富裕地区政策加速，利好当地电网公司与新能源运营商。但电价上升可能引发下游企业成本压力。"
-    },
-    "publishedAt": "2026-05-19T07:13:03Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "NextEra世纪并购掀海外电力能源ETF狂飙",
-    "source": "Technews.tw",
-    "url": "https://technews.tw/2026/05/19/nextera-dominion-merger/",
-    "category": "AI_MODEL",
-    "summary": [
-      "NextEra以670亿美元收购Dominion成全球最大受监管电力公司",
-      "AI数据中心电力需求刺激行业整合"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "NextEra Energy宣布以670亿美元收购Dominion Energy，交易创电力行业历史纪录，合并后将成为美国最大的受监管电力公司，覆盖从佛罗里达到弗吉尼亚的AI数据中心集群。",
-      "transmissionChain": "此并购明确展示了AI基础设施对电力的巨大需求，将推动更多公用事业公司合并以满足数据中心负荷。上游电力设备（变压器、输电线路、冷却系统）需求激增，清洁能源（尤其是核能和太阳能）受益。",
-      "chinaMarketMapping": "中国的AI数据中心也面临电力紧张，国家可能加速西电东送和特高压建设。A股电力设备（特变电工、国电南瑞）和新能源（隆基绿能、通威股份）得到催化。同时，公用事业（长江电力）的高分红属性受避险资金青睐。"
-    },
-    "publishedAt": "2026-05-19T07:13:03Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "Analog Devices接近以15亿美元现金收购Empower Semiconductor的AI电源芯片",
-    "source": "The Next Web",
-    "url": "https://thenextweb.com/news/analog-devices-empower-semiconductor-1-5-billion-deal/",
-    "category": "AI_MODEL",
-    "summary": [
-      "ADI收购垂直供电芯片公司，在GPU下直接提供3000安培电流",
-      "交易可能最快周二公布"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "ADI正在就收购Empower Semiconductor进行深入谈判，拟以约15亿美元现金收购。Empower的垂直供电架构可将超过3000安培电流直接置于GPU下方，大幅降低现代AI芯片的功耗和发热。此收购旨在加强ADI在AI电源管理领域的地位，巩固其模拟芯片业务。",
-      "transmissionChain": "收购将直接提升ADI的AI数据中心供电解决方案能力，对英伟达、AMD等客户减少能耗依赖性利好。上游碳化硅器件需求增加，下游服务器、交换机产业链受益。竞争对手英飞凌、TI或加快同类布局。",
-      "chinaMarketMapping": "中国AI电源芯片厂商（如圣邦股份、思瑞浦）短期面临竞争压力，但国产替代趋势下，数据中心建设对本土电源管理芯片需求仍增长。此交易确认AI供电架构从传统分布向垂直集中转变，国内应加速类似技术研发。"
-    },
-    "publishedAt": "2026-05-19T07:11:11Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "特朗普应海湾盟友呼吁取消对伊朗的打击计划",
-    "source": "Rigzone",
-    "url": "https://www.rigzone.com/news/wire/trump_delays_planned_strike_after_gulf_allies_appealed-19-may-2026-183719-article/",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "特朗普临时取消对伊朗的军事打击，称‘推迟一小会儿，希望永远不发生’",
-      "中东地缘风险短期缓和，但谈判仍在进行"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国总统特朗普表示，在海湾盟国呼吁后，他决定推迟对伊朗的打击计划，称‘推迟一小会儿，也许永远不执行，但可能只是一段时间，因为我们与伊朗进行了非常深入的讨论。’这一表态暂时缓解了中东爆发全面战争的风险。",
-      "transmissionChain": "打击取消导致原油价格应声下跌（CL=F跌1.05%至103美元），缓解通胀压力，利好全球经济。航空与运输股受益于燃料成本下降，但国防股可能承压。同时，地缘风险溢价消退，避险资产黄金短期回调。",
-      "chinaMarketMapping": "中国作为石油净进口国，油价下跌降低输入性通胀压力，利好制造业与航空公司。人民币汇率可能小幅回升（USDCNY跌0.16%）。A股石油化工板块（中国石油、上海石化）短期利空，但航空（中国国航、南方航空）受益。"
-    },
-    "publishedAt": "2026-05-19T07:07:38Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:34:27.261Z"
-  },
-  {
-    "title": "Meta公布5月20日重组细节",
-    "source": "RTE",
-    "url": "https://www.rte.ie/news/business/2026/0519/1574070-meta-lays-out-details-of-may-20-restructuring/",
-    "category": "AI_MODEL",
-    "summary": [
-      "Meta将全球裁员并转7000人至AI角色",
-      "组织架构围绕AI代理、应用和基础设施重组"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Meta在员工备忘录中详细说明本周裁员计划，同时宣布将7000名员工转入AI相关岗位，围绕AI代理、应用和基础设施建立更扁平的组织。这是Meta持续向AI转型的最新举措，旨在改善AI工作流程。",
-      "transmissionChain": "裁员降低成本，AI团队扩大增强技术能力。Meta AI广告精准度提升可能增加收入，但员工反弹影响短期士气。对AI基础设施供应商（NVIDIA、AMD）需求持续，广告技术合作伙伴（如LiveRamp）受益。",
-      "chinaMarketMapping": "国内互联网巨头（字节、腾讯）可能跟进类似重组，增加AI团队配置。短期对港股科技板块情绪有所压制，但长期AI能力建设利好行业。Meta的Llama模型开源策略持续影响国内大模型格局。"
-    },
-    "publishedAt": "2026-05-19T07:06:50Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "机构投资者一周内净卖出10.7亿美元比特币和加密资产，结束连续流入",
-    "source": "The Daily Hodl",
-    "url": "https://dailyhodl.com/2026/05/19/michael-saylors-strategy-buys-2010000-worth-of-bitcoin-in-one-of-the-firms-largest-acquisitions-ever-2",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "CoinShares数据显示加密资产流出10.7亿美元，7周来首次负值",
-      "比特币价格承压，目前跌破关键支撑"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "CoinShares最新数据显示，机构投资者在一周内净卖出10.7亿美元的比特币和加密资产，结束了此前连续七周的净流入态势。这是年内第三大单周流出规模，反映机构对加密市场的短期看法转向谨慎。",
-      "transmissionChain": "机构资金流出对比特币价格形成压力，可能触发散户跟风抛售，加密货币市场短期承压。但MicroStrategy仍在买入（2.01亿美元），显示长线多头与短线空头的博弈加剧。",
-      "chinaMarketMapping": "中国内地对加密货币的严格管制使得这一流出影响有限，但香港比特币现货ETF刚刚启动，可能受到情绪冲击。国内投资者仍需警惕虚拟货币风险，远离高波动资产。"
-    },
-    "publishedAt": "2026-05-19T07:04:12Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:34:27.261Z"
-  },
-  {
-    "title": "Meta在同一周将7000人调至AI角色并裁员10%",
-    "source": "The Next Web",
-    "url": "https://thenextweb.com/news/meta-7000-ai-roles-restructure-layoffs/",
-    "category": "AI_MODEL",
-    "summary": [
-      "Meta裁员10%但新增7000个AI岗位",
-      "组织围绕AI代理、应用和基础设施重组"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "首席人事官Janelle Gale备忘录描述了‘更小的团队’和‘更扁平的结构’，围绕AI代理、应用和基础设施建立新AI组。裁员本周执行。Meta在缩减其他部门的同时大力投资AI，显示AI优先级到达历史最高。",
-      "transmissionChain": "短期裁员成本增加但长期运营效率提升。AI产品开发加速，可能推出新的广告工具和AI代理服务。对云和基础设施的需求增长利好AWS、Azure等合作伙伴。",
-      "chinaMarketMapping": "国内社交媒体公司（如快手、哔哩哔哩）可能效仿Meta的AI转型，优先发展推荐算法与AI内容生成。对国内AI人才需求增大，利好猎头与教育机构。同时，AI生成内容监管风险值得关注。"
-    },
-    "publishedAt": "2026-05-19T07:02:07Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
   }
 ]
