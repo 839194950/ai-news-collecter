@@ -1,5 +1,113 @@
 [
   {
+    "title": "欧洲电动车销量因石油冲击而飙升",
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-EV-Sales-Surge-as-Oil-Shock-Hits-Drivers.html",
+    "category": "SMART_MOBILITY",
+    "summary": [
+      "4月欧洲EV销量同比增34%",
+      "中东石油中断推高零售油价，加速电动化转型"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "据路透社报道，欧洲4月电动车销量同比暴涨34%，直接原因是中东冲突导致的石油出口中断推动零售油价高涨。油价冲击使得燃油车使用成本大幅上升，消费者转向电动化。同时，欧洲各国充电基础设施加速建设，补贴政策维持，共同推动EV渗透率提升。",
+      "transmissionChain": "上游：锂、镍、钴等电池原材料需求增加→中游：电池制造商（宁德时代、LG化学）订单增长，车企（大众、Stellantis）加速电动化→下游：充电桩运营商（ChargePoint、ABB）受益。石油价格维持高位的时间越长，电动化转型越快，中长期将抑制石油需求。",
+      "chinaMarketMapping": "直接利好：国内动力电池龙头企业（宁德时代、比亚迪），因为欧洲车企依赖中国电池供应。整车出口方面，上汽集团、比亚迪在欧销量有望增长。但需关注欧盟是否加征反补贴关税，若Stellantis与东风合资模式成功，将为中国车企提供出海范本。对A股充电桩产业链（特锐德、科士达）也有带动。"
+    },
+    "publishedAt": "2026-05-20T05:49:50Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T05:53:59.705Z"
+  },
+  {
+    "title": "历史性发行：SpaceX准备进行里程碑式IPO，投资者期望巨大",
+    "source": "Economictimes.com",
+    "url": "https://m.economictimes.com/markets/us-stocks/news/historic-launch-spacex-prepares-for-landmark-ipo-amid-massive-investor-expectations/elon-musk-targets-the-largest-ipo-in-history/slideshow/131218395.cms",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "SpaceX估值近1.75万亿美元，可能成史上最大IPO",
+      "公司计划6月12日上市，随后收购Cursor"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "SpaceX预计于6月12日进行IPO，估值高达1.75万亿美元，将成为史上最大IPO。此外，公司计划上市后30天内以100亿美元分手费收购AI编程公司Cursor。这是马斯克商业版图从航天延伸至AI的关键一步，也将xAI、Starlink等业务协同整合。",
+      "transmissionChain": "上游：航天供应链（零部件、材料）受益于增产需求→中游：SpaceX获得庞大资金用于星舰与星链扩张→下游：Cursor整合后，AI编程能力用于火箭设计软件，提升效率。收购Cursor还将加剧AI编程工具竞争，威胁GitHub Copilot。",
+      "chinaMarketMapping": "对A股：利好航天军工板块（航天电子、中航光电），SpaceX的商业模式可映射中国商业航天公司（银河航天、蓝箭航空，但未上市）。对港股：相关概念股（中国卫星）可能受情绪驱动。Cursor收购落地后，中国AI编程公司（如百度的文心快码）需加速迭代。"
+    },
+    "publishedAt": "2026-05-20T05:41:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T05:53:59.705Z"
+  },
+  {
+    "title": "谷歌I/O大会发布Gemini 3.5 Flash、通用购物车等多项AI更新",
+    "source": "Cool3c.com",
+    "url": "https://www.cool3c.com/article/248713",
+    "category": "AI_MODEL",
+    "summary": [
+      "Gemini 3.5 Flash模型速度提升4倍，支持代理能力",
+      "推出Universal Cart通用购物车与Gemini for Science"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "谷歌在年度I/O大会上发布了一系列重大AI更新：Gemini 3.5 Flash模型（推理速度提升4倍，专为智能体设计）、Gemini Omni（多模态视频创作）、Universal Cart（跨平台AI购物车）、以及Gemini for Science科研工具。同时宣布与黑石合资成立TPU云公司，黑石出资50亿美元。这表明谷歌正从搜索公司全面转型为AI-first平台，并试图通过TPU云挑战英伟达的算力垄断。",
+      "transmissionChain": "上游：TPU云若成功将分流部分英伟达GPU需求，利好AMD和ASIC设计公司（博通、Marvell）。中游：AI购物车与搜索增强将促进电商和广告业（Shopify、亚马逊），Gemini for Science利好生物技术和材料科学。下游：AI代理能力普及将提升企业软件效率，微软和Salesforce等对手需跟进。",
+      "chinaMarketMapping": "对A股：利好AI应用层（科大讯飞、三六零）与云基础设施（浪潮信息、中际旭创）。谷歌与黑石的TPU云合资可能加速中国互联网巨头（阿里、腾讯）自研AI芯片部署，但对英伟达依赖度高的企业存在影响。同时，Google Universal Cart概念将刺激中国电商AI化（拼多多、京东），但中国搜索市场谷歌份额极小，影响有限。"
+    },
+    "publishedAt": "2026-05-20T05:33:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T05:53:59.705Z"
+  },
+  {
+    "title": "Meta启动裁员8000人，作为AI重组部分",
+    "source": "Lokmattimes.com",
+    "url": "https://www.lokmattimes.com/business/meta-platforms-begins-layoffs-affecting-8000-employees-amid-ai-restructuring/",
+    "category": "AI_MODEL",
+    "summary": [
+      "Meta裁员8000人，转岗7000人至AI角色",
+      "AI重组推动组织架构围绕智能体与基础设施重构"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Meta开始了新一轮裁员，涉及约8000名员工，同时将约7000个岗位重新调配至AI相关领域。公司正围绕AI代理、应用和基础设施重组组织架构，这是继此前裁员之后的又一次大规模调整。LinkedIn同日也宣布裁员600人，显示科技行业AI替代人力趋势加速。",
+      "transmissionChain": "上游：裁员节省成本用于AI研发投入→中游：AI代理技术发展提高效率，可能挤压B2B软件和外包服务需求→下游：整体科技就业市场恶化，但AI人才需求强劲，高薪岗位增加。长期看，AI代理由此获得更多内部训练数据，加速能力迭代。",
+      "chinaMarketMapping": "对A股：直接利空国内科技外包公司（中软国际、软通动力）估值，因为全球裁员示范效应可能传导。利好AI应用与安全公司（奇安信、深信服），企业级AI需求上升。政策层面，中国也面临AI就业替代压力，政府可能出台培训补贴，利好职业教育（中公教育、传智教育）。"
+    },
+    "publishedAt": "2026-05-20T05:27:49Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T05:53:59.705Z"
+  },
+  {
+    "title": "三星面临大罢工：薪酬谈判破裂，4.7万工人将罢工18天",
+    "source": "BusinessLine",
+    "url": "https://www.thehindubusinessline.com/info-tech/samsung-faces-major-strike-after-pay-talks-with-union-falls-apart/article71000820.ece",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "三星电子工会宣布从5月21日起罢工18天，涉及4.7万名员工",
+      "将影响HBM生产与全球存储供应"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星电子与工会就奖金制度谈判破裂，工会宣布4.7万名成员从5月21日起举行为期18天的罢工。这是三星55年历史上规模最大的罢工，将直接冲击其HBM（高带宽内存）作为AI芯片关键组件的生产能力，以及DRAM和NAND Flash的全球出货。",
+      "transmissionChain": "上游：三星停止HBM出货→英伟达、AMD等AI芯片厂商面临GPU配套短缺→HBM价格跳涨→利好竞争对手SK海力士和美光。中游：服务器与PC厂商可能延迟出货或涨价转嫁成本→下游：数据中心运营商与消费者面临更高成本。整体存储供应链的紧张可能引发进一步“RAMageddon”，并加速买家寻求多元供应。",
+      "chinaMarketMapping": "对A/H股：利好国产存储替代标的（兆易创新、北京君正、长鑫存储概念股），以及非三星供应链的DRAM模组厂（澜起科技）。由于中国存储厂商（长江存储、长鑫存储）扩产计划明确，罢工窗口期可能加速国产化验证。但HBM领域中国技术差距大，短期难以替代，对国内AI服务器企业（中科曙光）形成成本压力。"
+    },
+    "publishedAt": "2026-05-20T05:27:10Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T05:53:59.705Z"
+  },
+  {
+    "title": "全球长期国债收益率攀升至近二十年最高",
+    "source": "Financial Post",
+    "url": "https://financialpost.com/pmn/business-pmn/global-long-bond-yields-climb-to-highest-in-almost-two-decades",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "30年期美债收益率一度突破5.20%",
+      "市场担心通胀与财政赤字失控"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "长端国债收益率在全球范围内飙升，30年期美债收益率触及5.20%，创2007年金融危机以来最高水平。投资者对持续的通胀、庞大的财政赤字以及AI相关电力成本上升感到担忧，纷纷抛售长债。花旗警告下一目标位可能在5.5%。欧洲和日本长债收益率也同步攀升。",
+      "transmissionChain": "上游：债券抛售导致收益率上升→中游：提升企业融资成本，压缩科技股估值（高久期资产承压）→下游：房地产和基建领域借贷成本增加，抑制投资。同时，高收益率吸引资金从股市流向债市，加剧股市波动。新兴市场面临资本外流和货币贬值压力。",
+      "chinaMarketMapping": "对A股：短期利空，美债收益率上行导致外资流出（北向资金），压制蓝筹股估值。但中国国债收益率相对独立，中美利差扩大可能促使央行降准对冲。长期看，高美债收益率若引发全球衰退，中国出口承压；但若中国金融体系稳定，人民币资产可能成为避险选择。对贵金属（黄金）形成支撑，因为实际利率预期波动。"
+    },
+    "publishedAt": "2026-05-20T05:06:58Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T05:53:59.705Z"
+  },
+  {
     "title": "英伟达高管亲自向AI巨头交付首批Vera CPU系统",
     "source": "PCMag",
     "url": "https://me.pcmag.com/en/ai/37229/nvidia-exec-hand-delivers-first-vera-cpu-systems-to-ai-heavy-hitters",
@@ -615,114 +723,6 @@
       "chinaMarketMapping": "国内社交媒体公司（如快手、哔哩哔哩）可能效仿Meta的AI转型，优先发展推荐算法与AI内容生成。对国内AI人才需求增大，利好猎头与教育机构。同时，AI生成内容监管风险值得关注。"
     },
     "publishedAt": "2026-05-19T07:02:07Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "美国人的AI仇恨浪潮正在积聚：数据中心可能到2030年使部分州电力成本上涨50%以上",
-    "source": "Fortune",
-    "url": "https://fortune.com/2026/05/19/data-centers-electricity-costs-us-public-opinion/",
-    "category": "AI_MODEL",
-    "summary": [
-      "AI基础设施繁荣对美国居民电费冲击加剧",
-      "公众耐心正在耗尽"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Fortune报道称AI数据中心建设将推动部分州电力成本到2030年上涨超50%，社区反对数据中心项目的案例创纪录。美国公众对AI的负面情绪正从社交媒体蔓延至真实世界，可能影响地方政府审批。",
-      "transmissionChain": "电力成本上升挤压居民可支配收入，引发政治反弹，可能导致监管机构限制数据中心用电配额或征收附加费。这对数据中心REITs和云厂商的扩张计划构成风险，间接影响GPU需求增速。",
-      "chinaMarketMapping": "中国同样面临AI数据中心能耗压力，但政府已通过东数西算政策引导数据中心向西部迁移。东部地区可能效仿对数据中心征收高电价，利好西部新能源与储能企业。公众情绪相对温和，但需警惕环境争议。"
-    },
-    "publishedAt": "2026-05-19T07:02:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "陪审团推翻马斯克对OpenAI的诉讼，为万亿美元IPO铺平道路",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260519VL215/openai-ipo-elon-musk-microsoft-lawsuit.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "陪审团裁定马斯克诉讼超过时效，OpenAI获完全胜利",
-      "OpenAI上市最大法律障碍清除，估值或超8000亿美元"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "联邦陪审团周一裁定，马斯克对OpenAI及其CEO奥特曼的诉讼因超过三年诉讼时效而被驳回。马斯克索赔1500亿美元违约指控失败。判决立即消除了OpenAI IPO的最大法律障碍，公司可继续筹备上市。",
-      "transmissionChain": "OpenAI估值飙升，其IPO将吸引大量资本进入AI赛道，利好微软（主要投资者）。其他AI初创如Anthropic、Cohere等估值水涨船高。GPU供应商英伟达、数据中心服务商将继续享受需求红利。",
-      "chinaMarketMapping": "OpenAI上市或加速国产大模型公司的融资与上市节奏，如智谱AI、百川智能。中国AI生态面临更激烈的全球竞争，但国产化与安全可控需求提供替代空间。IPO带来的资金效应可能提升全球AI算力投资，利好中际旭创等光模块厂商。"
-    },
-    "publishedAt": "2026-05-19T07:01:19Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "英特尔要求PC客户提高18A制程CPU采用比例",
-    "source": "Technews.tw",
-    "url": "https://technews.tw/2026/05/19/intel-pc-18a/",
-    "category": "AI_MODEL",
-    "summary": [
-      "英特尔推动PC客户加速导入18A制程CPU",
-      "缓解CPU供应紧张并提升先进制程产能利用率"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "日经报道英特尔正要求主要PC客户扩大采用Intel 18A制程新款处理器（Panther Lake），以缓解近期CPU供应不足并提高18A产能利用率。18A目前仅客户端工艺节点，服务器产品Clearwater Forest尚未发布。",
-      "transmissionChain": "英特尔18A产能爬坡利好自身营收，同时挤压竞争对手AMD x86份额。PC OEM厂如联想、戴尔调整采购比例，可能影响AMD的CPU订单。对台积电先进制程需求短期影响有限，但长期存在竞争。",
-      "chinaMarketMapping": "国内CPU厂商（海光、龙芯）面临来自英特尔18A的性能压力，但国产替代需求仍在。若英特尔18A良率与性能达标，可能吸引部分中国PC客户，但中美科技脱钩背景下，国内采购仍倾向本土。"
-    },
-    "publishedAt": "2026-05-19T06:57:54Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "高盛示警股市回调风险加大，面临‘减速带风险’",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/...",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "高盛策略师警告通胀飙升可能导致股市回调",
-      "债券收益率攀升可能引发负回报波动"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "高盛由Peter Oppenheimer领导的策略师团队表示，尽管伊朗战争冲击宏观但股市仍创新高，但回调风险正在加大。若石油供应中断持续、通胀预期上升，股市将面临‘减速带风险’。债券收益率攀升可能引发大幅波动并带来负回报。",
-      "transmissionChain": "高盛警告加剧市场避险情绪，资金可能从科技股流向防御板块。债券收益率上升增加企业融资成本，对高估值科技股最不利。若通胀超预期，美联储可能转鹰，进一步压制风险资产。",
-      "chinaMarketMapping": "A股和港股短期受外部情绪影响，但内需导向板块（消费、公用事业）相对抗跌。中国央行独立决策，若6月升息可能为应对通胀而非跟随美国，对市场影响可控。关注北向资金流向变化。"
-    },
-    "publishedAt": "2026-05-19T06:43:07Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:18:22.294Z"
-  },
-  {
-    "title": "高盛示警股市回调风险加大，面临“减速带风险”",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B%E7%A4%BA%E8%AD%A6%E8%82%A1%E5%B8%82%E5%9B%9E%E8%AA%BF%E9%A2%A8%E9%9A%AA%E5%8A%A0%E5%A4%A7-%E8%87%A8%E9%9D%A2-%E6%B8%9B%E9%80%9F%E5%B8%B6%E9%A2%A8%E9%9A%AA-064307982.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "高盛策略师警告若石油供应中断持续，通胀飙升将引发股市回调",
-      "债券收益率攀升可能引发负回报波动"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "高盛集团策略师Peter Oppenheimer团队发布报告指出，尽管股市因伊朗战争冲击后反弹至纪录高点，但回调风险正在加大，尤其若石油供应持续中断导致通胀飙升。债券收益率攀升也构成威胁，股市面临‘减速带风险’（speed bump）。",
-      "transmissionChain": "高盛的警告将影响机构投资者的风险偏好，可能促使资金从股市暂时转向债券或现金。如果通胀预期进一步上升，美联储可能推迟降息，导致科技股估值承压。能源股短期受益于油价维持高位，但整体市场情绪转向谨慎。",
-      "chinaMarketMapping": "中国股市相对独立，但全球风险偏好下降会通过北向资金影响A股，尤其外资重仓的消费与科技龙头。欧洲股市已出现分化，媒体涨、大宗商品跌。A股投资者需警惕外资流出风险，但国内政策托底（财政、货币宽松）可能提供对冲。"
-    },
-    "publishedAt": "2026-05-19T06:43:07Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T07:34:27.261Z"
-  },
-  {
-    "title": "黄仁勋：中国终将开放AI芯片市场 台湾仍是半导体制造核心",
-    "source": "Yahoo Entertainment",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_443efe4a-f340-4c94-be91-bbbe153710a3",
-    "category": "AI_MODEL",
-    "summary": [
-      "黄仁勋预期中国最终将允许进口英伟达H200等AI芯片",
-      "重申台湾在半导体制造不可替代的核心地位"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "黄仁勋在随特朗普代表团访问北京期间接受彭博专访，称中国最终将开放AI芯片市场，H200已获美国出口许可但中国需决定本土保护程度。同时强调台湾在全球半导体制造中的核心地位难以撼动。",
-      "transmissionChain": "若中国批准英伟达高端芯片进口，将提振英伟达在华营收预期，利好其数据中心业务。同时打压国产AI芯片厂商（华为昇腾、寒武纪）的市场份额。但保护主义可能使市场开放进程缓慢。",
-      "chinaMarketMapping": "A股AI芯片板块（寒武纪、海光信息）短期承压，但长期国产替代逻辑未变。台湾半导体制造核心地位巩固，利好台积电供应链（设备、材料）。国内应加速自研芯片突破，减少对外依赖。"
-    },
-    "publishedAt": "2026-05-19T06:35:13Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T07:18:22.294Z"
   }

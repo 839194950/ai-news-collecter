@@ -1,108 +1,114 @@
 {
   "macroMetrics": {
     "economicConfidence": 45,
-    "regulatoryPressure": 50,
-    "blackSwanProbability": 30,
+    "regulatoryPressure": 60,
+    "blackSwanProbability": 55,
     "mediaSentiment": -0.1,
     "socialSentiment": -0.3,
-    "macroTrendAlert": "美股在连续三日回调后反弹，但成交量萎缩，30年美债收益率触及5.16%抑制风险偏好。中国A股沪深300和中证500小幅上涨，与美股形成背离，显示外资对中国财政刺激和AI产业政策的独立信心。原油暴跌4.64%至99美元，反映中东地缘风险因特朗普取消打击计划而短期缓和，但霍尔木兹海峡通航仍未恢复，ECB可能因能源压力升息。社会反AI情绪因电费上涨和裁员加剧而升温，渣打和Meta的裁员计划印证AI替代就业的负面叙事。整体看，市场处于滞胀象限的典型特征：高利率、通胀顽固、AI投资热潮与经济放缓并存。需要警惕美债收益率若突破5.5%引发的流动性危机，以及英伟达财报后科技股获利回吐的风险。"
+    "macroTrendAlert": "美股在连续三日回调后反弹，但成交量萎缩，30年美债收益率触及5.20%创19年新高，压制风险偏好。中国A股沪深300和中证500下跌，与美股分化，显示外资对中国财政刺激和AI产业政策的独立信心不足。原油反弹1.11%至99.35美元，受中东地缘风险短期缓和刺激，但需求预期仍弱。社会反AI情绪因裁员加剧而升温，Meta和LinkedIn的裁员计划印证AI替代就业的担忧。经济信心维持低位，美林时钟仍处滞胀象限，但市场在关键财报前呈现观望态势。"
   },
   "marketRegime": {
     "quadrant": "滞胀",
-    "logic": "30年期美债收益率5.16%创2007年新高，通胀因AI电力成本与地缘溢价高企，但AI投资与政策刺激维持经济增长，符合滞胀特征。"
+    "logic": "30年期美债收益率5.20%创2007年新高，通胀因AI电力成本与地缘溢价高企，但AI投资与政策刺激维持经济增长，符合滞胀特征。"
   },
   "assetImpact": {
     "safeHaven": {
-      "status": "NEUTRAL",
-      "reason": "美债收益率飙升压制债券价格，黄金受原油暴跌拖累短期承压，但地缘不确定性提供支撑。"
+      "status": "BULL",
+      "reason": "美债收益率飙升与地缘风险推升避险需求，黄金等避险资产受益。"
     },
     "techStocks": {
       "status": "NEUTRAL",
-      "reason": "英伟达财报前夕反弹，但估值高位与美债压力限制上行空间，方向需财报确认。"
+      "reason": "英伟达财报即将公布，市场等待指引；AI趋势强劲但利率压制估值。"
     },
     "crypto": {
       "status": "BEAR",
-      "reason": "机构资金净流出10.7亿美元，XRP和以太坊承压，缺乏短期催化剂。"
+      "reason": "比特币持稳77000美元但ETF流出6.48亿美元，监管不确定性打压情绪。"
     },
     "commodities": {
-      "status": "BEAR",
-      "reason": "原油受需求担忧和地缘缓和暴跌4.64%，可能下探95美元。"
+      "status": "NEUTRAL",
+      "reason": "原油受中东缓和反弹但需求弱势，长期走势取决于供需与地缘。"
     }
   },
   "aiDebate": {
-    "bullCase": "AI基础设施投资进入爆发期：英伟达Vera CPU正式交付给OpenAI、Anthropic等头部客户，谷歌与黑石合资50亿美元建设TPU云，Blackwell架构需求强劲。AMD苏姿丰预言CPU/GPU配比将从1:4向1:1演进，推理需求驱动算力结构变革。中美AI政府对话启动降低出口管制风险，中国资本市场对AI融资热情高涨（月之暗面获国资加持）。NextEra-Dominion 670亿美元合并标志AI电力需求结构化硬逻辑，公用事业板块受益。英伟达Q1财报若营收指引超700亿美元将触发AI板块新一轮上涨。",
-    "bearCase": "30年期美债收益率5.16%创2007年新高，严重压制风险资产估值，科技股动态PE中位数超35倍。社会反AI情绪蔓延：校园抗议、电费上涨、渣打裁员7000人。高盛警告若石油供应中断持续，通胀飙升将引发股市回调。科罗拉多州签署AI责任法案，企业需为AI决策担责，增加合规成本。加密货币机构资金净流出10.7亿美元，市场缺乏流动性。OpenAI虽胜诉但上市进程仍面临监管不确定性。AI投资回报率存疑：纽约联储报告指出科技公司资本支出首超运营利润，烧钱模式不可持续。"
+    "bullCase": "AI基础设施投资持续火热：Google I/O推出Gemini 3.5 Flash与通用购物车，黑石联手谷歌成立TPU云，英伟达向OpenAI交付首批Vera CPU，Alibaba发布高性能AI芯片。这些事件验证AI需求从训练向推理和应用扩展，Agentic AI成为新增长引擎。三星罢工将加速HBM价格上涨，利好竞争对手SK海力士和美光。台股鸿海等服务器代工厂将受益于AI服务器拉货潮。中国AI芯片国产替代加速，长江存储IPO与华为昇腾生态壮大。整体AI产业链营收有望超预期，带动科技股反弹。",
+    "bearCase": "30年美债收益率飙升至5.20%创19年新高，高盛警告股市面临减速带风险。科技巨头裁员潮（Meta裁8000人、LinkedIn裁600人）显示盈利压力。社会反AI情绪升温，美国多州电费因AI数据中心暴增。中美AI法案可能限制中国AI工具海外销售。三星4.7万人罢工将冲击全球存储供应链，但可能导致芯片涨价侵蚀下游利润。加密货币ETF持续流出，风险偏好下降。若英伟达财报指引不及预期，可能引发科技股恐慌性抛售。滞胀环境下，资金可能从科技股撤出转向防御板块。"
   },
   "industryRadar": [
     {
-      "subject": "人工智能/大模型",
-      "hotness": 95,
-      "sentiment": 0.6,
+      "subject": "人工智能大模型",
+      "hotness": 92,
+      "sentiment": 0.5,
       "momentum": 15
     },
     {
-      "subject": "电力能源",
-      "hotness": 90,
-      "sentiment": 0.4,
-      "momentum": 20
-    },
-    {
-      "subject": "半导体设备",
-      "hotness": 85,
-      "sentiment": 0.3,
-      "momentum": 8
-    },
-    {
       "subject": "存储芯片",
-      "hotness": 70,
+      "hotness": 85,
       "sentiment": -0.1,
       "momentum": -5
     },
     {
-      "subject": "车用AI",
-      "hotness": 65,
+      "subject": "新能源汽车",
+      "hotness": 78,
+      "sentiment": 0.3,
+      "momentum": 8
+    },
+    {
+      "subject": "半导体设备",
+      "hotness": 80,
       "sentiment": 0.2,
       "momentum": 10
     },
     {
-      "subject": "数字资产",
-      "hotness": 40,
-      "sentiment": -0.5,
-      "momentum": -12
+      "subject": "国防军工",
+      "hotness": 72,
+      "sentiment": 0.4,
+      "momentum": 12
+    },
+    {
+      "subject": "美债/利率",
+      "hotness": 88,
+      "sentiment": -0.4,
+      "momentum": 20
+    },
+    {
+      "subject": "消费电子",
+      "hotness": 65,
+      "sentiment": -0.2,
+      "momentum": -8
     }
   ],
-  "economicForecast": "未来一个月全球股市震荡偏弱，美债高企压制风险偏好。标普500预计在7300-7500区间，纳斯达克受利率与AI情绪双重影响在25500-26500波动。沪深300受益于中国财政与货币宽松，在4800-4950区间。美元兑人民币维持6.8附近，原油因需求疲软与中东缓和下探95-100美元。英伟达财报（5/20）若指引强劲则触发技术反弹，否则加速恐慌性抛售。中期关注6月美联储会议与中美AI对话具体落地。地缘聚焦普丁访华后中俄贸易协议。",
+  "economicForecast": "未来一个月全球股市震荡偏弱，美债高企压制风险偏好。标普500预计在7300-7500区间，纳斯达克受利率与AI情绪双重影响在25500-26500波动。沪深300受益于中国财政与货币宽松，在4800-4950区间。美元兑人民币维持6.8附近，原油因需求疲软与中东缓和下探95-100美元。英伟达财报（5/20）若指引强劲则触发技术反弹，否则加速恐慌性抛售。中期关注6月美联储会议与中美AI对话具体落地。",
   "catalystFactors": [
     "英伟达Q1财报（5/20）：若营收指引超700亿美元，带动AI芯片超跌反弹；若不及预期加速科技股下行。",
-    "Google I/O 2026 TPU云合资细节（5/19）：黑石50亿美元投资，威胁英伟达生态，利好AMD与ASIC设计。",
-    "中美AI政府对话启动（5/19）：降低出口管制升级风险，利好中国AI算力与芯片本土化龙头。",
-    "NextEra-Dominion合并完成（5/19）：AI电力需求结构化硬逻辑，提振全球公用事业与电力设备板块。",
-    "普丁访华中俄能源与科技协议（5/19）：强化中国能源安全，利好石油天然气与北斗产业链。"
+    "三星罢工（5/21起）：18天大罢工冲击HBM供应，利好SK海力士、美光，但加速存储器涨价侵蚀下游。",
+    "SpaceX IPO与Cursor收购：估值1.75万亿美元，强化商业航天与AI编程结合，刺激卫星互联网与AI应用板块。",
+    "台湾2950亿军购特别预算：提振台股军工与防务概念，间接利好美国军火商与台积电。",
+    "美债收益率持续走高：若突破5.25%可能引发全球流动性恐慌，新兴市场承压。"
   ],
-  "aiCalibrationScore": 40,
-  "aiReview": "信心高估10点，指数微涨但结构分化，滞胀象限正确但低估利率冲击。",
+  "aiCalibrationScore": 65,
+  "aiReview": "信心指数高估10点，但美林时钟判断正确，指数小幅反弹符合震荡预期。",
   "marketSentimentTracker": {
-    "fearGreedIndex": 40,
+    "fearGreedIndex": 35,
     "hotThemes": [
       {
         "keyword": "AI代理",
-        "momentumScore": 9,
+        "momentumScore": 10,
         "trendDirection": "up"
       },
       {
-        "keyword": "先进封装",
-        "momentumScore": 8,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "电力能源",
+        "keyword": "美债收益率",
         "momentumScore": 9,
         "trendDirection": "up"
       },
       {
         "keyword": "存储芯片",
-        "momentumScore": 5,
+        "momentumScore": 7,
         "trendDirection": "down"
+      },
+      {
+        "keyword": "国防军工",
+        "momentumScore": 6,
+        "trendDirection": "up"
       },
       {
         "keyword": "消费电子",
@@ -116,180 +122,136 @@
       {
         "code": "600010.SS",
         "name": "包钢股份",
-        "price": 2.6,
-        "changePercent": -0.38,
-        "trailingPE": -878.47,
-        "buyZone": "2.34 ~ 2.47",
-        "takeProfit": "3.25",
-        "stopLoss": "2.21",
-        "reason": "稀土与钢铁双主业，国企改革受益，低价潜伏标的"
+        "price": 2.57,
+        "changePercent": -1.15,
+        "trailingPE": -868.33,
+        "buyZone": "2.31 ~ 2.44",
+        "takeProfit": "3.21",
+        "stopLoss": "2.18",
+        "reason": "稀土与钢铁双主业，受益国企改革与新能源材料需求，股价低位"
       },
       {
         "code": "000725.SZ",
         "name": "京东方A",
-        "price": 4.26,
-        "changePercent": -1.16,
-        "trailingPE": 26.52,
-        "buyZone": "3.92 ~ 4.09",
-        "takeProfit": "5.11",
-        "stopLoss": "3.75",
-        "reason": "面板龙头，AI终端驱动柔性屏需求，估值低位"
+        "price": 4.69,
+        "changePercent": 10.09,
+        "trailingPE": 29.2,
+        "buyZone": "4.31 ~ 4.50",
+        "takeProfit": "5.63",
+        "stopLoss": "4.13",
+        "reason": "显示面板全球龙头，AI终端与柔性屏需求复苏，估值安全边际高"
       },
       {
-        "code": "601390.SS",
-        "name": "中国中铁",
-        "price": 4.83,
-        "changePercent": -2.03,
-        "trailingPE": 5.62,
-        "buyZone": "4.35 ~ 4.59",
-        "takeProfit": "5.80",
-        "stopLoss": "4.11",
-        "reason": "基建央企，一带一路与国企改革催化，低价稳健"
+        "code": "600050.SS",
+        "name": "中国联通",
+        "price": 4.62,
+        "changePercent": -2.53,
+        "trailingPE": 16.68,
+        "buyZone": "4.16 ~ 4.39",
+        "takeProfit": "5.78",
+        "stopLoss": "3.93",
+        "reason": "电信运营商+算力网络，受益AI数据需求与国企价值重估"
       },
       {
-        "code": "601857.SS",
-        "name": "中国石油",
-        "price": 11.63,
-        "changePercent": 0.61,
-        "trailingPE": 13.46,
-        "buyZone": "10.82 ~ 11.28",
-        "takeProfit": "13.72",
-        "stopLoss": "10.23",
-        "reason": "能源安全核心，油价波动下防御性资产"
+        "code": "000100.SZ",
+        "name": "TCL科技",
+        "price": 4.43,
+        "changePercent": 4.73,
+        "trailingPE": 18.21,
+        "buyZone": "4.03 ~ 4.25",
+        "takeProfit": "5.32",
+        "stopLoss": "3.85",
+        "reason": "面板+光伏双布局，受益于AI终端与新能源，估值偏低"
       },
       {
-        "code": "002371.SZ",
-        "name": "北方华创",
-        "price": 656,
-        "changePercent": 5.86,
-        "trailingPE": 85.27,
-        "buyZone": "577.28 ~ 610.08",
-        "takeProfit": "820.00",
-        "stopLoss": "544.48",
-        "reason": "半导体设备龙头，国产替代逻辑清晰，受益于先进封装"
+        "code": "601138.SS",
+        "name": "工业富联",
+        "price": 67.6,
+        "changePercent": -0.81,
+        "trailingPE": 33,
+        "buyZone": "59.49 ~ 62.87",
+        "takeProfit": "84.50",
+        "stopLoss": "56.11",
+        "reason": "AI服务器代工龙头，直接受益于英伟达供应链"
       },
       {
-        "code": "300308.SZ",
-        "name": "中际旭创",
-        "price": 1037,
-        "changePercent": 0.68,
-        "trailingPE": 77.25,
-        "buyZone": "933.30 ~ 985.15",
-        "takeProfit": "1244.40",
-        "stopLoss": "881.45",
-        "reason": "光模块全球龙头，英伟达供应链，AI算力配套"
+        "code": "300750.SZ",
+        "name": "宁德时代",
+        "price": 418.91,
+        "changePercent": 1,
+        "trailingPE": 24.54,
+        "buyZone": "377.02 ~ 397.96",
+        "takeProfit": "502.69",
+        "stopLoss": "356.07",
+        "reason": "全球动力电池龙头，受益于欧洲EV销量飙升"
       },
       {
-        "code": "000063.SZ",
-        "name": "中兴通讯",
-        "price": 37.18,
-        "changePercent": -1.25,
-        "trailingPE": 39.74,
-        "buyZone": "34.21 ~ 35.69",
-        "takeProfit": "44.62",
-        "stopLoss": "32.72",
-        "reason": "通信设备龙头，AI服务器与算力网络受益"
+        "code": "688981.SS",
+        "name": "中芯国际",
+        "price": 132.43,
+        "changePercent": -1.03,
+        "trailingPE": 210.32,
+        "buyZone": "116.54 ~ 123.16",
+        "takeProfit": "165.54",
+        "stopLoss": "109.92",
+        "reason": "国产芯片代工核心，受益于AI芯片本土化趋势"
       },
       {
-        "code": "002594.SZ",
-        "name": "比亚迪",
-        "price": 93.36,
-        "changePercent": -2.75,
-        "trailingPE": 30.9,
-        "buyZone": "82.16 ~ 86.82",
-        "takeProfit": "116.70",
-        "stopLoss": "77.49",
-        "reason": "新能源车与动力电池双轮驱动，智能驾驶落地"
-      },
-      {
-        "code": "600941.SS",
-        "name": "中国移动",
-        "price": 99.16,
-        "changePercent": -1.82,
-        "trailingPE": 15.82,
-        "buyZone": "92.22 ~ 96.19",
-        "takeProfit": "117.01",
-        "stopLoss": "87.26",
-        "reason": "电信央企，算力网络与数据要素核心"
-      },
-      {
-        "code": "601728.SS",
-        "name": "中国电信",
-        "price": 6.66,
-        "changePercent": -6.46,
-        "trailingPE": 19.24,
-        "buyZone": "6.19 ~ 6.46",
-        "takeProfit": "7.66",
-        "stopLoss": "5.86",
-        "reason": "云网融合，AI数据中心受益者，低价高股息"
+        "code": "002415.SZ",
+        "name": "海康威视",
+        "price": 32.28,
+        "changePercent": -0.83,
+        "trailingPE": 19.8,
+        "buyZone": "29.05 ~ 30.67",
+        "takeProfit": "38.74",
+        "stopLoss": "27.44",
+        "reason": "AI安防龙头，视觉大模型赋能，估值回调后具备吸引力"
       }
     ],
     "usSharePool": [
       {
         "code": "NVDA",
         "name": "英伟达",
-        "price": 224.48,
-        "changePercent": 1.7542,
+        "price": 223.47,
+        "changePercent": 1.2964,
         "trailingPE": 44.7184,
-        "buyZone": "197.54 ~ 208.77",
-        "takeProfit": "280.60",
-        "stopLoss": "186.32",
-        "reason": "AI芯片霸主，Vera Rubin平台开启新周期"
+        "buyZone": "196.65 ~ 207.83",
+        "takeProfit": "279.34",
+        "stopLoss": "185.48",
+        "reason": "AI芯片绝对龙头，Blackwell架构驱动增长"
       },
       {
         "code": "AMD",
         "name": "超微半导体",
-        "price": 443.9,
-        "changePercent": 7.2093,
-        "trailingPE": 134.7874,
-        "buyZone": "390.63 ~ 412.83",
-        "takeProfit": "532.68",
-        "stopLoss": "368.44",
-        "reason": "AI追赶者，MI400与CPU生态完善"
-      },
-      {
-        "code": "GOOGL",
-        "name": "谷歌",
-        "price": 384.48,
-        "changePercent": -0.8203,
-        "trailingPE": 29.3379,
-        "buyZone": "346.03 ~ 365.26",
-        "takeProfit": "461.38",
-        "stopLoss": "326.81",
-        "reason": "AI平台+TPU云，黑石合资催化"
-      },
-      {
-        "code": "AVGO",
-        "name": "博通",
-        "price": 418.36,
-        "changePercent": 1.7734,
-        "trailingPE": 77.9878,
-        "buyZone": "376.52 ~ 397.44",
-        "takeProfit": "502.03",
-        "stopLoss": "355.61",
-        "reason": "网络芯片与ASIC，AI基建受益"
+        "price": 447.58,
+        "changePercent": 8.0981,
+        "trailingPE": 145.7026,
+        "buyZone": "393.87 ~ 416.25",
+        "takeProfit": "559.48",
+        "stopLoss": "371.49",
+        "reason": "AI芯片第二极，MI400与CPU双轮驱动"
       },
       {
         "code": "SNAP",
-        "name": "色拉布",
-        "price": 5.6,
-        "changePercent": 0.9009,
+        "name": "Snap Inc",
+        "price": 5.62,
+        "changePercent": 1.2613,
         "trailingPE": null,
-        "buyZone": "5.15 ~ 5.38",
-        "takeProfit": "7.00",
-        "stopLoss": "4.93",
-        "reason": "社交平台，AI广告工具升级，低价潜力"
+        "buyZone": "4.78 ~ 5.06",
+        "takeProfit": "7.31",
+        "stopLoss": "4.50",
+        "reason": "社交媒体AI广告转型，低股价高弹性，受益于AI应用"
       },
       {
-        "code": "PLTR",
-        "name": "帕兰提尔",
-        "price": 135.83,
-        "changePercent": 0.4214,
-        "trailingPE": 142.1242,
-        "buyZone": "122.25 ~ 129.04",
-        "takeProfit": "163.00",
-        "stopLoss": "115.46",
-        "reason": "大数据AI平台，政府与企业客户扩张"
+        "code": "SOFI",
+        "name": "SoFi Technologies",
+        "price": 15.69,
+        "changePercent": 3.0204,
+        "trailingPE": 33.862,
+        "buyZone": "13.34 ~ 14.12",
+        "takeProfit": "20.40",
+        "stopLoss": "12.55",
+        "reason": "金融科技平台，用户增长强劲，AI提升信贷效率"
       },
       {
         "code": "RGTI",
@@ -297,43 +259,43 @@
         "price": 16.88,
         "changePercent": 5.7644,
         "trailingPE": null,
-        "buyZone": "14.85 ~ 15.70",
-        "takeProfit": "21.94",
-        "stopLoss": "13.50",
-        "reason": "量子计算先锋，AI+HPC结合，低价投机"
+        "buyZone": "13.50 ~ 14.35",
+        "takeProfit": "23.63",
+        "stopLoss": "12.66",
+        "reason": "量子计算先锋，低股价高波动，受益于量子AI概念"
       },
       {
-        "code": "SOFI",
-        "name": "SoFi Technologies",
-        "price": 15.62,
-        "changePercent": 2.5607,
-        "trailingPE": 33.862,
-        "buyZone": "14.37 ~ 15.00",
-        "takeProfit": "18.74",
-        "stopLoss": "13.75",
-        "reason": "金融科技，AI驱动信贷与用户增长，低价"
+        "code": "PLTR",
+        "name": "Palantir Technologies",
+        "price": 137.15,
+        "changePercent": 1.3973,
+        "trailingPE": 144.1101,
+        "buyZone": "120.69 ~ 127.55",
+        "takeProfit": "171.44",
+        "stopLoss": "113.83",
+        "reason": "AI数据分析平台，AIP产品推动政府与企业订单"
       },
       {
         "code": "MSFT",
         "name": "微软",
-        "price": 417.44,
-        "changePercent": 0.0048,
+        "price": 421.06,
+        "changePercent": 0.872,
         "trailingPE": 24.4363,
-        "buyZone": "375.70 ~ 396.57",
-        "takeProfit": "480.06",
-        "stopLoss": "354.82",
-        "reason": "云与AI Copilot生态，Azure份额增长"
+        "buyZone": "378.95 ~ 400.01",
+        "takeProfit": "505.27",
+        "stopLoss": "357.90",
+        "reason": "AI云与Copilot生态，受益于企业AI部署"
       },
       {
-        "code": "AMZN",
-        "name": "亚马逊",
-        "price": 263.03,
-        "changePercent": 1.4228,
-        "trailingPE": 30.9724,
-        "buyZone": "236.73 ~ 249.88",
-        "takeProfit": "302.48",
-        "stopLoss": "223.58",
-        "reason": "AWS AI服务+零售，基础设施支出强劲"
+        "code": "GOOGL",
+        "name": "谷歌",
+        "price": 388.91,
+        "changePercent": 0.3224,
+        "trailingPE": 29.3674,
+        "buyZone": "350.02 ~ 369.46",
+        "takeProfit": "466.69",
+        "stopLoss": "330.57",
+        "reason": "Gemini AI与TPU云，I/O大会发布多项AI更新"
       }
     ]
   },
@@ -341,316 +303,240 @@
     {
       "id": "ai_large_model",
       "name": "人工智能/大模型",
-      "status": "资本加速落地",
+      "status": "多空交织，AI应用加速",
       "latestNews": [
-        "【英伟达向头部AI公司交付首批Vera CPU系统】英伟达高管Ian Buck上周五和本周一先后向Anthropic、OpenAI、SpaceX AI和甲骨文云亲自交付独立Vera CPU系统，这是英伟达首次将CPU作为独立产品线出货，专为Agentic AI时代的推理与微调场景设计。此前英伟达GPU主导训练，而Vera CPU与GPU配合可优化算力配比至1:1，极大提升效率。该交付表明英伟达正从GPU垄断者向全栈AI硬件平台转型，同时验证了台积电3nm CoWoS产能的可靠性。市场担忧英伟达CPU若成功可能削弱AMD EPYC份额，但更关键的是，独立CPU将加速企业级AI部署，降低对高端GPU的依赖，利好云厂商降低成本。",
-        "【Google I/O 2026全面押注AI：搜索改版、Gemini更新与黑石TPU云合资】Google在I/O大会上发布多项AI产品：搜索框引入生成式摘要，Gemini 3.0支持多模态推理，推出每月100美元的AI Ultra订阅套餐，同时宣布与黑石集团合资成立TPU云公司（黑石出资50亿美元持多数股权）。该合资公司目标2027年达到500兆瓦算力容量，直接挑战英伟达CUDA生态。结合历史事件——此前特斯拉裁员与AI转岗，谷歌此举标志着科技巨头从自用AI向对外提供算力服务的模式转型。对国内而言，百度、阿里等云厂商面临TPU vs GPU路线选择，而华为昇腾生态需加速追赶。",
-        "【AMD苏姿丰在上海开发者大会称AI进入CPU+GPU时代】AMD CEO苏姿丰在首次于中国举办的AMD AI DevDay上表示，数据中心CPU/GPU配比已从1:4向1:1演进，推理负载驱动CPU需求增长。AMD发布MI400加速器与EPYC Turin处理器，性能对标英伟达B200。同时与零一万物等中国企业合作，强化本土生态。历史上下文：AMD在中国市场持续扩大份额，苏姿丰的表态呼应了黄仁勋关于“中国最终将开放AI芯片市场”的言论，但美国出口管制仍限制高端GPU销售，AMD通过提供CPU+GPU组合方案有望绕开限制。"
+        "Google I/O 2026大会发布多款AI产品：Gemini 3.5 Flash模型速度提升4倍，支持智能体编码；推出Gemini Omni用于视频多模态创作；Universal Cart通用购物车结合AI比价；Gemini for Science科研工具套件。这些更新显示谷歌正在从对话式AI转向全面AI代理，并与黑石合资成立TPU云（黑石出资50亿美元），挑战英伟达的算力霸权。此举将加速企业AI部署，但也加剧了数据中心电力需求与监管压力。",
+        "SpaceX计划IPO后以100亿美元分手费收购AI编程公司Cursor，增强航天与AI融合。Cursor是AI辅助编程领域的新星，收购后将与xAI协同，打造从火箭到代码的AI闭环。该交易若成功，将强化AI编程赛道，并可能引发其他巨头对AI工具公司的争夺。",
+        "Alibaba发布自研Zhenwu M890 AI芯片，性能较前代提升3倍，并规划V900和H900路线图。这是中国AI芯片自主化的重要一步，配合长江存储IPO，形成算力-存储国产替代链条。美国国会拟立法削弱中国AI工具海外销售，中美AI博弈进一步升级。"
       ],
-      "catalyst": "短期核心催化剂为英伟达Q1财报（5月20日盘后）。若营收指引超700亿美元，将确认Blackwell需求持续超预期，带动AI芯片板块技术反弹。同时，谷歌与黑石的TPU云合资协议细节（如定价、客户锁定）若公布，将催化ASIC设计公司（博通、Marvell）与云基础设施股票。此外，中美AI政府对话首次会议若宣布合作项目（如全球AI安全标准），将提振市场信心。时间上，5月底至6月初还有台积电技术论坛（2nm量产进展）和苹果WWDC（AI Siri），形成多重催化剂窗口。本土对标：华为昇腾910C量产进度、中科曙光国产服务器订单。",
-      "riskFactor": "最大风险是AI投资泡沫破裂。纽约联储报告显示美国五大科技公司资本支出首超运营利润，AI的宏观经济回报尚未兑现。若英伟达财报指引不及预期（例如云厂商资本开支增速放缓），可能触发AI板块30%以上调整。社会反AI情绪不断升温：美国校园抗议、渣打裁员7000人、科罗拉多AI责任法案落地，监管可能进一步收紧。地缘风险：美国若扩大对华AI芯片出口管制（如限制H20），将直接冲击英伟达中国营收（占15%）并利好华为昇腾但拖累整体产业链。此外，电费上涨导致公众反对数据中心建设，可能阻碍算力扩张速度。",
+      "catalyst": "短期催化剂是英伟达即将公布的财报（5/20），若营收指引超700亿美元将提振全产业链；此外，Google I/O后TPU云合资细节落地、SpaceX与Cursor收购案进展、以及中美AI政府对话（5/19启动）若达成技术合作框架，将缓解出口管制担忧。时间表上，6月Computex展会（鸿海展示英伟达Vera Rubin模组）与7月SpaceX可能的收购完成节点，将构成事件驱动机会。国内映射：中际旭创（光模块）、工业富联（服务器）、华为昇腾产业链（四川长虹等）将直接受益于AI算力需求。",
+      "riskFactor": "最大风险在于美债收益率持续飙升（30年已至5.20%），压制科技股估值。若英伟达财报不及预期（营收低于680亿美元），可能引发AI泡沫担忧。此外，社会反AI情绪因裁员和电价上涨而加剧，美国多州可能出台更严格的数据中心监管政策。中美AI法案若通过，将限制中国AI企业海外收入。长期看，OpenAI等头部模型公司商业化不及预期，或者TPU等替代方案侵蚀英伟达份额，可能改变行业格局。需要注意的是，历史事件池中已有“RAMageddon”显示HBM紧缺，三星罢工可能进一步推高存储价格，但若AI需求放缓，库存调整将带来下行风险。",
       "investmentVehicles": {
         "stocks": [
           {
+            "code": "601138.SS",
+            "name": "工业富联",
+            "exposureReason": "AI服务器代工龙头，深度绑定英伟达，受益于Vera Rubin平台拉货。",
+            "price": 67.6,
+            "changePercent": -0.81,
+            "pe": null,
+            "trailingPE": 33,
+            "priceToBook": 7.61,
+            "quarterlyRevenueGrowth": null
+          },
+          {
             "code": "NVDA",
             "name": "英伟达",
-            "exposureReason": "AI芯片绝对龙头，Vera CPU与Blackwell GPU双轮驱动，财报关键催化",
-            "price": 224.48,
-            "changePercent": 1.7542,
+            "exposureReason": "AI芯片绝对龙头，财报催化短期走势，长期逻辑不变。",
+            "price": 223.47,
+            "changePercent": 1.2964,
             "pe": null,
             "trailingPE": 44.7184,
             "priceToBook": 28.8075,
             "quarterlyRevenueGrowth": null
           },
           {
-            "code": "AMD",
-            "name": "超微半导体",
-            "exposureReason": "AI追赶者，CPU+GPU战略受益推理需求，中国市场份额扩大",
-            "price": 443.9,
-            "changePercent": 7.2093,
+            "code": "0700.HK",
+            "name": "腾讯控股",
+            "exposureReason": "AI应用生态（混元大模型+云服务），受益于国内AI商业化。",
+            "price": null,
+            "changePercent": null,
+            "pe": null
+          }
+        ],
+        "fundsEtfs": [
+          {
+            "code": "515070.SS",
+            "name": "华夏中证人工智能ETF",
+            "strategyAdvice": "逢低分批布局，关注英伟达财报与AI政策催化剂，设好止损。"
+          },
+          {
+            "code": "159998.SZ",
+            "name": "天弘中证计算机主题ETF",
+            "strategyAdvice": "受益于AI软件与应用端，仓位控制在10%以内，避免追高。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "storage_chip",
+      "name": "存储芯片",
+      "status": "三星罢工驱动涨价预期",
+      "latestNews": [
+        "三星电子劳资谈判破裂，4.7万名工会成员将于5月21日起展开18天大罢工。这是三星历史上最大规模罢工，将直接影响DRAM与NAND Flash产能，特别是高附加值HBM（高带宽内存）生产。HBM是AI芯片的关键配套，此次罢工可能加剧全球存储芯片短缺，推动价格进一步上涨。韩国央行警告最坏情况或致GDP损失0.5个百分点。",
+        "台湾地区行政院通过2950亿元军购特别预算，其中部分用于采购先进武器系统，间接刺激台湾本地存储与半导体需求。同时，大陆长江存储启动IPO辅导，计划6月递交科创板申请，国产存储替代进程加速。",
+        "全球服务器市场迎爆发性增长，DIGITIMES调查显示Q1服务器出货季增4%，超预期。Agentic AI普及重新定义硬件需求，HBM与DDR5需求强劲。但RAMageddon效应已导致消费电子DDR5价格上涨，三星罢工将雪上加霜。"
+      ],
+      "catalyst": "短期催化剂是三星罢工的持续时间与影响范围：若罢工超过10天，HBM产能损失将迫使英伟达等客户转向SK海力士和美光，后者股价将受益。时间节点上，5月21日罢工开始，5月底若劳资谈判无进展则升级。此外，长江存储IPO进展（6月递交申请）将催化A股存储设备与材料板块（北方华创、中微公司）。MSCI指数调整也可能纳入相关标的。国内映射：兆易创新（NOR Flash）、北京君正（DRAM）、长电科技（封测）将间接受益于涨价与国产替代。",
+      "riskFactor": "最大风险在于罢工可能提前结束：劳资双方仍有谈判空间，若政府介入调停，罢工可能缩短至一周以内，涨价预期落空。此外，HBM客户非三星独家，SK海力士和美光可填补缺口，短期涨价幅度有限。中长期看，存储芯片周期性强，若AI需求增速放缓，高库存将导致价格暴跌。另外，美国对华存储设备出口限制可能影响长江存储IPO的估值与产能扩张。历史事件中“RAMageddon”已预警内存短缺，但供应端调整可能比预期更快。",
+      "investmentVehicles": {
+        "stocks": [
+          {
+            "code": "603986.SS",
+            "name": "兆易创新",
+            "exposureReason": "NOR Flash与DRAM设计龙头，受益于存储涨价与国产替代。",
+            "price": 443.8,
+            "changePercent": -0.27,
             "pe": null,
-            "trailingPE": 134.7874,
-            "priceToBook": 4.9581,
+            "trailingPE": 108.24,
+            "priceToBook": 12.31,
             "quarterlyRevenueGrowth": null
           },
+          {
+            "code": "000725.SZ",
+            "name": "京东方A",
+            "exposureReason": "面板与存储联动，间接受惠于AI终端需求，但弹性较小。",
+            "price": 4.69,
+            "changePercent": 10.09,
+            "pe": null,
+            "trailingPE": 29.2,
+            "priceToBook": 1.28,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "MU",
+            "name": "美光科技",
+            "exposureReason": "直接受益于三星罢工导致的HBM订单转移与价格上涨。",
+            "price": 731.99,
+            "changePercent": 4.7586,
+            "pe": null,
+            "trailingPE": 33.9083,
+            "priceToBook": 6.4549,
+            "quarterlyRevenueGrowth": null
+          }
+        ],
+        "fundsEtfs": [
+          {
+            "code": "512760.SS",
+            "name": "国泰CES半导体芯片ETF",
+            "strategyAdvice": "存储芯片权重高，罢工催化可短线参与，但需警惕罢工结束后的回调。"
+          },
+          {
+            "code": "159813.SZ",
+            "name": "鹏华国证半导体芯片ETF",
+            "strategyAdvice": "分散持有，避免单一个股风险，动态调整仓位。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "new_energy_vehicle",
+      "name": "新能源汽车",
+      "status": "欧洲EV销量飙升，催化全球需求",
+      "latestNews": [
+        "欧洲EV销量因中东石油冲击而大幅增长，4月同比增34%。高油价推动消费者转向电动化，同时欧盟加速充电桩建设。Stellantis与东风汽车宣布成立合资公司，在法国工厂生产岚图电动车。此举是中国车企通过合资模式进入欧美市场的里程碑，绕开关税壁垒。",
+        "小米发布YU7 GT车型，定位高端电动轿跑，搭载新一代V8s EVO电机与碳化硅功率模块，目标百万级豪车市场。雷军表示“价格会有点小贵”，但性价比策略有望复刻SU7的成功。小米汽车产能持续爬坡，供应链受益。",
+        "波浪能新创Eco Wave Power加入英伟达Inception计划，利用AI优化波浪能发电。虽然非直接EV，但绿色能源基础设施与电动车配套紧密，AI赋能智慧电网将支撑EV充电网络。"
+      ],
+      "catalyst": "短期催化剂为欧洲EV补贴政策延续与石油价格维持高位（原油99美元以上），继续压制燃油车使用成本。时间表上，Stellantis与东风合资交易最早周三（5/21）公布，将刺激中国零部件出口。国内方面，北京、上海等城市可能放宽新能源车牌限制以刺激消费，且6月车购税减免政策到期前或有抢装效应。本土映射：比亚迪（整车）、宁德时代（电池）、三花智控（热管理）等龙头将受益。",
+      "riskFactor": "最大风险在于欧洲对中国电动车的反补贴关税可能升级，尽管合资模式可部分规避，但若美国跟进加征关税，将影响利润。此外，锂、钴等上游原材料价格仍处高位，电池成本下降不及预期。欧洲石油冲击若通过外交手段解决（美伊谈判），油价回落可能削弱EV的短期性价比。历史事件中“恩智浦CoreRide平台”显示车用AI生态加速，但竞争激烈可能导致部分企业亏损。",
+      "investmentVehicles": {
+        "stocks": [
+          {
+            "code": "002594.SZ",
+            "name": "比亚迪",
+            "exposureReason": "国内EV龙头，海外扩张加速，欧洲合资模式利好出口。",
+            "price": 94.28,
+            "changePercent": 0.99,
+            "pe": null,
+            "trailingPE": 31.2,
+            "priceToBook": 3.71,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "300750.SZ",
+            "name": "宁德时代",
+            "exposureReason": "全球动力电池龙头，受益于欧洲EV销量飙升。",
+            "price": 418.91,
+            "changePercent": 1,
+            "pe": null,
+            "trailingPE": 24.54,
+            "priceToBook": 5.93,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "TSLA",
+            "name": "特斯拉",
+            "exposureReason": "全球EV龙头，产能与FSD技术领先，但估值较高。",
+            "price": 417.26,
+            "changePercent": 3.2541,
+            "pe": null,
+            "trailingPE": 405.7776,
+            "priceToBook": 16.5838,
+            "quarterlyRevenueGrowth": null
+          }
+        ],
+        "fundsEtfs": [
+          {
+            "code": "515030.SS",
+            "name": "华夏中证新能源汽车ETF",
+            "strategyAdvice": "受益于行业景气度提升，逢低布局，关注海外政策变化。"
+          },
+          {
+            "code": "159806.SZ",
+            "name": "国泰中证新能源汽车ETF",
+            "strategyAdvice": "分散配置，对冲单一股票风险，控制仓位。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "semiconductor_equipment",
+      "name": "半导体设备",
+      "status": "国产替代加速，订单强劲",
+      "latestNews": [
+        "阿里巴巴发布Zhenwu M890 AI芯片，虽然由台积电代工，但设计能力的提升将推动国内晶圆厂对国产设备的验证需求。同时，长江存储IPO在即，其扩产计划将直接采购国内刻蚀、薄膜沉积等设备。美国出口管制持续收紧，迫使中国加速设备自主化。",
+        "三星罢工不仅影响存储产能，也可能导致其放缓先进制程设备导入，为国内设备商提供窗口期。另外，华为昇腾生态扩张，中芯国际、华虹等代工厂资本开支维持高位，北方华创、中微公司等设备商订单饱满。",
+        "Computex 2026即将开幕，鸿海将展示英伟达Vera Rubin NVL72平台的Compute Tray，强调液冷与无电缆设计。这带动先进封装与散热设备需求，A股相关标的如长电科技、飞凯材料等受益。"
+      ],
+      "catalyst": "短期催化剂为长江存储IPO辅导及6月申报，将激发市场对半导体设备板块的关注。此外，美国是否进一步扩大对华设备出口限制（如限制对存储厂的设备供应）将成为情绪催化剂。时间表上，6月初的Computex将展示AI服务器模组，利好设备与材料企业。国内映射：北方华创（刻蚀/薄膜）、中微公司（等离子体刻蚀）、芯源微（涂胶显影）等直接受益于资本开支扩张。",
+      "riskFactor": "最大风险在于全球半导体资本开支可能下行，若AI需求增速放缓，晶圆厂可能推迟扩产。美国出口管制若加严（如限制DUV光刻机售后），将短期冲击国内先进制程设备进展。此外，设备板块估值已较高，需警惕获利了结。历史事件中“英特尔要求客户提高18A制程采用比例”显示先进制程竞争激烈，但国内设备替代尚需时间。",
+      "investmentVehicles": {
+        "stocks": [
           {
             "code": "002371.SZ",
             "name": "北方华创",
-            "exposureReason": "国内半导体设备龙头，受益于AI芯片扩产和先进封装需求",
-            "price": 656,
-            "changePercent": 5.86,
+            "exposureReason": "国内半导体设备平台型龙头，刻蚀/薄膜/清洗全覆盖。",
+            "price": 680.01,
+            "changePercent": 3.66,
             "pe": null,
-            "trailingPE": 85.27,
-            "priceToBook": 12.1,
+            "trailingPE": 88.4,
+            "priceToBook": 12.54,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "688012.SS",
+            "name": "中微公司",
+            "exposureReason": "等离子体刻蚀设备领军，受益于3D NAND与逻辑先进制程。",
+            "price": 490.36,
+            "changePercent": 0.01,
+            "pe": null,
+            "trailingPE": 113,
+            "priceToBook": 12.59,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "688981.SS",
+            "name": "中芯国际",
+            "exposureReason": "代工企业，设备采购大户，国产化率提升带动设备商。",
+            "price": 132.43,
+            "changePercent": -1.03,
+            "pe": null,
+            "trailingPE": 210.32,
+            "priceToBook": 7.08,
             "quarterlyRevenueGrowth": null
           }
         ],
         "fundsEtfs": [
           {
-            "code": "159819.SZ",
-            "name": "人工智能ETF",
-            "strategyAdvice": "AI板块Beta工具，逢回调加仓，关注英伟达财报后波动"
+            "code": "159997.SZ",
+            "name": "天弘中证电子ETF",
+            "strategyAdvice": "半导体设备权重较高，逢低布局，关注长江存储IPO催化。"
           },
           {
-            "code": "513100.SH",
-            "name": "纳斯达克100ETF",
-            "strategyAdvice": "分散配置美股科技，利用净值折溢价做网格交易"
-          }
-        ]
-      }
-    },
-    {
-      "id": "electric_power_infrastructure",
-      "name": "电力能源基础设施",
-      "status": "行业整合加速",
-      "latestNews": [
-        "【NextEra以670亿美元收购Dominion，成全球最大受监管电力公司】该交易是2026年最大规模并购之一，直接响应AI数据中心激增的电力需求。NextEra将整合Dominion在美国东海岸的核能、天然气和可再生能源资产，预计2027年AI相关电力需求增长25%。历史事件池中，美国防部已释放军事基地土地用于AI数据中心，而NextEra通过收购获得现成输电网络，可大幅缩短新建电厂审批周期。交易还需监管批准，但预期顺利，后续其他公用事业公司（如杜克能源、南方公司）可能跟进整合。",
-        "【美国AI用电需求催生电力ETF资金流入：受益人数创历史新高】据路透报道，AI数据中心电力需求推动美国电力公司股价上涨，ETF如UTY和XLU连续三周资金净流入。维吉尼亚州等数据中心密集区电费可能2030年前上涨50%，但公用事业公司利润同步提升。结合历史事件——黑石与谷歌TPU云合资需要500兆瓦电力，NextEra收购后有望成为AI算力主要供电方。本土映射：中国AI数据中心同样面临电力瓶颈，但国家电网统一规划，利好特高压与储能领域。",
-        "【Stellantis宣布推出售价低于1.8万美元的电动车，Jeep品牌将受益】Jeep制造商Stellantis计划推出小型电动SUV，目标起售价1.8万美元，采用磷酸铁锂电池与低成本架构。这反映汽车行业向平价电动化转型，AI辅助制造同时降低成本。历史上下文：特斯拉此前降价引发价格战，但Stellantis凭借欧洲市场优势和Jeep品牌力有望获取份额。充电基础设施配套是关键，利好充电桩与电池供应商。"
-      ],
-      "catalyst": "短期催化剂为NextEra-Dominion交易完成监管审批（预计6月底），以及美国国会推进《AI电网法案》（可能提供税收优惠）。夏季用电高峰将至，AI数据中心与居民用电冲突可能凸显，推动电力公司定价权提升。时间表：2026年Q2至Q3，美国多个州将举行电价听证会，电费上涨预期将催化电力公用事业ETF上涨。本土对标：中国方面，长江电力（600900）、华能国际（600011）等头部水电煤电企业受益于AI算力电力需求；特变电工（600089）受益于特高压建设。",
-      "riskFactor": "最大风险是电力监管政策逆转。若美国联邦能源监管委员会（FERC）拒绝NextEra收购，或要求拆分电网垄断，可能重创板块。另外，AI数据中心建设若因半导体短缺放缓，电力需求增速不及预期。电价上涨引发居民抗议，可能导致立法限制数据中心用电量。全球角度看，欧洲因天然气价格高企，ECB可能被迫升息（柯赫警告），进一步压制电力等高杠杆行业。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "NEE",
-            "name": "NextEra能源公司",
-            "exposureReason": "美国最大受监管电力公司，AI数据中心核心受益者，并购Dominion增厚利润",
-            "price": 88.89,
-            "changePercent": -1.2991,
-            "pe": null,
-            "trailingPE": 22.8131,
-            "priceToBook": 3.5074,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "DUK",
-            "name": "杜克能源",
-            "exposureReason": "美国东南部电力龙头，数据中心需求增长，防御属性强",
-            "price": 124.6,
-            "changePercent": 0.0321,
-            "pe": null,
-            "trailingPE": 18.6778,
-            "priceToBook": 1.871,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "600900.SS",
-            "name": "长江电力",
-            "exposureReason": "中国水电龙头，稳定现金流，AI电力需求长期利好",
-            "price": 26.9,
-            "changePercent": -1.28,
-            "pe": null,
-            "trailingPE": 18.24,
-            "priceToBook": 2.89,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "UTY",
-            "name": "DBi美国公用事业ETF",
-            "strategyAdvice": "受益于全球AI电力需求，利用回调布局，风险点在于利率上行"
-          }
-        ]
-      }
-    },
-    {
-      "id": "chip_semiconductor",
-      "name": "半导体芯片",
-      "status": "先进封装竞争白热化",
-      "latestNews": [
-        "【英伟达Vera CPU交付开启独立CPU时代，台积电3nm产能满载】英伟达首批Vera CPU系统交付给AI巨头，使用台积电3nm工艺，集成超过1000亿晶体管。同时，台积电CoPoS（共封装光学）技术被英伟达用于下一代GPU互连。历史事件：此前英伟达Blackwell GPU因CoWoS产能瓶颈延迟，如今台积电已扩产，3nm良率提升至90%。Vera CPU的成功将加剧与AMD EPYC的竞争，但英伟达生态护城河深厚。",
-        "【AMD苏姿丰强调CPU+GPU协同，MI400对标英伟达B200】AMD在AI DevDay上展示MI400加速器，性能较MI350提高50%，并推出EPYC Turin处理器（96核）。苏姿丰表示CPU在AI推理中的重要性日益提升，数据中心配比将从1:4变为1:1。这暗示AMD正通过差异化策略争夺云厂商份额，微软Azure已开始使用MI400。英特尔则加速18A制程，但追赶困难。",
-        "【RAMageddon冲击内存供应链：DDR5价格暴涨，HBM供不应求】全球内存短缺导致DDR5颗粒价格较年初上涨40%，AI服务器消耗HBM3E产能，挤占消费电子DRAM。三星工会罢工谈判仍未完全解决，停产风险加剧供应紧张。历史事件：三星罢工若爆发将直接影响全球25%的DRAM产能，利好美光与国产存储（长江存储）。中国方面，长江存储IPO辅导启动，存储芯片国产替代成为长期主题。"
-      ],
-      "catalyst": "短期催化剂为英伟达财报对HBM需求的指引（SK海力士预计Q3量产出HBM4），以及台积电2nm量产时间表（2026年底）。此外，英特尔与高通竞购Tenstorrent（AI芯片初创）可能公布结果，若成交将重塑AI芯片格局。时间线：5月下旬至6月，CPU+GPU新架构将刺激设备升级需求，ASML订单展望乐观。本土映射：北方华创在刻蚀和薄膜设备、中微公司（688012）在刻蚀环节受益于先进制程扩产。",
-      "riskFactor": "最大风险是半导体下行周期。全球PC与手机需求疲软（三星、苹果出货量下滑），若AI资本支出边际放缓，芯片库存可能过剩。美国对华出口管制若扩大至成熟制程设备（如限制DUV），将冲击中国本土工厂扩产计划。此外，三星罢工若无法解决，存储价格短期暴涨但长期损害品牌信誉。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "NVDA",
-            "name": "英伟达",
-            "exposureReason": "AI芯片绝对龙头，GPU+CPU全栈布局，财报关键窗口",
-            "price": 224.48,
-            "changePercent": 1.7542,
-            "pe": null,
-            "trailingPE": 44.7184,
-            "priceToBook": 28.8075,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "AMD",
-            "name": "超微半导体",
-            "exposureReason": "CPU/GPU双重增长，数据中心份额扩大，市值较英伟达低估",
-            "price": 443.9,
-            "changePercent": 7.2093,
-            "pe": null,
-            "trailingPE": 134.7874,
-            "priceToBook": 4.9581,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "002371.SZ",
-            "name": "北方华创",
-            "exposureReason": "半导体设备龙头，受益于先进封装和国产替代",
-            "price": 656,
-            "changePercent": 5.86,
-            "pe": null,
-            "trailingPE": 85.27,
-            "priceToBook": 12.1,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "512480.SH",
-            "name": "半导体设备ETF",
-            "strategyAdvice": "国产替代与AI产能扩张双驱动，逢低分批布局"
-          },
-          {
-            "code": "SMH",
-            "name": "VanEck半导体ETF",
-            "strategyAdvice": "全球半导体周期Beta，关注库存拐点和英伟达财报动向"
-          }
-        ]
-      }
-    },
-    {
-      "id": "digital_assets_blockchain",
-      "name": "数字资产与区块链",
-      "status": "机构流出承压",
-      "latestNews": [
-        "【机构资金一周净流出10.7亿美元加密资产，结束连续流入趋势】CoinShares数据显示比特币和以太坊相关投资产品遭遇大规模赎回，市场情绪恶化。XRP价格跌破1.40美元，尽管ETF连续9天净流入但衍生品多头出逃。Ethereum价格回调至2100美元附近，DeFi锁仓量下降。历史事件：此前加密市场受AI监管与减半预期推动上涨，但如今AI主题分流资金，加上美债高企，风险资产遭弃。",
-        "【日本SBI集团拟推比特币和以太坊现货ETF，瞄准万亿储蓄市场】SBI与富兰克林邓普顿成立合资公司，计划在日推出加密ETF，利用日本即将实施的数字资产税改。该消息对加密市场是长期利好，但短期内未抵消机构流出影响。Hyperliquid代币HYPE逆势涨至48美元，被Bitwise CIO称为“超级应用”，但整体交易量萎缩。",
-        "【Bitget Wallet增加130种代币化股票，RWA生态拓展】xStocks集成使得用户可交易苹果、特斯拉等股票代币，但合规风险仍存。加密货币与AI的交叉领域（如去中心化算力）出现整合（AIAI收购Constellation），但市场关注度有限。"
-      ],
-      "catalyst": "短期催化剂为美国SEC对以太坊ETF期权上市的批复进展，以及日本SBI ETF的具体上市时间表（预计2026年底）。此外，若比特币价格稳住6.5万美元支撑位，可能触发轧空。但更大概率是下跌，因为宏观流动性收紧。中长期，AI与区块链融合（如去中心化GPU网络）可能成为新叙事。",
-      "riskFactor": "最大风险是监管打击。美国国会可能通过《稳定币法案》加强监管，加密交易所面临合规成本上升。ETH转向PoS后，以太坊基金会领导层变动（多名高管离职）引发治理担忧。此外，AI驱动的交易机器人可能加剧市场波动，散户损失增多导致政治反弹。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "COIN",
-            "name": "Coinbase",
-            "exposureReason": "美国最大合规交易所，受益于加密ETF生态但监管风险并存",
-            "price": 194.72,
-            "changePercent": 0.6565,
-            "pe": null,
-            "trailingPE": 63.6603,
-            "priceToBook": 3.4119,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "MARA",
-            "name": "Marathon Digital",
-            "exposureReason": "比特币矿商，减半后收入承压，等待AI算力转型机会",
-            "price": 13.24,
-            "changePercent": 6.4309,
-            "pe": null,
-            "trailingPE": null,
-            "priceToBook": 0.9782,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "GBTC",
-            "name": "Grayscale比特币信托",
-            "strategyAdvice": "折价收窄但风险偏好下行，观望为主"
-          },
-          {
-            "code": "IBIT",
-            "name": "iShares比特币信托",
-            "strategyAdvice": "流动性好，适合长期配置，短期关注流出数据"
-          }
-        ]
-      }
-    },
-    {
-      "id": "geopolitics_trade",
-      "name": "地缘政治与贸易",
-      "status": "中美博弈延续",
-      "latestNews": [
-        "【美财长贝森特：对中休战不急续约，川习会前关税筹码仍握美方手中】贝森特在G7财长会议表示不急于延长11月到期的对华关税休战协议，暗示中国接受了美方301条款关税。结合历史：特朗普此前取消对伊朗打击计划缓和中东，但对华强硬未改。普丁访华展现中俄团结，中国在贸易谈判中底气增强。美方可能利用关税作为川习会筹码，但中国半导体国产替代进度已削弱部分压力。",
-        "【普丁访中晤习近平，中俄展示坚实盟友关系】普丁在特朗普离开中国后随即访华，双方签署能源、基础设施和科技合作协议。中国购买更多俄罗斯石油天然气，绕开海上运输风险。历史事件：普丁此前多次提及深化中俄合作，此次访问在西方制裁背景下象征意义巨大。对中国而言，保障能源安全的同时，也可能面临美国二级制裁风险。",
-        "【美国从德国撤军5000人，北约表示不影响防御】特朗普削减驻欧美军，欧洲盟国增加国防开支。该举动可能鼓励俄罗斯对东欧渗透，但短期危机会分散美国战略重心，利好亚洲盟友。对中国，台海局势不确定性增加，但美欧分歧可为中欧合作创造空间。"
-      ],
-      "catalyst": "短期催化剂为川习会具体日期确定（预计6月或7月），关税休战续约谈判结果将直接影响出口导向型板块（光伏、家电）。另外，欧盟对中国电动车反补贴调查终裁（预计7月）将影响比亚迪、上汽在欧洲份额。地缘风险催化剂：伊朗核谈判若破裂将推升油价，利好中国石油但利空制造业。",
-      "riskFactor": "最大风险是中美关系突然恶化。若美国将中国银行排除出SWIFT系统或扩大芯片禁令，将引发全球供应链断裂。中国反制可能抛售美债，导致长端收益率飙升。俄罗斯方面的风险是中国企业若向俄出口军民两用产品，可能遭美国次级制裁，影响科技公司海外业务。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "601857.SS",
-            "name": "中国石油",
-            "exposureReason": "受益于中俄能源协议，油价地缘波动下防御属性",
-            "price": 11.63,
-            "changePercent": 0.61,
-            "pe": null,
-            "trailingPE": 13.46,
-            "priceToBook": 1.31,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "600519.SS",
-            "name": "贵州茅台",
-            "exposureReason": "消费龙头，关税战影响小，内需核心资产",
-            "price": 1315,
-            "changePercent": -0.7,
-            "pe": null,
-            "trailingPE": 19.91,
-            "priceToBook": 6.08,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "518880.SH",
-            "name": "黄金ETF",
-            "strategyAdvice": "地缘风险对冲工具，当前支撑位做多"
-          }
-        ]
-      }
-    },
-    {
-      "id": "biotech_healthcare",
-      "name": "生物科技与医疗",
-      "status": "案例加速验证",
-      "latestNews": [
-        "【Jazz Pharma获UBS升级买入评级，目标价307美元】UBS看好Jazz Pharma的睡眠障碍和肿瘤管线，认为其估值被低估。生物科技IPO回暖，Altitude Lab投资组合融资破2.05亿美元。历史事件：此前辉瑞与BioNTech新冠疫苗后，生物科技经历两年熊市，现在AI药物发现降低成本，行业重启。",
-        "【卫生部确保印尼未发现埃博拉病例，世卫组织关注刚果疫情】刚果埃博拉疫情被宣布为PHEIC，全球紧张但有限传播。对中国而言，防疫物资出口可能增加（检测试剂、疫苗），但利空旅游、航空。AI在疾病监测中的应用受到重视，利好医疗AI公司。"
-      ],
-      "catalyst": "短期催化剂为ASCO（美国临床肿瘤学会）年会（6月初）上关键数据公布，可能推动癌症治疗板块。另外，AI制药公司Schrodinger、Recursion财报若超预期，将带动板块情绪。",
-      "riskFactor": "生物科技估值仍高，多数公司无盈利。FDA审批风险、医保控费压力、专利悬崖。另外，AI药物发现仍处于早期，临床失败率不减。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "JAZZ",
-            "name": "Jazz Pharmaceuticals",
-            "exposureReason": "专科药龙头，UBS升级，睡眠药物增长稳定",
-            "price": 237.65,
-            "changePercent": 0.0842,
-            "pe": null,
-            "trailingPE": 506.1675,
-            "priceToBook": 2.5678,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "REGN",
-            "name": "再生元制药",
-            "exposureReason": "研发管线强劲，AI加速抗体发现",
-            "price": 641.94,
-            "changePercent": 1.8467,
-            "pe": null,
-            "trailingPE": 14.6453,
-            "priceToBook": 2.5994,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "XBI",
-            "name": "SPDR标普生物科技ETF",
-            "strategyAdvice": "生物科技周期性机会，适合风险偏好高投资者，逢低布局"
+            "code": "512480.SS",
+            "name": "国联安中证全指半导体ETF",
+            "strategyAdvice": "板块弹性大，适合波段操作，注意止盈止损。"
           }
         ]
       }
@@ -658,746 +544,499 @@
   ],
   "articles": [
     {
-      "originalTitle": "Google I/O押注AI，搜尋框大改版、Gemini更新與百美元月費套餐齊發",
-      "title": "谷歌I/O大会全面押注AI：搜索改版、Gemini更新与百美元月费套餐齐发",
-      "source": "Yahoo奇摩",
-      "category": "AI_MODEL",
-      "url": "https://tw.stock.yahoo.com/news/google-o%E6%8A%BC%E6%B3%A8ai-%E6%90%9C%E5%B0%8B%E6%A1%86%E5%A4%A7%E6%94%B9%E7%89%88-gemini%E6%9B%B4%E6%96%B0%E8%88%87%E7%99%BE%E7%BE%8E%E5%85%83%E6%9C%88%E8%B2%BB%E5%A5%97%E9%A4%90%E9%BD%8A%E7%99%BC-000610559.html",
-      "publishedAt": "2026-05-19T16:06:10Z",
+      "originalTitle": "Samsung faces major strike after pay talks with union falls apart",
+      "title": "三星面临大罢工：薪酬谈判破裂，4.7万工人将罢工18天",
+      "source": "BusinessLine",
+      "category": "TECHNOLOGY",
+      "url": "https://www.thehindubusinessline.com/info-tech/samsung-faces-major-strike-after-pay-talks-with-union-falls-apart/article71000820.ece",
+      "publishedAt": "2026-05-20T05:27:10Z",
       "isAnchorEvent": true,
       "summary": [
-        "谷歌发布Gemini 3.0，搜索引入生成式摘要",
-        "推出每月100美元的AI Ultra订阅",
-        "与黑石合资成立TPU云公司"
+        "三星电子工会宣布从5月21日起罢工18天，涉及4.7万名员工",
+        "将影响HBM生产与全球存储供应"
       ],
       "credibilityScore": 9,
       "riskPoints": [
         "正常客观"
       ],
       "forensicAnalysis": {
-        "underlyingFact": "谷歌在I/O大会上宣布多项AI重大更新：Gemini模型升级至3.0版本，支持多模态推理；搜索框25年来首次大改版，加入生成式答案摘要；推出每月100美元的AI Ultra订阅套餐，并将最高端套餐从250美元降至200美元。同时，谷歌与黑石集团成立合资云公司，黑石出资50亿美元持多数股权，基于TPU提供计算即服务，目标2027年达到500兆瓦容量。",
-        "transmissionChain": "谷歌搜索改版将冲击传统SEO行业，倒逼企业优化生成式搜索适配。AI Ultra订阅直接对标微软Copilot和OpenAI Plus，价格战可能提升AI应用普及率。TPU云合资威胁英伟达CUDA生态，利好AMD和ASIC设计公司如博通、Marvell。黑石的50亿美元资本注入表明私募巨头看好AI算力长期回报，将加速数据中心建设，利好电力公用事业股。",
-        "chinaMarketMapping": "对中国A股：百度文心一言和阿里通义千问面临更激烈的全球竞争，需加速本土化模型迭代。TPU云合资可能采用台积电3nm制程，利好中芯国际（代工）、长电科技（封装）。中国云厂商（阿里云、华为云）可能被迫降价或提供更优质服务，利好IDC公司（光环新网、宝信软件）。长期看，谷歌入局AI云服务将推动中国AI监管细则出台，统一AI服务标准。"
+        "underlyingFact": "三星电子与工会就奖金制度谈判破裂，工会宣布4.7万名成员从5月21日起举行为期18天的罢工。这是三星55年历史上规模最大的罢工，将直接冲击其HBM（高带宽内存）作为AI芯片关键组件的生产能力，以及DRAM和NAND Flash的全球出货。",
+        "transmissionChain": "上游：三星停止HBM出货→英伟达、AMD等AI芯片厂商面临GPU配套短缺→HBM价格跳涨→利好竞争对手SK海力士和美光。中游：服务器与PC厂商可能延迟出货或涨价转嫁成本→下游：数据中心运营商与消费者面临更高成本。整体存储供应链的紧张可能引发进一步“RAMageddon”，并加速买家寻求多元供应。",
+        "chinaMarketMapping": "对A/H股：利好国产存储替代标的（兆易创新、北京君正、长鑫存储概念股），以及非三星供应链的DRAM模组厂（澜起科技）。由于中国存储厂商（长江存储、长鑫存储）扩产计划明确，罢工窗口期可能加速国产化验证。但HBM领域中国技术差距大，短期难以替代，对国内AI服务器企业（中科曙光）形成成本压力。"
       }
     },
     {
-      "originalTitle": "Nvidia Exec Hand-Delivers First Vera CPU Systems to AI Heavy Hitters",
-      "title": "英伟达高管亲自向AI巨头交付首批Vera CPU系统",
-      "source": "PCMag",
+      "originalTitle": "Google I/O 2026: Google launches Gemini 3.5 Flash, Universal Cart, and more",
+      "title": "谷歌I/O大会发布Gemini 3.5 Flash、通用购物车等多项AI更新",
+      "source": "Cool3c.com",
       "category": "AI_MODEL",
-      "url": "https://me.pcmag.com/en/ai/37229/nvidia-exec-hand-delivers-first-vera-cpu-systems-to-ai-heavy-hitters",
-      "publishedAt": "2026-05-19T16:12:17Z",
+      "url": "https://www.cool3c.com/article/248713",
+      "publishedAt": "2026-05-20T05:33:00Z",
       "isAnchorEvent": true,
       "summary": [
-        "英伟达交付首批独立Vera CPU给OpenAI、Anthropic、SpaceX AI和甲骨文",
-        "这是英伟达首款独立CPU，专为Agentic AI设计",
-        "与GPU配合推理，优化数据中心算力配比"
-      ],
-      "credibilityScore": 9,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "英伟达高管Ian Buck上周五和本周一向Anthropic、OpenAI、SpaceX AI和甲骨文云亲自交付首批Vera CPU系统。Vera CPU是英伟达首款独立产品线的CPU，采用台积电3nm工艺，集成了超过1000亿晶体管，专为AI推理和Agentic AI工作负载设计。该CPU与英伟达GPU配合，可将数据中心CPU/GPU配比从当前的1:4提升至1:1，显著降低整体TCO。",
-        "transmissionChain": "Vera CPU的成功交付标志着英伟达从GPU垄断者向全栈AI平台转型，直接威胁AMD EPYC和英特尔Xeon在数据中心的份额。上游利好台积电3nm产能利用率，下游利好服务器代工厂（鸿海、广达、纬创）获得更多订单。对于云厂商，可降低对英伟达高端GPU的依赖，提高算力灵活性。长期看，CPU+GPU协同将推动AI推理市场爆发，利好边缘计算和AI应用开发。",
-        "chinaMarketMapping": "对A股影响：英伟达CPU出货验证了AI基础设施需求持续强劲，利好中际旭创（光模块）、沪电股份（PCB）。但国产CPU厂商（海光信息、龙芯中科）在AI推理领域面临更激烈竞争。中国云厂商（阿里云、腾讯云）可能加速采用国产AI芯片（昇腾、寒武纪）以摆脱对英伟达依赖，政府层面已要求党政云优先国产方案。鸿海、广达等台系服务器代工商将直接获得Vera Rubin平台订单。"
-      }
-    },
-    {
-      "originalTitle": "BlackStone与Google合资成立TPU云公司 首度大規模商業化挑戰NVIDIA",
-      "title": "黑石与谷歌合资成立TPU云公司，大规模商业化挑战英伟达",
-      "source": "Cool3c",
-      "category": "AI_MODEL",
-      "url": "https://www.cool3c.com/article/248699",
-      "publishedAt": "2026-05-19T15:34:00Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "黑石出资50亿美元持TPU云合资公司多数股权",
-        "基于谷歌TPU提供计算即服务",
-        "目标2027年达到500兆瓦容量"
+        "Gemini 3.5 Flash模型速度提升4倍，支持代理能力",
+        "推出Universal Cart通用购物车与Gemini for Science"
       ],
       "credibilityScore": 8,
       "riskPoints": [
         "正常客观"
       ],
       "forensicAnalysis": {
-        "underlyingFact": "黑石集团与谷歌宣布成立合资云公司，黑石出资50亿美元持有主要股份，谷歌提供TPU技术和管理。合资公司将基于谷歌定制TPU芯片向企业提供AI计算即服务，目标到2027年实现500兆瓦容量的数据中心规模。此举是谷歌将内部TPU对外商业化的重大举措，直接挑战英伟达CUDA + GPU生态。黑石作为全球最大另类资产管理公司，代表机构资本对AI算力基础设施的长期看好。",
-        "transmissionChain": "TPU云合资将降低企业使用AI算力的门槛，尤其是依赖英伟达GPU的云客户可多一个选择。利好ASIC设计公司（博通、Marvell）因为TPU属于定制芯片，可能增加对ASIC采购。同时，电力需求将进一步推动能源公司（NextEra、杜克能源）和光模块供应商（中际旭创）。对英伟达而言，生态垄断被打破，但短期内GPU仍占主导。黑石的资本注入可加速数据中心建设，利好服务器代工与建筑商。",
-        "chinaMarketMapping": "对中国市场，谷歌TPU云合资可能受限于美国出口管制，无法直接服务中国客户，但中国企业可以借鉴其商业模式。百度昆仑芯、阿里平头哥、华为昇腾需加速芯片方案商业化，形成对标。同时，该合资可能刺激中国私募资本进入AI算力领域，利好宝信软件、数据港等IDC公司。中长期看，中国AI云服务市场竞争将更激烈，降价让利给中小开发者。"
+        "underlyingFact": "谷歌在年度I/O大会上发布了一系列重大AI更新：Gemini 3.5 Flash模型（推理速度提升4倍，专为智能体设计）、Gemini Omni（多模态视频创作）、Universal Cart（跨平台AI购物车）、以及Gemini for Science科研工具。同时宣布与黑石合资成立TPU云公司，黑石出资50亿美元。这表明谷歌正从搜索公司全面转型为AI-first平台，并试图通过TPU云挑战英伟达的算力垄断。",
+        "transmissionChain": "上游：TPU云若成功将分流部分英伟达GPU需求，利好AMD和ASIC设计公司（博通、Marvell）。中游：AI购物车与搜索增强将促进电商和广告业（Shopify、亚马逊），Gemini for Science利好生物技术和材料科学。下游：AI代理能力普及将提升企业软件效率，微软和Salesforce等对手需跟进。",
+        "chinaMarketMapping": "对A股：利好AI应用层（科大讯飞、三六零）与云基础设施（浪潮信息、中际旭创）。谷歌与黑石的TPU云合资可能加速中国互联网巨头（阿里、腾讯）自研AI芯片部署，但对英伟达依赖度高的企业存在影响。同时，Google Universal Cart概念将刺激中国电商AI化（拼多多、京东），但中国搜索市场谷歌份额极小，影响有限。"
       }
     },
     {
-      "originalTitle": "AMD AI 开发者大会首次在中国举行，苏姿丰出席，共谈 AI 智能体新趋势",
-      "title": "AMD AI开发者大会首次在中国举行，苏姿丰出席谈AI代理新趋势",
-      "source": "IT之家",
-      "category": "AI_MODEL",
-      "url": "https://www.ithome.com/0/952/513.htm",
-      "publishedAt": "2026-05-19T14:49:35Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "AMD AI DevDay 2026在上海举办",
-        "苏姿丰称AI进入CPU+GPU时代，配比向1:1演进",
-        "发布MI400加速器和EPYC Turin处理器"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "AMD首次在中国举办AI开发者大会，CEO苏姿丰出席并宣布AI已进入CPU+GPU协同时代，数据中心CPU/GPU配比从1:4向1:1演进。AMD发布MI400加速器（性能较MI350提升50%）和EPYC Turin处理器（96核）。同时与零一万物等中国AI公司合作，强化软件生态。苏姿丰强调AI代理（Agent）广泛使用CPU是转变关键。",
-        "transmissionChain": "AMD的CPU+GPU战略直接挑战英伟达GPU主导地位，数据表明推理负载确实需要更多CPU资源。利好CPU生态合作厂商（广达、纬颖）及电源管理公司（台达电）。MI400若获得云厂商采用，将提升台积电3nm和CoWoS产能利用率。对英特尔形成两面夹击，英特尔18A制程急需突破。开发者大会在中国举办体现AMD重视中国市场，同时暗示绕开出口管制的可能性。",
-        "chinaMarketMapping": "对A股，AMD新产品有望带动国产服务器厂商（浪潮信息、中科曙光）需求。但中国超算和AI服务器更倾向国产芯片，AMD在中国区营收增长空间有限。不过，苏姿丰的乐观表态提振了AI芯片板块情绪，利好功率半导体（斯达半导）和散热（双鸿）。更重要的是，CPU+GPU趋势利好国产CPU（海光信息、龙芯中科）在推理场景的应用。"
-      }
-    },
-    {
-      "originalTitle": "NextEra世纪并购掀海外电力能源ETF狂飙",
-      "title": "NextEra世纪并购掀起海外电力能源ETF狂涨",
-      "source": "Technews",
-      "category": "AI_MODEL",
-      "url": "https://technews.tw/2026/05/19/nextera-dominion-merger/",
-      "publishedAt": "2026-05-19T07:13:03Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "NextEra以670亿美元收购Dominion",
-        "成为全球最大受监管电力公司",
-        "AI数据中心电力需求驱动行业整合"
-      ],
-      "credibilityScore": 9,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "NextEra能源公司宣布以670亿美元收购Dominion能源，合并后成为全球最大的受监管电力公用事业公司。交易通过现金与股票方式支付，预计2026年下半年完成。NextEra将整合Dominion在佛罗里达州、美国东海岸的核能、天然气和可再生能源资产。动机源于AI数据中心对电力的爆发式需求，特别是NextEra已与多家云厂商签署购电协议。",
-        "transmissionChain": "该并购将直接提升NextEra在AI电力供应市场的议价能力，预计2027年AI相关电力需求增长25%。对美国其他电力公司形成示范效应，可能出现更多整合（杜克、南方公司等）。数据中心选址将更倾向于靠近核电和天然气产地，利好发电设备供应商（GE Vernova、西门子能源）。同时，电价市场化进程加速，电力交易平台收益增加。",
-        "chinaMarketMapping": "对中国电力企业具有借鉴意义。国内火电、水电央企（华能国际、国电电力）可能进行类似整合以提高效率。AI数据中心在中国同样推动电力需求，利好特高压（国电南瑞、许继电气）和储能（宁德时代、阳光电源）。但中国电力系统以国家电网主导，民营资本参与有限，核电和风光运营商获得长期成长空间。"
-      }
-    },
-    {
-      "originalTitle": "ECB 6月決策遭中東戰火綁架，柯赫示警荷姆茲不通恐被迫升息",
-      "title": "欧洲央行6月决策遭中东战火绑架，柯赫警告若霍尔木兹不通恐被迫升息",
-      "source": "Yahoo奇摩",
-      "category": "TECHNOLOGY",
-      "url": "https://tw.stock.yahoo.com/news/ecb-6%E6%9C%88%E6%B1%BA%E7%AD%96%E9%81%AD%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E7%B6%81%E6%9E%B6-%E6%9F%AF%E8%B5%AB%E7%A4%BA%E8%AD%A6%E8%8D%B7%E5%A7%86%E8%8C%B2%E4%B8%8D%E9%80%9A%E6%81%90%E8%A2%AB%E8%BF%AB%E5%8D%87%E6%81%AF-235643170.html",
-      "publishedAt": "2026-05-19T15:56:43Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "欧洲央行管委柯赫警告若霍尔木兹海峡不通航，6月可能被迫升息",
-        "能源价格回落是维持利率不变的关键",
-        "中东地缘风险波及欧元区货币政策"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "欧洲央行管理委员会委员、奥地利央行行长柯赫表示，若中东冲突导致霍尔木兹海峡持续不通航，能源价格无法回落，欧洲央行在6月11日会议可能别无选择只能升息。当前市场原本押注降息或维持不变，但地缘政治风险正迫使货币政策路径修正。柯赫强调必须看到海峡恢复通航、石油和化肥等关键产品正常流入全球市场。",
-        "transmissionChain": "若ECB被迫升息，将推高欧债收益率，进而影响全球利率环境。欧洲经济本已疲弱，升息可能引发衰退。能源成本上升将打击欧洲制造业（汽车、化工、钢铁），利空欧洲资产价格。全球资金可能流向美国或中国，推高美元。对中国出口而言，欧洲需求减弱是不利因素，但欧洲需要中国制造的可替代能源设备（光伏、电池）。",
-        "chinaMarketMapping": "对中国A股：若欧洲衰退，出口导向型公司（家电、机械、光伏）面临订单下滑风险。但中国光伏（隆基、晶科）和锂电池（宁德时代）因欧洲能源转型需求可能受益。同时，中国可加大从俄罗斯进口折扣石油，降低自身成本，利好中国石油、中国石化。总体而言，地缘溢价利好石油天然气板块，但利空制造业。"
-      }
-    },
-    {
-      "originalTitle": "贝森特：对中休战不急续约，川习会前关税筹码仍握美方手中",
-      "title": "美财长贝森特：对华休战不急续约，川习会前关税筹码仍握美方手中",
-      "source": "Yahoo奇摩",
-      "category": "TECHNOLOGY",
-      "url": "https://tw.stock.yahoo.com/news/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E5%B0%8D%E4%B8%AD%E4%BC%91%E6%88%B0%E4%B8%8D%E6%80%A5%E7%BA%8C%E7%B4%84-%E5%B7%9D%E7%BF%92%E6%9C%83%E5%89%8D%E9%97%9C%E7%A8%85%E7%B1%8C%E7%A2%BC%E4%BB%8D%E6%8F%A1%E7%BE%8E%E6%96%B9%E6%89%8B%E4%B8%AD-233913956.html",
-      "publishedAt": "2026-05-19T15:39:13Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "贝森特表示不急于延长11月到期的对华关税休战协议",
-        "美方掌握关税筹码，中国可能在降低关税方面做出让步",
-        "暗示贸易谈判将在川习会前保持高压"
-      ],
-      "credibilityScore": 9,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "美国财长贝森特在G7财长会议期间表示，川普政府不急于延长将于11月到期的对华关税与关键矿产贸易休战协议。他指出，只要美国不再进一步提高关税，中国可能接受美国新的301条款关税。贝森特暗示中国在关税问题上“捡了便宜”，美方将利用这段时间施压中国在技术转让和市场开放方面让步。",
-        "transmissionChain": "若关税休战不续约，中国对美出口商品（家电、电子产品、玩具）将重新面临高额关税，影响出口企业利润。但中国可通过汇率贬值对冲部分影响（人民币已走弱）。科技领域，若美国扩大对华为、中芯的制裁，将加速中国半导体国产替代进程。此外，关键矿产（稀土、钨）方面，中国可能限制出口以反制，利好中国稀土板块（北方稀土）。川习会前，特朗普保留关税工具作为谈判筹码。",
-        "chinaMarketMapping": "对A股，出口压力下内需消费和国产替代板块受益。家电（美的、格力）需关注海外营收占比，但可通过东南亚产能规避。半导体（中芯国际、北方华创）国产替代逻辑强化。稀土（北方稀土、五矿稀土）作为反制工具，具备交易性机会。关税不确定性加大的背景下，建议增配防御性板块（公用事业、黄金）。"
-      }
-    },
-    {
-      "originalTitle": "普丁訪中會晤習近平 川普剛走中俄展現堅實盟友關係",
-      "title": "普丁访华会晤习近平，川普刚走中俄展现坚实盟友关系",
-      "source": "Yahoo奇摩",
-      "category": "TECHNOLOGY",
-      "url": "https://tw.news.yahoo.com/%E6%99%AE%E4%B8%81%E8%A8%AA%E4%B8%AD%E6%9C%83%E6%9A%A4%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%B7%9D%E6%99%AE%E5%89%9B%E8%B5%B0%E4%B8%AD%E4%BF%84%E5%B1%95%E7%8F%BE%E5%A0%85%E5%AF%A6%E7%9B%9F%E5%8F%8B%E9%97%9C%E4%BF%82-143731972.html",
-      "publishedAt": "2026-05-19T14:37:31Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "普丁在特朗普离开后访华，与习近平会晤",
-        "签署能源、基础设施和科技合作协议",
-        "展示中俄战略伙伴关系对抗西方压力"
-      ],
-      "credibilityScore": 9,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "俄罗斯总统普丁在特朗普结束对华访问后迅速抵达北京，与习近平举行会谈。双方签署多项合作协议，包括扩大石油和天然气贸易、共同开发北极航道、深化太空合作等。普丁强调中俄关系“坚不可摧”，习近平称两国是“战略协作伙伴”。此次访问旨在展示中俄团结，回应美国对两国的制裁与竞争。",
-        "transmissionChain": "中俄能源协议将使中国获得折扣石油和天然气，降低对中东和海上运输的依赖。利好中国能源安全，但可能面临美国二级制裁风险。北极航道开发将推动造船业（中国船舶）和港口建设。太空合作可能涉及卫星导航（北斗与格洛纳斯兼容），利好中国卫星产业链。长期看，中俄贸易本币结算比例上升，削弱美元储备地位，利好人民币国际化。",
-        "chinaMarketMapping": "对A股，中俄贸易主题受益板块包括：石油天然气（中国石油、中曼石油）、航运（中远海特）、港口基建（连云港、锦州港）、农业（北大荒作为俄罗斯远东粮食进口受益）。但需注意美国制裁引致的外资流出风险。军工板块（航发动力）可能获得俄罗斯技术合作短期催化。总体，能源安全和人民币资产吸引力提升。"
-      }
-    },
-    {
-      "originalTitle": "AI's Macroeconomic Challenges and Promises",
-      "title": "人工智能的宏观经济挑战与前景",
-      "source": "纽约联邦储备银行",
-      "category": "AI_MODEL",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/05/ais-macroeconomic-challenges-and-promises/",
-      "publishedAt": "2026-05-19T16:11:31Z",
+      "originalTitle": "Bitcoin consolidates near $77,000 while US credit downgrade and $648 million ETF outflows weigh on sentiment",
+      "title": "比特币在77000美元附近盘整，美国信用降级与6.48亿美元ETF流出打压情绪",
+      "source": "The Times of India",
+      "category": "DIGITAL_ASSETS",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-77000-while-us-credit-downgrade-and-648-million-etf-outflows-weigh-on-sentiment/articleshow/131217480.cms",
+      "publishedAt": "2026-05-20T05:29:10Z",
       "isAnchorEvent": false,
       "summary": [
-        "美国五大科技公司资本支出首次超过经营利润",
-        "AI技术可能提升生产率，但短期内消耗大量资金",
-        "投资回报尚未显现"
+        "比特币维持77000美元窄幅波动",
+        "美国信用评级下调与ETF净流出6.48亿美元"
       ],
-      "credibilityScore": 10,
+      "credibilityScore": 7,
       "riskPoints": [
         "正常客观"
       ],
       "forensicAnalysis": {
-        "underlyingFact": "纽约联储报告指出，2025年第三季度，美国五大科技公司的资本支出首次超过经营利润。这意味着AI基础设施投资规模巨大，但短期内经济回报滞后。报告称AI有潜力提升全要素生产率，但目前处于资本消耗阶段。这呼应了市场对AI泡沫的担忧。",
-        "transmissionChain": "若资本支出持续超过运营利润，科技公司可能会削减分红或增加债务，导致财务脆弱性。一旦AI需求增速放缓，硬件设备（GPU、服务器）库存积压将冲击半导体供应链。但对电力公用事业而言，无论AI是否产生回报，已开工的数据中心用电需求不变。长期看，生产率提升利好经济，但短期市场需消化过度投资。",
-        "chinaMarketMapping": "对中国，阿里、腾讯、百度的AI资本支出同样急剧增加，但受益于政策支持与国内市场空间，投资效率可能更高。中国AI应用（如智能制造、政务AI）更注重实用效果，泡沫风险较小。但A股AI概念股估值已高，需警惕财报季叙事落空。报告发布后，投资者可适当减持Alphabet、微软等个股，增加防御配置。"
+        "underlyingFact": "比特币价格在77000美元附近整理，但市场情绪因美国信用评级下调（可能指穆迪或惠誉调整）以及加密货币ETF连续7周来首次出现净流出（6.48亿美元）而承压。机构投资者在恐慌中减仓，以太坊和其他山寨币跌幅更大，Glassnode数据显示山寨币持有者自2024年底以来持续实现亏损。",
+        "transmissionChain": "上游：ETF流出表明机构撤退，灰度、贝莱德等产品赎回增加→中游：交易所比特币余额上升，矿工抛压加大→下游：散户跟风抛售，市场恐慌指数上升。同时，美国信用降级提升整体风险厌恶情绪，传统资金也在减持风险资产。",
+        "chinaMarketMapping": "对A股：数字货币概念（广电运通、御银股份）短期受情绪拖累。但对国内合规交易所和区块链服务商影响有限，因为中国已禁止加密货币交易。比特币下跌可能释放资金流入黄金等避险资产，间接利好A股黄金股（山东黄金、紫金矿业）。政策层面，美国降级不会直接冲击中国金融市场，但全球风险偏好下降可能压制A股流动性。"
       }
     },
     {
-      "originalTitle": "‘AI sucks!’: Campus backlash in US signals rising scepticism towards big tech",
-      "title": "“AI太烂！”：美国校园反 AI 浪潮显示对大科技公司日益增长的怀疑",
-      "source": "Irish Times",
+      "originalTitle": "Meta Platforms begins layoffs affecting 8,000 employees amid AI restructuring",
+      "title": "Meta启动裁员8000人，作为AI重组部分",
+      "source": "Lokmattimes.com",
       "category": "AI_MODEL",
-      "url": "https://www.irishtimes.com/2026/05/18/opinion/ai-boo-commencement-speeches.html",
-      "publishedAt": "2026-05-19T16:12:57Z",
+      "url": "https://www.lokmattimes.com/business/meta-platforms-begins-layoffs-affecting-8000-employees-amid-ai-restructuring/",
+      "publishedAt": "2026-05-20T05:27:49Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "Meta裁员8000人，转岗7000人至AI角色",
+        "AI重组推动组织架构围绕智能体与基础设施重构"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "Meta开始了新一轮裁员，涉及约8000名员工，同时将约7000个岗位重新调配至AI相关领域。公司正围绕AI代理、应用和基础设施重组组织架构，这是继此前裁员之后的又一次大规模调整。LinkedIn同日也宣布裁员600人，显示科技行业AI替代人力趋势加速。",
+        "transmissionChain": "上游：裁员节省成本用于AI研发投入→中游：AI代理技术发展提高效率，可能挤压B2B软件和外包服务需求→下游：整体科技就业市场恶化，但AI人才需求强劲，高薪岗位增加。长期看，AI代理由此获得更多内部训练数据，加速能力迭代。",
+        "chinaMarketMapping": "对A股：直接利空国内科技外包公司（中软国际、软通动力）估值，因为全球裁员示范效应可能传导。利好AI应用与安全公司（奇安信、深信服），企业级AI需求上升。政策层面，中国也面临AI就业替代压力，政府可能出台培训补贴，利好职业教育（中公教育、传智教育）。"
+      }
+    },
+    {
+      "originalTitle": "Europe’s EV Sales Surge as Oil Shock Hits Drivers",
+      "title": "欧洲电动车销量因石油冲击而飙升",
+      "source": "OilPrice.com",
+      "category": "SMART_MOBILITY",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-EV-Sales-Surge-as-Oil-Shock-Hits-Drivers.html",
+      "publishedAt": "2026-05-20T05:49:50Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "4月欧洲EV销量同比增34%",
+        "中东石油中断推高零售油价，加速电动化转型"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "据路透社报道，欧洲4月电动车销量同比暴涨34%，直接原因是中东冲突导致的石油出口中断推动零售油价高涨。油价冲击使得燃油车使用成本大幅上升，消费者转向电动化。同时，欧洲各国充电基础设施加速建设，补贴政策维持，共同推动EV渗透率提升。",
+        "transmissionChain": "上游：锂、镍、钴等电池原材料需求增加→中游：电池制造商（宁德时代、LG化学）订单增长，车企（大众、Stellantis）加速电动化→下游：充电桩运营商（ChargePoint、ABB）受益。石油价格维持高位的时间越长，电动化转型越快，中长期将抑制石油需求。",
+        "chinaMarketMapping": "直接利好：国内动力电池龙头企业（宁德时代、比亚迪），因为欧洲车企依赖中国电池供应。整车出口方面，上汽集团、比亚迪在欧销量有望增长。但需关注欧盟是否加征反补贴关税，若Stellantis与东风合资模式成功，将为中国车企提供出海范本。对A股充电桩产业链（特锐德、科士达）也有带动。"
+      }
+    },
+    {
+      "originalTitle": "Global Long Bond Yields Climb to Highest in Almost Two Decades",
+      "title": "全球长期国债收益率攀升至近二十年最高",
+      "source": "Financial Post",
+      "category": "TECHNOLOGY",
+      "url": "https://financialpost.com/pmn/business-pmn/global-long-bond-yields-climb-to-highest-in-almost-two-decades",
+      "publishedAt": "2026-05-20T05:06:58Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "30年期美债收益率一度突破5.20%",
+        "市场担心通胀与财政赤字失控"
+      ],
+      "credibilityScore": 9,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "长端国债收益率在全球范围内飙升，30年期美债收益率触及5.20%，创2007年金融危机以来最高水平。投资者对持续的通胀、庞大的财政赤字以及AI相关电力成本上升感到担忧，纷纷抛售长债。花旗警告下一目标位可能在5.5%。欧洲和日本长债收益率也同步攀升。",
+        "transmissionChain": "上游：债券抛售导致收益率上升→中游：提升企业融资成本，压缩科技股估值（高久期资产承压）→下游：房地产和基建领域借贷成本增加，抑制投资。同时，高收益率吸引资金从股市流向债市，加剧股市波动。新兴市场面临资本外流和货币贬值压力。",
+        "chinaMarketMapping": "对A股：短期利空，美债收益率上行导致外资流出（北向资金），压制蓝筹股估值。但中国国债收益率相对独立，中美利差扩大可能促使央行降准对冲。长期看，高美债收益率若引发全球衰退，中国出口承压；但若中国金融体系稳定，人民币资产可能成为避险选择。对贵金属（黄金）形成支撑，因为实际利率预期波动。"
+      }
+    },
+    {
+      "originalTitle": "Alibaba unveils new AI chip in push for domestic alternatives",
+      "title": "阿里巴巴推出新款AI芯片，推动国产替代",
+      "source": "The Times of India",
+      "category": "AI_MODEL",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-new-ai-chip-in-push-for-domestic-alternatives/articleshow/131217369.cms",
+      "publishedAt": "2026-05-20T05:23:09Z",
       "isAnchorEvent": false,
       "summary": [
-        "美国大学毕业生在毕业典礼上抗议AI",
-        "学生担心AI影响就业、不平等和民主",
-        "科技公司CEO演讲被嘘"
+        "阿里巴巴发布Zhenwu M890 AI芯片，性能是前代3倍",
+        "公司规划V900和H900后续产品"
       ],
       "credibilityScore": 7,
       "riskPoints": [
         "夸大其词"
       ],
       "forensicAnalysis": {
-        "underlyingFact": "《华尔街日报》报道，美国大学校园出现越来越多针对AI的抗议活动。毕业典礼上，科技公司CEO（如谷歌皮查伊、微软纳德拉）演讲被学生嘘声打断，学生举着“AI偷走我们的工作”标语。调查显示多数大学生认为AI将加剧社会不平等。",
-        "transmissionChain": "社会反AI情绪可能转化为政策压力，推动州级AI监管加速出台（如科罗拉多AI责任法案）。企业面临招聘困难与品牌风险，需在AI部署与员工福利之间平衡。对AI初创公司融资可能产生负面影响，投资者担心监管不确定性。长期看，公众抵制将减缓AI在消费者领域的渗透，但企业级应用受影响较小。",
-        "chinaMarketMapping": "中国社会对AI接受度更高，政府大力推动AI产业。但若美国社会反AI思潮导致监管收紧，可能间接影响中国AI产品出海（如TikTok的AI功能）。另外，中国大学生同样面临就业压力，但政府通过职业培训和社会保障缓解矛盾。A股AI概念股短期不受此新闻影响，但需关注美国AI监管进展对中概股的情绪传导。"
+        "underlyingFact": "阿里巴巴旗下平头哥发布了新款AI芯片“镇武M890”，宣称性能较上代提升3倍，并披露了V900和H900的路线图。该芯片用于云端推理与训练，是阿里巴巴减少对英伟达依赖、推动国产化的关键举措。然而，实际量产与客户验证尚需时间，且制程工艺仍依赖台积电。",
+        "transmissionChain": "上游：国产EDA工具和IP提供商（芯原股份）受益于设计需求→中游：台积电代工，但美国出口管制限制先进制程获取→下游：阿里云和第三方客户可降低对英伟达的依赖，但转换成本高。长远看，该芯片将增强中国AI算力自主性，但性能差距仍在。",
+        "chinaMarketMapping": "对A股：利好国产芯片设计板块（海光信息、龙芯中科），但短期难以撼动英伟达。同时，芯片验证测试服务（华峰测控）需求增加。情绪上提振国产替代主题投资，但需警惕概念炒作。对港股阿里巴巴本身是长期利好，但芯片业务短期不贡献利润。"
       }
     },
     {
-      "originalTitle": "渣打银行宣布大裁员！AI取代后勤工作 全球逾7000人恐失业",
-      "title": "渣打银行宣布大裁员！AI取代后勤工作 全球超7000人恐失业",
-      "source": "Yahoo奇摩",
-      "category": "AI_MODEL",
-      "url": "https://tw.stock.yahoo.com/news/渣打银行宣布大裁员！ai取代后勤工作-全球逾7000人恐失业-093351512.html",
-      "publishedAt": "2026-05-19T09:33:51Z",
-      "isAnchorEvent": false,
+      "originalTitle": "Historic Launch: SpaceX prepares for landmark IPO amid massive investor expectations",
+      "title": "历史性发行：SpaceX准备进行里程碑式IPO，投资者期望巨大",
+      "source": "Economictimes.com",
+      "category": "TECHNOLOGY",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/historic-launch-spacex-prepares-for-landmark-ipo-amid-massive-investor-expectations/elon-musk-targets-the-largest-ipo-in-history/slideshow/131218395.cms",
+      "publishedAt": "2026-05-20T05:41:00Z",
+      "isAnchorEvent": true,
       "summary": [
-        "渣打银行计划未来四年裁员7000多个职位",
-        "主要针对后勤与行政岗位",
-        "AI替代低价值人力资本"
+        "SpaceX估值近1.75万亿美元，可能成史上最大IPO",
+        "公司计划6月12日上市，随后收购Cursor"
       ],
-      "credibilityScore": 8,
+      "credibilityScore": 7,
       "riskPoints": [
-        "正常客观"
+        "夸大其词"
       ],
       "forensicAnalysis": {
-        "underlyingFact": "渣打银行宣布计划在未来四年内裁减7000多个职位，相当于其企业职能部门的15%。这些岗位主要集中在后勤、行政和运营支持领域，将被AI和自动化取代。渣打表示此举旨在提高效率，节省成本，并将资源转向高增长业务。此前摩根大通、高盛等也宣布类似裁员计划。",
-        "transmissionChain": "银行大规模裁员将降低劳动力成本，提高净息差，利好银行股短期利润。但长期看，消费者信任可能受损，且失业率上升将打击消费支出。对AI行业，这意味着企业级AI应用（RPA、智能客服、文档处理）市场加速扩大，利好相关软件公司（UiPath、微软）。全球金融业裁员潮将影响商业地产需求（办公楼空置率上升）。",
-        "chinaMarketMapping": "中国银行体系同样面临AI替代压力，工商银行、建设银行已引入智能客服和自动化流程。但中国银行员工规模大，裁员涉及社会稳定，预计以温和转型为主。对A股影响：利好金融科技公司（恒生电子、长亮科技），但国有银行股价可能受裁员消息小幅打压。全球趋势下，中国AI+金融赛道投资价值提升。"
+        "underlyingFact": "SpaceX预计于6月12日进行IPO，估值高达1.75万亿美元，将成为史上最大IPO。此外，公司计划上市后30天内以100亿美元分手费收购AI编程公司Cursor。这是马斯克商业版图从航天延伸至AI的关键一步，也将xAI、Starlink等业务协同整合。",
+        "transmissionChain": "上游：航天供应链（零部件、材料）受益于增产需求→中游：SpaceX获得庞大资金用于星舰与星链扩张→下游：Cursor整合后，AI编程能力用于火箭设计软件，提升效率。收购Cursor还将加剧AI编程工具竞争，威胁GitHub Copilot。",
+        "chinaMarketMapping": "对A股：利好航天军工板块（航天电子、中航光电），SpaceX的商业模式可映射中国商业航天公司（银河航天、蓝箭航空，但未上市）。对港股：相关概念股（中国卫星）可能受情绪驱动。Cursor收购落地后，中国AI编程公司（如百度的文心快码）需加速迭代。"
       }
     },
     {
-      "originalTitle": "美監管機構暫緩大型銀行網路安全檢查，因應新人工智慧模型風險",
-      "title": "美国监管机构暂缓大型银行网络安全检查，因应新AI模型风险",
-      "source": "Yahoo奇摩",
-      "category": "AI_MODEL",
-      "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%9B%A3%E7%AE%A1%E6%A9%9F%E6%A7%8B%E6%9A%AB%E7%B7%A9%E5%A4%A7%E5%9E%8B%E9%8A%80%E8%A1%8C%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E6%AA%A2%E6%9F%A5-%E5%9B%A0%E6%87%89%E6%96%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%A8%A1%E5%9E%8B%E9%A2%A8%E9%9A%AA-235756699.html",
-      "publishedAt": "2026-05-19T15:57:56Z",
+      "originalTitle": "美軍機在中東相撞6死內幕曝光! 疑因躲避親伊朗民兵砲火 五角大廈駁斥",
+      "title": "美军机中东相撞6死内幕曝光，疑躲避亲伊朗民兵炮火",
+      "source": "Yahoo Entertainment",
+      "category": "TECHNOLOGY",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ff475712-f9fb-4ee2-af53-fff919667970",
+      "publishedAt": "2026-05-20T05:37:15Z",
       "isAnchorEvent": false,
       "summary": [
-        "美联储和OCC暂缓大型银行网络安全检查",
-        "因应Anthropic Mythos AI模型可能引发的网络威胁",
-        "银行需要时间加强系统"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "美联储和货币监理署暂时停止对大型银行的部分网络安全检查，原因是Anthropic新推出的Mythos AI模型被发现可被用于发动网络攻击。该模型具有突破现有安全协议的能力，银行需要额外时间加固防御系统。Anthropic已限制对Mythos的访问，并推出防护工具。",
-        "transmissionChain": "此举显示AI双刃剑属性，AI模型越强安全风险越大。利好网络安全公司（Palo Alto、CrowdStrike），企业将增加对AI安全防护的投入。银行IT预算可能从其他项目转移至安全升级，短期令核心银行系统公司（Fiserv、Fidelity National）承压。长期看，AI安全将成为千亿美元市场，带动硬件加密和零信任架构。",
-        "chinaMarketMapping": "中国同样面临AI安全挑战，奇安信、深信服等网络安全公司受益良多。国有银行也必须遵循新的AI安全标准，利好东方通、中科曙光（可信计算）。全球AI治理标准的协调可能加速，中美AI对话中安全议题将成为重点。对A股投资者，网络安全板块具备长期增长逻辑。"
-      }
-    },
-    {
-      "originalTitle": "XRP Enters “Volatility Vacuum” As Traders Exit Derivatives Market",
-      "title": "XRP进入“波动真空”，交易员退出衍生品市场",
-      "source": "newsBTC",
-      "category": "DIGITAL_ASSETS",
-      "url": "http://www.newsbtc.com/xrp-news/xrp-enters-volatility-vacuum-as-traders-exit-derivatives-market/",
-      "publishedAt": "2026-05-19T16:30:27Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "XRP跌至1.40美元下方",
-        "CryptoQuant报告链上活动加衍生品持仓下降",
-        "市场缺乏方向"
+        "美军两架KC-135空中加油机相撞6人死亡",
+        "调查称可能是为躲避亲伊朗民兵炮火导致"
       ],
       "credibilityScore": 6,
       "riskPoints": [
-        "夸大其词"
+        "非独立第三方"
       ],
       "forensicAnalysis": {
-        "underlyingFact": "XRP价格持续下跌至1.40美元以下，衍生品交易量大幅萎缩，CryptoQuant报告称市场进入“波动真空”。尽管现货ETF连续9天净流入，但抛压依然存在。投资者等待更明确信号，可能的催化剂是Ripple与SEC诉讼最终裁决。",
-        "transmissionChain": "XRP低迷拖累其他山寨币，市场总市值下降。加密交易所收入减少，打击Coinbase等平台。ETF净流入与价格背离显示机构买入但散户抛售，一旦方向选择可能引发剧烈波动。整体加密市场受美债收益率和AI投资挤压，资金流出风险资产。",
-        "chinaMarketMapping": "中国内地禁止加密交易，但香港合规交易所如HashKey和OSL迎来业务机会。XRP波动对A股无直接影响，但若加密市场暴跌可能传导至港股区块链概念（BC科技）。整体看，中国投资者应回避加密相关资产，专注AI和科技主线。"
+        "underlyingFact": "今年3月12日，两架美军KC-135加油机在伊拉克上空相撞，6人死亡。近日《大西洋月刊》报道称，事故可能源于机组人员为躲避亲伊朗民兵的地面炮火而进行机动，但五角大楼否认。若属实，表明美军在中东的日常行动面临更直接威胁，地缘风险高于公开承认的水平。",
+        "transmissionChain": "上游：中东冲突升级→石油供应中断风险加大→原油价格飙升→全球通胀与央行加息压力。中游：军工企业（洛克希德·马丁、雷神）获得更多订单。下游：航空旅行和保险成本上升。",
+        "chinaMarketMapping": "对A股：地缘风险提升避险情绪，利好黄金股和军工股（中航沈飞、中直股份）。石油进口成本增加，对中国炼化企业不利，但刺激新能源替代需求。若局势恶化，可能影响中国一带一路项目安全。"
       }
     },
     {
-      "originalTitle": "Ethereum Foundation faces scrutiny after high-profile departures shake leadership",
-      "title": "以太坊基金会遭审视，高层离职动摇领导层",
-      "source": "Crypto Briefing",
-      "category": "DIGITAL_ASSETS",
-      "url": "https://cryptobriefing.com/ethereum-foundation-departures-scrutiny/",
-      "publishedAt": "2026-05-19T16:25:53Z",
+      "originalTitle": "台湾行政院会拍板！军购特别预算金额2950亿元",
+      "title": "台湾行政院通过2950亿元军购特别预算",
+      "source": "Yahoo Entertainment",
+      "category": "TECHNOLOGY",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6d81a564-43ee-4857-99ef-3ccacfc260c0",
+      "publishedAt": "2026-05-20T05:24:19Z",
       "isAnchorEvent": false,
       "summary": [
-        "以太坊基金会多位高层离职",
-        "战略转变引发社区担忧",
-        "ETH价格承压"
+        "台湾行政院通过首批对美军购特别预算2950亿元",
+        "财源以举债支应，符合财政纪律"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "台湾行政院通过了2950亿元新台币的对美军购特别预算案，作为第一批采购计划，财源通过举债。赖清德政府强调强化不对称战力，显示台美军事合作深化。预算后续仍需立法院审议，但政治协商后大概率通过。",
+        "transmissionChain": "上游：美国军火商（洛克希德、雷神、波音）获得大额订单→中游：台湾本地零组件供应商（汉翔、雷虎）受益于F-16、导弹等系统的维护→下游：台湾防务自主性增强，但债务负担增加。",
+        "chinaMarketMapping": "对A股：军工板块情绪利好（中航沈飞、航发动力），但冲突风险同时压制风险偏好。长期看，军购可能加剧台海紧张，影响两岸经济合作。但中国自身军工投入也持续增加，国产替代逻辑不变。"
+      }
+    },
+    {
+      "originalTitle": "DeepMind CEO批评“AI裁员论”：取代开发者是重大错误",
+      "title": "DeepMind CEO批评AI裁员论，称取代开发者是重大错误",
+      "source": "Cnbeta.com.tw",
+      "category": "AI_MODEL",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1563052.htm",
+      "publishedAt": "2026-05-20T05:35:55Z",
+      "isAnchorEvent": false,
+      "summary": [
+        "哈萨比斯认为AI应提升生产力而非裁员",
+        "Gemini 3.5 Flash编程能力强大但不应取代开发者"
       ],
       "credibilityScore": 7,
       "riskPoints": [
         "正常客观"
       ],
       "forensicAnalysis": {
-        "underlyingFact": "以太坊基金会研究团队多名核心成员离职，包括技术负责人。原因是基金会对PoS后路线图存在分歧，部分人认为过度关注Layer2导致基础层创新不足。基金会主席表示改革正在进行。",
-        "transmissionChain": "领导层动荡可能导致以太坊社区分裂，利好竞争对手Solana和Avalanche。开发者可能迁移到其他链。ETH价格已受此影响下跌至2100美元。但长期看，去中心化项目人员流动是常态，若新团队更高效反而有利。对DeFi协议，短期资金可能流出以太坊。",
-        "chinaMarketMapping": "中国区块链从业者关注此事，以太坊若衰落将利好国产公链（Conflux、Nervos）。但中国政府对加密业务严格监管，公链发展受限。投资者不必过度关注，A股无直接映射。"
+        "underlyingFact": "DeepMind CEO戴米斯·哈萨比斯在接受《连线》采访时表示，企业应利用AI提升生产力去做更多工作，而不是裁员。尽管Gemini 3.5 Flash模型拥有强大的编程能力，但他认为取代开发者是错误的，AI应该作为工具帮助人类，而非替代就业。",
+        "transmissionChain": "上游：AI编程工具不断进步（GitHub Copilot、Cursor等）→中游：企业面临成本压力，可能选择裁员，但也可能创造新岗位→下游：开发者技能需升级，培训市场扩大。哈萨比斯的言论可能影响公众舆论，但对公司决策影响有限。",
+        "chinaMarketMapping": "对A股：利好AI培训（传智教育、中公教育）和人力管理软件（用友网络）。但中国就业市场对AI替代的担忧更甚，政策层面强调就业优先，可能出台更多AI监管与培训补贴。"
       }
     },
     {
-      "originalTitle": "Stellantis宣布推出售价低于1.8万美元的电动车",
-      "title": "Stellantis宣布推出售价低于1.8万美元的电动车",
-      "source": "Electrek",
-      "category": "SMART_MOBILITY",
-      "url": "https://electrek.co/2026/05/19/jeep-maker-new-18000-ev-groundbreaking/",
-      "publishedAt": "2026-05-19T16:22:22Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "Stellantis计划推出起售价低于1.8万美元的电动车",
-        "可能采用磷酸铁锂电池和低成本架构",
-        "Jeep品牌将受益"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "Stellantis宣布正在开发全新经济型电动车平台，首款车型将挂Jeep品牌，售价低于1.8万美元。该车将采用磷酸铁锂电池和简化制造工艺，目标渗透新兴市场和欧洲入门级市场。Stellantis CEO表示这是“颠覆性”产品，计划2027年量产。",
-        "transmissionChain": "低价电动车将加速电动车普及，挤压传统燃油车份额。利好电池供应商（宁德时代、LG新能源）及低成本零部件厂商。对特斯拉构成威胁，可能迫使特斯拉推出更低价Model 2。同时，将给钢铁和铝供应商带来额外需求（铝制车身轻量化），利空石油需求。",
-        "chinaMarketMapping": "中国电动车市场竞争已十分激烈，比亚迪海鸥售价低于1.8万美元。Stellantis的进入将加剧竞争，但中国品牌成本优势明显。A股方面，上汽集团、长城汽车等受益于全球电动车需求增长。电池产业链（宁德时代、亿纬锂能）获得长期订单。同时，锂和镍需求前景更加确定。"
-      }
-    },
-    {
-      "originalTitle": "三星与工会缩小分歧，但罢工临近",
-      "title": "三星与工会缩小分歧，但罢工临近",
-      "source": "RTE",
-      "category": "TECHNOLOGY",
-      "url": "https://www.rte.ie/news/2026/0519/1338571-samsung-strike/",
-      "publishedAt": "2026-05-19T10:24:14Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "三星与工会谈判取得进展",
-        "仍有2项关键分歧未解决",
-        "罢工可能影响存储芯片和代工产能"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "三星电子与工会的加班费谈判取得部分进展，但工资涨幅和奖金分配仍存在分歧。工会设定5月21日为最后期限，若未达成协议将举行罢工。三星约占全球DRAM产能45%、NAND闪存35%。",
-        "transmissionChain": "若罢工爆发，存储芯片供应将进一步收紧（已因AI消耗HBM而短缺），DRAM和NAND价格将上涨。利于美光科技和SK海力士（但韩元升值抵消），同时也利好中国存储厂（长江存储、长鑫存储）。代工方面，三星3nm GAA良率本就不佳，罢工可能进一步推迟产能扩张，台积电将受益，订单可能转移。",
-        "chinaMarketMapping": "中国手机和云计算厂商（小米、浪潮）将面临存储成本上升。但国产替代逻辑增强，长江存储IPO提速有望获得更高关注。A股存储芯片概念（兆易创新、北京君正）短期受涨价催化。投资者可适度参与存储板块。"
-      }
-    },
-    {
-      "originalTitle": "Americans’ AI hate wave is building: Data center could raise electricity costs by 50% in some states by 2030",
-      "title": "美国人的AI仇恨浪潮正在积聚：数据中心可能使部分州电费2030年前上涨50%",
-      "source": "Fortune",
+      "originalTitle": "孙正义豪赌OpenAI引发内部质疑：投资超600亿美元 迷信奥特曼如追星",
+      "title": "孙正义豪赌OpenAI引发内部质疑：投资超600亿美元",
+      "source": "Cnbeta.com.tw",
       "category": "AI_MODEL",
-      "url": "https://fortune.com/2026/05/19/ai-data-center-electricity-cost-hate/",
-      "publishedAt": "2026-05-19T07:02:00Z",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1563048.htm",
+      "publishedAt": "2026-05-20T05:35:28Z",
       "isAnchorEvent": false,
       "summary": [
-        "研究报告警告美国电费将因AI数据中心暴涨",
-        "维吉尼亚州等地区冲击最大",
-        "公众不满加剧"
+        "软银对OpenAI投资承诺超600亿美元",
+        "部分内部人士对孙正义高度信任奥特曼感到不安"
       ],
-      "credibilityScore": 8,
+      "credibilityScore": 7,
       "riskPoints": [
         "正常客观"
       ],
       "forensicAnalysis": {
-        "underlyingFact": "一份智库报告显示，美国AI数据中心的电力需求将在2030年前使部分州的居民电费上涨50%以上。弗吉尼亚州、俄亥俄州等数据中心密集区首当其冲。报告建议加强监管和提速电网建设，但成本最终转嫁消费者。",
-        "transmissionChain": "电费上涨将加剧社会对AI的抵触情绪，可能推动地方立法限制数据中心建设。对电力公司短期利好（收入增加），但长期面临监管风险。AI公司可能被迫投资清洁能源或购买碳信用，增加运营成本。利好核能（NuScale）和可再生能源开发商。",
-        "chinaMarketMapping": "中国正大规模建设AI数据中心，东部电费已较高，但政府通过“东数西算”转移至西部低成本地区。政策利好西部绿电（光伏、风电）和特高压输电（国电南瑞）。A股数据中心业主（光环新网、奥飞数据）需关注电费上涨对利润侵蚀。但整体上，中国电价受控，上涨幅度有限。"
+        "underlyingFact": "据彭博社报道，软银集团对OpenAI的投资承诺已超过600亿美元，孙正义个人极度相信奥特曼，甚至驳回高管关于OpenAI失败风险的质询。尽管OpenAI在法律上（马斯克诉讼被驳回）扫清上市障碍，但如此庞大的单一投资令软银内部担忧风险集中。",
+        "transmissionChain": "上游：巨额投资推高OpenAI估值（有望超8000亿美元）→中游：算力供应商（英伟达、微软）受益，OpenAI客户（企业用户）获得更优服务→下游：AI应用生态扩张。但若OpenAI商业化不及预期，软银和愿景基金将遭受重大损失，可能传导至日本股市。",
+        "chinaMarketMapping": "对A股：正面情绪，证明AI巨额投资还在继续，利好国产AI对标公司（科大讯飞、百度）。但也要看到软银风险敞口，若软银财务恶化，可能抛售其持有的其他资产（如ARM）导致连锁反应。"
       }
     }
   ],
-  "lastUpdated": "2026-05-20T16:40:47.835Z",
+  "lastUpdated": "2026-05-21T05:53:57.597Z",
   "marketBenchmarks": {
     "sp500": {
       "name": "标普 500",
-      "current": 7421.1,
-      "change": 0.9,
+      "current": 7433,
+      "change": 0.16,
       "trend24h": [
         {
           "time": "12:00",
-          "price": 7354.8
+          "price": 7421.2
         },
         {
           "time": "12:05",
-          "price": 7345.6
+          "price": 7420.3
         },
         {
           "time": "12:10",
-          "price": 7346.2
+          "price": 7419.3
         },
         {
           "time": "12:15",
-          "price": 7355.3
+          "price": 7415.5
         },
         {
           "time": "12:20",
-          "price": 7359.1
+          "price": 7410.8
         },
         {
           "time": "12:25",
-          "price": 7363.7
+          "price": 7408.4
         },
         {
           "time": "12:30",
-          "price": 7367.7
+          "price": 7405.9
         },
         {
           "time": "12:35",
-          "price": 7369
+          "price": 7407.2
         },
         {
           "time": "12:40",
-          "price": 7372.8
+          "price": 7416.9
         },
         {
           "time": "12:45",
-          "price": 7373.9
+          "price": 7410
         },
         {
           "time": "12:50",
-          "price": 7379.3
+          "price": 7412.8
         },
         {
           "time": "12:55",
-          "price": 7380.5
+          "price": 7412.2
         },
         {
           "time": "13:00",
-          "price": 7385.4
+          "price": 7409.1
         },
         {
           "time": "13:05",
-          "price": 7385.1
+          "price": 7408.7
         },
         {
           "time": "13:10",
-          "price": 7387.6
+          "price": 7415.4
         },
         {
           "time": "13:15",
-          "price": 7391.6
+          "price": 7415.9
         },
         {
           "time": "13:20",
-          "price": 7394.3
+          "price": 7415.5
         },
         {
           "time": "13:25",
-          "price": 7388.8
+          "price": 7420.3
         },
         {
           "time": "13:30",
-          "price": 7387.6
+          "price": 7418.3
         },
         {
           "time": "13:35",
-          "price": 7390.9
+          "price": 7423.6
         },
         {
           "time": "13:40",
-          "price": 7390.4
+          "price": 7421.3
         },
         {
           "time": "13:45",
-          "price": 7385.8
+          "price": 7420
         },
         {
           "time": "13:50",
-          "price": 7383.5
+          "price": 7415.6
         },
         {
           "time": "13:55",
-          "price": 7386.8
+          "price": 7417.4
         },
         {
           "time": "14:00",
-          "price": 7388.2
+          "price": 7419.3
         },
         {
           "time": "14:05",
-          "price": 7390.4
+          "price": 7418.8
         },
         {
           "time": "14:10",
-          "price": 7388.5
+          "price": 7419.5
         },
         {
           "time": "14:15",
-          "price": 7386.6
+          "price": 7419.9
         },
         {
           "time": "14:20",
-          "price": 7381.4
+          "price": 7416.5
         },
         {
           "time": "14:25",
-          "price": 7377.7
+          "price": 7419.3
         },
         {
           "time": "14:30",
-          "price": 7379.4
+          "price": 7422.7
         },
         {
           "time": "14:35",
-          "price": 7375.8
-        },
-        {
-          "time": "14:40",
-          "price": 7377.2
-        },
-        {
-          "time": "14:45",
-          "price": 7376.1
-        },
-        {
-          "time": "14:50",
-          "price": 7367.8
-        },
-        {
-          "time": "14:55",
-          "price": 7363.5
-        },
-        {
-          "time": "15:00",
-          "price": 7364
-        },
-        {
-          "time": "15:05",
-          "price": 7371.3
-        },
-        {
-          "time": "15:10",
-          "price": 7378.3
-        },
-        {
-          "time": "15:15",
-          "price": 7372.1
-        },
-        {
-          "time": "15:20",
-          "price": 7360.6
-        },
-        {
-          "time": "15:25",
-          "price": 7365.8
-        },
-        {
-          "time": "15:30",
-          "price": 7361.7
-        },
-        {
-          "time": "15:35",
-          "price": 7360.6
-        },
-        {
-          "time": "15:40",
-          "price": 7357.3
-        },
-        {
-          "time": "15:45",
-          "price": 7355.7
-        },
-        {
-          "time": "15:50",
-          "price": 7346.2
-        },
-        {
-          "time": "15:55",
-          "price": 7355
-        },
-        {
-          "time": "16:00",
-          "price": 7353.6
-        },
-        {
-          "time": "16:05",
-          "price": 7353.6
-        },
-        {
-          "time": "16:10",
-          "price": 7353.6
-        },
-        {
-          "time": "16:15",
-          "price": 7353.6
-        },
-        {
-          "time": "16:20",
-          "price": 7353.6
-        },
-        {
-          "time": "16:45",
-          "price": 7353.6
-        },
-        {
-          "time": "09:30",
-          "price": 7374.8
-        },
-        {
-          "time": "09:35",
-          "price": 7368.1
-        },
-        {
-          "time": "09:40",
-          "price": 7379.2
-        },
-        {
-          "time": "09:45",
-          "price": 7379.7
-        },
-        {
-          "time": "09:50",
-          "price": 7377.9
-        },
-        {
-          "time": "09:55",
-          "price": 7379.9
-        },
-        {
-          "time": "10:00",
-          "price": 7370.2
-        },
-        {
-          "time": "10:05",
-          "price": 7366
-        },
-        {
-          "time": "10:10",
-          "price": 7370.2
-        },
-        {
-          "time": "10:15",
-          "price": 7391.7
-        },
-        {
-          "time": "10:20",
-          "price": 7387.3
-        },
-        {
-          "time": "10:25",
-          "price": 7396.8
-        },
-        {
-          "time": "10:30",
-          "price": 7400.5
-        },
-        {
-          "time": "10:35",
-          "price": 7398.4
-        },
-        {
-          "time": "10:40",
-          "price": 7401
-        },
-        {
-          "time": "10:45",
-          "price": 7398.6
-        },
-        {
-          "time": "10:50",
-          "price": 7407
-        },
-        {
-          "time": "10:55",
-          "price": 7411.9
-        },
-        {
-          "time": "11:00",
-          "price": 7406.7
-        },
-        {
-          "time": "11:05",
-          "price": 7407.8
-        },
-        {
-          "time": "11:10",
-          "price": 7407
-        },
-        {
-          "time": "11:15",
-          "price": 7421.9
-        },
-        {
-          "time": "11:20",
-          "price": 7420.6
-        },
-        {
-          "time": "11:25",
-          "price": 7410.6
-        },
-        {
-          "time": "11:30",
-          "price": 7417.6
-        },
-        {
-          "time": "11:35",
-          "price": 7418
-        },
-        {
-          "time": "11:40",
-          "price": 7421.8
-        },
-        {
-          "time": "11:45",
-          "price": 7425.9
-        },
-        {
-          "time": "11:50",
           "price": 7425.8
         },
         {
-          "time": "11:55",
-          "price": 7421.1
+          "time": "14:40",
+          "price": 7417.7
+        },
+        {
+          "time": "14:45",
+          "price": 7419.2
+        },
+        {
+          "time": "14:50",
+          "price": 7419.3
+        },
+        {
+          "time": "14:55",
+          "price": 7419.9
+        },
+        {
+          "time": "15:00",
+          "price": 7421.6
+        },
+        {
+          "time": "15:05",
+          "price": 7420.5
+        },
+        {
+          "time": "15:10",
+          "price": 7423.8
+        },
+        {
+          "time": "15:15",
+          "price": 7425.2
+        },
+        {
+          "time": "15:20",
+          "price": 7425.7
+        },
+        {
+          "time": "15:25",
+          "price": 7426.4
+        },
+        {
+          "time": "15:30",
+          "price": 7427
+        },
+        {
+          "time": "15:35",
+          "price": 7431.8
+        },
+        {
+          "time": "15:40",
+          "price": 7430.7
+        },
+        {
+          "time": "15:45",
+          "price": 7429
+        },
+        {
+          "time": "15:50",
+          "price": 7428.9
+        },
+        {
+          "time": "15:55",
+          "price": 7432.8
+        },
+        {
+          "time": "16:00",
+          "price": 7433
+        },
+        {
+          "time": "16:05",
+          "price": 7433
+        },
+        {
+          "time": "16:10",
+          "price": 7433
+        },
+        {
+          "time": "16:15",
+          "price": 7433
+        },
+        {
+          "time": "16:20",
+          "price": 7433
+        },
+        {
+          "time": "16:40",
+          "price": 7433
+        },
+        {
+          "time": "17:30",
+          "price": 7433
         }
       ],
       "trend7d": [
-        {
-          "time": "05-06",
-          "price": 7365.1
-        },
         {
           "time": "05-07",
           "price": 7337.1
@@ -1436,397 +1075,273 @@
         },
         {
           "time": "05-20",
-          "price": 7406.5
+          "price": 7433
         }
       ]
     },
     "nasdaq": {
       "name": "纳斯达克",
-      "current": 26213.6,
-      "change": 1.47,
+      "current": 26270.4,
+      "change": 0.23,
       "trend24h": [
         {
           "time": "12:00",
-          "price": 25835
+          "price": 26211.3
         },
         {
           "time": "12:05",
-          "price": 25787.8
+          "price": 26207.7
         },
         {
           "time": "12:10",
-          "price": 25780
+          "price": 26202.1
         },
         {
           "time": "12:15",
-          "price": 25816.7
+          "price": 26168.9
         },
         {
           "time": "12:20",
-          "price": 25831.4
+          "price": 26157.5
         },
         {
           "time": "12:25",
-          "price": 25859.4
+          "price": 26150.7
         },
         {
           "time": "12:30",
-          "price": 25888.5
+          "price": 26145.3
         },
         {
           "time": "12:35",
-          "price": 25900
+          "price": 26145.1
         },
         {
           "time": "12:40",
-          "price": 25916.4
+          "price": 26183.8
         },
         {
           "time": "12:45",
-          "price": 25915.6
+          "price": 26156.8
         },
         {
           "time": "12:50",
-          "price": 25957.7
+          "price": 26168
         },
         {
           "time": "12:55",
-          "price": 25960.8
+          "price": 26169.9
         },
         {
           "time": "13:00",
-          "price": 25991.8
+          "price": 26158.2
         },
         {
           "time": "13:05",
-          "price": 26000.9
+          "price": 26152.8
         },
         {
           "time": "13:10",
-          "price": 26008.8
+          "price": 26187.3
         },
         {
           "time": "13:15",
-          "price": 26028.5
+          "price": 26185.2
         },
         {
           "time": "13:20",
-          "price": 26041.9
+          "price": 26178.9
         },
         {
           "time": "13:25",
-          "price": 26013
+          "price": 26198.2
         },
         {
           "time": "13:30",
-          "price": 26008.9
+          "price": 26189.5
         },
         {
           "time": "13:35",
-          "price": 26024.3
+          "price": 26213.5
         },
         {
           "time": "13:40",
-          "price": 26014.7
+          "price": 26206.8
         },
         {
           "time": "13:45",
-          "price": 25988.3
+          "price": 26201.7
         },
         {
           "time": "13:50",
-          "price": 25961.2
+          "price": 26192.6
         },
         {
           "time": "13:55",
-          "price": 26000.8
+          "price": 26206.3
         },
         {
           "time": "14:00",
-          "price": 26014.2
+          "price": 26221.6
         },
         {
           "time": "14:05",
-          "price": 26024
+          "price": 26215.6
         },
         {
           "time": "14:10",
-          "price": 26007.1
+          "price": 26210.5
         },
         {
           "time": "14:15",
-          "price": 25994
+          "price": 26211.3
         },
         {
           "time": "14:20",
-          "price": 25977.6
+          "price": 26193.9
         },
         {
           "time": "14:25",
-          "price": 25963.6
+          "price": 26210.7
         },
         {
           "time": "14:30",
-          "price": 25976.2
+          "price": 26216.7
         },
         {
           "time": "14:35",
-          "price": 25958.2
+          "price": 26231.9
         },
         {
           "time": "14:40",
-          "price": 25958.4
+          "price": 26200.7
         },
         {
           "time": "14:45",
-          "price": 25959.7
+          "price": 26200.1
         },
         {
           "time": "14:50",
-          "price": 25920.8
+          "price": 26198.3
         },
         {
           "time": "14:55",
-          "price": 25913.9
+          "price": 26198.6
         },
         {
           "time": "15:00",
-          "price": 25921.6
+          "price": 26203.2
         },
         {
           "time": "15:05",
-          "price": 25944.1
+          "price": 26203.5
         },
         {
           "time": "15:10",
-          "price": 25975.3
+          "price": 26218.9
         },
         {
           "time": "15:15",
-          "price": 25943
+          "price": 26217.7
         },
         {
           "time": "15:20",
-          "price": 25893.3
+          "price": 26222.9
         },
         {
           "time": "15:25",
-          "price": 25921.6
+          "price": 26224.8
         },
         {
           "time": "15:30",
-          "price": 25913.7
+          "price": 26226.9
         },
         {
           "time": "15:35",
-          "price": 25901.6
+          "price": 26243.9
         },
         {
           "time": "15:40",
-          "price": 25886.5
+          "price": 26243.8
         },
         {
           "time": "15:45",
-          "price": 25874.9
+          "price": 26242.7
         },
         {
           "time": "15:50",
-          "price": 25838.3
+          "price": 26251.5
         },
         {
           "time": "15:55",
-          "price": 25874.2
+          "price": 26269.4
         },
         {
           "time": "16:00",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:05",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:10",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:15",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:20",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:25",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:30",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:35",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:40",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:45",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:50",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "16:55",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "17:00",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "17:05",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "17:10",
-          "price": 25870.7
+          "price": 26270.4
         },
         {
           "time": "17:15",
-          "price": 25870.7
-        },
-        {
-          "time": "09:30",
-          "price": 26030.5
-        },
-        {
-          "time": "09:35",
-          "price": 25957
-        },
-        {
-          "time": "09:40",
-          "price": 26030.8
-        },
-        {
-          "time": "09:45",
-          "price": 26031.3
-        },
-        {
-          "time": "09:50",
-          "price": 25976.5
-        },
-        {
-          "time": "09:55",
-          "price": 25998.4
-        },
-        {
-          "time": "10:00",
-          "price": 25980.1
-        },
-        {
-          "time": "10:05",
-          "price": 25970.9
-        },
-        {
-          "time": "10:10",
-          "price": 25992.5
-        },
-        {
-          "time": "10:15",
-          "price": 26076.2
-        },
-        {
-          "time": "10:20",
-          "price": 26052.2
-        },
-        {
-          "time": "10:25",
-          "price": 26089.2
-        },
-        {
-          "time": "10:30",
-          "price": 26115.6
-        },
-        {
-          "time": "10:35",
-          "price": 26103.5
-        },
-        {
-          "time": "10:40",
-          "price": 26113.8
-        },
-        {
-          "time": "10:45",
-          "price": 26100.1
-        },
-        {
-          "time": "10:50",
-          "price": 26149.2
-        },
-        {
-          "time": "10:55",
-          "price": 26165.9
-        },
-        {
-          "time": "11:00",
-          "price": 26141.5
-        },
-        {
-          "time": "11:05",
-          "price": 26150
-        },
-        {
-          "time": "11:10",
-          "price": 26151.2
-        },
-        {
-          "time": "11:15",
-          "price": 26208.9
-        },
-        {
-          "time": "11:20",
-          "price": 26206.5
-        },
-        {
-          "time": "11:25",
-          "price": 26175.9
-        },
-        {
-          "time": "11:30",
-          "price": 26199.9
-        },
-        {
-          "time": "11:35",
-          "price": 26192.9
-        },
-        {
-          "time": "11:40",
-          "price": 26203.9
-        },
-        {
-          "time": "11:45",
-          "price": 26229
-        },
-        {
-          "time": "11:50",
-          "price": 26222.1
-        },
-        {
-          "time": "11:55",
-          "price": 26213.6
+          "price": 26270.4
         }
       ],
       "trend7d": [
-        {
-          "time": "05-06",
-          "price": 25838.9
-        },
         {
           "time": "05-07",
           "price": 25806.2
@@ -1865,210 +1380,150 @@
         },
         {
           "time": "05-20",
-          "price": 26147.1
+          "price": 26270.4
         }
       ]
     },
     "csi300": {
       "name": "沪深 300",
-      "current": 4854.5,
-      "change": 0.42,
+      "current": 4873.8,
+      "change": -0.55,
       "trend24h": [
         {
           "time": "09:30",
-          "price": 4834.4
+          "price": 4900.9
         },
         {
           "time": "09:35",
-          "price": 4832.4
+          "price": 4898.8
         },
         {
           "time": "09:40",
-          "price": 4837.6
+          "price": 4903.4
         },
         {
           "time": "09:45",
-          "price": 4850.3
+          "price": 4921.5
         },
         {
           "time": "09:50",
-          "price": 4858.7
+          "price": 4918
         },
         {
           "time": "09:55",
-          "price": 4861.1
+          "price": 4929.8
         },
         {
           "time": "10:00",
-          "price": 4850.8
+          "price": 4927.9
         },
         {
           "time": "10:05",
-          "price": 4847.8
+          "price": 4929.7
         },
         {
           "time": "10:10",
-          "price": 4837.2
+          "price": 4931.7
         },
         {
           "time": "10:15",
-          "price": 4843.7
+          "price": 4932.1
         },
         {
           "time": "10:20",
-          "price": 4847.9
+          "price": 4924.3
         },
         {
           "time": "10:25",
-          "price": 4850.7
+          "price": 4926.2
         },
         {
           "time": "10:30",
-          "price": 4847.7
+          "price": 4918.7
         },
         {
           "time": "10:35",
-          "price": 4841.5
+          "price": 4910
         },
         {
           "time": "10:40",
-          "price": 4834.2
+          "price": 4906
         },
         {
           "time": "10:45",
-          "price": 4828.1
+          "price": 4900.5
         },
         {
           "time": "10:50",
-          "price": 4833.8
+          "price": 4893.1
         },
         {
           "time": "10:55",
-          "price": 4832.5
+          "price": 4896.2
         },
         {
           "time": "11:00",
-          "price": 4831.4
+          "price": 4903
         },
         {
           "time": "11:05",
-          "price": 4833.8
+          "price": 4901.4
         },
         {
           "time": "11:10",
-          "price": 4826.9
+          "price": 4893.2
         },
         {
           "time": "11:15",
-          "price": 4832.4
+          "price": 4890
         },
         {
           "time": "11:20",
-          "price": 4834.8
+          "price": 4893
         },
         {
           "time": "11:25",
-          "price": 4837.8
+          "price": 4878
         },
         {
           "time": "11:30",
-          "price": 4839.2
+          "price": 4878.6
         },
         {
           "time": "13:00",
-          "price": 4857.7
+          "price": 4888.4
         },
         {
           "time": "13:05",
-          "price": 4857.6
+          "price": 4878.3
         },
         {
           "time": "13:10",
-          "price": 4859.6
+          "price": 4877.4
         },
         {
           "time": "13:15",
-          "price": 4854.3
+          "price": 4884
         },
         {
           "time": "13:20",
-          "price": 4847.3
+          "price": 4888.6
         },
         {
           "time": "13:25",
-          "price": 4839.3
+          "price": 4887.3
         },
         {
           "time": "13:30",
-          "price": 4845.2
+          "price": 4873.3
         },
         {
           "time": "13:35",
-          "price": 4852.5
+          "price": 4873.1
         },
         {
-          "time": "13:40",
-          "price": 4850.3
-        },
-        {
-          "time": "13:45",
-          "price": 4849.1
-        },
-        {
-          "time": "13:50",
-          "price": 4853.5
-        },
-        {
-          "time": "13:55",
-          "price": 4852.2
-        },
-        {
-          "time": "14:00",
-          "price": 4853.5
-        },
-        {
-          "time": "14:05",
-          "price": 4846.6
-        },
-        {
-          "time": "14:10",
-          "price": 4846.4
-        },
-        {
-          "time": "14:15",
-          "price": 4843.8
-        },
-        {
-          "time": "14:20",
-          "price": 4848
-        },
-        {
-          "time": "14:25",
-          "price": 4844.7
-        },
-        {
-          "time": "14:30",
-          "price": 4849.2
-        },
-        {
-          "time": "14:35",
-          "price": 4848.1
-        },
-        {
-          "time": "14:40",
-          "price": 4849.5
-        },
-        {
-          "time": "14:45",
-          "price": 4849.5
-        },
-        {
-          "time": "14:50",
-          "price": 4854.1
-        },
-        {
-          "time": "14:55",
-          "price": 4854.5
+          "time": "13:36",
+          "price": 4873.8
         }
       ],
       "trend7d": [
@@ -2107,117 +1562,125 @@
         {
           "time": "05-19",
           "price": 4852.9
+        },
+        {
+          "time": "05-20",
+          "price": 4850.7
+        },
+        {
+          "time": "05-21",
+          "price": 4873.8
         }
       ]
     },
     "csi500": {
       "name": "中证 500",
-      "current": 8660.2,
-      "change": 0.67,
+      "current": 8645.7,
+      "change": -1.33,
       "trend24h": [
         {
           "time": "09:30",
-          "price": 8602.5
+          "price": 8762.5
         },
         {
           "time": "09:35",
-          "price": 8554.9
+          "price": 8716.1
         },
         {
           "time": "09:40",
-          "price": 8567.6
+          "price": 8712.5
         },
         {
           "time": "09:45",
-          "price": 8596
+          "price": 8732.1
         },
         {
           "time": "09:50",
-          "price": 8584.7
+          "price": 8746.1
         },
         {
           "time": "09:55",
-          "price": 8599.5
+          "price": 8777.7
         },
         {
           "time": "10:00",
-          "price": 8575.1
+          "price": 8764.1
         },
         {
           "time": "10:05",
-          "price": 8583.4
+          "price": 8770.6
         },
         {
           "time": "10:10",
-          "price": 8562.3
+          "price": 8784.3
         },
         {
           "time": "10:15",
-          "price": 8573.3
+          "price": 8775.7
         },
         {
           "time": "10:20",
-          "price": 8579.2
+          "price": 8760.7
         },
         {
           "time": "10:25",
-          "price": 8589.4
+          "price": 8773.5
         },
         {
           "time": "10:30",
-          "price": 8585
+          "price": 8763.2
         },
         {
           "time": "10:35",
-          "price": 8590.3
+          "price": 8746.8
         },
         {
           "time": "10:40",
-          "price": 8582.4
+          "price": 8737.4
         },
         {
           "time": "10:45",
-          "price": 8569.2
+          "price": 8734.5
         },
         {
           "time": "10:50",
-          "price": 8583
+          "price": 8712.5
         },
         {
           "time": "10:55",
-          "price": 8576.6
+          "price": 8728.3
         },
         {
           "time": "11:00",
-          "price": 8569.8
+          "price": 8730.9
         },
         {
           "time": "11:05",
-          "price": 8577.6
+          "price": 8732.7
         },
         {
           "time": "11:10",
-          "price": 8566.5
+          "price": 8711.7
         },
         {
           "time": "11:15",
-          "price": 8582.7
+          "price": 8702.4
         },
         {
           "time": "11:20",
-          "price": 8601.3
+          "price": 8710.1
         },
         {
           "time": "11:25",
-          "price": 8610.5
+          "price": 8670.1
         },
         {
           "time": "11:30",
-          "price": 8612.5
+          "price": 8670.3
         },
         {
           "time": "13:00",
-          "price": 8655
+          "price": 8693.2
         },
         {
           "time": "13:05",
@@ -2225,335 +1688,187 @@
         },
         {
           "time": "13:10",
-          "price": 8676.1
+          "price": 8664.1
         },
         {
           "time": "13:15",
-          "price": 8670.7
+          "price": 8685.7
         },
         {
           "time": "13:20",
-          "price": 8642.6
+          "price": 8687.6
         },
         {
           "time": "13:25",
-          "price": 8617.1
+          "price": 8686.4
         },
         {
           "time": "13:30",
-          "price": 8624
+          "price": 8645.4
         },
         {
           "time": "13:35",
-          "price": 8640.7
+          "price": 8645.7
         },
         {
-          "time": "13:40",
-          "price": 8631.9
-        },
-        {
-          "time": "13:45",
-          "price": 8626.5
-        },
-        {
-          "time": "13:50",
-          "price": 8636.5
-        },
-        {
-          "time": "13:55",
-          "price": 8635.5
-        },
-        {
-          "time": "14:00",
-          "price": 8641.8
-        },
-        {
-          "time": "14:05",
-          "price": 8620.1
-        },
-        {
-          "time": "14:10",
-          "price": 8626.8
-        },
-        {
-          "time": "14:15",
-          "price": 8622.6
-        },
-        {
-          "time": "14:20",
-          "price": 8637.8
-        },
-        {
-          "time": "14:25",
-          "price": 8631.5
-        },
-        {
-          "time": "14:30",
-          "price": 8647.1
-        },
-        {
-          "time": "14:35",
-          "price": 8646.5
-        },
-        {
-          "time": "14:40",
-          "price": 8649.7
-        },
-        {
-          "time": "14:45",
-          "price": 8648.8
-        },
-        {
-          "time": "14:50",
-          "price": 8656.9
-        },
-        {
-          "time": "14:55",
-          "price": 8660.2
+          "time": "13:36",
+          "price": 8645.7
         }
       ],
       "trend7d": [
         {
-          "time": "05-20",
-          "price": 8656.3
+          "time": "05-21",
+          "price": 8645.7
         }
       ]
     },
     "chinaA50": {
       "name": "富时中国 A50 指数",
       "current": 17.3,
-      "change": 0.58,
+      "change": -0.57,
       "trend24h": [
         {
-          "time": "09:15",
-          "price": 17.2
-        },
-        {
-          "time": "09:20",
-          "price": 17.2
-        },
-        {
           "time": "09:30",
-          "price": 17.2
+          "price": 17.4
         },
         {
           "time": "09:35",
-          "price": 17.2
+          "price": 17.4
+        },
+        {
+          "time": "09:40",
+          "price": 17.4
         },
         {
           "time": "09:45",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "09:50",
-          "price": 17.3
+          "price": 17.5
         },
         {
           "time": "09:55",
-          "price": 17.3
+          "price": 17.5
         },
         {
           "time": "10:00",
-          "price": 17.2
+          "price": 17.5
+        },
+        {
+          "time": "10:05",
+          "price": 17.5
         },
         {
           "time": "10:10",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "10:15",
-          "price": 17.3
+          "price": 17.5
         },
         {
           "time": "10:20",
-          "price": 17.3
+          "price": 17.5
         },
         {
           "time": "10:25",
-          "price": 17.2
-        },
-        {
-          "time": "10:30",
-          "price": 17.2
+          "price": 17.4
         },
         {
           "time": "10:35",
-          "price": 17.2
+          "price": 17.4
         },
         {
           "time": "10:40",
-          "price": 17.2
+          "price": 17.4
         },
         {
           "time": "10:45",
-          "price": 17.1
+          "price": 17.4
         },
         {
           "time": "10:50",
-          "price": 17.2
-        },
-        {
-          "time": "11:10",
-          "price": 17.2
-        },
-        {
-          "time": "11:25",
-          "price": 17.2
-        },
-        {
-          "time": "11:35",
-          "price": 17.2
-        },
-        {
-          "time": "11:40",
-          "price": 17.2
-        },
-        {
-          "time": "11:45",
-          "price": 17.2
-        },
-        {
-          "time": "11:55",
-          "price": 17.2
-        },
-        {
-          "time": "13:00",
           "price": 17.3
         },
         {
+          "time": "10:55",
+          "price": 17.3
+        },
+        {
+          "time": "11:00",
+          "price": 17.4
+        },
+        {
+          "time": "11:05",
+          "price": 17.4
+        },
+        {
+          "time": "11:10",
+          "price": 17.3
+        },
+        {
+          "time": "11:15",
+          "price": 17.3
+        },
+        {
+          "time": "11:20",
+          "price": 17.4
+        },
+        {
+          "time": "11:25",
+          "price": 17.3
+        },
+        {
+          "time": "11:35",
+          "price": 17.3
+        },
+        {
+          "time": "11:40",
+          "price": 17.3
+        },
+        {
+          "time": "11:55",
+          "price": 17.3
+        },
+        {
+          "time": "13:00",
+          "price": 17.4
+        },
+        {
           "time": "13:05",
-          "price": 17.2
+          "price": 17.3
+        },
+        {
+          "time": "13:10",
+          "price": 17.3
         },
         {
           "time": "13:15",
-          "price": 17.2
+          "price": 17.3
         },
         {
           "time": "13:20",
-          "price": 17.2
-        },
-        {
-          "time": "13:25",
-          "price": 17.2
+          "price": 17.3
         },
         {
           "time": "13:30",
-          "price": 17.2
+          "price": 17.3
         },
         {
           "time": "13:35",
-          "price": 17.2
+          "price": 17.3
         },
         {
-          "time": "13:40",
-          "price": 17.2
-        },
-        {
-          "time": "13:45",
-          "price": 17.2
-        },
-        {
-          "time": "13:50",
-          "price": 17.2
-        },
-        {
-          "time": "13:55",
-          "price": 17.2
-        },
-        {
-          "time": "14:00",
-          "price": 17.2
-        },
-        {
-          "time": "14:05",
-          "price": 17.2
-        },
-        {
-          "time": "14:10",
-          "price": 17.2
-        },
-        {
-          "time": "14:15",
-          "price": 17.2
-        },
-        {
-          "time": "14:25",
-          "price": 17.2
-        },
-        {
-          "time": "14:30",
-          "price": 17.2
-        },
-        {
-          "time": "14:35",
-          "price": 17.2
-        },
-        {
-          "time": "14:40",
-          "price": 17.2
-        },
-        {
-          "time": "14:50",
-          "price": 17.2
-        },
-        {
-          "time": "14:55",
-          "price": 17.2
-        },
-        {
-          "time": "15:00",
-          "price": 17.2
-        },
-        {
-          "time": "15:05",
-          "price": 17.2
-        },
-        {
-          "time": "15:10",
-          "price": 17.2
-        },
-        {
-          "time": "15:15",
-          "price": 17.2
-        },
-        {
-          "time": "15:20",
-          "price": 17.2
-        },
-        {
-          "time": "15:25",
-          "price": 17.2
-        },
-        {
-          "time": "15:30",
-          "price": 17.2
-        },
-        {
-          "time": "15:35",
-          "price": 17.2
-        },
-        {
-          "time": "15:40",
-          "price": 17.2
-        },
-        {
-          "time": "15:45",
-          "price": 17.2
-        },
-        {
-          "time": "15:50",
-          "price": 17.2
-        },
-        {
-          "time": "15:55",
-          "price": 17.2
-        },
-        {
-          "time": "16:05",
+          "time": "13:36",
           "price": 17.3
         }
       ],
       "trend7d": [
+        {
+          "time": "05-11",
+          "price": 17.6
+        },
         {
           "time": "05-12",
           "price": 17.8
@@ -2581,712 +1896,396 @@
         {
           "time": "05-20",
           "price": 17.3
+        },
+        {
+          "time": "05-21",
+          "price": 17.3
         }
       ]
     },
     "kwetf": {
       "name": "金龙中国中概股 ETF",
-      "current": 28.1,
-      "change": -0.71,
+      "current": 28.2,
+      "change": 0,
       "trend24h": [
         {
           "time": "12:00",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "12:05",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "12:10",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:15",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:20",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:25",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:30",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:35",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:40",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:45",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:50",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "12:55",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "13:00",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "13:05",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "13:10",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "13:15",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "13:20",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "13:25",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "13:30",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "13:35",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "13:40",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "13:45",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "13:50",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "13:55",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "14:00",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:05",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "14:10",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "14:15",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:20",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:25",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:30",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:35",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:40",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:45",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:50",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "14:55",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "15:00",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "15:05",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "15:10",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "15:15",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "15:20",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "15:25",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "15:30",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "15:35",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "15:40",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "15:45",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "15:50",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "15:55",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "16:00",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "16:05",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "16:10",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "16:15",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "16:20",
-          "price": 28.3
+          "price": 28.1
+        },
+        {
+          "time": "16:25",
+          "price": 28.1
         },
         {
           "time": "16:30",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "16:35",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "16:40",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "16:45",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "16:50",
-          "price": 29.8
+          "price": 28.2
         },
         {
           "time": "16:55",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "17:00",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "17:05",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "17:10",
-          "price": 28.3
+          "price": 28.2
+        },
+        {
+          "time": "17:15",
+          "price": 28.2
         },
         {
           "time": "17:20",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "17:25",
-          "price": 28.3
+          "price": 28.2
+        },
+        {
+          "time": "17:30",
+          "price": 28.2
         },
         {
           "time": "17:35",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "17:40",
-          "price": 28.3
+          "price": 28.2
+        },
+        {
+          "time": "17:45",
+          "price": 28.2
         },
         {
           "time": "17:50",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "17:55",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "18:00",
-          "price": 28.3
-        },
-        {
-          "time": "18:05",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "18:10",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "18:15",
-          "price": 28.4
+          "price": 28.1
+        },
+        {
+          "time": "18:20",
+          "price": 28.2
         },
         {
           "time": "18:25",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "18:30",
-          "price": 28.3
+          "price": 28.2
         },
         {
           "time": "18:35",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "18:40",
-          "price": 28.3
+          "price": 28.1
         },
         {
-          "time": "18:45",
-          "price": 28.3
+          "time": "18:50",
+          "price": 28.1
         },
         {
           "time": "18:55",
-          "price": 28.4
+          "price": 28.2
+        },
+        {
+          "time": "19:00",
+          "price": 28.1
         },
         {
           "time": "19:05",
-          "price": 28.4
+          "price": 28.1
+        },
+        {
+          "time": "19:10",
+          "price": 28.1
         },
         {
           "time": "19:15",
-          "price": 28.3
-        },
-        {
-          "time": "19:20",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "19:25",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "19:30",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "19:35",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "19:40",
-          "price": 28.3
+          "price": 28.1
         },
         {
           "time": "19:45",
-          "price": 28.4
+          "price": 28.1
         },
         {
           "time": "19:50",
-          "price": 28.4
+          "price": 28.2
         },
         {
           "time": "19:55",
-          "price": 28.4
-        },
-        {
-          "time": "04:00",
-          "price": 28.1
-        },
-        {
-          "time": "04:10",
-          "price": 28.1
-        },
-        {
-          "time": "04:15",
-          "price": 28.1
-        },
-        {
-          "time": "04:20",
-          "price": 28.1
-        },
-        {
-          "time": "04:25",
-          "price": 28.1
-        },
-        {
-          "time": "04:30",
-          "price": 28.1
-        },
-        {
-          "time": "04:35",
-          "price": 28.1
-        },
-        {
-          "time": "04:40",
-          "price": 28.1
-        },
-        {
-          "time": "04:45",
-          "price": 28.1
-        },
-        {
-          "time": "04:55",
-          "price": 28.1
-        },
-        {
-          "time": "05:00",
-          "price": 28.1
-        },
-        {
-          "time": "05:10",
-          "price": 28.1
-        },
-        {
-          "time": "05:15",
-          "price": 28.1
-        },
-        {
-          "time": "05:25",
-          "price": 28.1
-        },
-        {
-          "time": "05:40",
-          "price": 28.1
-        },
-        {
-          "time": "05:50",
           "price": 28.2
         },
         {
-          "time": "05:55",
+          "time": "19:58",
           "price": 28.2
-        },
-        {
-          "time": "06:00",
-          "price": 28.2
-        },
-        {
-          "time": "06:05",
-          "price": 28.2
-        },
-        {
-          "time": "06:10",
-          "price": 28.3
-        },
-        {
-          "time": "06:20",
-          "price": 28.2
-        },
-        {
-          "time": "06:25",
-          "price": 28.2
-        },
-        {
-          "time": "06:30",
-          "price": 28.2
-        },
-        {
-          "time": "06:35",
-          "price": 28.2
-        },
-        {
-          "time": "06:40",
-          "price": 28.2
-        },
-        {
-          "time": "06:45",
-          "price": 28.2
-        },
-        {
-          "time": "06:50",
-          "price": 28.2
-        },
-        {
-          "time": "06:55",
-          "price": 28.2
-        },
-        {
-          "time": "07:00",
-          "price": 28.2
-        },
-        {
-          "time": "07:05",
-          "price": 28.2
-        },
-        {
-          "time": "07:10",
-          "price": 28.2
-        },
-        {
-          "time": "07:15",
-          "price": 28.2
-        },
-        {
-          "time": "07:20",
-          "price": 28.2
-        },
-        {
-          "time": "07:25",
-          "price": 28.2
-        },
-        {
-          "time": "07:30",
-          "price": 28.2
-        },
-        {
-          "time": "07:35",
-          "price": 28.2
-        },
-        {
-          "time": "07:40",
-          "price": 28.2
-        },
-        {
-          "time": "07:45",
-          "price": 28.1
-        },
-        {
-          "time": "07:50",
-          "price": 28.2
-        },
-        {
-          "time": "07:55",
-          "price": 28.2
-        },
-        {
-          "time": "08:00",
-          "price": 28.2
-        },
-        {
-          "time": "08:05",
-          "price": 28.2
-        },
-        {
-          "time": "08:10",
-          "price": 28.1
-        },
-        {
-          "time": "08:15",
-          "price": 28.2
-        },
-        {
-          "time": "08:20",
-          "price": 28.1
-        },
-        {
-          "time": "08:25",
-          "price": 28.2
-        },
-        {
-          "time": "08:30",
-          "price": 28.2
-        },
-        {
-          "time": "08:35",
-          "price": 28.2
-        },
-        {
-          "time": "08:40",
-          "price": 28.2
-        },
-        {
-          "time": "08:45",
-          "price": 28.2
-        },
-        {
-          "time": "08:50",
-          "price": 28.2
-        },
-        {
-          "time": "08:55",
-          "price": 28.2
-        },
-        {
-          "time": "09:00",
-          "price": 28.2
-        },
-        {
-          "time": "09:05",
-          "price": 28.2
-        },
-        {
-          "time": "09:10",
-          "price": 28.2
-        },
-        {
-          "time": "09:30",
-          "price": 28
-        },
-        {
-          "time": "09:35",
-          "price": 28
-        },
-        {
-          "time": "09:40",
-          "price": 27.9
-        },
-        {
-          "time": "09:45",
-          "price": 27.9
-        },
-        {
-          "time": "09:50",
-          "price": 27.9
-        },
-        {
-          "time": "09:55",
-          "price": 27.9
-        },
-        {
-          "time": "10:00",
-          "price": 27.9
-        },
-        {
-          "time": "10:05",
-          "price": 27.9
-        },
-        {
-          "time": "10:10",
-          "price": 27.9
-        },
-        {
-          "time": "10:15",
-          "price": 28
-        },
-        {
-          "time": "10:20",
-          "price": 28
-        },
-        {
-          "time": "10:25",
-          "price": 28.1
-        },
-        {
-          "time": "10:30",
-          "price": 28.1
-        },
-        {
-          "time": "10:35",
-          "price": 28.1
-        },
-        {
-          "time": "10:40",
-          "price": 28.1
-        },
-        {
-          "time": "10:45",
-          "price": 28.1
-        },
-        {
-          "time": "10:50",
-          "price": 28.1
-        },
-        {
-          "time": "10:55",
-          "price": 28.1
-        },
-        {
-          "time": "11:00",
-          "price": 28
-        },
-        {
-          "time": "11:05",
-          "price": 28
-        },
-        {
-          "time": "11:10",
-          "price": 28
-        },
-        {
-          "time": "11:15",
-          "price": 28.1
-        },
-        {
-          "time": "11:20",
-          "price": 28.1
-        },
-        {
-          "time": "11:25",
-          "price": 28.1
-        },
-        {
-          "time": "11:30",
-          "price": 28.1
-        },
-        {
-          "time": "11:35",
-          "price": 28.2
-        },
-        {
-          "time": "11:40",
-          "price": 28.1
-        },
-        {
-          "time": "11:45",
-          "price": 28.1
-        },
-        {
-          "time": "11:50",
-          "price": 28.1
-        },
-        {
-          "time": "11:55",
-          "price": 28.1
         }
       ],
       "trend7d": [
-        {
-          "time": "05-06",
-          "price": 29.8
-        },
         {
           "time": "05-07",
           "price": 29.5
@@ -3332,12 +2331,12 @@
   },
   "macroBarometers": {
     "usdcny": {
-      "price": 6.8005,
-      "change": -0.19665797
+      "price": 6.8026,
+      "change": 0.030879494
     },
     "crudeOil": {
-      "price": 99.32,
-      "change": -4.6375437
+      "price": 99.35,
+      "change": 1.1092981
     }
   },
   "isCachedData": false,

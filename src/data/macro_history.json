@@ -104,31 +104,31 @@
   {
     "date": "2026-05-21",
     "confidence": 45,
-    "liquidity": 48,
+    "liquidity": 43,
     "mediaSentiment": -0.1,
     "socialSentiment": -0.3,
     "regime": "滞胀",
-    "fearGreedIndex": 40,
+    "fearGreedIndex": 35,
     "hotThemes": [
       {
         "keyword": "AI代理",
-        "momentumScore": 9,
+        "momentumScore": 10,
         "trendDirection": "up"
       },
       {
-        "keyword": "先进封装",
-        "momentumScore": 8,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "电力能源",
+        "keyword": "美债收益率",
         "momentumScore": 9,
         "trendDirection": "up"
       },
       {
         "keyword": "存储芯片",
-        "momentumScore": 5,
+        "momentumScore": 7,
         "trendDirection": "down"
+      },
+      {
+        "keyword": "国防军工",
+        "momentumScore": 6,
+        "trendDirection": "up"
       },
       {
         "keyword": "消费电子",
