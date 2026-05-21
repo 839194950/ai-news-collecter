@@ -1,5 +1,167 @@
 [
   {
+    "title": "OpenAI抢跑万亿美元IPO，AI资本战烧向公开市场",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/openai%E6%90%B6%E8%B7%91%E5%85%86%E7%BE%8E%E5%85%83ipo-ai%E8%B3%87%E6%9C%AC%E6%88%B0%E5%BE%9E%E6%A8%A1%E5%9E%8B%E7%AB%B6%E8%B3%BD%E7%87%92%E5%90%91%E5%85%AC%E9%96%8B%E5%B8%82%E5%A0%B4-002801250.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "OpenAI最快本周秘密提交IPO申请，目标9月挂牌",
+      "估值目标超1万亿美元，与高盛、摩根士丹利合作"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "外电报道OpenAI最快本周秘密提交IPO申请，最早9月上市，目标估值超过1万亿美元（上一轮私人估值8520亿）。公司已聘请高盛、摩根士丹利起草文件，这是AI产业迄今最大规模公开募股。同时OpenAI CEO Altman警告投资者可能对AI过度投资。",
+      "transmissionChain": "直接利好好莱坞（索尼、迪士尼）等IP合作方及微软（Azure OpenAI服务）。推动AI板块信心，吸引全球资本涌入头部模型公司，挤压中小AI创企融资空间。对英伟达等硬件股形成长期利好（训练与推理需求持续）。引发监管机构对AI垄断的审查。",
+      "chinaMarketMapping": "对A股/港股：加剧国内AI公司竞争压力，但加速国产替代逻辑。中国AI公司（百度、商汤、寒武纪）估值可能承压，但政策支持国产大模型（如阿里通义、百度文心）以避免数据外流。创业者应聚焦中美技术隔离下的本土机会，如针对中文场景的垂直模型。"
+    },
+    "publishedAt": "2026-05-20T16:28:01Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
+    "title": "Anthropic营收翻倍首度获利，改写AI烧钱叙事",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/anthropic%E7%87%9F%E6%94%B6%E7%88%86%E7%82%B8%E5%BC%8F%E7%BF%BB%E5%80%8D-ai%E6%96%B0%E5%89%B5%E9%A6%96%E5%BA%A6%E7%8D%B2%E5%88%A9%E6%94%B9%E5%AF%AB%E7%87%92%E9%8C%A2%E6%95%98%E4%BA%8B-002714677.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "Anthropic第二季营收预估109亿美元，环比翻倍",
+      "预计实现运营利润5.59亿美元，首度获利"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Anthropic公布第二季度营收预估109亿美元（环比48亿美元增长127%），并首次实现运营利润5.59亿美元。这标志着AI初创公司从烧钱扩张转向盈利成长期，营收增速超越Zoom疫情期与Facebook上市前。",
+      "transmissionChain": "直接利好Anthropic的投资者（谷歌、Spark Capital）及算力提供商（甲骨文、AWS）。间接证明企业级AI需求（Claude）进入爆发期，拉动AI服务器、数据中心建设需求，上游芯片（英伟达、AMD）受益。同时推动OpenAI加速IPO，引发市场对AI泡沫的重新评估。",
+      "chinaMarketMapping": "对A股/港股：利好AI应用层标的（如百度、科大讯飞），证明国内大模型商业化路径可行。但需警惕中美AI技术差距扩大，国内模型（文心一言、通义千问）突破盈利能力难度较大。创业公司应关注垂直行业AI Agent，而非盲目追通用大模型。"
+    },
+    "publishedAt": "2026-05-20T16:27:14Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
+    "title": "俄罗斯与中国就西伯利亚力量2号管道达成一致，加速能源去美元化",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/russia-china-power-siberia-2-pipeline-deal/",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "俄中就西伯利亚力量2号管道路线达成一致",
+      "管道将以人民币/卢布结算，削弱美元霸权"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "俄罗斯与中国就西伯利亚力量2号天然气管道路线达成最终协议，该管道每年可输送500亿立方米天然气，采用人民币/卢布结算。这是继普京访华后落实的重要能源合作，旨在降低对美元依赖并增强中国能源安全。历史事件中俄中已在能源领域深化合作。",
+      "transmissionChain": "直接削弱美元在全球能源贸易中的储备地位，利好人民币国际化。中国获得稳定且低政治风险的天然气来源，减少对马六甲海峡依赖。欧洲天然气供应份额可能下降，推高TTF价格。管道建设带动钢管（久立特材）、压缩机等设备需求。",
+      "chinaMarketMapping": "对A股/港股：利好天然气管道设备商（中油工程、金洲管道）及中国天然气消费城市燃气（新奥能源）。人民币国际化加速，利好银行与跨境支付系统（CIPS）。但中俄合作加深可能加剧西方制裁风险，敏感行业公司需注意合规。"
+    },
+    "publishedAt": "2026-05-20T16:06:35Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
+    "title": "ASML CEO预警芯片市场长期供应受限，AI需求远超供给",
+    "source": "Cnbeta.com.tw",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1563110.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "ASML CEO称AI需求远超行业产能扩张速度",
+      "2030年全球芯片市场规模剑指1.5万亿美元"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "ASML首席执行官Christophe Fouquet在访谈中表示，全球半导体将进入长期供应紧张状态，AI需求浪潮超越产能扩张速度。预测2030年芯片市场达1.5万亿美元，供应链面临零星瓶颈。科技巨头今年资本开支合计近7000亿美元，台积电被迫加速海外建厂。",
+      "transmissionChain": "直接利好ASML及设备商（应用材料、东京电子），同时推高晶圆代工（台积电、三星）的议价能力。AI芯片客户（英伟达、AMD）面临产能限制，需提前锁定产能。光刻胶、特种气体等耗材供应商受益。汽车芯片供应可能被AI挤占，导致汽车行业二次缺芯。",
+      "chinaMarketMapping": "对A股/港股：利好国产半导体设备（北方华创、中微公司）及材料（沪硅产业、安集科技），因中国加大自给率以突破封锁。但ASML制约下中国先进制程进展缓慢，成熟制程扩产（中芯国际、华虹）更为确定。对国内AI芯片创业公司（地平线、壁仞）是挑战，需依赖国产替代设备。"
+    },
+    "publishedAt": "2026-05-20T16:05:10Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
+    "title": "谷歌1900亿美元重金投资AI基建，自研芯片加速摆脱英伟达",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E8%B0%B7%E6%AD%8C1900%E5%84%84%E7%BE%8E%E5%85%83%E9%87%8D%E9%87%91%E6%8A%95%E8%B3%87ai%E5%9F%BA%E5%BB%BA-%E9%A1%AF%E6%93%BA%E8%84%AB%E8%BC%9D%E9%81%94-%E8%87%AA%E7%A0%94%E6%99%B6%E7%89%87%E7%AD%96%E7%95%A5%E8%BD%89%E8%AE%8A-000153528.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "Alphabet计划2026年投入1900亿美元AI基础设施",
+      "自研芯片TPU战略挑战英伟达主导地位"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Alphabet宣布2026年资本开支高达1900亿美元（2022年310亿美元的6倍），用于AI数据中心建设与自研TPU芯片。同时与黑石合资成立TPU云公司（首期50亿美元），目标2027年500MW容量。此举是谷歌摆脱对英伟达依赖的系统性战略。",
+      "transmissionChain": "直接冲击英伟达数据中心GPU份额预期，但短期英伟达仍主导训练。利好谷歌自身广告与云业务（Gemini集成），同时惠及TPU供应链（博通、台积电）。黑石加入带热AI基建REITs。对AMD等竞品亦有示范效应。全球电力设备（ABB、施耐德）受益于数据中心建设潮。",
+      "chinaMarketMapping": "对A股/港股：中国科技巨头（阿里、腾讯、百度）可能效仿加大自研芯片投入，利好国产AI芯片设计公司（寒武纪、海光信息）。同时推高国内数据中心光模块（中际旭创）、服务器（浪潮信息）需求。但谷歌与黑石合资可能吸引资本流入美国，对中国AI算力形成压制。"
+    },
+    "publishedAt": "2026-05-20T16:01:53Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
+    "title": "伊朗谈判进展推升欧元，美元指数受压下跌",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E8%88%87%E7%BE%8E%E5%9C%8B%E8%AB%87%E5%88%A4%E9%80%B2%E5%B1%95%E6%8E%A8%E5%8D%87%E6%AD%90%E5%85%83%E8%B5%B0%E5%8B%A2-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%8F%97%E5%A3%93%E4%B8%8B%E8%B7%8C-000139322.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "川普称美伊谈判进入最终阶段",
+      "国际油价应声下跌逾5%，美元指数跌破99"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国总统川普表示美伊核谈判已进入最终阶段，战争可能迅速结束。受此影响，WTI原油暴跌5.7%至98.26美元，美元指数下跌0.24%至99.09，欧元兑美元升至1.1624。两艘驶往中国的超级油轮通过霍尔木兹海峡，暗示供应恢复。",
+      "transmissionChain": "油价下跌直接利好航空、化工、物流等用油行业，降低各国通胀压力。美元走弱支撑新兴市场资产与风险偏好。欧洲央行降息预期回升（因能源成本下降）。同时减少地缘风险溢价，黄金等避险资产回落。但若谈判破裂，油价可能报复性反弹。",
+      "chinaMarketMapping": "对A股/港股：油价下跌降低中国进口成本，利好航空公司（中国国航、南方航空）与石化企业（中国石化）。但中国已提前采购高价原油，短期库存损失可能拖累业绩。美元走弱有利于人民币汇率稳定，外资流入A股概率增加。长期看，若中东局势缓和，中国一带一路战略获支撑。"
+    },
+    "publishedAt": "2026-05-20T16:01:39Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
+    "title": "美联储鹰声大作，4月会议纪要显示升息选项重回桌面",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/fed%E9%B7%B9%E8%81%B2%E5%A4%A7%E4%BD%9C%E9%99%8D%E6%81%AF%E5%8A%87%E6%9C%AC%E6%80%A5%E8%BD%89%E5%BD%8E-4%E6%9C%88%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84%E6%8F%AD%E5%8D%87%E6%81%AF%E9%81%B8%E9%A0%85%E9%87%8D%E5%9B%9E%E6%A1%8C%E9%9D%A2-235627248.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "4月会议纪要显示多数官员认为升息可能合适",
+      "政策讨论已从降息转向收紧，加息概率攀升"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美联储公布4月28-29日会议纪要，多数与会者表示若通胀持续高于2%，某种程度的政策收紧可能变得合适；许多官员提议移除宽松措辞。这是本轮周期首次明确讨论加息，CME FedWatch显示12月加息概率升至54%。鲍威尔最后一次主持会议后，继任者Warsh面临通胀高墙。",
+      "transmissionChain": "加息预期直接打压科技股与加密货币估值，推高美债收益率，美元指数短期走强。银行股受益于净息差扩大，抵押贷款利率上升抑制地产。同时新兴市场面临资本外流压力，尤其是高外债国家（阿根廷、土耳其）。AI基建融资成本增加，但企业盈利强劲可能部分抵消。",
+      "chinaMarketMapping": "对A股/港股：人民币贬值压力加大（美元兑人民币在6.80附近），外资流出A股（北向资金近日净卖出）。中国央行可能降准或降息对冲，流动性宽松对A股支撑。港股受流动性冲击更大（恒生科技指数可能回调）。但中国通胀低，政策自主性强，A股结构性机会仍在。"
+    },
+    "publishedAt": "2026-05-20T15:56:27Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
+    "title": "英伟达财报亮眼但中国因素与保守指引致盘后转跌",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E4%BA%AE%E7%9C%BC-%E4%B8%AD%E5%9C%8B%E5%9B%A0%E7%B4%A0-%E8%B2%A1%E6%B8%AC%E4%BF%9D%E5%AE%88%E7%9B%A4%E5%BE%8C%E8%BD%89%E8%B7%8C-233444557.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达Q1营收816.2亿美元超预期，Q2指引910亿美元",
+      "盘后股价转跌因中国市场不确定性及保守财报"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达披露Q1营收816.2亿美元（同比+85%），净利润约380亿美元，Q2指引910亿美元。但股价盘后下跌，主因：1）中国海关拒绝RTX 5090 D v2，对华销售前景恶化；2）毛利率略低于预期；3）市场预期过高。财报电话会强调AI需求仍强劲但出口管制风险。",
+      "transmissionChain": "财报直接验证AI军备竞赛，利好英伟达供应链（台积电、光模块、服务器），但股价反应显示市场已将高估值定价。中国禁令将加速国产替代（华为昇腾、百度昆仑），可能令英伟达在中国份额从80%降至50%。长期看，自研芯片（谷歌TPU、AMD）追赶增加竞争风险。",
+      "chinaMarketMapping": "对A股/港股：英伟达中国收入预期下调，但国产AI芯片替代逻辑加强，利好华为昇腾产业链（拓维信息、神州数码）。同时，中国互联网公司可能增加对国产芯片采购，算力租赁（中科曙光）模式受益。投资者需警惕英伟达股价回调拖累A股AI概念。"
+    },
+    "publishedAt": "2026-05-20T15:34:44Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
+    "title": "赣锋锂业固态电池循环寿命突破1100次",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/953/082.htm",
+    "category": "SMART_MOBILITY",
+    "summary": [
+      "400Wh/kg电池循环寿命突破1100次",
+      "500Wh/kg级10Ah产品小批量量产"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "赣锋锂业公告，其400Wh/kg固态电池循环寿命已突破1100次并完成工程验证，500Wh/kg级10Ah产品已小批量量产。公司同时推进硅碳与锂金属负极双路线，320-480Wh/kg梯度产品布局。这是中国固态电池产业化的重大突破。",
+      "transmissionChain": "直接提升赣锋锂动力电池业务估值，可望进入主流车企供应链。与宁德时代、比亚迪展开差异化竞争。4680大圆柱与固态电池形成互补，锂资源需求增加。利好上游锂矿（赣锋自身）、设备商（先导智能、利元亨）及电解液（天赐材料）。",
+      "chinaMarketMapping": "对A股/港股：提振锂电板块信心，细分领域如高镍正极（华友钴业）、锂箔（诺德股份）受益。但需注意技术兑现节奏，行业产能过剩仍可能压制盈利。对固态电池主题炒作有利好，但真正业绩贡献需2027年后。"
+    },
+    "publishedAt": "2026-05-20T15:01:58Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-21T16:31:13.924Z"
+  },
+  {
     "title": "阿里巴巴发布玄铁M890，中国英伟达替代战略加速",
     "source": "The Next Web",
     "url": "https://thenextweb.com/news/alibaba-zhenwu-m890-t-head-china-ai-chip-nvidia/",
@@ -563,167 +725,5 @@
     "publishedAt": "2026-05-19T10:22:59Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "陪审团驳回马斯克对OpenAI的诉讼，认定超过诉讼时效",
-    "source": "Ghacks Technology News",
-    "url": "https://www.ghacks.net/2026/05/19/jury-rejects-elon-musks-openai-lawsuit-finding-statute-of-limitations-had-expired/",
-    "category": "AI_MODEL",
-    "summary": [
-      "陪审团一致裁定马斯克诉讼超过时效",
-      "OpenAI上市最大法律障碍清除，估值或超8000亿美元"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国加州联邦陪审团驳回了埃隆·马斯克对OpenAI、CEO Sam Altman及微软的诉讼，理由是已过诉讼时效。该诉讼原本寻求1500亿美元赔偿，指控OpenAI背离非营利初心。",
-      "transmissionChain": "判决扫除了OpenAI首次公开募股（IPO）的最后法律障碍，预计OpenAI将在2026年底前递交招股书，估值冲击万亿。这对微软、Google等现有投资者构成利好，但同时加剧AI行业竞争，加速人才和资本向OpenAI集中。",
-      "chinaMarketMapping": "对A股/港股而言，OpenAI上市将带动全球AI估值天花板抬升，利好中国AI概念股（如百度、商汤、科大讯飞）。但同时也强化了美国在AI领域的领先地位，中国AI企业需加大自主研发投入以应对竞争，国产替代逻辑（华为昇腾、寒武纪）受益。"
-    },
-    "publishedAt": "2026-05-19T10:18:44Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "花旗称30年期美债收益率的下一关键位可能在5.5%",
-    "source": "36kr.com",
-    "url": "https://36kr.com/newsflashes/3816054853164807",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "花旗表示30年期美债收益率新目标可能在5.5%",
-      "当前已触及5.16%创2007年新高"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "花旗集团策略师吉姆·麦考密克指出，由于通胀担忧扩散，债券交易员正将30年期美债收益率目标锁定在5.5%，该水平上次出现是在22年前。巴克莱和法国巴黎银行也警告债券抛售可能尚未结束。",
-      "transmissionChain": "美债收益率若升至5.5%，将进一步打击风险资产估值，尤其对高估值的科技股形成巨大压力。同时，房贷利率、企业融资成本上升，可能抑制经济活动和AI基础设施投资。外资可能回流美元资产，新兴市场资本外流压力加大。",
-      "chinaMarketMapping": "对中国A股和港股而言，美债收益率上升会引发北向资金流出，短期承压。但中国货币政策独立性较强，可通过降准降息对冲。对国内债市，中美利差扩大可能限制中国降息空间。投资者应增加防御性配置，关注高股息和低波动板块。"
-    },
-    "publishedAt": "2026-05-19T10:11:44Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "“杀手机器人”来了：乌克兰的猎头无人机吓坏俄罗斯人",
-    "source": "Forbes",
-    "url": "https://www.forbes.com/sites/davidhambling/2026/05/19/slaughterbots-now-ukraines-head-hunting-drones-terrify-russians/",
-    "category": "AI_MODEL",
-    "summary": [
-      "乌克兰使用AI制导FPV无人机精准打击头部",
-      "俄方声称被这种新式恐怖武器震慑"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "福布斯报道，乌克兰开始使用一种新型AI制导FPV无人机，能够自动识别并精准攻击士兵头部，据称俄方对此感到恐惧。该技术将AI视觉与高精度弹药结合，实现“猎头”效果。",
-      "transmissionChain": "此类武器可能改变战场规则，推动全球军队加速研发AI自主攻击系统。电子战和反无人机需求随之爆发。军工承包商（如洛克希德·马丁、通用动力）面临伦理压力，但收入潜力巨大。",
-      "chinaMarketMapping": "中国军工企业（如中航无人机、航天彩虹）有望受益于全球AI武器化趋势，但出口受国际公约限制。国内投资者可关注与AI视觉相关的国防公司（如高德红外、大立科技）。同时，该报道存在夸大可能，不宜过度解读。"
-    },
-    "publishedAt": "2026-05-19T10:08:46Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "长江存储启动IPO辅导 辅导机构为中信证券",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1562940.htm",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "长江存储正式启动IPO辅导，计划6月递交科创板申请",
-      "无控股股东，国资背景深厚"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "长江存储在湖北证监局办理辅导备案，保荐机构为中信证券。公司股权结构多元，无控股股东，最大股东湖北长晟持股26.54%，背后是武汉光谷管委会。此前路透报道其计划6月中旬递交科创板申请。",
-      "transmissionChain": "长江存储IPO将募集资金用于NAND Flash产能扩张与先进制程研发，直接挑战三星、海力士地位。同时将带动国产存储设备（北方华创、中微公司）、材料（安集科技）需求。对全球存储市场，中国产能增加可能加速价格下行周期。",
-      "chinaMarketMapping": "长江存储上市将提升A股半导体板块估值，尤其是存储芯片和设备材料方向。投资者可关注国产替代逻辑下的北方华创（设备）、长电科技（封测）、兆易创新（存储控制器）。但需注意美国出口管制风险，若设备禁运可能影响产能爬坡。"
-    },
-    "publishedAt": "2026-05-19T10:05:53Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "苏姿丰谈AI：在科技行业30余年 从未像今天这样为AI感到兴奋",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1562936.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "AMD苏姿丰预测5年内50亿人每天使用AI",
-      "强调需要多样化模型与工作流"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "AMD董事长兼CEO苏姿丰在AMD AI开发者日上表示，AI发展处于历史性节点，预测未来5年50亿人每天使用AI，并强调多样化应用场景需要多种模型和工作流。",
-      "transmissionChain": "苏姿丰的乐观表态旨在提振投资者对AMD AI业务（MI400、CPU）的信心，与英伟达争夺生态话语权。若AI普及率如期增长，将带动算力需求持续爆发，利好芯片、云服务与AI应用全产业链。但对传统软件企业构成转型压力。",
-      "chinaMarketMapping": "中国AI市场同样潜力巨大，但芯片进口受限。国产AI芯片（华为昇腾、寒武纪）需抓住窗口期。A股AI应用公司（如金山办公、科大讯飞）将受益于AI渗透率提升。但需注意苏姿丰言论存在利益相关，不宜全信。"
-    },
-    "publishedAt": "2026-05-19T10:05:25Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "渣打银行宣布大裁员！AI取代后勤工作 全球逾7000人恐失业",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E6%B8%A3%E6%89%93%E9%8A%B6%E8%A1%8C%E5%AE%A3%E5%B8%83%E5%A4%A7%E8%A3%81%E5%93%A1-ai%E5%8F%96%E4%BB%A3%E5%BE%8C%E5%8B%A4%E5%B7%A5%E4%BD%9C-%E5%85%A8%E7%90%83%E9%80%BE7000%E4%BA%BA%E6%81%90%E5%A4%B1%E6%A5%AD-093351018.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "渣打银行计划未来四年裁减7000多个职位",
-      "主要针对后勤与行政岗位，占企业职能部门的15%"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "渣打银行宣布将大规模引入AI和自动化技术，未来四年裁减超过7000个工作岗位，主要集中在后台和行政职能，约占整体人力成本的15%，旨在提升运营效率。",
-      "transmissionChain": "此举将加速金融行业AI替代人工的进程，利好AI软件（如Salesforce、Palantir）和RPA（机器人流程自动化）公司。被裁员的劳动者将增加就业市场供给，推高部分行业人力成本。对银行股，短期削减成本提升利润，但长期可能面临服务质量和员工 morale 问题。",
-      "chinaMarketMapping": "中国银行业也在推进AI转型，但进度稍慢。招商银行、工商银行等已有智能客服和风控系统。此事件将推动国内银行加速AI投入，利好AI金融科技公司（如恒生电子、同花顺）。同时，社会对AI替代就业的担忧加剧，可能引发监管对裁员的限制。"
-    },
-    "publishedAt": "2026-05-19T09:33:51Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "戴尔AI工厂客户超5000家，受英伟达驱动需求",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260519VL218/dell-nvidia-data-hardware-software.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "戴尔AI工厂本季新增1000家企业客户",
-      "使用英伟达芯片和软件打造企业AI应用"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "戴尔AI Factory服务器采用英伟达GPU和AI Enterprise软件，本季度企业客户从4000增至5000家，证明传统企业AI部署正在加速。戴尔已成为企业级AI基础设施‘最后一公里’的关键集成商。",
-      "transmissionChain": "利好英伟达及整个AI产业链：服务器代工厂（工业富联、广达）、散热（双鸿、奇鋐）、存储（美光）等。戴尔自身股价受提振，但面临超微电脑和惠普的竞争。对云厂商（AWS、Azure）构成一定替代，但企业混合部署需求更大。",
-      "chinaMarketMapping": "中国AI服务器厂商（浪潮信息、中科曙光）面临戴尔在国内的竞争，但国产化政策保护下，国内企业更倾向采购国产服务器。不过出口管制下，戴尔无法销售高性能GPU服务器给中国，反而利好华为昇腾生态。"
-    },
-    "publishedAt": "2026-05-19T08:59:47Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T09:10:01.288Z"
-  },
-  {
-    "title": "英伟达向Anthropic、OpenAI、SpaceX AI等交付首批Vera CPU系统",
-    "source": "TweakTown",
-    "url": "https://www.tweaktown.com/news/111686/nvidia-hand-delivers-the-first-vera-cpu-systems-to-anthropic-openai-spacexai-and-more/index.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达高管亲自交付首批独立Vera CPU",
-      "专为Agentic AI设计，与GPU配合提供推理能力"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达副总裁Ian Buck亲手将首批Vera CPU交付给顶级AI公司。Vera是英伟达首款独立CPU，基于ARM架构，主要面向AI推理与代理型任务，功耗较低。此举标志英伟达从GPU扩展到CPU领域，意图构建完整AI计算平台。",
-      "transmissionChain": "Vera CPU将加深AI公司对英伟达生态的绑定，增加切换成本。对AMD、英特尔形成直接威胁，特别是数据中心CPU市场。同时利好英伟达供应链（台积电CoWoS、安费诺连接器）。但Vera初期可能受限于软件生态，长期看有望替代部分英特尔至强CPU。",
-      "chinaMarketMapping": "中国AI公司（百度、字节、阿里）因出口管制无法获得Vera，被迫采用国产CPU（海光、鲲鹏）或自研（平头哥）。这将加速中国AI芯片自主化，但短期内算力差距拉大。对A股海光信息、龙芯中科构成情绪利好。"
-    },
-    "publishedAt": "2026-05-19T08:57:06Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T09:10:01.288Z"
-  },
-  {
-    "title": "渣打银行裁员超7000人，用AI替代‘低价值人力资本’",
-    "source": "CNA",
-    "url": "https://www.channelnewsasia.com/business/stanchart-cut-over-7000-jobs-boost-ai-replace-lower-value-human-capital-6130096",
-    "category": "AI_MODEL",
-    "summary": [
-      "渣打计划未来四年裁员7000人",
-      "用技术替代低附加值岗位，提升AI在运营中的比重"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "渣打银行宣布未来四年裁撤7000个岗位（约占总员工10%），主要涉及后台、运营、客服等低价值人工，将投资AI与自动化技术。这是银行业AI替代白领的又一个标志性案例，此前摩根大通、汇丰等已有类似计划。",
-      "transmissionChain": "直接利好AI服务商（Palantir、C3.ai）与对话式AI公司（Nuance、Five9）。但增加社会就业压力与反AI情绪。长期看，全球银行将削减30%后台岗位，节省成本用于技术投资。对消费者服务可能因减少人工服务而体验下降。",
-      "chinaMarketMapping": "中国银行业（工农中建）也在推进AI客服与智能风控，但国有企业就业压力大，裁员速度较慢。利好A股金融IT公司（恒生电子、宇信科技）以及AI应用标的（科大讯飞）。但需警惕银行减少IT采购预算的行业周期。"
-    },
-    "publishedAt": "2026-05-19T08:55:49Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T09:10:01.288Z"
   }
 ]

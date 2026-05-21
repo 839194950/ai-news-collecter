@@ -110,5 +110,41 @@
     "regime": "过热",
     "fearGreedIndex": 50,
     "hotThemes": []
+  },
+  {
+    "date": "2026-05-22",
+    "confidence": 55,
+    "liquidity": 48,
+    "mediaSentiment": 0.1,
+    "socialSentiment": -0.1,
+    "regime": "过热",
+    "fearGreedIndex": 62,
+    "hotThemes": [
+      {
+        "keyword": "AI大模型",
+        "momentumScore": 9,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "先进封装",
+        "momentumScore": 8,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "固态电池",
+        "momentumScore": 7,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "防务安全",
+        "momentumScore": 6,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "被动元件",
+        "momentumScore": 6,
+        "trendDirection": "up"
+      }
+    ]
   }
 ]
