@@ -113,15 +113,15 @@
   },
   {
     "date": "2026-05-22",
-    "confidence": 55,
+    "confidence": 60,
     "liquidity": 48,
-    "mediaSentiment": 0.1,
-    "socialSentiment": -0.1,
+    "mediaSentiment": 0.2,
+    "socialSentiment": 0,
     "regime": "过热",
-    "fearGreedIndex": 62,
+    "fearGreedIndex": 65,
     "hotThemes": [
       {
-        "keyword": "AI大模型",
+        "keyword": "AI代理",
         "momentumScore": 9,
         "trendDirection": "up"
       },
@@ -131,18 +131,18 @@
         "trendDirection": "up"
       },
       {
-        "keyword": "固态电池",
+        "keyword": "存储芯片",
         "momentumScore": 7,
-        "trendDirection": "up"
+        "trendDirection": "down"
       },
       {
-        "keyword": "防务安全",
+        "keyword": "新能源发电",
         "momentumScore": 6,
         "trendDirection": "up"
       },
       {
-        "keyword": "被动元件",
-        "momentumScore": 6,
+        "keyword": "国防军工",
+        "momentumScore": 5,
         "trendDirection": "up"
       }
     ]

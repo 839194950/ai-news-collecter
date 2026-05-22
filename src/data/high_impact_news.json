@@ -1,5 +1,203 @@
 [
   {
+    "title": "英伟达公布800亿美元回购并提高股息，中美紧张局势下着力提振信心",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/nvidia-unveils-80b-stock-buyback-raises-dividend-amid-us-china-tensions/",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "英伟达Q1营收816亿美元超预期，数据中心收入年增92%",
+      "宣布800亿美元股票回购，并提高股息，增强股东回报"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达发布2027财年Q1财报，营收816亿美元（同比+85%），数据中心增92%。同时宣布800亿美元回购和股息提升。但盘后股价一度跌3%，因保守指引和中国市场流失。",
+      "transmissionChain": "超预期业绩直接利好英伟达上下游，包括晶圆代工（台积电）、封装（日月光）、散热（双鸿）、HBM（三星/SK海力士）。800亿回购提升美股整体信心，利好科技ETF。但中国让位华为加深国产替代逻辑。",
+      "chinaMarketMapping": "英伟达承认将中国AI芯片市场‘让给’华为，直接利好华为昇腾产业链（中芯国际、长电科技），刺激国产AI芯片替代加速。同时A股半导体设备（北方华创）和封装测试板块受惠于国产替代订单。但英伟达退出也可能导致中国数据中心短期算力缺口。"
+    },
+    "publishedAt": "2026-05-21T05:44:40Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "风能加太阳能 史上首次单月全球发电量超越天然气",
+    "source": "Inside.com.tw",
+    "url": "https://www.inside.com.tw/article/41347-wind-solar-surpass-natural-gas-global-monthly-power-first-time",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "2026年4月全球风能与太阳能发电量首次超过天然气",
+      "标志可再生能源里程碑"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "2026年4月，全球风能与太阳能单月发电量首次超过天然气，反映出全球能源结构转型加速，可再生能源占比持续提升。",
+      "transmissionChain": "利好风电和光伏设备制造商（维斯塔斯、隆基），同时降低电价和碳排放。但天然气发电下降可能影响相关设备需求。储能行业（特斯拉、宁德时代）受益于间歇性电源的调节需求。",
+      "chinaMarketMapping": "中国是全球最大可再生能源市场，隆基、金风科技、阳光电源等龙头受益。电力市场化改革加速，储能和电网升级需求增加。但需注意贸易壁垒（欧盟反倾销）和电价补贴退坡风险。"
+    },
+    "publishedAt": "2026-05-21T05:43:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "Anthropic在企业采用率上超越OpenAI，算力和成本压力显现",
+    "source": "Digitimes",
+    "url": "https://www.digitimes.com/news/a20260521PD202/anthropic-openai-adoption-cost-2026.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "Anthropic在2026年4月企业AI采用率首次超过OpenAI",
+      "预计Q2营收109亿美元，首次实现运营盈利"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "基于Ramp企业支出数据，Anthropic在企业客户覆盖率上超越OpenAI，其Claude模型因安全性和可靠性获BMS等制药巨头采用。同时预计Q2盈利，扭转AI烧钱叙事。",
+      "transmissionChain": "Anthropic盈利里程碑使AI行业从‘烧钱换份额’转向‘盈利驱动’，提升整个板块估值逻辑。企业客户向Anthropic迁移，可能导致OpenAI市场份额流失，但两者共同扩大AI总市场。",
+      "chinaMarketMapping": "中国AI企业（如百度文心、阿里通义）需加速商业化落地，参考Anthropic的企业订阅模式。A股AI应用公司（如金山办公、汉得信息）有望受益于企业AI渗透率提升，但技术劣势仍需追赶。"
+    },
+    "publishedAt": "2026-05-21T05:41:33Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "SpaceX正式提交IPO申请 股票代码SPCX 马斯克财务帝国首度披露",
+    "source": "Cool3c.com",
+    "url": "https://www.cool3c.com/article/248756",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "SpaceX提交S-1文件，计划在6月12日IPO",
+      "文件显示亏损42.8亿美元，但预计市值超1.75万亿"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "SpaceX向SEC提交IPO申请，披露2025年亏损42.8亿美元，主要投入星舰和星链。马斯克通过超级投票权保持控制，同时透露xAI与Anthropic的127亿美元算力合同。",
+      "transmissionChain": "SpaceX IPO将成为史上最大IPO，带动太空产业链估值重估。其AI数据中心与星链服务与xAI协同，利好太空计算和边缘AI。但巨额亏损可能使投资者担忧盈利时间表。",
+      "chinaMarketMapping": "中国太空企业（如中国星网、银河航天）可能获得对标估值，但需依赖国家订单。SpaceX的AI算力布局也向中国展示‘太空+AI’模式，可能推动国内类似项目（如天基算力）。A股卫星互联网板块短期受情绪提振。"
+    },
+    "publishedAt": "2026-05-21T05:40:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "OpenAI冲刺IPO 美媒泼冷水：战胜马斯克诉讼只是开始",
+    "source": "Cnbeta.com.tw",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1563194.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "OpenAI计划在未来几天秘密提交IPO申请，目标9月上市",
+      "马斯克诉讼败诉为解决IPO法律障碍，但治理问题仍存"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "多家美媒报道OpenAI即将秘密提交IPO申请，目标今年秋季上市。此前马斯克诉讼被驳回，扫清法律障碍，但治理结构（非营利转营利）仍受质疑。",
+      "transmissionChain": "OpenAI若成功IPO，将成为AI领域最大公开公司，估值万亿美元，吸引大量资金涌入AI板块。同时与Anthropic的竞争加剧，可能推高AI人才成本和算力投资。",
+      "chinaMarketMapping": "中国AI公司（如百度阿里腾讯）可能加速分拆上市或引入战投。但OpenAI IPO也加剧中国AI企业面临的技术差距，倒逼国产基础大模型投入。A股AI概念股（科大讯飞、拓尔思）可能受事件情绪波动但基本面受益有限。"
+    },
+    "publishedAt": "2026-05-21T05:36:39Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "五角大楼成立AI专项工作组 部署前沿AI工具至敏感网络",
+    "source": "Cnbeta.com.tw",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1563186.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "美国网络司令部组建AI工作组加速采用黑客AI工具",
+      "国防部与国家安全局合作研究安全部署AI模型"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国网络司令部内部成立AI专项工作组，旨在快速将商业AI模型（找到漏洞能力强的模型）部署到国防网络。这是对私营部门AI能力的正式官方认可。",
+      "transmissionChain": "利好美国AI网络安全公司（如CrowdStrike、Palo Alto Networks）。军事需求也将推动AI在漏洞检测、自主网络防御领域的技术突破，并可能外溢到民用市场。",
+      "chinaMarketMapping": "中国必然加速AI在军事和网络安全领域的应用，利好奇安信、启明星辰等网络安全厂商。同时可能加剧中美AI军备竞赛，相关国产替代趋势加强。"
+    },
+    "publishedAt": "2026-05-21T05:35:48Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "谷歌全面改造搜索引擎 引入类ChatGPT界面与AI代理功能",
+    "source": "Cnbeta.com.tw",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1563180.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "谷歌推出智能搜索框，由Gemini 3.5 Flash驱动，对话式交互",
+      "搜索引擎成为AI工具链入口，改变信息检索方式"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "谷歌宣布搜索引擎重大升级，默认采用Gemini 3.5 Flash驱动对话式交互，用户可进行复杂多轮问答，搜索结果不再是链接列表而是AI整合答案。",
+      "transmissionChain": "谷歌搜索改版直接冲击传统SEO和广告模式，利好AI内容生成和对话式电商。同时推动TPU算力需求，支持谷歌云业务。但可能面临监管审查（反垄断、虚假信息）。",
+      "chinaMarketMapping": "中国搜索引擎百度、360面临同样转型压力，需加快文心一言等产品迭代。国内AI搜索应用（如秘塔AI）可能获得更多关注。但中国AI搜索受限于数据监管，难以完全复制谷歌模式。"
+    },
+    "publishedAt": "2026-05-21T05:35:13Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "英伟达承认基本放弃中国AI芯片市场 华为崛起填补空白",
+    "source": "Technews.tw",
+    "url": "https://technews.tw/2026/05/21/nvidia-says-it-has-largely-conceded-chinas-ai-chip-market-to-huawei/",
+    "category": "AI_MODEL",
+    "summary": [
+      "黄仁勋表示美国出口管制下，英伟达已将中国AI市场让给华为",
+      "华为去年创纪录，今年可能再迎非凡年份"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达CEO黄仁勋在财报后采访中称，因美国出口管制持续收紧，公司‘很大程度上将中国AI芯片市场拱手让给华为’。这是首次官方确认市场份额流失。",
+      "transmissionChain": "此举强化华为昇腾芯片的国产替代地位，利好华为供应商如中芯国际（制造）、长电科技（封装）、沪硅产业（硅片）。同时，中国本土AI芯片企业（寒武纪、海光信息）获得更多市场关注。全球AI芯片版图从中美双极走向中国单极生态。",
+      "chinaMarketMapping": "华为昇腾生态快速扩张，相关上市公司业绩预期上修。A股投资者可关注华为产业链（如拓维信息、神州数码）及国产芯片设计标的。但英伟达退出也意味着中国数据中心面临算力替代成本上升，短期可能影响AI应用落地速度。"
+    },
+    "publishedAt": "2026-05-21T05:30:24Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "双鸿今年成长率达60-70% 均热片大单涌入扩产近十倍 ASIC下半年爆发",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/双鴻今年成長率探60-70-均熱片大單湧入擴產近十倍-asic下半年爆發-052954306.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "双鸿散热模组厂上调2026年成长目标至60-70%",
+      "AMD均热片订单涌进，产能年底扩十倍"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台湾散热模组厂双鸿在股东会上宣布今年营收成长率上修至60-70%，其中CPU均热片来自AMD的订单扩产近十倍。ASIC业务下半年爆发。",
+      "transmissionChain": "AI芯片功耗攀升驱动散热需求爆发，双鸿扩产直接利好AMD和英伟达供应链。散热产值暴增利好上游材料（导热硅脂、石墨片）和零部件厂商。",
+      "chinaMarketMapping": "A股散热相关公司（中石科技、碳元科技）可能跟涨。但国内散热技术仍落后台厂，部分国内AI服务器厂商也可能采购双鸿产品。投资者可关注国内散热材料替代机会。"
+    },
+    "publishedAt": "2026-05-21T05:29:54Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "Meta全球裁员8000人 新加坡最先接到通知",
+    "source": "Yahoo Entertainment",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c11e21d5-9883-4558-a3bb-d02576fdf832",
+    "category": "AI_MODEL",
+    "summary": [
+      "Meta裁员约8000人，占全球员工10%",
+      "资源转向AI项目，同时被曝用员工行为数据训练AI"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Meta5月19日开始裁员8000人，同时泄露录音显示扎克伯格承认采用员工数据训练AI。裁员后Meta将重心转向AI和元宇宙。",
+      "transmissionChain": "Meta裁员反映科技行业效率优先，AI替代人力趋势加速。其他科技公司可能跟进减员，利好AI工具和外包服务。但用员工数据训练AI可能引发全球隐私监管。",
+      "chinaMarketMapping": "中国科技巨头（腾讯、阿里）也可能实施类似重组，但国内劳动法更严格。A股AI应用公司（如拓尔思）可能受益于企业数字化转型。但数据隐私问题也促使中国加速《个人信息保护法》执法。"
+    },
+    "publishedAt": "2026-05-21T05:18:28Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "摩根大通戴蒙警告利率可能大幅攀升 债市风险加剧",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/小摩戴蒙示警利率恐大幅攀升-債市風險加劇-051639757.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "戴蒙表示利率可能从当前水平大幅上升",
+      "担心政府支出和AI投资推高通胀"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "摩根大通CEO杰米·戴蒙在接受采访中警告，由于政府支出和AI投资驱动的经济增长，利率可能大幅攀升，债券投资者面临风险。",
+      "transmissionChain": "利率上升预期压制债券价格，提高企业融资成本，尤其影响高杠杆科技公司和成长股。银行股通常受益于利率上升（净息差扩大），但急剧上升可能引发宏观风险。",
+      "chinaMarketMapping": "中国债市受影响较小，因央行维持宽松。但全球利率上升可能加剧人民币贬值压力，倒逼中国政策利率调整。A股成长股（如AI、半导体）可能受情绪影响波动，但国内利率中枢不同。"
+    },
+    "publishedAt": "2026-05-21T05:16:39Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
     "title": "OpenAI抢跑万亿美元IPO，AI资本战烧向公开市场",
     "source": "Yahoo Entertainment",
     "url": "https://tw.stock.yahoo.com/news/openai%E6%90%B6%E8%B7%91%E5%85%86%E7%BE%8E%E5%85%83ipo-ai%E8%B3%87%E6%9C%AC%E6%88%B0%E5%BE%9E%E6%A8%A1%E5%9E%8B%E7%AB%B6%E8%B3%BD%E7%87%92%E5%90%91%E5%85%AC%E9%96%8B%E5%B8%82%E5%A0%B4-002801250.html",
@@ -324,6 +522,24 @@
     "addedAt": "2026-05-21T06:48:16.677Z"
   },
   {
+    "title": "三星薪资谈判破裂 4.7万工人将于5月21日起罢工18天",
+    "source": "Abcnews.com",
+    "url": "https://www.abcnews.com",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "三星电子工会宣布罢工18天，涉及4.7万员工",
+      "将影响HBM和存储芯片生产"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星电子与工会最终谈判失败，工会宣布从5月21日起罢工18天，涉及4.7万名员工，主要影响半导体生产线，包括HBM和DRAM。",
+      "transmissionChain": "罢工直接冲击全球存储芯片供应，HBM涨价利好SK海力士和美光，但下游AI服务器和显卡厂商成本上升。三星代工业务也可能受影响，间接利好台积电。",
+      "chinaMarketMapping": "中国存储芯片厂商（长鑫存储、长江存储）有望获得转移订单，加速国产替代。A股存储相关（兆易创新、澜起科技）受益于涨价预期。但中国手机厂商（小米、OPPO）可能面临DRAM短缺风险。"
+    },
+    "publishedAt": "2026-05-20T06:43:01Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
     "title": "赖清德执政2周年宣布0至18岁每月发5000元津贴",
     "source": "Yahoo Entertainment",
     "url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%9F%B7%E6%94%BF2%E5%91%A8%E5%B9%B4-%E5%AE%A3%E5%B8%830%E5%88%B018%E6%AD%B2%E6%AF%8F%E6%9C%88%E7%99%BC5000%E5%85%83%E6%B4%A5%E8%B2%BC-064002413.html",
@@ -502,228 +718,5 @@
     "publishedAt": "2026-05-20T05:33:00Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-21T05:53:59.705Z"
-  },
-  {
-    "title": "Meta启动裁员8000人，作为AI重组部分",
-    "source": "Lokmattimes.com",
-    "url": "https://www.lokmattimes.com/business/meta-platforms-begins-layoffs-affecting-8000-employees-amid-ai-restructuring/",
-    "category": "AI_MODEL",
-    "summary": [
-      "Meta裁员8000人，转岗7000人至AI角色",
-      "AI重组推动组织架构围绕智能体与基础设施重构"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Meta开始了新一轮裁员，涉及约8000名员工，同时将约7000个岗位重新调配至AI相关领域。公司正围绕AI代理、应用和基础设施重组组织架构，这是继此前裁员之后的又一次大规模调整。LinkedIn同日也宣布裁员600人，显示科技行业AI替代人力趋势加速。",
-      "transmissionChain": "上游：裁员节省成本用于AI研发投入→中游：AI代理技术发展提高效率，可能挤压B2B软件和外包服务需求→下游：整体科技就业市场恶化，但AI人才需求强劲，高薪岗位增加。长期看，AI代理由此获得更多内部训练数据，加速能力迭代。",
-      "chinaMarketMapping": "对A股：直接利空国内科技外包公司（中软国际、软通动力）估值，因为全球裁员示范效应可能传导。利好AI应用与安全公司（奇安信、深信服），企业级AI需求上升。政策层面，中国也面临AI就业替代压力，政府可能出台培训补贴，利好职业教育（中公教育、传智教育）。"
-    },
-    "publishedAt": "2026-05-20T05:27:49Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T05:53:59.705Z"
-  },
-  {
-    "title": "三星面临大罢工：薪酬谈判破裂，4.7万工人将罢工18天",
-    "source": "BusinessLine",
-    "url": "https://www.thehindubusinessline.com/info-tech/samsung-faces-major-strike-after-pay-talks-with-union-falls-apart/article71000820.ece",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "三星电子工会宣布从5月21日起罢工18天，涉及4.7万名员工",
-      "将影响HBM生产与全球存储供应"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "三星电子与工会就奖金制度谈判破裂，工会宣布4.7万名成员从5月21日起举行为期18天的罢工。这是三星55年历史上规模最大的罢工，将直接冲击其HBM（高带宽内存）作为AI芯片关键组件的生产能力，以及DRAM和NAND Flash的全球出货。",
-      "transmissionChain": "上游：三星停止HBM出货→英伟达、AMD等AI芯片厂商面临GPU配套短缺→HBM价格跳涨→利好竞争对手SK海力士和美光。中游：服务器与PC厂商可能延迟出货或涨价转嫁成本→下游：数据中心运营商与消费者面临更高成本。整体存储供应链的紧张可能引发进一步“RAMageddon”，并加速买家寻求多元供应。",
-      "chinaMarketMapping": "对A/H股：利好国产存储替代标的（兆易创新、北京君正、长鑫存储概念股），以及非三星供应链的DRAM模组厂（澜起科技）。由于中国存储厂商（长江存储、长鑫存储）扩产计划明确，罢工窗口期可能加速国产化验证。但HBM领域中国技术差距大，短期难以替代，对国内AI服务器企业（中科曙光）形成成本压力。"
-    },
-    "publishedAt": "2026-05-20T05:27:10Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T05:53:59.705Z"
-  },
-  {
-    "title": "全球长期国债收益率攀升至近二十年最高",
-    "source": "Financial Post",
-    "url": "https://financialpost.com/pmn/business-pmn/global-long-bond-yields-climb-to-highest-in-almost-two-decades",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "30年期美债收益率一度突破5.20%",
-      "市场担心通胀与财政赤字失控"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "长端国债收益率在全球范围内飙升，30年期美债收益率触及5.20%，创2007年金融危机以来最高水平。投资者对持续的通胀、庞大的财政赤字以及AI相关电力成本上升感到担忧，纷纷抛售长债。花旗警告下一目标位可能在5.5%。欧洲和日本长债收益率也同步攀升。",
-      "transmissionChain": "上游：债券抛售导致收益率上升→中游：提升企业融资成本，压缩科技股估值（高久期资产承压）→下游：房地产和基建领域借贷成本增加，抑制投资。同时，高收益率吸引资金从股市流向债市，加剧股市波动。新兴市场面临资本外流和货币贬值压力。",
-      "chinaMarketMapping": "对A股：短期利空，美债收益率上行导致外资流出（北向资金），压制蓝筹股估值。但中国国债收益率相对独立，中美利差扩大可能促使央行降准对冲。长期看，高美债收益率若引发全球衰退，中国出口承压；但若中国金融体系稳定，人民币资产可能成为避险选择。对贵金属（黄金）形成支撑，因为实际利率预期波动。"
-    },
-    "publishedAt": "2026-05-20T05:06:58Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T05:53:59.705Z"
-  },
-  {
-    "title": "英伟达高管亲自向AI巨头交付首批Vera CPU系统",
-    "source": "PCMag",
-    "url": "https://me.pcmag.com/en/ai/37229/nvidia-exec-hand-delivers-first-vera-cpu-systems-to-ai-heavy-hitters",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达交付首批独立Vera CPU给OpenAI、Anthropic、SpaceX AI和甲骨文",
-      "这是英伟达首款独立CPU，专为Agentic AI设计",
-      "与GPU配合推理，优化数据中心算力配比"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达高管Ian Buck上周五和本周一向Anthropic、OpenAI、SpaceX AI和甲骨文云亲自交付首批Vera CPU系统。Vera CPU是英伟达首款独立产品线的CPU，采用台积电3nm工艺，集成了超过1000亿晶体管，专为AI推理和Agentic AI工作负载设计。该CPU与英伟达GPU配合，可将数据中心CPU/GPU配比从当前的1:4提升至1:1，显著降低整体TCO。",
-      "transmissionChain": "Vera CPU的成功交付标志着英伟达从GPU垄断者向全栈AI平台转型，直接威胁AMD EPYC和英特尔Xeon在数据中心的份额。上游利好台积电3nm产能利用率，下游利好服务器代工厂（鸿海、广达、纬创）获得更多订单。对于云厂商，可降低对英伟达高端GPU的依赖，提高算力灵活性。长期看，CPU+GPU协同将推动AI推理市场爆发，利好边缘计算和AI应用开发。",
-      "chinaMarketMapping": "对A股影响：英伟达CPU出货验证了AI基础设施需求持续强劲，利好中际旭创（光模块）、沪电股份（PCB）。但国产CPU厂商（海光信息、龙芯中科）在AI推理领域面临更激烈竞争。中国云厂商（阿里云、腾讯云）可能加速采用国产AI芯片（昇腾、寒武纪）以摆脱对英伟达依赖，政府层面已要求党政云优先国产方案。鸿海、广达等台系服务器代工商将直接获得Vera Rubin平台订单。"
-    },
-    "publishedAt": "2026-05-19T16:12:17Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T16:40:50.009Z"
-  },
-  {
-    "title": "谷歌I/O大会全面押注AI：搜索改版、Gemini更新与百美元月费套餐齐发",
-    "source": "Yahoo奇摩",
-    "url": "https://tw.stock.yahoo.com/news/google-o%E6%8A%BC%E6%B3%A8ai-%E6%90%9C%E5%B0%8B%E6%A1%86%E5%A4%A7%E6%94%B9%E7%89%88-gemini%E6%9B%B4%E6%96%B0%E8%88%87%E7%99%BE%E7%BE%8E%E5%85%83%E6%9C%88%E8%B2%BB%E5%A5%97%E9%A4%90%E9%BD%8A%E7%99%BC-000610559.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "谷歌发布Gemini 3.0，搜索引入生成式摘要",
-      "推出每月100美元的AI Ultra订阅",
-      "与黑石合资成立TPU云公司"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "谷歌在I/O大会上宣布多项AI重大更新：Gemini模型升级至3.0版本，支持多模态推理；搜索框25年来首次大改版，加入生成式答案摘要；推出每月100美元的AI Ultra订阅套餐，并将最高端套餐从250美元降至200美元。同时，谷歌与黑石集团成立合资云公司，黑石出资50亿美元持多数股权，基于TPU提供计算即服务，目标2027年达到500兆瓦容量。",
-      "transmissionChain": "谷歌搜索改版将冲击传统SEO行业，倒逼企业优化生成式搜索适配。AI Ultra订阅直接对标微软Copilot和OpenAI Plus，价格战可能提升AI应用普及率。TPU云合资威胁英伟达CUDA生态，利好AMD和ASIC设计公司如博通、Marvell。黑石的50亿美元资本注入表明私募巨头看好AI算力长期回报，将加速数据中心建设，利好电力公用事业股。",
-      "chinaMarketMapping": "对中国A股：百度文心一言和阿里通义千问面临更激烈的全球竞争，需加速本土化模型迭代。TPU云合资可能采用台积电3nm制程，利好中芯国际（代工）、长电科技（封装）。中国云厂商（阿里云、华为云）可能被迫降价或提供更优质服务，利好IDC公司（光环新网、宝信软件）。长期看，谷歌入局AI云服务将推动中国AI监管细则出台，统一AI服务标准。"
-    },
-    "publishedAt": "2026-05-19T16:06:10Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T16:40:50.009Z"
-  },
-  {
-    "title": "欧洲央行6月决策遭中东战火绑架，柯赫警告若霍尔木兹不通恐被迫升息",
-    "source": "Yahoo奇摩",
-    "url": "https://tw.stock.yahoo.com/news/ecb-6%E6%9C%88%E6%B1%BA%E7%AD%96%E9%81%AD%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E7%B6%81%E6%9E%B6-%E6%9F%AF%E8%B5%AB%E7%A4%BA%E8%AD%A6%E8%8D%B7%E5%A7%86%E8%8C%B2%E4%B8%8D%E9%80%9A%E6%81%90%E8%A2%AB%E8%BF%AB%E5%8D%87%E6%81%AF-235643170.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "欧洲央行管委柯赫警告若霍尔木兹海峡不通航，6月可能被迫升息",
-      "能源价格回落是维持利率不变的关键",
-      "中东地缘风险波及欧元区货币政策"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "欧洲央行管理委员会委员、奥地利央行行长柯赫表示，若中东冲突导致霍尔木兹海峡持续不通航，能源价格无法回落，欧洲央行在6月11日会议可能别无选择只能升息。当前市场原本押注降息或维持不变，但地缘政治风险正迫使货币政策路径修正。柯赫强调必须看到海峡恢复通航、石油和化肥等关键产品正常流入全球市场。",
-      "transmissionChain": "若ECB被迫升息，将推高欧债收益率，进而影响全球利率环境。欧洲经济本已疲弱，升息可能引发衰退。能源成本上升将打击欧洲制造业（汽车、化工、钢铁），利空欧洲资产价格。全球资金可能流向美国或中国，推高美元。对中国出口而言，欧洲需求减弱是不利因素，但欧洲需要中国制造的可替代能源设备（光伏、电池）。",
-      "chinaMarketMapping": "对中国A股：若欧洲衰退，出口导向型公司（家电、机械、光伏）面临订单下滑风险。但中国光伏（隆基、晶科）和锂电池（宁德时代）因欧洲能源转型需求可能受益。同时，中国可加大从俄罗斯进口折扣石油，降低自身成本，利好中国石油、中国石化。总体而言，地缘溢价利好石油天然气板块，但利空制造业。"
-    },
-    "publishedAt": "2026-05-19T15:56:43Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T16:40:50.009Z"
-  },
-  {
-    "title": "美财长贝森特：对华休战不急续约，川习会前关税筹码仍握美方手中",
-    "source": "Yahoo奇摩",
-    "url": "https://tw.stock.yahoo.com/news/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E5%B0%8D%E4%B8%AD%E4%BC%91%E6%88%B0%E4%B8%8D%E6%80%A5%E7%BA%8C%E7%B4%84-%E5%B7%9D%E7%BF%92%E6%9C%83%E5%89%8D%E9%97%9C%E7%A8%85%E7%B1%8C%E7%A2%BC%E4%BB%8D%E6%8F%A1%E7%BE%8E%E6%96%B9%E6%89%8B%E4%B8%AD-233913956.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "贝森特表示不急于延长11月到期的对华关税休战协议",
-      "美方掌握关税筹码，中国可能在降低关税方面做出让步",
-      "暗示贸易谈判将在川习会前保持高压"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国财长贝森特在G7财长会议期间表示，川普政府不急于延长将于11月到期的对华关税与关键矿产贸易休战协议。他指出，只要美国不再进一步提高关税，中国可能接受美国新的301条款关税。贝森特暗示中国在关税问题上“捡了便宜”，美方将利用这段时间施压中国在技术转让和市场开放方面让步。",
-      "transmissionChain": "若关税休战不续约，中国对美出口商品（家电、电子产品、玩具）将重新面临高额关税，影响出口企业利润。但中国可通过汇率贬值对冲部分影响（人民币已走弱）。科技领域，若美国扩大对华为、中芯的制裁，将加速中国半导体国产替代进程。此外，关键矿产（稀土、钨）方面，中国可能限制出口以反制，利好中国稀土板块（北方稀土）。川习会前，特朗普保留关税工具作为谈判筹码。",
-      "chinaMarketMapping": "对A股，出口压力下内需消费和国产替代板块受益。家电（美的、格力）需关注海外营收占比，但可通过东南亚产能规避。半导体（中芯国际、北方华创）国产替代逻辑强化。稀土（北方稀土、五矿稀土）作为反制工具，具备交易性机会。关税不确定性加大的背景下，建议增配防御性板块（公用事业、黄金）。"
-    },
-    "publishedAt": "2026-05-19T15:39:13Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T16:40:50.009Z"
-  },
-  {
-    "title": "黑石与谷歌合资成立TPU云公司，大规模商业化挑战英伟达",
-    "source": "Cool3c",
-    "url": "https://www.cool3c.com/article/248699",
-    "category": "AI_MODEL",
-    "summary": [
-      "黑石出资50亿美元持TPU云合资公司多数股权",
-      "基于谷歌TPU提供计算即服务",
-      "目标2027年达到500兆瓦容量"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "黑石集团与谷歌宣布成立合资云公司，黑石出资50亿美元持有主要股份，谷歌提供TPU技术和管理。合资公司将基于谷歌定制TPU芯片向企业提供AI计算即服务，目标到2027年实现500兆瓦容量的数据中心规模。此举是谷歌将内部TPU对外商业化的重大举措，直接挑战英伟达CUDA + GPU生态。黑石作为全球最大另类资产管理公司，代表机构资本对AI算力基础设施的长期看好。",
-      "transmissionChain": "TPU云合资将降低企业使用AI算力的门槛，尤其是依赖英伟达GPU的云客户可多一个选择。利好ASIC设计公司（博通、Marvell）因为TPU属于定制芯片，可能增加对ASIC采购。同时，电力需求将进一步推动能源公司（NextEra、杜克能源）和光模块供应商（中际旭创）。对英伟达而言，生态垄断被打破，但短期内GPU仍占主导。黑石的资本注入可加速数据中心建设，利好服务器代工与建筑商。",
-      "chinaMarketMapping": "对中国市场，谷歌TPU云合资可能受限于美国出口管制，无法直接服务中国客户，但中国企业可以借鉴其商业模式。百度昆仑芯、阿里平头哥、华为昇腾需加速芯片方案商业化，形成对标。同时，该合资可能刺激中国私募资本进入AI算力领域，利好宝信软件、数据港等IDC公司。中长期看，中国AI云服务市场竞争将更激烈，降价让利给中小开发者。"
-    },
-    "publishedAt": "2026-05-19T15:34:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T16:40:50.009Z"
-  },
-  {
-    "title": "AMD AI开发者大会首次在中国举行，苏姿丰出席谈AI代理新趋势",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/952/513.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "AMD AI DevDay 2026在上海举办",
-      "苏姿丰称AI进入CPU+GPU时代，配比向1:1演进",
-      "发布MI400加速器和EPYC Turin处理器"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "AMD首次在中国举办AI开发者大会，CEO苏姿丰出席并宣布AI已进入CPU+GPU协同时代，数据中心CPU/GPU配比从1:4向1:1演进。AMD发布MI400加速器（性能较MI350提升50%）和EPYC Turin处理器（96核）。同时与零一万物等中国AI公司合作，强化软件生态。苏姿丰强调AI代理（Agent）广泛使用CPU是转变关键。",
-      "transmissionChain": "AMD的CPU+GPU战略直接挑战英伟达GPU主导地位，数据表明推理负载确实需要更多CPU资源。利好CPU生态合作厂商（广达、纬颖）及电源管理公司（台达电）。MI400若获得云厂商采用，将提升台积电3nm和CoWoS产能利用率。对英特尔形成两面夹击，英特尔18A制程急需突破。开发者大会在中国举办体现AMD重视中国市场，同时暗示绕开出口管制的可能性。",
-      "chinaMarketMapping": "对A股，AMD新产品有望带动国产服务器厂商（浪潮信息、中科曙光）需求。但中国超算和AI服务器更倾向国产芯片，AMD在中国区营收增长空间有限。不过，苏姿丰的乐观表态提振了AI芯片板块情绪，利好功率半导体（斯达半导）和散热（双鸿）。更重要的是，CPU+GPU趋势利好国产CPU（海光信息、龙芯中科）在推理场景的应用。"
-    },
-    "publishedAt": "2026-05-19T14:49:35Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T16:40:50.009Z"
-  },
-  {
-    "title": "普丁访华会晤习近平，川普刚走中俄展现坚实盟友关系",
-    "source": "Yahoo奇摩",
-    "url": "https://tw.news.yahoo.com/%E6%99%AE%E4%B8%81%E8%A8%AA%E4%B8%AD%E6%9C%83%E6%9A%A4%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%B7%9D%E6%99%AE%E5%89%9B%E8%B5%B0%E4%B8%AD%E4%BF%84%E5%B1%95%E7%8F%BE%E5%A0%85%E5%AF%A6%E7%9B%9F%E5%8F%8B%E9%97%9C%E4%BF%82-143731972.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "普丁在特朗普离开后访华，与习近平会晤",
-      "签署能源、基础设施和科技合作协议",
-      "展示中俄战略伙伴关系对抗西方压力"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "俄罗斯总统普丁在特朗普结束对华访问后迅速抵达北京，与习近平举行会谈。双方签署多项合作协议，包括扩大石油和天然气贸易、共同开发北极航道、深化太空合作等。普丁强调中俄关系“坚不可摧”，习近平称两国是“战略协作伙伴”。此次访问旨在展示中俄团结，回应美国对两国的制裁与竞争。",
-      "transmissionChain": "中俄能源协议将使中国获得折扣石油和天然气，降低对中东和海上运输的依赖。利好中国能源安全，但可能面临美国二级制裁风险。北极航道开发将推动造船业（中国船舶）和港口建设。太空合作可能涉及卫星导航（北斗与格洛纳斯兼容），利好中国卫星产业链。长期看，中俄贸易本币结算比例上升，削弱美元储备地位，利好人民币国际化。",
-      "chinaMarketMapping": "对A股，中俄贸易主题受益板块包括：石油天然气（中国石油、中曼石油）、航运（中远海特）、港口基建（连云港、锦州港）、农业（北大荒作为俄罗斯远东粮食进口受益）。但需注意美国制裁引致的外资流出风险。军工板块（航发动力）可能获得俄罗斯技术合作短期催化。总体，能源安全和人民币资产吸引力提升。"
-    },
-    "publishedAt": "2026-05-19T14:37:31Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T16:40:50.009Z"
-  },
-  {
-    "title": "三星与工会缩小分歧，但罢工临近",
-    "source": "RTE",
-    "url": "https://www.rte.ie/news/business/2026/0519/1574120-samsung-strike-threat/",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "三星与工会谈判取得进展，但仍有分歧",
-      "若罢工爆发将影响存储芯片与代工产能"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "三星电子与韩国工会的谈判在调停下缩小分歧，但仍有两个主要未解难题：取消50%奖金上限和15%利润分配。工会威胁将于5月22日开始为期18天的罢工，涉及4.8万人。",
-      "transmissionChain": "罢工若发生，将直接影响三星的DRAM、NAND和晶圆代工产能，导致全球存储芯片短缺加剧，短期内推高SSD和内存价格。替代供应商（美光、海力士、长江存储）将受益。同时，三星客户可能寻求第二货源。",
-      "chinaMarketMapping": "中国存储厂商（长江存储、长鑫存储）将受益于三星产能缺口，加速国产替代。A股存储概念股（如兆易创新、北京君正）有望提振。但需注意，若罢工持续过久，可能拖累全球电子产业链，进而影响中国消费电子出口。"
-    },
-    "publishedAt": "2026-05-19T10:24:14Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
-  },
-  {
-    "title": "美国防部释放军事基地土地 助建AI数据中心",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E9%87%8B%E5%87%BA%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%9C%9F%E5%9C%B0-%E5%8A%A9%E5%BB%BAai%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83-102259.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "美国陆军与空军将释出军事基地土地用于AI数据中心建设",
-      "加速算力部署，降低选址难度"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国国防部宣布与陆军、空军合作，释放部分军事基地的土地给私营公司建设AI数据中心，旨在缩短数据中心建设周期，满足AI对算力的爆炸性需求。",
-      "transmissionChain": "此举将大幅降低AI基础设施的土地成本，吸引更多民间资本投入。数据中心建设将拉动上游电力设备、冷却系统、建筑承包需求。微软、谷歌、亚马逊等云巨头可能受益最大。",
-      "chinaMarketMapping": "中国同样面临AI算力短缺问题，但土地资源更为紧张。国内数据中心建设主要依赖东部发达地区工业用地，西部绿电资源丰富但网络延迟高。此举可能推动中国借鉴类似政策，释放闲置工业用地或利用西部优势。A股数据中心标的（如光环新网、宝信软件）长期受益。"
-    },
-    "publishedAt": "2026-05-19T10:22:59Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-20T10:30:53.609Z"
   }
 ]
