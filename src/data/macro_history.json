@@ -113,12 +113,12 @@
   },
   {
     "date": "2026-05-22",
-    "confidence": 60,
-    "liquidity": 48,
-    "mediaSentiment": 0.2,
-    "socialSentiment": 0,
+    "confidence": 65,
+    "liquidity": 55,
+    "mediaSentiment": 0.35,
+    "socialSentiment": 0.2,
     "regime": "过热",
-    "fearGreedIndex": 65,
+    "fearGreedIndex": 78,
     "hotThemes": [
       {
         "keyword": "AI代理",
@@ -132,17 +132,17 @@
       },
       {
         "keyword": "存储芯片",
-        "momentumScore": 7,
+        "momentumScore": 6,
         "trendDirection": "down"
       },
       {
-        "keyword": "新能源发电",
-        "momentumScore": 6,
+        "keyword": "量子计算",
+        "momentumScore": 7,
         "trendDirection": "up"
       },
       {
-        "keyword": "国防军工",
-        "momentumScore": 5,
+        "keyword": "国产替代",
+        "momentumScore": 8,
         "trendDirection": "up"
       }
     ]

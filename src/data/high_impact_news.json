@@ -1,5 +1,203 @@
 [
   {
+    "title": "华硕旗下台智云5月29日登兴柜 瞄准企业AI代理商机",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E7%A2%A9%E3%80%8Cai%E7%AE%97%E5%8A%9B%E5%B0%8F%E9%87%91%E9%9B%9E%E3%80%8D%E5%8F%B0%E6%99%BA%E9%9B%B2529%E7%99%BB%E8%88%88%E6%AB%83-%E7%9E%84%E6%BA%96%E4%BC%81%E6%A5%AD%E3%80%8C%E9%BE%8D%E8%9D%A6%E3%80%8D%E5%95%86%E6%A9%9F-102833061.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "台智云推出AFS Suite企业主权AI平台",
+      "预定5月29日登兴柜，抢攻企业AI基础设施升级"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "华硕旗下 AI 云服务公司台智云将于 5 月 29 日登录兴柜交易，并推出 AFS Suite 企业主权 AI 平台。该平台帮助企业构建自主可控的 AI 基础设施，对标全球流行的 OpenClaw 开源 AI 代理人。台智云总经理吴汉章强调“龙虾（AI Agent）”商机，目标锁定企业 AI 代理化需求。",
+      "transmissionChain": "台智云兴柜上市 → 华硕集团 AI 资产估值重估 → 带动台股AI概念股情绪 → 对岸同类企业（如青云、优刻得）面临竞争压力，但中国本土AI云平台（华为云、阿里云）更强。",
+      "chinaMarketMapping": "国内 AI 云服务商（如青云科技、优刻得）短期被分流资金，但长期看，企业主权AI需求是共性趋势。国内创业公司（如第四范式、澜舟科技）也可借鉴“龙虾”概念，开发专注私有化部署的 AI 代理平台。台智云上市可能引发 A 股相关概念炒作，但需注意兴柜流动性风险。"
+    },
+    "publishedAt": "2026-05-21T10:28:33Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "Grok 联邦市场受挫拖累 SpaceX IPO 增长故事",
+    "source": "The Next Web",
+    "url": "https://thenextweb.com/news/grok-flat-washington-spacex-ipo/",
+    "category": "AI_MODEL",
+    "summary": [
+      "Grok下载量从1月2000万降至4月830万",
+      "GSA政府合同谈判停滞，SpaceX出租算力给Anthropic"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Grok 产品在政府市场推广遭遇瓶颈，下载量腰斩，付费转化率仅为ChatGPT的五分之一。原计划通过 GSA 合同渗透联邦机构的路径受阻。同时，SpaceX 将 Memphis Colossus 1 集群以每月12.5亿美元租赁给 Anthropic，显示AI算力资源向头部聚合，中小模型公司生存空间收窄。",
+      "transmissionChain": "Grok 低迷 → 削弱 SpaceX 综合科技故事中的 AI 资产价值 → 影响 IPO 估值（市场对垂直整合模型信心下降）→ 利好 Anthropic（获得算力支持） → 加剧 AI 行业分化：头部模型公司（Anthropic、OpenAI）与底层算力英伟达受益，小型模型公司边缘化。",
+      "chinaMarketMapping": "国内 AI 大模型公司（百度、字节等）需警惕过度依赖单一政府订单的风险。同时，算力出租模式（类似阿里云出租GPU）可能成新增长点。GSA谈判受阻反映了对华AI技术出口管制的溢出效应——中国AI企业进入美国政府市场将更难，但国内ToG市场仍有空间（如智谱、科大讯飞）。"
+    },
+    "publishedAt": "2026-05-21T10:28:29Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "Meta收购AI新创Manus被中国叫停 共同创始人考虑筹资买回公司",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/meta%E6%94%B6%E8%B3%BCai%E6%96%B0%E5%89%B5manus%E9%81%AD%E4%B8%AD%E5%9C%8B%E5%8F%AB%E5%81%9C-%E5%BD%AD%E5%8D%9A-%E5%85%B1%E5%90%8C%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%AD%A3%E8%80%83%E6%85%AE%E7%B1%8C%E8%B3%87%E8%B2%B7%E5%9B%9E%E5%85%AC%E5%8F%B8-102623513.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "中国阻止Meta收购AI创企Manus",
+      "创始团队考虑以10亿美元估值回购公司"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国政府阻止 Meta 收购中国 AI 创业公司 Manus，交易流产。Manus 联合创始人正寻求外部投资者融资约 10 亿美元以回购公司股份。Manus 是一家专注于 AI 自动化操作的明星创业公司，其产品类似通用型 AI 代理人。",
+      "transmissionChain": "收购被否 → Manus 独立运营 → 中国 AI 创业公司估值预期提升（其他公司可能获得更高溢价）→ 但中概股跨境并购不确定性增加 → 短期利好国内 AI 生态（人才、技术留存），但长期可能阻碍中国 AI 企业国际化。",
+      "chinaMarketMapping": "对 A 股 AI 概念股情绪偏正面：本土 AI 创企估值锚点显现。但需注意，Manus 若无法获得美国资本支持，可能转向中国市场，加剧国内 AI 初创竞争。同时，事件凸显中美科技脱钩加剧，中国 AI 企业出海面临更多政策壁垒，但国内 ToB 市场空间广阔，利好科大讯飞、商汤等已有本土化优势的企业。"
+    },
+    "publishedAt": "2026-05-21T10:26:23Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "美国将向量子计算公司提供20亿美元并持有股权",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/us-2b-quantum-computing-equity-stakes/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "美国政府股权投资量子计算企业",
+      "加速技术发展，影响密码学与安全"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国政府宣布将在量子计算公司投资 20 亿美元，并采取股权模式参与公司治理。此举旨在维持美国在量子领域的领先地位，并防范量子计算对现有加密体系的威胁。",
+      "transmissionChain": "政府资金入注 → 量子计算研发加速 → 对加密技术构成潜在威胁 → 推动抗量子密码标准制定 → 利好量子通信与加密技术公司 → 对现有区块链安全形成中长期挑战。",
+      "chinaMarketMapping": "中国量子计算相关企业（国盾量子、九州量子）受政策催化，国内量子产业规划或加码。量子计算对金融、国防等领域的威胁也促使中国加快抗量子密码部署，利好卫士通、格尔软件等。"
+    },
+    "publishedAt": "2026-05-21T10:22:36Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "AMD苏姿丰访台送大礼包 宣布逾百亿美元扩大投资台湾产业",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E8%B6%85%E5%BE%AE%E8%98%87%E5%A7%BF%E4%B8%B0%E8%A8%AA%E5%8F%B0%E9%80%81%E5%A4%A7%E7%A6%AE%E5%8C%85-%E5%AE%A3%E5%B8%83%E9%80%BE%E7%99%BE%E5%84%84%E7%BE%8E%E5%85%83%E6%93%B4%E5%A4%A7%E6%8A%95%E8%B3%87%E5%8F%B0%E7%81%A3%E7%94%A2%E6%A5%AD-102000129.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "AMD宣布投资台湾超过100亿美元",
+      "扩大先进封装与AI基础设施，点名日月光、矽品等"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "AMD 董事长苏姿丰于 COMPUTEX 前夕宣布对台湾投资超 100 亿美元，主要针对 2.5D 先进封装与 IC 载板产能扩张。合作方包括日月光、矽品、力成、欣兴等。此举旨在缓解台积电 CoWoS 产能不足，确保 MI400 等 AI 芯片供应。",
+      "transmissionChain": "AMD 扩产 → 台湾封测与载板厂订单大增（日月光、景硕）→ 拉升毛利率 → 验证 AI 需求持续旺盛 → 对竞争对手英伟达形成压力 → 可能引发新一轮资本开支竞赛 → 全球半导体设备商（ASML、应用材料）受益。",
+      "chinaMarketMapping": "国内封测厂（长电科技、通富微电）面临更激烈的竞争，但也会承接部分转单。IC 载板方面，兴森科技、深南电路等国产替代标的迎来机遇。同时，AMD 投资台湾强化了台海供应链的战略地位，地缘风险下中国需加速半导体自主。"
+    },
+    "publishedAt": "2026-05-21T10:20:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "中国国产游戏GPU性能与价格双输：旗舰LX 7G100售价485美元，性能不及英伟达旧款RTX 4060",
+    "source": "Tom's Hardware UK",
+    "url": "https://www.tomshardware.com/pc-components/gpus/chinas-new-homegrown-gaming-gpu-flops-in-performance-and-price-flagship-usd485-lx-7g100-cant-keep-pace-with-nvidias-older-rtx-4060",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "国产GPU性能落后",
+      "投资价值存疑"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "中国芯片创业公司利算科技的 LX 7G100 游戏显卡开启预售，售价 485 美元，但评测显示其性能不及英伟达 2023 年的 RTX 4060，功耗更高。这凸显了中国 GPU 产业的巨大差距。",
+      "transmissionChain": "国产GPU性能不佳 → 消费者及企业转向英伟达/AMD（受限）→ 国产替代仅限于政策与非高端场景 → 拖累中国半导体信心 → 但倒逼封装与制造端创新。",
+      "chinaMarketMapping": "对 A 股国产 GPU 概念股（景嘉微、龙芯中科）短期利空，因技术差距被证实。但长期看，国家支持不减，且军用、信创等特定市场仍需国产产品。投资者应关注在细分领域（如工业控制、边缘计算）找到突破口的公司。"
+    },
+    "publishedAt": "2026-05-21T10:20:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "台湾声押3名涉嫌非法出口高端AI服务器至中国大陆的嫌疑人",
+    "source": "The Next Web",
+    "url": "https://thenextweb.com/news/taiwan-detains-three-ai-server-smuggling-supermicro-china/",
+    "category": "AI_MODEL",
+    "summary": [
+      "台湾首次正式半导体走私打击",
+      "涉及美超微服务器，搭载英伟达高端芯片"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台湾基隆地检署侦破一起高端 AI 服务器走私案，3 名台籍嫌疑人试图将美超微生产的搭载英伟达 H100/H200 芯片的服务器通过不实申报出口至中国大陆。这是台湾首次正式打击半导体走私，与美方出口管制联动。",
+      "transmissionChain": "走私案件 → 台美加强出口管制执法 → 中国获取高端 AI 芯片通道收窄 → 华为昇腾需求进一步增加 → 国内 AI 训练成本上升（需更多国产芯片堆叠）→ 利好国产芯片但提高使用难度。",
+      "chinaMarketMapping": "短期内对国内 AI 算力供给形成抑制，部分依赖进口芯片的互联网大厂（字节、百度）可能面临算力瓶颈。中长期推动国产 AI 芯片（华为、寒武纪）加速适配与生态建设。同时，中科曙光、浪潮信息等服务器厂商须加强合规审查。"
+    },
+    "publishedAt": "2026-05-21T10:16:46Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "RWA市场突破380亿美元 机构资产上链加速",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/rwa-market-surpasses-38-billion-institutions/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "真实世界资产代币化市场达380亿美元",
+      "机构参与度提升"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "链上代币化的真实世界资产（RWA）总价值已超过 380 亿美元。主要驱动力包括房地产、债券、商品等传统资产的代币化，以及大型金融机构（如贝莱德、高盛）的积极参与。",
+      "transmissionChain": "RWA增长 → 区块链基础设施需求增加 → 利好以太坊、Polygon等公链 → 推动传统金融与DeFi融合 → 监管不确定性仍存，但趋势不可逆。",
+      "chinaMarketMapping": "国内监管政策限制加密资产，RWA 概念在合规框架下（如数字人民币与贸易金融）有落地可能。相关上市公司（四方精创、长亮科技）可关注其在区块链贸易融资的进展。"
+    },
+    "publishedAt": "2026-05-21T10:16:32Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "伊朗战争加速全球石油库存消耗 夏季出行季前告急",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/iran-war-oil-stocks-depletion-travel-season/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "地缘冲突导致石油库存快速下降",
+      "夏季需求高峰压力增大"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "中东地区冲突（伊朗相关）导致全球石油库存加速消耗，即将到来的夏季出行旺季使供应更趋紧张。油价因此承压上行，布油近期已再次逼近100美元。",
+      "transmissionChain": "石油库存下降 → 油价上涨 → 通胀压力回升 → 美联储加息预期强化 → 对风险资产（股票、加密货币）形成压制 → 能源股受益（埃克森美孚等）。",
+      "chinaMarketMapping": "中国作为最大石油进口国，油价上涨将推高输入性通胀，压制制造业利润。但国内“三桶油”（中石油、中石化、中海油）盈利提升，新能源汽车（比亚迪）销售可能加速。政府或加大战略储备释放。"
+    },
+    "publishedAt": "2026-05-21T10:15:07Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "三星电子工会达成初步协议 12%利润奖金暂时避免罢工",
+    "source": "Ibtimes.com.au",
+    "url": "https://www.ibtimes.com.au/samsung-electronics-union-postpones-strike-tentative-wage-deal-1869266",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "三星工会暂缓罢工",
+      "半导体利润12%用于奖金"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星电子最大的工会与公司达成初步薪资协议，将半导体利润的 12% 用于员工奖金，原定罢工因此推迟。但协议仍需工会投票表决，最终结果未定。此前三星劳资关系紧张，罢工风险持续存在。",
+      "transmissionChain": "罢工推迟 → 短期 DRAM/HBM 供给稳定 → 存储涨价预期降温 → 美光、海力士股价承压 → 但若协议未通过，4.7万人罢工将严重影响全球存储供应。",
+      "chinaMarketMapping": "对 A 股存储概念股（兆易创新、北京君正）偏空，因涨价预期减弱。但国内存储厂商（长鑫存储）扩产受益于行业景气延续。投资者需密切关注 5 月 21 日后的投票结果。"
+    },
+    "publishedAt": "2026-05-21T10:09:45Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
+    "title": "黄仁勳：中国AI芯片市场已让给华为 我没有任何期望",
+    "source": "Unwire.hk",
+    "url": "https://unwire.hk/2026/05/21/nvidia-jensen-huang-china-chips-huawei/ai/",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达CEO承认放弃中国高端AI芯片市场",
+      "华为填补空白"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达 CEO 黄仁勳明确指出，在美国出口管制与审批不确定下，公司已基本将中国高端 AI 芯片市场让给华为。他不再期望两国政府短期内批准向中国出售最先进芯片。华为昇腾芯片正加速替代。",
+      "transmissionChain": "英伟达退出 → 华为市场份额快速提升 → 华为配套产业链（中芯国际、中微公司）受益 → 但中国 AI 算力性能差距扩大（华为芯片仍落后英伟达2-3代）→ 倒逼中国加大光刻机与国产 EDA 投入 → 长期影响全球 AI 竞争格局。",
+      "chinaMarketMapping": "A 股国产芯片概念股（华为昇腾生态：拓维信息、神州数码；以及寒武纪、海光信息）迎来情绪催化。但需注意，华为芯片性能足以支持国内大部分 AI 推断场景，但训练场景仍存短板。中芯国际、华大九天等设备与 EDA 厂商将受益于国产替代加速。"
+    },
+    "publishedAt": "2026-05-21T09:46:27Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T10:31:23.197Z"
+  },
+  {
     "title": "英伟达公布800亿美元回购并提高股息，中美紧张局势下着力提振信心",
     "source": "Crypto Briefing",
     "url": "https://cryptobriefing.com/nvidia-unveils-80b-stock-buyback-raises-dividend-amid-us-china-tensions/",
@@ -520,203 +718,5 @@
     "publishedAt": "2026-05-20T06:43:01Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "三星薪资谈判破裂 4.7万工人将于5月21日起罢工18天",
-    "source": "Abcnews.com",
-    "url": "https://www.abcnews.com",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "三星电子工会宣布罢工18天，涉及4.7万员工",
-      "将影响HBM和存储芯片生产"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "三星电子与工会最终谈判失败，工会宣布从5月21日起罢工18天，涉及4.7万名员工，主要影响半导体生产线，包括HBM和DRAM。",
-      "transmissionChain": "罢工直接冲击全球存储芯片供应，HBM涨价利好SK海力士和美光，但下游AI服务器和显卡厂商成本上升。三星代工业务也可能受影响，间接利好台积电。",
-      "chinaMarketMapping": "中国存储芯片厂商（长鑫存储、长江存储）有望获得转移订单，加速国产替代。A股存储相关（兆易创新、澜起科技）受益于涨价预期。但中国手机厂商（小米、OPPO）可能面临DRAM短缺风险。"
-    },
-    "publishedAt": "2026-05-20T06:43:01Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "赖清德执政2周年宣布0至18岁每月发5000元津贴",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%9F%B7%E6%94%BF2%E5%91%A8%E5%B9%B4-%E5%AE%A3%E5%B8%830%E5%88%B018%E6%AD%B2%E6%AF%8F%E6%9C%88%E7%99%BC5000%E5%85%83%E6%B4%A5%E8%B2%BC-064002413.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "赖清德520谈话宣布0至18岁每月5000元成长津贴",
-      "同时提出国防特别预算与维持台海和平稳定目标"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "赖清德在就职2周年谈话中宣布针对少子化问题的家庭支持政策：0到18岁每人每月5000元津贴，年预算约2000亿元，不会排挤其他预算。同时证实军购追加预算。",
-      "transmissionChain": "该政策直接刺激台湾内需消费：零售、母婴、教育板块受益。长期可能提高出生率，利好房地产与幼教。但2000亿支出增加财政压力，可能推升台湾公债收益率，影响金融股。军购追加也强化台湾'非红供应链'地位，半导体与无人机产业链受益。",
-      "chinaMarketMapping": "对中国大陆来说，台湾福利政策对比凸显大陆在鼓励生育方面的不足，但中国大陆财政可承受更大力度。A股婴童概念（贝因美、孩子王）可能受逻辑映射而短炒。国防预算对比则凸显大陆军工重要性，利好国产替代。但台湾政策对A股直接实质影响有限。"
-    },
-    "publishedAt": "2026-05-20T06:40:02Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "Meta要求员工在家办公然后凌晨4点发裁员邮件：内部备忘录流出",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/meta-told-employees-to-work-from-home-then-sent-4-am-layoff-emails-leaked-memo-reads-were-now-at-the-stage-where-/articleshow/131218944.cms",
-    "category": "AI_MODEL",
-    "summary": [
-      "Meta裁员约8000人，凌晨4点发送解雇邮件",
-      "重组聚焦AI，转岗7000人至AI团队"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Meta在全球裁员约8000人（约10%），包括爱尔兰、印度等地员工。公司要求员工在家办公后发送解雇邮件，手段引发争议。同时内部备忘录显示，公司将裁员作为AI重组的一部分，大量员工将调至AI职位。",
-      "transmissionChain": "Meta裁员节省成本约50亿美元/年，资金投向AI基础设施（Llama模型、元宇宙AI）。裁员冲击技术人员信心，但利好AI工具（如Cursor）提高开发效率。对广告商而言，Meta AI工具（Advantage+）可能提升广告ROI，吸引预算从Google转移。",
-      "chinaMarketMapping": "对中国科技公司（字节跳动、腾讯）而言，Meta的AI优先战略表明需加大AI投入，否则面临竞争落后。A股AI概念短期受情绪压制，但长期看中国AI人才可能回流，利好国内AI大厂。注意Meta裁员对代工（富士康）影响不大。"
-    },
-    "publishedAt": "2026-05-20T06:37:05Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "AI大神Karpathy加入Anthropic，押注‘AI帮AI做研究’",
-    "source": "Yahoo Entertainment",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cbdad23a-3e59-4524-95a3-18afdb6b0fb6",
-    "category": "AI_MODEL",
-    "summary": [
-      "OpenAI联合创始人Andrej Karpathy加入Anthropic预训练团队",
-      "将组建Claude自我加速预训练团队，推动‘AI帮AI做研究’"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Karpathy在5月19日宣布加入Anthropic的预训练团队，将组建新团队专注于Claude模型的自我加速预训练，目标是让AI辅助AI研究，提升训练效率。他此前在OpenAI和Tesla任职。",
-      "transmissionChain": "Karpathy的加盟可能加速Anthropic在预训练效率上的突破，降低对英伟达GPU的依赖。人才从OpenAI流向竞争对手，削弱OpenAI领先地位。Anthropic估值提升，有利于其融资或上市。对英伟达而言，更高效的训练算法可能减少GPU需求，长期利空。",
-      "chinaMarketMapping": "中国AI大模型公司（百度、阿里）正面对人才流失风险（国内顶尖AI科学家被海外挖角），需加强人才激励。但消息也鼓励中国发展自主训练框架，减少对国外模型依赖。A股中，寒武纪等AI芯片企业长期受益于中国算力生态建设。"
-    },
-    "publishedAt": "2026-05-20T06:31:41Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "中国海关拒绝英伟达RTX 5090 D v2显卡入口通行证",
-    "source": "Unwire.hk",
-    "url": "https://unwire.hk/2026/05/20/china-bans-nvidia-rtx-5090-d-v2-import/wireless-home/desktop-pc/",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "英伟达专为中国设计的RTX 5090 D v2被中国海关禁令拦截",
-      "禁令毫无先兆，英伟达措手不及"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达为遵守美国出口管制而设计的降级版RTX 5090 D v2显卡，在进入中国市场时被中国海关拒绝放行。这不是美国禁令，而是中国海关自主行动，可能为反制美国技术封锁。",
-      "transmissionChain": "禁令直接打击英伟达在中国消费级GPU市场的收入，利好本土显卡厂商（景嘉微、摩尔线程）。数据中心GPU（H20等）同样面临风险。中国游戏玩家转向AMD或国产显卡，渠道商库存受损。",
-      "chinaMarketMapping": "对中国来说，这是自主可控的又一次胜利，但短期游戏玩家和AI爱好者面临高端显卡短缺。A股景嘉微等GPU概念短期有资金炒作，但需警惕若中美贸易战升级，更多芯片被禁，国产替代必须加速但没有先进制程下难度很大。"
-    },
-    "publishedAt": "2026-05-20T06:31:12Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "英伟达豪掷900亿美元布局AI生态系，以投资‘固桩’客户与供应链",
-    "source": "Technews.tw",
-    "url": "https://finance.technews.tw/2026/05/20/nvidias-jensen-huang-bankrolls-ai-boom-with-90bn-deal-spree/",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达投资约900亿美元，覆盖云、光通讯、数据中心等",
-      "意图将客户与初创牢固绑定在自身生态"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达在近期完成约900亿美元的交易，投资范围包括云服务（CoreWeave）、光通讯（Coherent）、数据中心（Equinix）等。其战略是不仅卖芯片，还通过股权投资锁定客户和供应链，巩固AI生态霸权。",
-      "transmissionChain": "英伟达的投资将强化其AI工厂全栈能力，影响下游竞争格局。被投资公司（如CoreWeave）将优先采用英伟达产品，排挤AMD。光通讯公司（Coherent）增加产能，利好上游材料。对AWS、谷歌等自研芯片客户施加压力，促使他们更快推出替代方案。",
-      "chinaMarketMapping": "英伟达生态扩张对中国AI产业形成技术封锁风险。中国企业（华为、中科曙光）必须加速昇腾、算力基建。A股光通讯（中际旭创、新易盛）受益于全球数通需求，但需警惕如果英伟达投资供应商后，中国公司可能被排除在高端供应链外。"
-    },
-    "publishedAt": "2026-05-20T06:20:13Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "习近平呼吁中东全面停火，建立更公正的全球规则体系",
-    "source": "The Irish Times",
-    "url": "https://www.irishtimes.com/world/asia-pacific/2026/05/20/xi-calls-for-comprehensive-middle-east-ceasefire-and-more-just-global-rules-system/",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "习近平在与普京会谈时呼吁中东全面停火",
-      "同时倡导建立更公正的全球规则体系"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "中国国家主席习近平在北京与俄罗斯总统普京进行会晤，公开呼吁中东冲突各方实现全面停火，并倡导改革全球治理体系，使其更加公正。这是在特朗普离开中国后、普京立即访华的背景下进行的。",
-      "transmissionChain": "中俄元首会晤强化两国战略协作，可能推动‘去美元化’和本币结算，削弱美元地位。中东停火呼吁若被采纳，将缓解油价风险，利好航空、航运业。但若谈判失败，可能引发新一轮制裁，影响全球能源供应。",
-      "chinaMarketMapping": "对中国股市而言，地缘缓和利好一带一路板块（中国交建、中国铁建）和人民币资产。但若中美关系因中俄靠近而紧张，出口企业面临关税风险。人民币国际化概念（跨境支付CIPS）短期有催化。"
-    },
-    "publishedAt": "2026-05-20T06:10:45Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "白宫宣布即将出台比特币储备计划，官员称扫清法律障碍",
-    "source": "Naturalnews.com",
-    "url": "https://www.naturalnews.com/2026-05-20-white-house-announces-imminent-bitcoin-reserve-plan.html",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "白宫数字资产顾问委员会执行主任透露美国战略比特币储备(SBR)即将正式宣布",
-      "法律障碍已清除"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "白宫官员Patrick Witt声称美国战略比特币储备计划即将宣布，法律障碍已清除。但来源Naturalnews.com以阴谋论报道知名，可信度存疑。",
-      "transmissionChain": "若消息属实，将极大提振比特币价格（可能突破10万美元），带动加密矿企（MARA、RIOT）和Coinbase。美元稳定币需求增加，非美元货币承压。但若为假新闻，比特币将回调。",
-      "chinaMarketMapping": "中国禁止加密货币交易，但中美资产联动下比特币大涨可能刺激A股区块链概念（四方精创、易见股份）短炒。实际上，中国政府可能加速数字人民币推进以对抗美元加密霸权。"
-    },
-    "publishedAt": "2026-05-20T06:00:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "欧洲电动车销量因石油冲击而飙升",
-    "source": "OilPrice.com",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-EV-Sales-Surge-as-Oil-Shock-Hits-Drivers.html",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "4月欧洲EV销量同比增34%",
-      "中东石油中断推高零售油价，加速电动化转型"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "据路透社报道，欧洲4月电动车销量同比暴涨34%，直接原因是中东冲突导致的石油出口中断推动零售油价高涨。油价冲击使得燃油车使用成本大幅上升，消费者转向电动化。同时，欧洲各国充电基础设施加速建设，补贴政策维持，共同推动EV渗透率提升。",
-      "transmissionChain": "上游：锂、镍、钴等电池原材料需求增加→中游：电池制造商（宁德时代、LG化学）订单增长，车企（大众、Stellantis）加速电动化→下游：充电桩运营商（ChargePoint、ABB）受益。石油价格维持高位的时间越长，电动化转型越快，中长期将抑制石油需求。",
-      "chinaMarketMapping": "直接利好：国内动力电池龙头企业（宁德时代、比亚迪），因为欧洲车企依赖中国电池供应。整车出口方面，上汽集团、比亚迪在欧销量有望增长。但需关注欧盟是否加征反补贴关税，若Stellantis与东风合资模式成功，将为中国车企提供出海范本。对A股充电桩产业链（特锐德、科士达）也有带动。"
-    },
-    "publishedAt": "2026-05-20T05:49:50Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T05:53:59.705Z"
-  },
-  {
-    "title": "历史性发行：SpaceX准备进行里程碑式IPO，投资者期望巨大",
-    "source": "Economictimes.com",
-    "url": "https://m.economictimes.com/markets/us-stocks/news/historic-launch-spacex-prepares-for-landmark-ipo-amid-massive-investor-expectations/elon-musk-targets-the-largest-ipo-in-history/slideshow/131218395.cms",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "SpaceX估值近1.75万亿美元，可能成史上最大IPO",
-      "公司计划6月12日上市，随后收购Cursor"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "SpaceX预计于6月12日进行IPO，估值高达1.75万亿美元，将成为史上最大IPO。此外，公司计划上市后30天内以100亿美元分手费收购AI编程公司Cursor。这是马斯克商业版图从航天延伸至AI的关键一步，也将xAI、Starlink等业务协同整合。",
-      "transmissionChain": "上游：航天供应链（零部件、材料）受益于增产需求→中游：SpaceX获得庞大资金用于星舰与星链扩张→下游：Cursor整合后，AI编程能力用于火箭设计软件，提升效率。收购Cursor还将加剧AI编程工具竞争，威胁GitHub Copilot。",
-      "chinaMarketMapping": "对A股：利好航天军工板块（航天电子、中航光电），SpaceX的商业模式可映射中国商业航天公司（银河航天、蓝箭航空，但未上市）。对港股：相关概念股（中国卫星）可能受情绪驱动。Cursor收购落地后，中国AI编程公司（如百度的文心快码）需加速迭代。"
-    },
-    "publishedAt": "2026-05-20T05:41:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T05:53:59.705Z"
-  },
-  {
-    "title": "谷歌I/O大会发布Gemini 3.5 Flash、通用购物车等多项AI更新",
-    "source": "Cool3c.com",
-    "url": "https://www.cool3c.com/article/248713",
-    "category": "AI_MODEL",
-    "summary": [
-      "Gemini 3.5 Flash模型速度提升4倍，支持代理能力",
-      "推出Universal Cart通用购物车与Gemini for Science"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "谷歌在年度I/O大会上发布了一系列重大AI更新：Gemini 3.5 Flash模型（推理速度提升4倍，专为智能体设计）、Gemini Omni（多模态视频创作）、Universal Cart（跨平台AI购物车）、以及Gemini for Science科研工具。同时宣布与黑石合资成立TPU云公司，黑石出资50亿美元。这表明谷歌正从搜索公司全面转型为AI-first平台，并试图通过TPU云挑战英伟达的算力垄断。",
-      "transmissionChain": "上游：TPU云若成功将分流部分英伟达GPU需求，利好AMD和ASIC设计公司（博通、Marvell）。中游：AI购物车与搜索增强将促进电商和广告业（Shopify、亚马逊），Gemini for Science利好生物技术和材料科学。下游：AI代理能力普及将提升企业软件效率，微软和Salesforce等对手需跟进。",
-      "chinaMarketMapping": "对A股：利好AI应用层（科大讯飞、三六零）与云基础设施（浪潮信息、中际旭创）。谷歌与黑石的TPU云合资可能加速中国互联网巨头（阿里、腾讯）自研AI芯片部署，但对英伟达依赖度高的企业存在影响。同时，Google Universal Cart概念将刺激中国电商AI化（拼多多、京东），但中国搜索市场谷歌份额极小，影响有限。"
-    },
-    "publishedAt": "2026-05-20T05:33:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T05:53:59.705Z"
   }
 ]
