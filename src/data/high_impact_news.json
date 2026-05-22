@@ -1,5 +1,100 @@
 [
   {
+    "title": "川普关税退稅炸弹逼近，1490亿美元财政缺口考验白宫新战术",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/trump-tariff-refund-149b-000000574.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "川普批评最高法院关税裁决，可能需退还1490亿美元关税",
+      "白宫不愿放弃关税作为财政工具",
+      "市场担忧财政混乱与政策不确定性"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "最高法院裁定川普加征关税超越总统权限，白宫面临巨额退款压力，关税作为财政收入工具受重创。",
+      "transmissionChain": "短期利好进口商（零售、汽车零部件），利空出口导向型国家（中国、欧盟）。若退款落实，美国财政赤字扩大，可能推高国债收益率，压抑股市估值。",
+      "chinaMarketMapping": "对A股偏正面：若关税退还美国企业，中国出口商被加征的关税可能部分取消？不确定。但消息本身加剧中美贸易政策不确定性，国产替代逻辑持续强化。"
+    },
+    "publishedAt": "2026-05-21T15:56:01Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T16:08:22.771Z"
+  },
+  {
+    "title": "Anthropic传洽谈租用微软自研AI伺服器晶片Maia",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/anthropic-microsoft-maia-chip-000000574.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "Anthropic正与微软洽谈租用其Maia AI芯片",
+      "目的是降低对英伟达芯片的依赖",
+      "谈判仍早期，不一定达成协议"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Anthropic寻求算力多元化，微软自研芯片Maia取得突破，若成功将改写AI芯片竞争格局。",
+      "transmissionChain": "利好微软（自研芯片商业化）、利空英伟达（客户流失风险）、利好AMD（若Anthropic转而采用AMD MI系列）；对台积电偏中性，因为芯片仍可能由台积电代工。",
+      "chinaMarketMapping": "强化国内自研GPU逻辑，尤其阿里巴巴平头哥、华为昇腾等。腾讯、百度等也会加速自研。A股芯片设计公司（芯原股份、国芯科技）获得概念催化，但实际影响有限。"
+    },
+    "publishedAt": "2026-05-21T15:35:42Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T16:08:22.771Z"
+  },
+  {
+    "title": "南亚科出货辉达快达阵，低功耗产品传在台积亚利桑那厂验证",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/nanya-nvidia-lpddr5-tsmc-000000574.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "南亚科LPDDR5X在台积电美国厂验证",
+      "将用于英伟达Vera Rubin平台",
+      "台湾记忆体厂首度打入英伟达AI服务器主记忆体"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "南亚科产品进入英伟达验证流程，若成功将打破三星/ SK海力士在AI存储的垄断。",
+      "transmissionChain": "利好南亚科（营收与毛利提升）、利空三星与SK海力士（竞争加剧）；对台积电中性（封装服务增加），利好台湾半导体整体被认可。",
+      "chinaMarketMapping": "A股存储概念有所带动（兆易创新），但南亚科为台股，映射效应有限。国产替代情绪暂时得不到直接提振，因为南亚科是境外企业。"
+    },
+    "publishedAt": "2026-05-21T14:43:39Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T16:08:22.771Z"
+  },
+  {
+    "title": "黄仁勳：AI需求呈现抛物线式成长，Vera Rubin平台全年供不应求",
+    "source": "Yahoo Entertainment (via reporter)",
+    "url": "https://tw.stock.yahoo.com/news/黄仁勳AI需求抛物线成长-000000574.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达CEO表示AI需求正以抛物线式增长",
+      "代理AI时代到来是主要增长动力",
+      "下半年Vera Rubin平台在整个产品周期内都将供不应求"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "黄仁勳明确给出供给受限指引，表明英伟达产能根本无法满足当下需求，供应链确定性提升。",
+      "transmissionChain": "利好台积电（先进封装CoPoS产能满载）、SK海力士/三星（HBM与LPDDR5X）、散热（双鸿）、PCB（胜宏）等；利好所有与英伟达绑定的供应链厂商；但也暗示非英伟达阵营（AMD、谷歌TPU）份额可能被挤压。",
+      "chinaMarketMapping": "国内AI芯片替代逻辑强化，但短期算力缺口扩大，利好使用英伟达芯片的中概股公司？但受限于出口管制，中国客户无法买到Vera，需转向国产昇腾等，进一步刺激国产算力投资。A股AI芯片设计公司（寒武纪、景嘉微）迎情绪催化。"
+    },
+    "publishedAt": "2026-05-21T14:42:50Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T16:08:22.771Z"
+  },
+  {
+    "title": "SpaceX夺AI大单，与Anthropic签订三年450亿美元算力合作",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/spacex-ai-anthropic-45b-000000574.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "SpaceX与AI新创Anthropic签订三年450亿美元合作协议",
+      "SpaceX将提供AI运算算力",
+      "新一波AI服务器建置势在必行，台链鸿海、广达、纬创将迎订单"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "SpaceX将星链与地面数据中心用于AI推理，代表马斯克生态从发射转向云服务，合作金额很大但具体执行存在不确定性。",
+      "transmissionChain": "利好SpaceX IPO估值，利好Anthropic保持竞争力（算力保障）；对台系服务器代工厂（鸿海、广达）形成增量需求；利空英伟达？（若SpaceX采用自研或AMD芯片），但当前仍依赖英伟达。",
+      "chinaMarketMapping": "对A股影响间接：鸿海（工业富联）与中国大陆服务器代工链条，但合作主要面向美国；暗示AI算力租赁商业模式在中国也可复制，利好润泽科技、光环新网等数据中心运营商。"
+    },
+    "publishedAt": "2026-05-21T14:42:50Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T16:08:22.771Z"
+  },
+  {
     "title": "华硕旗下台智云5月29日登兴柜 瞄准企业AI代理商机",
     "source": "Yahoo Entertainment",
     "url": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E7%A2%A9%E3%80%8Cai%E7%AE%97%E5%8A%9B%E5%B0%8F%E9%87%91%E9%9B%9E%E3%80%8D%E5%8F%B0%E6%99%BA%E9%9B%B2529%E7%99%BB%E8%88%88%E6%AB%83-%E7%9E%84%E6%BA%96%E4%BC%81%E6%A5%AD%E3%80%8C%E9%BE%8D%E8%9D%A6%E3%80%8D%E5%95%86%E6%A9%9F-102833061.html",
@@ -108,6 +203,25 @@
     "addedAt": "2026-05-22T10:31:23.197Z"
   },
   {
+    "title": "AMD苏姿丰访台宣布百亿美元投资台湾先进封装",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/amd-100b-taiwan-investment-000000574.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "AMD宣布在台湾投资超过100亿美元",
+      "重点扩大扇出型先进封装产能",
+      "点名日月光、矽品、力成等合作伙伴"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "AMD此举是继英伟达后第二家重金押注台湾先进封装的芯片巨头，反映了AI芯片对先进封装的极度依赖。",
+      "transmissionChain": "直接利好日月光投控（全球封测龙头）及矽品、力成；利好设备/材料商（弘塑、家登）；对标英伟达的供应链地位，提升台湾半导体产业不可替代性；同时威胁英特尔代工市场份额。",
+      "chinaMarketMapping": "对A股先进封装概念（长电科技、通富微电）形成正向比价效应，但需注意中国本土封装产能仍落后；长期看AMD加大投资可能挤压国内企业获取先进封装服务的空间，但也可促进技术扩散。"
+    },
+    "publishedAt": "2026-05-21T10:20:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T16:08:22.771Z"
+  },
+  {
     "title": "台湾声押3名涉嫌非法出口高端AI服务器至中国大陆的嫌疑人",
     "source": "The Next Web",
     "url": "https://thenextweb.com/news/taiwan-detains-three-ai-server-smuggling-supermicro-china/",
@@ -214,6 +328,25 @@
     "publishedAt": "2026-05-21T05:44:40Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-22T05:50:02.685Z"
+  },
+  {
+    "title": "英伟达财报公布800亿美元回购并承认放弃中国AI芯片市场",
+    "source": "Crypto Briefing (via Yahoo)",
+    "url": "https://tw.stock.yahoo.com/news/nvidia-q1-816b-buyback-china-concession-000000574.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达Q1营收816亿美元超预期，数据中心收入年增92%",
+      "宣布800亿美元股票回购并提高股息",
+      "黄仁勳承认因美国出口管制，已基本放弃中国AI芯片市场，让给华为"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达财报显示AI需求仍强劲，但中国市场收入归零，盘后股价转跌。回购计划托底股价，但投资者更关注丧失中国市场份额的长期影响。",
+      "transmissionChain": "利好英伟达股东（回购），利空中国区收入预期；利好华为（填补空白）及阿里平头哥等国产替代；利空台美AI服务器出货若因管制收紧；间接利好台积电（订单集中）与SK海力士（HBM需求不变）。",
+      "chinaMarketMapping": "直接利空A股因依赖英伟达的AI算力租赁公司（如鸿博股份）短期承压；但强力利好华为昇腾产业链（拓维信息、神州数码）以及国产GPU公司（海光信息、寒武纪），国产替代逻辑加速兑现。投资者应关注华为生态合作伙伴与国产算力基础设施。"
+    },
+    "publishedAt": "2026-05-21T05:44:40Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-22T16:08:22.771Z"
   },
   {
     "title": "风能加太阳能 史上首次单月全球发电量超越天然气",
@@ -592,131 +725,5 @@
     "publishedAt": "2026-05-20T08:00:49Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-21T08:27:53.617Z"
-  },
-  {
-    "title": "简讯：马斯克输掉OpenAI诉讼，谷歌与黑石推出AI云合资公司",
-    "source": "ExchangeWire",
-    "url": "https://www.exchangewire.com/blog/2026/05/20/digest-musk-loses-openai-case-google-and-blackstone-launch-ai-cloud-venture/",
-    "category": "AI_MODEL",
-    "summary": [
-      "马斯克诉OpenAI案陪审团驳回，诉讼时效过期",
-      "谷歌与黑石宣布合资AI云公司，首期50亿美元"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "马斯克对OpenAI的诉讼被陪审团驳回，理由是超过诉讼时效。同日，谷歌与黑石宣布成立合资AI云公司，黑石持股多数，基于谷歌TPU提供算力即服务，首期50亿美元。",
-      "transmissionChain": "OpenAI诉讼被驳回消除了其IPO最大法律障碍，估值或超8000亿美元，利好其股东（微软）和员工期权。谷歌与黑石合资标志着TPU芯片商业化加速，挑战英伟达GPU云霸权。对AWS、Azure构成竞争压力，推动云算力成本下降。",
-      "chinaMarketMapping": "对A股，利好国产TPU替代概念（寒武纪、海光信息），以及华为昇腾生态。但谷歌与黑石合资可能加剧中美AI算力技术脱钩，中国需加快自主TPU研发。同时，OpenAI上市预期可能带动国内AI公司（月之暗面、智谱华章）估值提升。"
-    },
-    "publishedAt": "2026-05-20T08:00:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T08:27:53.617Z"
-  },
-  {
-    "title": "辉达16个月豪砸900亿美元，黄仁勋不只卖铲子更要重画AI权力版图",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%9416%E5%80%8B%E6%9C%88%E8%B1%AA%E7%A0%B8900%E5%84%84%E7%BE%8E%E5%85%83-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8D%E5%8F%AA%E8%B3%A3%E9%8F%9F%E5%AD%90%E6%9B%B4%E8%A6%81%E9%87%8D%E7%95%ABai%E6%AC%8A%E5%8A%9B%E7%89%88%E5%9C%96-075739197.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达16个月投资900亿美元覆盖145家AI公司",
-      "从芯片扩展到云、光通讯、数据中心，构建生态护城河"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达过去16个月通过投资与合作交易累计承诺约900亿美元，涉及145家公司，涵盖AI模型开发商、云服务商、芯片设计、基础设施供应链。这远超单一芯片业务，表明英伟达正从硬件供应商转变为AI产业资本整合者。",
-      "transmissionChain": "被投企业将优先使用英伟达芯片和软件，形成技术锁定效应。对云服务商（亚马逊、微软）构成威胁，因为英伟达同时是供应商和股东。对光通讯（Coherent）、散热（Vertiv）等基础设施企业形成需求拉动。同时，英伟达的投资可能引发反垄断审查。",
-      "chinaMarketMapping": "对A股，英伟达投资生态中的中国供应商（如中际旭创、工业富联）将获得更多订单。但英伟达生态的封闭性可能阻碍国产AI芯片（华为昇腾、阿里平头哥）的导入。中国需加速自主生态建设，否则面临被边缘化风险。"
-    },
-    "publishedAt": "2026-05-20T07:57:39Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T08:27:53.617Z"
-  },
-  {
-    "title": "辉达宣布新加坡设亚太第二座研究中心，AI机器人试验平台同步启动",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E5%AE%A3%E5%B8%83%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%A8%AD%E4%BA%9E%E5%A4%AA%E7%AC%AC%E4%BA%8C%E5%BA%A7%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83-ai%E6%A9%9F%E5%99%A8%E4%BA%BA%E8%A9%A6%E9%A9%97%E5%B9%B3%E5%8F%B0%E5%90%8C%E6%AD%A5%E5%95%9F%E5%8B%95-075056716.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达在新加坡设立亚太第二座研究中心",
-      "同步启动AI机器人试验平台，推动工业AI应用"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达宣布将在新加坡设立其在亚太地区的第二座研究中心，并同步启动AI机器人试验平台，专注于工业自动化和机器人技术。此举是英伟达全球研发网络扩张的重要一步。",
-      "transmissionChain": "新加坡研究中心将聚焦机器人AI算法和边缘计算，直接受益于东南亚制造业升级需求。英伟达将联合新加坡本地企业（如ST Engineering）开发解决方案。对全球机器人企业（ABB、发那科）形成技术输出，加速AI+机器人的商业化。",
-      "chinaMarketMapping": "对A股机器人概念（埃斯顿、汇川技术）形成竞争压力，但长期利好国产机器人AI芯片（寒武纪）的研发。英伟达在东南亚布局可能促使中国机器人企业加速出海，同时吸引更多国际AI人才流入新加坡。"
-    },
-    "publishedAt": "2026-05-20T07:50:56Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T08:27:53.617Z"
-  },
-  {
-    "title": "AI传奇Andrej Karpathy宣布加盟Anthropic！重返预训练第一线",
-    "source": "Techbang.com",
-    "url": "https://www.techbang.com/posts/129577-andrej-karpathy-joins-anthropic-pretraining",
-    "category": "AI_MODEL",
-    "summary": [
-      "AI传奇人物Karpathy加入Anthropic，专攻大模型预训练",
-      "表示将组建AI帮AI做研究的团队"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Andrej Karpathy（OpenAI联合创始人、前特斯拉AI总监）宣布正式加盟Anthropic，专注于大型语言模型的预训练核心研究，并计划组建“AI帮AI做研究”的自动预训练团队。",
-      "transmissionChain": "Karpathy的加入将极大提升Anthropic的预训练能力，可能推动Claude模型性能大幅跃进。加剧全球AI人才争夺，OpenAI和谷歌将被迫提高薪酬和算力资源。同时，强化了“AI自动化研究”趋势，可能加速通用人工智能（AGI）到来。",
-      "chinaMarketMapping": "对A股，利好中国AI预训练相关公司（科大讯飞、商汤科技），但面临人才流失风险。中国需加大基础研究投入，培养本土顶尖AI人才。Karpathy加盟Anthropic事件将刺激中国AI公司加大预训练投入，利好算力基础设施（中科曙光、浪潮信息）。"
-    },
-    "publishedAt": "2026-05-20T07:45:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T08:27:53.617Z"
-  },
-  {
-    "title": "Google全面扩张TPU版图，携Blackstone打造AI云端新公司",
-    "source": "Yahoo Entertainment",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d70141cd-30a8-4e3c-b419-9ac91c3674d5",
-    "category": "AI_MODEL",
-    "summary": [
-      "谷歌与黑石合资成立TPU云新公司，首期投资50亿美元",
-      "目标2027年达到500兆瓦容量，挑战英伟达"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Google I/O大会期间，谷歌宣布与资管巨头黑石合资成立TPU云公司，黑石出资50亿美元，谷歌提供TPU技术和运维能力。新公司旨在将谷歌TPU作为计算即服务大规模商业化，目标2027年容量达500兆瓦。",
-      "transmissionChain": "这将直接挑战英伟达在AI云算力市场的主导地位，迫使英伟达降价或加速推出新一代GPU。对云服务商（AWS、Azure）构成竞争压力，推动算力成本下降。同时，TPU生态的壮大将吸引更多AI模型厂商采用谷歌基础设施。",
-      "chinaMarketMapping": "对A股，利好国产TPU产业链（寒武纪、华为昇腾概念股），但谷歌TPU云可能抢占中国出海AI企业的算力市场。中国需加快自主TPU云服务（如华为云、阿里云）建设，避免在AI算力竞争中落后。"
-    },
-    "publishedAt": "2026-05-20T07:39:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T08:27:53.617Z"
-  },
-  {
-    "title": "台湾行政院通过2949亿国防特别预算，举债88亿支应",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E6%94%BF%E9%99%A2%E9%80%9A%E9%81%8E2949%E5%84%84%E5%9C%8B%E9%98%B2%E7%89%B9%E5%88%A5%E9%A0%90%E7%AE%97-%E8%88%89%E5%82%B588%E5%84%84%E6%94%AF%E6%87%89-064345661.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "行政院通过国防特别预算，总需求2949亿新台币",
-      "115年度先编列88亿元，用于对美军购"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "台湾行政院院会通过国防特别预算案，总经费2949亿9098万元，分八年编列，首期115年度88亿元，以举债支应。赖清德520演说也强调将持续发展无人机产业，建构不对称战力。",
-      "transmissionChain": "预算主要用于对美军购（F-16V、M1A2坦克、无人机），带动美国军工股（洛马、雷神）订单。台湾本土军工企业（雷虎科技、汉翔）获得转单机会。半导体及精密机械产业（台积电、鸿海）通过‘非红供应链’定位受益。但蓝白阵营后续审议可能再砍预算，增加不确定性。",
-      "chinaMarketMapping": "对中国国防板块形成对比刺激：A股军工板块（中航沈飞、中国动力）受益于‘加快建设世界一流军队’战略。若台海紧张升级，可能加速国产替代。但短期外资担忧地缘风险，沪深300承压。投资者可关注军民融合细分，如无人机（航天彩虹）、雷达（国睿科技）。"
-    },
-    "publishedAt": "2026-05-20T06:43:45Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
-  },
-  {
-    "title": "三星因薪资谈判破裂面临罢工",
-    "source": "Abcnews.com",
-    "url": "https://abcnews.com/Technology/wireStory/samsung-faces-strike-after-pay-talks-union-fall-133138591",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "三星电子管理层的最后一刻薪资谈判失败",
-      "三星工会宣布从5月21日起罢工18天，涉及4.7万名员工"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "三星电子与全国三星电子工会（NSEU）谈判破裂，工会宣布从5月21日起罢工18天，涉及4.7万名员工，是三星55年历史上首次大罢工。核心诉求是加薪7%与改善绩效奖金。",
-      "transmissionChain": "罢工直接影响三星内存（HBM与DDR5）、代工（Exynos与逻辑芯片）和消费电子（Galaxy手机）产能。HBM供应紧张将推升价格，利好SK海力士、美光。代工客户（高通、AMD）可能转移订单至台积电，冲击三星晶圆厂利用率。消费电子出货延迟，影响苹果、小米等客户。",
-      "chinaMarketMapping": "对中国存储国产替代有利：长江存储IPO、长鑫存储扩产加速，政府要求关键芯片自主可控。A股存储概念（兆易创新、北京君正）短期受益于涨价预期。但若罢工造成全球存储短缺，中国手机、服务器厂商采购成本上升，利润承压。三星西安工厂是否受波及需关注。"
-    },
-    "publishedAt": "2026-05-20T06:43:01Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T06:48:16.677Z"
   }
 ]
