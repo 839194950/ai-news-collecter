@@ -1,5 +1,119 @@
 [
   {
+    "title": "英伟达一季度净利飙升139% 四大云服务商持续扩大资本支出",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/輝達Q1淨利年增139-太狂-4大CSP續擴資本支出-這檔ETF-網打盡美股最強生力軍-060500578.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达Q1营收816亿美元超预期",
+      "数据中心收入年增92%",
+      "四大CSP资本支出持续扩大"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达2026财年Q1营收816亿美元，净利润年增139%，数据中心收入年增92%，同时宣布800亿美元回购并提高股息。黄仁勳指出AI需求呈抛物线式成长，Vera Rubin平台全年供不应求。但盘后股价转跌，因Q2指引910亿美元略低于部分买方预期，且公司承认放弃中国AI芯片市场。",
+      "transmissionChain": "英伟达的强劲业绩直接利好上游供应商（台积电先进制程、日月光封装、双鸿散热）以及HBM厂商（三星、SK海力士）。四大CSP资本支出持续扩大，推动AI服务器代工（工业富联、广达）订单增长。但保守指引暗示增长斜率可能放缓，叠加中国市场损失，长期EPS面临下调风险，可能导致AI板块估值短期承压。",
+      "chinaMarketMapping": "中国A股：英伟达放弃中国市场加速国产替代，华为昇腾系列与海光DCU直接受益，寒武纪、景嘉微等GPU公司迎来机遇。但中际旭创等光模块公司仍受益于全球数据中心建设。港股：联想集团（AI服务器）与ASMPT（封装设备）有联动。风险：台积电等台股可能受中美科技战升级影响。"
+    },
+    "publishedAt": "2026-05-24T06:05:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T06:10:54.640Z"
+  },
+  {
+    "title": "DeepSeek永久降低V4-Pro模型API价格75%",
+    "source": "Alltoc.com",
+    "url": "https://alltoc.com/tech/deepseek-v4-pro-api-prices-cut-75",
+    "category": "AI_MODEL",
+    "summary": [
+      "DeepSeek永久降价75%",
+      "输入每百万token 0.435美元",
+      "输出0.87美元"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "DeepSeek将其旗舰V4-Pro模型的API定价永久降低75%，从约1.74美元降至0.435美元/百万输入token，输出从3.48美元降至0.87美元。此举将此前限时优惠固化，旨在与OpenAI、Anthropic争夺开发者市场份额。DeepSeek在2025年曾凭借V3模型以低价策略崛起，此次降价进一步加剧中国大模型价格战。",
+      "transmissionChain": "降价直接压缩二线大模型厂商的利润空间，推动行业洗牌，利好下游应用层（AI代理、教育、医疗）成本降低。腾讯、百度等拥有强大现成流量的厂商可借机推广自家模型。同时，算力出租方（如百度的昆仑芯片、华为昇腾）需求有望增长，但盈利承压。对英伟达影响有限，因训练侧仍以GPU需求为主。",
+      "chinaMarketMapping": "中国A股：科大讯飞、商汤等AI应用厂受益于低成本模型调用，但本身模型业务可能受冲击。金山办公、万兴科技等AI+办公厂商直接利好，减少模型采购成本。腾讯控股（港股）的微信代理生态（openclaw-weixin）可能迎来爆发。风险：若模型同质化严重，应用厂难以建立壁垒，投资者需关注场景落地能力。"
+    },
+    "publishedAt": "2026-05-24T06:01:49Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T06:10:54.640Z"
+  },
+  {
+    "title": "白宫枪击事件：枪手被特勤局击毙 特朗普安全",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/白宮驚傳槍響-槍手遭特勤局擊斃-川普當時在官邸內平安無事-055950424.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "白宫发生枪击",
+      "枪手被击毙",
+      "特朗普安全"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "5月24日晚，美国白宫安全警戒区外一名男子开枪，随即被特勤局击毙。总统特朗普在白宫内安全，一名路人被流弹擦伤。事件迅速被控制，无组织袭击迹象。华盛顿警方已展开调查，作案动机不明。这是特朗普任内第二次白宫安全事件。",
+      "transmissionChain": "该事件短期提升市场对安全防御、枪支管控板块的关注，但政治影响更大：可能加剧美国社会撕裂，影响11月中期选举选情。对股市的直接影响有限，但若后续出现模仿袭击或证明组织性，将打压风险偏好，推动资金流向避险资产（黄金、美债）。特勤局设备采购需求可能利好监控安防企业（Axon Enterprises等）。",
+      "chinaMarketMapping": "中国A股：海康威视、大华股份等安防龙头可能因全球安全担忧获得出口订单，但须关注美国对中国安防设备的禁令。若中期选举后美国政府更迭，中美关系或出现变化，影响中国资产风险偏好。对港股：阅文等文化传媒受政治事件影响有限。总体风险可控，但对敏感期情绪有一定压制。"
+    },
+    "publishedAt": "2026-05-24T05:59:50Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T06:10:54.640Z"
+  },
+  {
+    "title": "比特币现货ETF净流出12.6亿美元 创三个月最大流出",
+    "source": "Bitcoinist",
+    "url": "https://bitcoinist.com/bitcoin-spot-etfs-1-26-billion-largest-outflows-3-m/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "比特币ETF净流出12.6亿美元",
+      "创三个月最大",
+      "加密市场承压"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "截至5月22日当周，美国13只比特币现货ETF净流出12.6亿美元，为自2月中旬以来最大单周流出。比特币价格在此期间显著下跌，叠加欧洲稳定币StablR被黑客攻击导致脱锚，市场恐慌加剧。美联储会议纪要暗示升息可能性也打压风险资产。",
+      "transmissionChain": "ETF流出直接削弱比特币短期需求，可能引发连锁抛售。加密矿业股（Marathon Digital、Riot Platforms）承压。稳定币脱锚事件（EUR和USD）进一步动摇投资者信心。但长期看，机构采用趋势未变，比特币减半效应仍在。对美股科技股的间接影响：加密市场动荡减少散户资金向AI股的溢出效应，但整体关联性弱。",
+      "chinaMarketMapping": "A股与港股直接关联很小，但加密概念股（如嘉楠科技、亿邦国际）间接受影响。中国政府对加密货币态度仍保守，但区块链技术应用（如数字人民币、NFT合规）不受影响。投资者需关注美联储加息预期变化，若升息概率下降，加密市场或反弹。风险：黑客攻击事件暴露DeFi安全性问题，可能引发监管收紧。"
+    },
+    "publishedAt": "2026-05-24T05:00:58Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T06:10:54.640Z"
+  },
+  {
+    "title": "黄仁勳盛赞AI代理是下一个ChatGPT 透露Vera Rubin量产量进度",
+    "source": "Cool3c.com",
+    "url": "https://www.cool3c.com/article/248826",
+    "category": "AI_MODEL",
+    "summary": [
+      "AI代理将是下一个ChatGPT",
+      "OpenClaw生态",
+      "Vera Rubin量产量将史上最大"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "黄仁勳在台北开发者大会表示AI代理将引爆下一波技术革命，比ChatGPT带来的影响更大。同时确认Vera Rubin芯片将在Q3量产，且将是英伟达史上最大规模产量。他此前曾表示AI需求呈抛物线式增长，此次进一步强调AI代理（Agent AI）的重要性，并展示OpenClaw平台。",
+      "transmissionChain": "AI代理概念催化软件应用层（如Salesforce、ServiceNow等客服自动化）及框架提供商（LangChain、LlamaIndex）。对硬件端，Vera Rubin量产提升对先进封装（台积电CoPoS）、HBM3e（三星、海力士）、散热（双鸿）、PCB（欣兴）的需求。台股供应链直接受益，A股工业富联、沪电股份间接受益。",
+      "chinaMarketMapping": "腾讯开源openclaw-weixin直接对接微信生态，成为中国AI代理最现实落地场景。A股：金山办公（WPS AI）、科大讯飞（语音助手）等AI应用厂率先受益。但需关注：中国AI代理生态依赖国产大模型（DeepSeek、通义千问），华为昇腾算力底座供应是否充足。港股：美团（配送代理）、美图（图像生成）等可能整合AI agent功能。"
+    },
+    "publishedAt": "2026-05-24T04:26:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T06:10:54.640Z"
+  },
+  {
+    "title": "华为研发全新DoB封装技术实现122TB SSD 绕过400层NAND限制",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/954/502.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "华为展示DoB封装SSD",
+      "61.44TB和122.88TB已量产",
+      "未来规划245TB版本"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "华为在巴黎IDI Forum 2026展示基于Die-on-Board（DoB）封装技术的大容量SSD，已量产61.44TB和122.88TB两款产品，245TB版本规划中。华为因被列入实体清单无法获取美国技术生产的3D NAND，转而使用长江存储的国产NAND芯片，通过创新封装集成实现容量突破。DoB技术将多颗NAND die直接封装在基板上，无需先进制程。",
+      "transmissionChain": "此技术直接冲击国内外存储厂商格局：对美光、三星、SK海力士构成长期竞争压力，但短期影响有限，因华为供应受限。国内存储产业链受益：长江存储获得订单，封装测试厂（长电科技、通富微电）获得DoB封装订单，设备厂商（北方华创、中微公司）有望获得封装设备升级需求。对于AI数据中心客户，国产高容量SSD可降低对海外存储依赖，促使国内云厂商（阿里云、华为云）优先采购。",
+      "chinaMarketMapping": "A股：长电科技（封装）、深科技（存储封测）、朗科科技（存储模组）直接受益；北方华创、中微公司（半导体设备）间接受益。但需注意：长江存储产能有限且良率待提升，华为SSD产量爬坡慢。港股：华虹半导体（代工）可能获得逻辑芯片订单。风险：若美国将DoB技术所需材料列入管制，可能影响量产。"
+    },
+    "publishedAt": "2026-05-24T03:46:28Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T06:10:54.640Z"
+  },
+  {
     "title": "川普关税退稅炸弹逼近，1490亿美元财政缺口考验白宫新战术",
     "source": "Yahoo Entertainment",
     "url": "https://tw.stock.yahoo.com/news/trump-tariff-refund-149b-000000574.html",
@@ -617,113 +731,5 @@
     "publishedAt": "2026-05-20T16:01:53Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "伊朗谈判进展推升欧元，美元指数受压下跌",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E8%88%87%E7%BE%8E%E5%9C%8B%E8%AB%87%E5%88%A4%E9%80%B2%E5%B1%95%E6%8E%A8%E5%8D%87%E6%AD%90%E5%85%83%E8%B5%B0%E5%8B%A2-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%8F%97%E5%A3%93%E4%B8%8B%E8%B7%8C-000139322.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "川普称美伊谈判进入最终阶段",
-      "国际油价应声下跌逾5%，美元指数跌破99"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国总统川普表示美伊核谈判已进入最终阶段，战争可能迅速结束。受此影响，WTI原油暴跌5.7%至98.26美元，美元指数下跌0.24%至99.09，欧元兑美元升至1.1624。两艘驶往中国的超级油轮通过霍尔木兹海峡，暗示供应恢复。",
-      "transmissionChain": "油价下跌直接利好航空、化工、物流等用油行业，降低各国通胀压力。美元走弱支撑新兴市场资产与风险偏好。欧洲央行降息预期回升（因能源成本下降）。同时减少地缘风险溢价，黄金等避险资产回落。但若谈判破裂，油价可能报复性反弹。",
-      "chinaMarketMapping": "对A股/港股：油价下跌降低中国进口成本，利好航空公司（中国国航、南方航空）与石化企业（中国石化）。但中国已提前采购高价原油，短期库存损失可能拖累业绩。美元走弱有利于人民币汇率稳定，外资流入A股概率增加。长期看，若中东局势缓和，中国一带一路战略获支撑。"
-    },
-    "publishedAt": "2026-05-20T16:01:39Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "美联储鹰声大作，4月会议纪要显示升息选项重回桌面",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/fed%E9%B7%B9%E8%81%B2%E5%A4%A7%E4%BD%9C%E9%99%8D%E6%81%AF%E5%8A%87%E6%9C%AC%E6%80%A5%E8%BD%89%E5%BD%8E-4%E6%9C%88%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84%E6%8F%AD%E5%8D%87%E6%81%AF%E9%81%B8%E9%A0%85%E9%87%8D%E5%9B%9E%E6%A1%8C%E9%9D%A2-235627248.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "4月会议纪要显示多数官员认为升息可能合适",
-      "政策讨论已从降息转向收紧，加息概率攀升"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美联储公布4月28-29日会议纪要，多数与会者表示若通胀持续高于2%，某种程度的政策收紧可能变得合适；许多官员提议移除宽松措辞。这是本轮周期首次明确讨论加息，CME FedWatch显示12月加息概率升至54%。鲍威尔最后一次主持会议后，继任者Warsh面临通胀高墙。",
-      "transmissionChain": "加息预期直接打压科技股与加密货币估值，推高美债收益率，美元指数短期走强。银行股受益于净息差扩大，抵押贷款利率上升抑制地产。同时新兴市场面临资本外流压力，尤其是高外债国家（阿根廷、土耳其）。AI基建融资成本增加，但企业盈利强劲可能部分抵消。",
-      "chinaMarketMapping": "对A股/港股：人民币贬值压力加大（美元兑人民币在6.80附近），外资流出A股（北向资金近日净卖出）。中国央行可能降准或降息对冲，流动性宽松对A股支撑。港股受流动性冲击更大（恒生科技指数可能回调）。但中国通胀低，政策自主性强，A股结构性机会仍在。"
-    },
-    "publishedAt": "2026-05-20T15:56:27Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "英伟达财报亮眼但中国因素与保守指引致盘后转跌",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E4%BA%AE%E7%9C%BC-%E4%B8%AD%E5%9C%8B%E5%9B%A0%E7%B4%A0-%E8%B2%A1%E6%B8%AC%E4%BF%9D%E5%AE%88%E7%9B%A4%E5%BE%8C%E8%BD%89%E8%B7%8C-233444557.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达Q1营收816.2亿美元超预期，Q2指引910亿美元",
-      "盘后股价转跌因中国市场不确定性及保守财报"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达披露Q1营收816.2亿美元（同比+85%），净利润约380亿美元，Q2指引910亿美元。但股价盘后下跌，主因：1）中国海关拒绝RTX 5090 D v2，对华销售前景恶化；2）毛利率略低于预期；3）市场预期过高。财报电话会强调AI需求仍强劲但出口管制风险。",
-      "transmissionChain": "财报直接验证AI军备竞赛，利好英伟达供应链（台积电、光模块、服务器），但股价反应显示市场已将高估值定价。中国禁令将加速国产替代（华为昇腾、百度昆仑），可能令英伟达在中国份额从80%降至50%。长期看，自研芯片（谷歌TPU、AMD）追赶增加竞争风险。",
-      "chinaMarketMapping": "对A股/港股：英伟达中国收入预期下调，但国产AI芯片替代逻辑加强，利好华为昇腾产业链（拓维信息、神州数码）。同时，中国互联网公司可能增加对国产芯片采购，算力租赁（中科曙光）模式受益。投资者需警惕英伟达股价回调拖累A股AI概念。"
-    },
-    "publishedAt": "2026-05-20T15:34:44Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "赣锋锂业固态电池循环寿命突破1100次",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/953/082.htm",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "400Wh/kg电池循环寿命突破1100次",
-      "500Wh/kg级10Ah产品小批量量产"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "赣锋锂业公告，其400Wh/kg固态电池循环寿命已突破1100次并完成工程验证，500Wh/kg级10Ah产品已小批量量产。公司同时推进硅碳与锂金属负极双路线，320-480Wh/kg梯度产品布局。这是中国固态电池产业化的重大突破。",
-      "transmissionChain": "直接提升赣锋锂动力电池业务估值，可望进入主流车企供应链。与宁德时代、比亚迪展开差异化竞争。4680大圆柱与固态电池形成互补，锂资源需求增加。利好上游锂矿（赣锋自身）、设备商（先导智能、利元亨）及电解液（天赐材料）。",
-      "chinaMarketMapping": "对A股/港股：提振锂电板块信心，细分领域如高镍正极（华友钴业）、锂箔（诺德股份）受益。但需注意技术兑现节奏，行业产能过剩仍可能压制盈利。对固态电池主题炒作有利好，但真正业绩贡献需2027年后。"
-    },
-    "publishedAt": "2026-05-20T15:01:58Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "阿里巴巴发布玄铁M890，中国英伟达替代战略加速",
-    "source": "The Next Web",
-    "url": "https://thenextweb.com/news/alibaba-zhenwu-m890-t-head-china-ai-chip-nvidia/",
-    "category": "AI_MODEL",
-    "summary": [
-      "阿里平头哥发布玄铁M890 GPU，已大规模量产",
-      "该芯片对标英伟达，在美国出口管制背景下填补国内AI训练与推理市场"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "阿里巴巴旗下芯片公司平头哥正式发布玄铁M890 GPU，定位AI训练与推理，并宣布已进入规模化量产阶段。这意味着中国在高端AI芯片领域取得实质突破，直接挑战英伟达的垄断地位。该芯片设计完全基于国内IP，规避了美国出口管制。",
-      "transmissionChain": "玄铁M890量产将率先拉动阿里云内部部署，降低对英伟达GPU的依赖。进而影响国内AI服务器厂商（浪潮、中科曙光）的采购选择，同时刺激国产EDA工具、先进封装（长电科技）需求。对英伟达而言，将失去部分中国市场份额，倒逼其推出更合规的阉割版芯片。",
-      "chinaMarketMapping": "对于A股，直接利好国产GPU概念股（寒武纪、海光信息、景嘉微），以及芯片IP授权商（芯原股份）。阿里云供应链上的光模块（中际旭创）、服务器（工业富联）也将受益。但需警惕美国可能进一步扩大出口管制，限制用于玄铁M890的制造设备。"
-    },
-    "publishedAt": "2026-05-20T08:23:17Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T08:27:53.617Z"
-  },
-  {
-    "title": "SpaceX在创纪录IPO一个月后收购Cursor",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260520VL220/spacex-ipo-acquisition-xai-revenue.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "SpaceX计划以600亿美元收购AI编码工具Cursor",
-      "6月12日IPO后30天完成收购，强化xAI能力"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "SpaceX宣布在创纪录IPO（估值1.75万亿美元）一个月后，以600亿美元收购Cursor（AI编码工具），将该工具整合进xAI（其Grok模型团队）。这标志着太空公司向AI软件领域的大规模扩张。",
-      "transmissionChain": "收购Cursor将提升SpaceX内部软件开发效率，并可能推出太空专用AI编码服务。对xAI的Grok模型形成数据与算法补强。影响AI编码工具市场（GitHub Copilot、Replit），加剧竞争。同时，SpaceX IPO将吸引资金流入太空经济与AI板块。",
-      "chinaMarketMapping": "对A股，利好航天概念（航天电子、中国卫星）和AI编程辅助（金山办公、用友网络）。但中国AI编码工具（如阿里通义灵码）需加快迭代以应对竞争。SpaceX IPO可能拉高全球科技股估值溢价，间接利好A股科创板。"
-    },
-    "publishedAt": "2026-05-20T08:00:49Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T08:27:53.617Z"
   }
 ]
