@@ -1,5 +1,138 @@
 [
   {
+    "title": "扇出型面板级封装（FOPLP）成为AI芯片封装新焦点",
+    "source": "雅虎财经",
+    "url": "https://tw.stock.yahoo.com/news/群创股价50元有机会-报告一次看-160500954.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "力成获AMD支持，目标2027年量产",
+      "群创利用G3.5玻璃基板切入低轨卫星",
+      "东捷提供激光切割与AOI一站式服务"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "FOPLP技术利用矩形面板级基板代替圆形晶圆，提高产能利用率并降低成本，成为CoWoS后AI芯片封装的新方向。力成（6239）获得AMD背书并计划2027年量产，群创（3481）利用G3.5玻璃基板实现异质整合并打入低轨卫星供应链，设备商东捷（8064）提供全套解决方案。该技术将降低AI芯片封装成本并满足散热需求。",
+      "transmissionChain": "FOPLP降低AI芯片封装成本约20-30%，利好GPU、CPU和ASIC设计厂商（英伟达、AMD、博通）。玻璃基板供应商（群创、友达）开辟新增长点。设备端（东捷、激光设备商）订单增长。传统封测厂（日月光、力成）面临技术迭代机遇与挑战。低轨卫星通信（SpaceX Starlink）需求为FOPLP提供额外应用。",
+      "chinaMarketMapping": "中国封测企业（长电科技、通富微电）正积极布局FOPLP技术，与国内面板厂商（京东方、TCL华星）合作开发玻璃基板。设备环节（大族激光、德龙激光）受益于国产替代。此外，FOPLP与低轨卫星结合为A股华力创通、盟升电子等卫星通信标的提供想象空间。"
+    },
+    "publishedAt": "2026-05-24T16:05:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T16:11:40.906Z"
+  },
+  {
+    "title": "黄仁勳提前来台拜访张忠谋，为COMPUTEX暖身",
+    "source": "雅虎财经",
+    "url": "https://tw.stock.yahoo.com/news/巨头酒叙3小时-提威士忌作客-黄仁勳笑赞-张忠谋状态很好-154302133.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "黄仁勳携全家拜访台积电创始人张忠谋",
+      "餐叙近3小时，预计COMPUTEX发布重大消息",
+      "黄仁勳之后逛饶河夜市，市场关注AI供应链行情"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达CEO黄仁勳提前抵台，携带威士忌拜访台积电创始人张忠谋及其夫人张淑芬，餐叙近3小时。这是黄仁勳每年COMPUTEX前的惯例行程，旨在巩固与关键伙伴的关系。随后他现身饶河夜市，引发市场对COMPUTEX主题演讲（6月1日）的期待，预计将披露Vera Rubin平台细节及AI Agent战略。",
+      "transmissionChain": "黄仁勳与张忠谋会面传递台积电-英伟达合作关系稳定的信号，利好台积电供应链。COMPUTEX演讲预期将带动AI芯片、散热、PCB、先进封装等板块上涨。夜市行程被媒体大量报道，提升台湾AI概念股散户投资情绪。此外，黄仁勳此前透露Vera Rubin全年供不应求，预示订单能见度高。",
+      "chinaMarketMapping": "A股英伟达供应链标的（工业富联、沪电股份、胜宏科技）受益于COMPUTEX行情。但黄仁勳承认放弃中国AI芯片市场，英伟达在中国销售受限，利好华为昇腾生态链（四川长虹、华鲲振宇）。中国AI算力租赁概念（鸿博股份、中贝通信）获催化。"
+    },
+    "publishedAt": "2026-05-24T15:43:02Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T16:11:40.906Z"
+  },
+  {
+    "title": "英伟达剑指最大CPU供应商，年营收有望近200亿美元",
+    "source": "雅虎财经",
+    "url": "https://tw.stock.yahoo.com/news/辉达拚成-最大cpu供应商-年营收有望近200亿美元-153111805.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达CEO放话成为最大CPU供应商",
+      "CPU年营收有望达200亿美元",
+      "Arm架构CPU Grace在数据中心快速渗透"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达CEO在台北表示，公司计划成为全球最大CPU供应商，其Grace CPU是基于Arm架构的数据中心处理器，2025年营收已突破80亿美元，预计2026年接近200亿美元。英伟达凭借GPU+CPU超级芯片（Grace Hopper）捆绑销售策略，在AI服务器市场占据主导，挤压英特尔和AMD份额。",
+      "transmissionChain": "英伟达CPU崛起将直接威胁英特尔（数据中心业务）和AMD（EPYC）的市场地位。代工厂台积电受益于Grace订单增加，Arm生态进一步壮大。但由于英伟达GPU的垄断地位，客户可能担忧锁定效应，转向AMD或自研芯片。此外，AMD的CPU+GPU组合仍具竞争力。",
+      "chinaMarketMapping": "英伟达CPU无法出口到中国，利好华为鲲鹏CPU（基于Arm）和飞腾等国产CPU发展。中国服务器厂商（中科曙光、浪潮信息）面临两难：高端客户倾向英伟达方案但受出口限制，国产CPU性能尚有差距。长期看，中国CPU自主化进程加速，A股相关标的（海光信息、龙芯中科）受益。"
+    },
+    "publishedAt": "2026-05-24T15:31:11Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T16:11:40.906Z"
+  },
+  {
+    "title": "美联储沃勒称降息言论‘疯狂’，开放升息选项",
+    "source": "雅虎财经",
+    "url": "https://tw.stock.yahoo.com/news/沃勒鹰声震撼市场，直斥降息论荒谬，华许上任首战恐转向升息防线-232235166.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "沃勒主张从政策声明中移除'宽松倾向'措辞",
+      "指出中東衝突已擴散至食品、服飾價格",
+      "估計Fed需額外加息0.5-1%才足以壓制通膨"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美联储理事沃勒发表惊人鹰派言论，明确反对近期任何降息的可能，并主张从FOMC政策声明中删除带有降息暗示的'宽松倾向'表述。他估算中東衝突已將整體通膨推高約0.5個百分點，並開始滲透至核心服務領域，因此Fed可能需要額外升息0.5-1%才能確保物價穩定。这一表态与市场此前定价的降息预期形成强烈反差。",
+      "transmissionChain": "沃勒言论直接触发美元指数跳升至99.24，美债收益率曲线陡化，2年期收益率升8bp至4.95%。利率期货市场将年内降息概率从55%骤降至30%，升息概率升至35%。美股科技板块首当其冲（英伟达当日跌1.9%），高估值成长股面临估值压缩。银行股受益于利差扩大反弹。黄金因实际利率上行承压但跌幅有限。",
+      "chinaMarketMapping": "美联储转鹰将导致人民币贬值压力加大（美元兑人民币可能重测6.85），压制北向资金流入A股。但中国央行可借机实施更宽松货币政策（降准降息），利好国内利率敏感行业（地产、基建）。科技股（尤其半导体）估值承压，但国产替代逻辑对冲。关注外贸企业汇兑收益弹性。"
+    },
+    "publishedAt": "2026-05-24T15:22:35Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T16:11:40.906Z"
+  },
+  {
+    "title": "川普称不急于签伊朗协议，持续封锁霍尔木兹海峡",
+    "source": "雅虎财经",
+    "url": "https://tw.news.yahoo.com/川普称不急於签署伊朗协议-美军持续封锁荷姆兹海峡-151525324.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "川普指示代表不用急于与伊朗达成协议",
+      "美军维持对霍尔木兹海峡的封锁",
+      "油价电子盘早段跌近5%后反弹"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国总统川普表示已指示代表不需要急于与伊朗签署协议，打破市场对近期和平突破的预期。他强调在签署协议前，美军对霍尔木兹海峡的封锁将继续。这一表态导致油价早段急跌近5%（因部分多头押注和平协议）后反弹，最终收平。伊朗最高领袖顾问则强硬回应：管理海峡是德黑兰合法权利。",
+      "transmissionChain": "地缘风险持续支撑油价在95-100美元区间，航运股（达飞海运一季度利润暴跌78%）承压。贵金属因避险需求维持强势。航空股因燃油成本担忧下跌。此外，海峡封锁影响全球原油供应约20%，若长期化将推高通胀，强化美联储鹰派立场。欧洲与亚洲能源进口国（日本、韩国）面临更大压力。",
+      "chinaMarketMapping": "中国作为最大原油进口国，高油价增加输入性通胀压力，压制企业利润。但中国通过加大俄罗斯、委内瑞拉原油采购对冲部分影响。A股油气开采（中国海油、中石油）受益，炼化（恒力石化）成本承压。新能源替代逻辑加速，光伏、电动车长期受益。地缘不确定性提升人民币避险需求。"
+    },
+    "publishedAt": "2026-05-24T15:15:25Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T16:11:40.906Z"
+  },
+  {
+    "title": "美国5月消费者信心指数44.8，创1952年以来最低",
+    "source": "密西根大学/雅虎财经",
+    "url": "https://tw.stock.yahoo.com/news/美国密西根大学5月消费者信心指数终值降至44-8-创74年新低-231042957.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "消费者信心指数终值44.8，远低于预期48.2",
+      "现况指数45.8，预期指数44.1，全面下滑",
+      "1年期通胀预期升至4.2%"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "密西根大学5月消费者信心指数终值录得44.8，大幅低于4月的49.8和市场预期的48.2，创下自1952年调查启动以来的最低水平。分项指标全面恶化：现况指数降至45.8，预期指数降至44.1。1年期通胀预期从4.1%升至4.2%，消费者对就业、收入和商业环境的评估同步恶化，反映高通胀、高利率和地缘不确定性对家庭财务的持续侵蚀。",
+      "transmissionChain": "消费者信心崩溃将直接抑制零售消费、耐用消费品（汽车、家电）和住房需求，进而影响相关企业的营收和利润。同时，信心低迷会加剧储蓄倾向，减少货币流通速度，延缓经济复苏。对股市而言，消费类股票（如耐克、沃尔玛）将承压，而防御性板块（医疗、公用事业）可能获得资金流入。此外，通胀预期上升将强化美联储鹰派立场，推高美债收益率，压制科技股估值。",
+      "chinaMarketMapping": "美国消费疲软将减少对中国出口的需求，尤其纺织、玩具、电子产品等劳动密集型行业。但对中国外贸企业也可能带来结构性机会：若美国消费者转向性价比更高的中国商品，部分外贸企业订单反而增加。A股中，出海企业（如家电龙头美的、海尔）需关注美国需求波动。中期看，美国经济放缓将促使美联储转向降息，人民币贬值压力缓解，利好A股外资回流。"
+    },
+    "publishedAt": "2026-05-24T15:10:42Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T16:11:40.906Z"
+  },
+  {
+    "title": "高階MLCC供不应求，涨价周期启动",
+    "source": "雅虎财经",
+    "url": "https://tw.stock.yahoo.com/news/高阶MLCC供不应求-这被被动元件代理厂-股价10天飙90-全年EPS上看8-5元-230000435.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "AI伺服器需求导致MLCC交期翻倍",
+      "代理商股价10天飙90%",
+      "Vera Rubin平台用量提升使缺口扩大"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达Vera Rubin平台功耗高达1500W，对高容MLCC用量倍增，导致MLCC交期从4-6周延长至12-16周，部分型号甚至更长。被动元件代理商日电（Taiwan Passivo）股价10天飙涨90%，市场预期其全年EPS达8.5元。国巨、华新科等厂商宣布Q3提价10-15%。供需缺口预计持续至年底。",
+      "transmissionChain": "MLCC涨价将直接增厚被动元件公司利润，同时提升国产替代企业议价能力。下游系统厂商（服务器ODM、手机品牌）成本承压，但可通过提价转嫁。涨价周期通常持续2-3个季度，期间相关股票具有明显超额收益。此外，钽电容、电感等元件也可能跟涨。",
+      "chinaMarketMapping": "A股MLCC概念：三环集团（300408）高容产品突破，风华高科（000636）涨价弹性大，火炬电子（603678）军用MLCC。但需警惕，若终端消费疲软（消费者信心低），涨价可能抑制需求。中长期看，MLCC国产替代空间巨大（目前自给率不足20%），AI服务器需求提供千亿市场。"
+    },
+    "publishedAt": "2026-05-24T15:00:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T16:11:40.906Z"
+  },
+  {
     "title": "AI服务器需求导致被动元件交期翻倍 MLCC涨价周期启动",
     "source": "Yahoo Entertainment",
     "url": "https://tw.news.yahoo.com/mlcc-lead-time-double/",
@@ -93,6 +226,25 @@
     "publishedAt": "2026-05-24T08:45:55Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
+    "title": "苹果注册genai.apple.com，WWDC全面押注生成式AI",
+    "source": "Unwire.hk",
+    "url": "https://unwire.hk/2026/05/24/apple-genai-wmdc/news/",
+    "category": "AI_MODEL",
+    "summary": [
+      "苹果注册genai.apple.com域名",
+      "预期WWDC发布生成式AI功能",
+      "iOS 27将深度整合AI"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "苹果低调注册genai.apple.com子域，市场解读为6月9日WWDC 2026将全面公布生成式AI战略。此前传言苹果将在iOS 27中引入基于大模型的Siri升级、AI照片编辑、自动生成Emoji等功能，并与OpenAI/Google达成合作。此举标志苹果正式加入AI竞赛，可能改变移动AI竞争格局。",
+      "transmissionChain": "苹果AI战略将拉动A18/A19芯片需求（台积电3nm订单增加），利好存储（美光、三星的LPDDR6）、散热（双鸿）、光学（大立光）等供应链。同时，AI手机推动换机周期，提振消费电子产业链。App开发商需适应苹果AI生态，相关概念股活跃。但若产品不及预期，可能拖累股价。",
+      "chinaMarketMapping": "苹果AI落地中国需与本土大模型合作（百度、字节跳动），利好国内AI应用公司。A股果链（立讯精密、歌尔股份、蓝思科技）受益于换机预期。同时，华为、小米等竞争对手加速AI手机布局，相关供应链（韦尔股份、卓胜微）同样受益。注意中美科技脱钩风险。"
+    },
+    "publishedAt": "2026-05-24T08:45:55Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T16:11:40.906Z"
   },
   {
     "title": "企业强推AI提效遇反效果：AI成本已超人力",
@@ -595,150 +747,5 @@
     "publishedAt": "2026-05-21T09:46:27Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-22T10:31:23.197Z"
-  },
-  {
-    "title": "英伟达公布800亿美元回购并提高股息，中美紧张局势下着力提振信心",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/nvidia-unveils-80b-stock-buyback-raises-dividend-amid-us-china-tensions/",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "英伟达Q1营收816亿美元超预期，数据中心收入年增92%",
-      "宣布800亿美元股票回购，并提高股息，增强股东回报"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达发布2027财年Q1财报，营收816亿美元（同比+85%），数据中心增92%。同时宣布800亿美元回购和股息提升。但盘后股价一度跌3%，因保守指引和中国市场流失。",
-      "transmissionChain": "超预期业绩直接利好英伟达上下游，包括晶圆代工（台积电）、封装（日月光）、散热（双鸿）、HBM（三星/SK海力士）。800亿回购提升美股整体信心，利好科技ETF。但中国让位华为加深国产替代逻辑。",
-      "chinaMarketMapping": "英伟达承认将中国AI芯片市场‘让给’华为，直接利好华为昇腾产业链（中芯国际、长电科技），刺激国产AI芯片替代加速。同时A股半导体设备（北方华创）和封装测试板块受惠于国产替代订单。但英伟达退出也可能导致中国数据中心短期算力缺口。"
-    },
-    "publishedAt": "2026-05-21T05:44:40Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "英伟达财报公布800亿美元回购并承认放弃中国AI芯片市场",
-    "source": "Crypto Briefing (via Yahoo)",
-    "url": "https://tw.stock.yahoo.com/news/nvidia-q1-816b-buyback-china-concession-000000574.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达Q1营收816亿美元超预期，数据中心收入年增92%",
-      "宣布800亿美元股票回购并提高股息",
-      "黄仁勳承认因美国出口管制，已基本放弃中国AI芯片市场，让给华为"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达财报显示AI需求仍强劲，但中国市场收入归零，盘后股价转跌。回购计划托底股价，但投资者更关注丧失中国市场份额的长期影响。",
-      "transmissionChain": "利好英伟达股东（回购），利空中国区收入预期；利好华为（填补空白）及阿里平头哥等国产替代；利空台美AI服务器出货若因管制收紧；间接利好台积电（订单集中）与SK海力士（HBM需求不变）。",
-      "chinaMarketMapping": "直接利空A股因依赖英伟达的AI算力租赁公司（如鸿博股份）短期承压；但强力利好华为昇腾产业链（拓维信息、神州数码）以及国产GPU公司（海光信息、寒武纪），国产替代逻辑加速兑现。投资者应关注华为生态合作伙伴与国产算力基础设施。"
-    },
-    "publishedAt": "2026-05-21T05:44:40Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T16:08:22.771Z"
-  },
-  {
-    "title": "风能加太阳能 史上首次单月全球发电量超越天然气",
-    "source": "Inside.com.tw",
-    "url": "https://www.inside.com.tw/article/41347-wind-solar-surpass-natural-gas-global-monthly-power-first-time",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "2026年4月全球风能与太阳能发电量首次超过天然气",
-      "标志可再生能源里程碑"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "2026年4月，全球风能与太阳能单月发电量首次超过天然气，反映出全球能源结构转型加速，可再生能源占比持续提升。",
-      "transmissionChain": "利好风电和光伏设备制造商（维斯塔斯、隆基），同时降低电价和碳排放。但天然气发电下降可能影响相关设备需求。储能行业（特斯拉、宁德时代）受益于间歇性电源的调节需求。",
-      "chinaMarketMapping": "中国是全球最大可再生能源市场，隆基、金风科技、阳光电源等龙头受益。电力市场化改革加速，储能和电网升级需求增加。但需注意贸易壁垒（欧盟反倾销）和电价补贴退坡风险。"
-    },
-    "publishedAt": "2026-05-21T05:43:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "Anthropic在企业采用率上超越OpenAI，算力和成本压力显现",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260521PD202/anthropic-openai-adoption-cost-2026.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "Anthropic在2026年4月企业AI采用率首次超过OpenAI",
-      "预计Q2营收109亿美元，首次实现运营盈利"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "基于Ramp企业支出数据，Anthropic在企业客户覆盖率上超越OpenAI，其Claude模型因安全性和可靠性获BMS等制药巨头采用。同时预计Q2盈利，扭转AI烧钱叙事。",
-      "transmissionChain": "Anthropic盈利里程碑使AI行业从‘烧钱换份额’转向‘盈利驱动’，提升整个板块估值逻辑。企业客户向Anthropic迁移，可能导致OpenAI市场份额流失，但两者共同扩大AI总市场。",
-      "chinaMarketMapping": "中国AI企业（如百度文心、阿里通义）需加速商业化落地，参考Anthropic的企业订阅模式。A股AI应用公司（如金山办公、汉得信息）有望受益于企业AI渗透率提升，但技术劣势仍需追赶。"
-    },
-    "publishedAt": "2026-05-21T05:41:33Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "SpaceX正式提交IPO申请 股票代码SPCX 马斯克财务帝国首度披露",
-    "source": "Cool3c.com",
-    "url": "https://www.cool3c.com/article/248756",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "SpaceX提交S-1文件，计划在6月12日IPO",
-      "文件显示亏损42.8亿美元，但预计市值超1.75万亿"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "SpaceX向SEC提交IPO申请，披露2025年亏损42.8亿美元，主要投入星舰和星链。马斯克通过超级投票权保持控制，同时透露xAI与Anthropic的127亿美元算力合同。",
-      "transmissionChain": "SpaceX IPO将成为史上最大IPO，带动太空产业链估值重估。其AI数据中心与星链服务与xAI协同，利好太空计算和边缘AI。但巨额亏损可能使投资者担忧盈利时间表。",
-      "chinaMarketMapping": "中国太空企业（如中国星网、银河航天）可能获得对标估值，但需依赖国家订单。SpaceX的AI算力布局也向中国展示‘太空+AI’模式，可能推动国内类似项目（如天基算力）。A股卫星互联网板块短期受情绪提振。"
-    },
-    "publishedAt": "2026-05-21T05:40:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "OpenAI冲刺IPO 美媒泼冷水：战胜马斯克诉讼只是开始",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1563194.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "OpenAI计划在未来几天秘密提交IPO申请，目标9月上市",
-      "马斯克诉讼败诉为解决IPO法律障碍，但治理问题仍存"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "多家美媒报道OpenAI即将秘密提交IPO申请，目标今年秋季上市。此前马斯克诉讼被驳回，扫清法律障碍，但治理结构（非营利转营利）仍受质疑。",
-      "transmissionChain": "OpenAI若成功IPO，将成为AI领域最大公开公司，估值万亿美元，吸引大量资金涌入AI板块。同时与Anthropic的竞争加剧，可能推高AI人才成本和算力投资。",
-      "chinaMarketMapping": "中国AI公司（如百度阿里腾讯）可能加速分拆上市或引入战投。但OpenAI IPO也加剧中国AI企业面临的技术差距，倒逼国产基础大模型投入。A股AI概念股（科大讯飞、拓尔思）可能受事件情绪波动但基本面受益有限。"
-    },
-    "publishedAt": "2026-05-21T05:36:39Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "五角大楼成立AI专项工作组 部署前沿AI工具至敏感网络",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1563186.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "美国网络司令部组建AI工作组加速采用黑客AI工具",
-      "国防部与国家安全局合作研究安全部署AI模型"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国网络司令部内部成立AI专项工作组，旨在快速将商业AI模型（找到漏洞能力强的模型）部署到国防网络。这是对私营部门AI能力的正式官方认可。",
-      "transmissionChain": "利好美国AI网络安全公司（如CrowdStrike、Palo Alto Networks）。军事需求也将推动AI在漏洞检测、自主网络防御领域的技术突破，并可能外溢到民用市场。",
-      "chinaMarketMapping": "中国必然加速AI在军事和网络安全领域的应用，利好奇安信、启明星辰等网络安全厂商。同时可能加剧中美AI军备竞赛，相关国产替代趋势加强。"
-    },
-    "publishedAt": "2026-05-21T05:35:48Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "谷歌全面改造搜索引擎 引入类ChatGPT界面与AI代理功能",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1563180.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "谷歌推出智能搜索框，由Gemini 3.5 Flash驱动，对话式交互",
-      "搜索引擎成为AI工具链入口，改变信息检索方式"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "谷歌宣布搜索引擎重大升级，默认采用Gemini 3.5 Flash驱动对话式交互，用户可进行复杂多轮问答，搜索结果不再是链接列表而是AI整合答案。",
-      "transmissionChain": "谷歌搜索改版直接冲击传统SEO和广告模式，利好AI内容生成和对话式电商。同时推动TPU算力需求，支持谷歌云业务。但可能面临监管审查（反垄断、虚假信息）。",
-      "chinaMarketMapping": "中国搜索引擎百度、360面临同样转型压力，需加快文心一言等产品迭代。国内AI搜索应用（如秘塔AI）可能获得更多关注。但中国AI搜索受限于数据监管，难以完全复制谷歌模式。"
-    },
-    "publishedAt": "2026-05-21T05:35:13Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
   }
 ]
