@@ -1,5 +1,157 @@
 [
   {
+    "title": "AI服务器需求导致被动元件交期翻倍 MLCC涨价周期启动",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/mlcc-lead-time-double/",
+    "category": "AI_MODEL",
+    "summary": [
+      "高贴MLCC及铝电交期翻倍至3-4个月",
+      "下半年供需缺口扩大",
+      "台厂受益于日韩产能外溢"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "通路商日电贸指出，高贴MLCC和固混铝电交期从正常8周延长至12-16周，部分型号长达6个月。AI服务器每台搭载MLCC数量是传统服务器的3-5倍，且电压/温度要求提高带来单价提升。日韩大厂产能被AI订单挤占，台厂国巨、华新科、信昌电等承接溢出订单。",
+      "transmissionChain": "被动元件涨价将沿供应链传导至服务器、基站、通信设备等终端，成本压力可能向下游转嫁。台系元器件厂商Q2 EPS预期上调，股价已反应部分涨幅。设备商和材料商（如陶瓷粉末厂商）也受益。",
+      "chinaMarketMapping": "A股被动元件标的（风华高科、三环集团、顺络电子）受益于国产替代和涨价周期，但需注意产能释放节奏。创业公司可关注高贴MLCC用介电陶瓷粉末国产化机会，当前该材料主要依赖日商提供，存在高壁垒和高利润空间。"
+    },
+    "publishedAt": "2026-05-24T11:05:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
+    "title": "对冲基金大幅增持AI股票 芯片制造商成为华尔街首选",
+    "source": "Kalinga TV",
+    "url": "https://kalingatv.com/business/hedge-funds-increase-bets-on-ai-stocks-as-chipmakers-become-wall-streets-top-pick-report/",
+    "category": "AI_MODEL",
+    "summary": [
+      "对冲基金二季度大幅增配AI股",
+      "半导体和AI基础设施最受青睐",
+      "英伟达、AMD、台积电持仓增加"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "根据报道，全球对冲基金在2026年第二季度初大幅增加对人工智能相关公司的押注，半导体和AI基础设施公司成为最大赢家。英伟达、AMD、台积电、MRVL等获得显著增持。此趋势表明机构投资者对AI长期增长信心十足，资金流入为股价提供支撑。",
+      "transmissionChain": "对冲基金增持强化AI板块赚钱效应，吸引更多散户和养老金资金配置。芯片代工、封测、存储、设备全产业链受益。同时，AI软件和应用公司（如Palantir、CrowdStrike）也获得资金青睐，形成正反馈。",
+      "chinaMarketMapping": "A股AI芯片概念（寒武纪、海光信息）短期受情绪带动，但基本面对比海外龙头仍有差距。国产替代逻辑（中芯国际、华大九天）将获得溢价。对于投资者，可借道半导体ETF参与，但需警惕短期过度拥挤后的回调风险。"
+    },
+    "publishedAt": "2026-05-24T10:53:58Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
+    "title": "华为利用创新DoB封装技术开发122TB SSD 突破出口管制限制",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/huawei-122tb-ssd-dob-packaging/",
+    "category": "AI_MODEL",
+    "summary": [
+      "华为实现122.88TB SSD量产",
+      "DoB封装突破NAND层数限制",
+      "显示国产封装能力跃升"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "华为展示全新DoB（直接基板封装）技术，将多颗NAND闪存芯片直接堆叠封装，绕过传统NAND堆叠层数瓶颈，实现61.44TB和122.88TB SSD量产。该技术大幅提升存储密度和能效，标志着中国存储封装技术的重大突破，并在美国出口管制背景下展示自主研发能力。",
+      "transmissionChain": "DoB技术对传统存储产业链产生冲击：长江存储、长鑫存储等本土NAND厂商可受益于先进封装提升产品竞争力；封装设备商（北方华创、中微公司）将面临新的技术要求，国产替代机会增加。同时，该技术可能削弱日本等国在高端封装材料的议价能力。",
+      "chinaMarketMapping": "华为SSD创新带动A股存储主题：长江存储（非上市）的生态伙伴，如江波龙、朗科科技有望受益。封装设备股（长川科技、华峰测控）受关注。对于创业者，国产存储封装材料（如底部填充胶、引线框架）存在国产替代机会。但需警惕华为自力更生倒逼海外对手技术升级的竞争压力。"
+    },
+    "publishedAt": "2026-05-24T10:41:15Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
+    "title": "川普称伊朗和平协议接近达成 关键问题仍存分歧",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/trump-iran-peace-deal/",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "美伊和平协议初步共识",
+      "荷姆兹海峡有望重启",
+      "共和党鹰派批评协议"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "特朗普总统宣布美伊双方已就和平协议达成初步共识，但共和党鹰派批评协议未提及伊朗核计划撤除问题。特朗普随后向以色列保证协议不会解除伊朗核武装。双方围绕荷姆兹海峡重开、石油制裁豁免等细节仍在谈判，预计6月初为关键窗口。",
+      "transmissionChain": "若协议达成，全球能源价格将承压：布伦特原油预计下跌5-10%，利好航空、石化、海运等行业。中东局势缓和降低国防开支预期，美国军工股可能回调。同时，伊朗原油回归市场将缓解OPEC+压力，全球通胀预期降温，美联储加息压力减轻。不过，若谈判破裂，则风险资产面临抛售。",
+      "chinaMarketMapping": "中国作为最大原油进口国，油价下跌将直接降低能源成本，利好炼油（中国石化）、航空（中国国航）、化工（万华化学）等行业。同时，一带一路项目在中东的安全性提升，基建出海标的（中国交建）受益。但若美伊协议包含限制中国与伊朗石油交易条款，则对地缘关系产生负面影响。投资者需密切关注谈判进程。"
+    },
+    "publishedAt": "2026-05-24T10:00:04Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
+    "title": "苹果注册genai.apple.com子域 WWDC 2026全面押注生成式AI",
+    "source": "Unwire.hk",
+    "url": "https://unwire.hk/2026/05/24/genai-apple-com/ai/",
+    "category": "AI_MODEL",
+    "summary": [
+      "苹果低调注册genai.apple.com",
+      "iOS 27将深度整合AI",
+      "Siri升级、独立AI应用预期"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "苹果在WWDC 2026开幕三周前注册genai.apple.com子域，结合此前iOS 27 AI功能泄露，表明苹果将在生成式AI领域全面发力。预期包括Siri集成大模型、照片和文档AI编辑、以及独立的生成式AI应用。此举是苹果在AI竞争中追赶谷歌、微软的关键一步。",
+      "transmissionChain": "苹果AI大模型将带动其硬件升级需求，iPhone 17系列可能拥有专用AI芯片，利好苹果供应链（立讯精密、歌尔股份、环旭电子）。AI服务器端，苹果自建数据中心将增加服务器采购，利好台系组装厂。同时，iOS 27的AI能力将促进开发者为App Store开发AI应用，增强苹果服务收入。",
+      "chinaMarketMapping": "苹果AI入华将面临数据合规挑战，可能催生本地化合作机会，推动国产AI模型与安卓阵营融合。A股苹果供应链标的（立讯精密、蓝思科技、领益智造）受益于硬件升级。对国内AI开发者，苹果生态可能提供新的分发渠道，但也面临竞争。创业公司在苹果AI平台上的定制插件和应用开发前景广阔。"
+    },
+    "publishedAt": "2026-05-24T08:45:55Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
+    "title": "企业强推AI提效遇反效果：AI成本已超人力",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/954/581.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "微软要求员工改用自家Copilot CLI而非Claude Code",
+      "多家企业缩减AI工具使用规模",
+      "AI模型使用成本持续攀升"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "据Tom's Hardware和财富杂志报道，多家科技企业因AI工具使用成本过高而缩减规模。微软强制员工从Claude Code切换到内部Copilot CLI，理由除了供应链偏好外，直接原因是Claude Code持续高昂的使用费用。这一趋势表明AI ROI成为企业关注焦点。",
+      "transmissionChain": "AI成本反噬将抑制下游企业的AI应用需求，进而影响AI模型供应商（OpenAI、Anthropic）的营收增长预期。更高效率的轻量级模型和边缘AI解决方案将受到青睐。同时，云服务商的AI推理收入增速可能放缓，催生价格战。",
+      "chinaMarketMapping": "国内企业同样面临AI成本问题，利好低价模型服务商（DeepSeek）和国产算力替代。A股AI应用公司（金山办公、科大讯飞）若不能有效控制成本，可能面临毛利率压力。对于创业者，开发企业级AI成本优化工具是一个值得关注的方向。"
+    },
+    "publishedAt": "2026-05-24T08:40:33Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
+    "title": "黄仁勳提前来台为COMPUTEX暖身 重燃AI供应链行情",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/huang-renxun-taiwan-computex/",
+    "category": "AI_MODEL",
+    "summary": [
+      "黄仁勳提前抵台，预计6月1日COMPUTEX主题演讲",
+      "Vera Rubin细节有望披露",
+      "AI供应链提前反应"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达CEO黄仁勳比往年更早抵达台湾，为COMPUTEX 2026造势。市场预期其演讲将披露Vera Rubin平台的更多技术细节和客户签约情况，可能推出B300 GPU和HBM4内存组合方案。供应链备货加速，台积电、日月光、双鸿等积极备战。",
+      "transmissionChain": "COMPUTEX期间，AI服务器、散热、电源、光模块等板块将获得密集催化。订单能见度提升将强化股价上行趋势。台股相关标的已经提前上涨，A股映射公司（工业富联、中际旭创等）可能联动。",
+      "chinaMarketMapping": "黄仁勳身影映射A股AI服务器制造（工业富联、立讯精密）以及液冷概念（英维克）。但对于英伟达放弃中国市场的信号，国产AI芯片（华为昇腾、寒武纪）长期替代逻辑加强。COMPUTEX期间谨防“利好出尽”行情。"
+    },
+    "publishedAt": "2026-05-24T08:40:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
+    "title": "Anthropic未公开AI模型Mythos一个月挖出万个漏洞 安全防御成新护城河",
+    "source": "Cool3c.com",
+    "url": "https://www.cool3c.com/article/248828",
+    "category": "AI_MODEL",
+    "summary": [
+      "Mythos模型一个月发现逾万软件漏洞",
+      "Project Glasswing计划",
+      "安全防御AI成为新方向"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Anthropic利用其未公开的AI模型Mythos在Project Glasswing框架下，一个月内协助合作伙伴发现超过1万个软件漏洞。该模型擅长逆向工程和代码审计，但Anthropic出于安全考虑未公开其详细技术。这标志着AI在网络安全领域的应用进入新阶段。",
+      "transmissionChain": "AI安全能力提升将直接利好网络安全公司（Palo Alto Networks、CrowdStrike、奇安信），它们可整合类似技术增强产品。同时，漏洞发现效率大幅增加，促使软件企业加快更新周期，带动开发安全工具需求。零日漏洞交易市场可能受到冲击。",
+      "chinaMarketMapping": "中国网络安全市场空间巨大，启明星辰、深信服等厂商有望借鉴AI安全技术。华为、阿里云的AI安全实验室也可能加速研发。对创业者，针对性开发面向中国企业的AI代码审计SaaS，定位于政府、金融等高安全要求行业存在机会。但需注意技术鸿沟和数据隐私限制。"
+    },
+    "publishedAt": "2026-05-24T08:38:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
+  },
+  {
     "title": "英伟达一季度净利飙升139% 四大云服务商持续扩大资本支出",
     "source": "Yahoo Entertainment",
     "url": "https://tw.stock.yahoo.com/news/輝達Q1淨利年增139-太狂-4大CSP續擴資本支出-這檔ETF-網打盡美股最強生力軍-060500578.html",
@@ -17,6 +169,25 @@
     "publishedAt": "2026-05-24T06:05:00Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-25T06:10:54.640Z"
+  },
+  {
+    "title": "英伟达一季度净利飙升139% 四大云服务商持续扩大资本支出",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/nvidia-q1-2026/",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达Q1营收816亿美元超预期",
+      "数据中心收入年增92%",
+      "黄仁勳称Vera Rubin全年供不应求"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达2026财年第一季度营收达816亿美元，超市场预期，数据中心业务收入同比翻倍至720亿美元。CEO黄仁勳在电话会议中表示AI需求呈抛物线式成长，新一代Vera Rubin平台将从上市到退役持续缺货。公司宣布800亿美元股票回购计划并提高股息。",
+      "transmissionChain": "该财报直接提振AI芯片产业链信心。台积电（代工）、日月光（封装）、双鸿（散热）等供应商订单能见度提升。HBM供应商三星、SK海力士受益于显存需求增加。四大云服务商（亚马逊、微软、谷歌、甲骨文）资本支出持续扩大，带动服务器、光模块、PCB等环节景气度。",
+      "chinaMarketMapping": "A股中，英伟达供应链标的如中际旭创（光模块）、立讯精密（连接器）、寒武纪（AI芯片）短期情绪受益。但黄仁勳承认基本放弃中国AI芯片市场，华为填补空白，国产替代主题（华为生态、中芯国际）将获长期关注。台股相关标的如台积电、日月光、双鸿直接受益，但需注意中美科技战升级的潜在政策风险。"
+    },
+    "publishedAt": "2026-05-24T06:05:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-25T11:19:29.185Z"
   },
   {
     "title": "DeepSeek永久降低V4-Pro模型API价格75%",
@@ -569,167 +740,5 @@
     "publishedAt": "2026-05-21T05:35:13Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "英伟达承认基本放弃中国AI芯片市场 华为崛起填补空白",
-    "source": "Technews.tw",
-    "url": "https://technews.tw/2026/05/21/nvidia-says-it-has-largely-conceded-chinas-ai-chip-market-to-huawei/",
-    "category": "AI_MODEL",
-    "summary": [
-      "黄仁勋表示美国出口管制下，英伟达已将中国AI市场让给华为",
-      "华为去年创纪录，今年可能再迎非凡年份"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达CEO黄仁勋在财报后采访中称，因美国出口管制持续收紧，公司‘很大程度上将中国AI芯片市场拱手让给华为’。这是首次官方确认市场份额流失。",
-      "transmissionChain": "此举强化华为昇腾芯片的国产替代地位，利好华为供应商如中芯国际（制造）、长电科技（封装）、沪硅产业（硅片）。同时，中国本土AI芯片企业（寒武纪、海光信息）获得更多市场关注。全球AI芯片版图从中美双极走向中国单极生态。",
-      "chinaMarketMapping": "华为昇腾生态快速扩张，相关上市公司业绩预期上修。A股投资者可关注华为产业链（如拓维信息、神州数码）及国产芯片设计标的。但英伟达退出也意味着中国数据中心面临算力替代成本上升，短期可能影响AI应用落地速度。"
-    },
-    "publishedAt": "2026-05-21T05:30:24Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "双鸿今年成长率达60-70% 均热片大单涌入扩产近十倍 ASIC下半年爆发",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/双鴻今年成長率探60-70-均熱片大單湧入擴產近十倍-asic下半年爆發-052954306.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "双鸿散热模组厂上调2026年成长目标至60-70%",
-      "AMD均热片订单涌进，产能年底扩十倍"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "台湾散热模组厂双鸿在股东会上宣布今年营收成长率上修至60-70%，其中CPU均热片来自AMD的订单扩产近十倍。ASIC业务下半年爆发。",
-      "transmissionChain": "AI芯片功耗攀升驱动散热需求爆发，双鸿扩产直接利好AMD和英伟达供应链。散热产值暴增利好上游材料（导热硅脂、石墨片）和零部件厂商。",
-      "chinaMarketMapping": "A股散热相关公司（中石科技、碳元科技）可能跟涨。但国内散热技术仍落后台厂，部分国内AI服务器厂商也可能采购双鸿产品。投资者可关注国内散热材料替代机会。"
-    },
-    "publishedAt": "2026-05-21T05:29:54Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "Meta全球裁员8000人 新加坡最先接到通知",
-    "source": "Yahoo Entertainment",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c11e21d5-9883-4558-a3bb-d02576fdf832",
-    "category": "AI_MODEL",
-    "summary": [
-      "Meta裁员约8000人，占全球员工10%",
-      "资源转向AI项目，同时被曝用员工行为数据训练AI"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Meta5月19日开始裁员8000人，同时泄露录音显示扎克伯格承认采用员工数据训练AI。裁员后Meta将重心转向AI和元宇宙。",
-      "transmissionChain": "Meta裁员反映科技行业效率优先，AI替代人力趋势加速。其他科技公司可能跟进减员，利好AI工具和外包服务。但用员工数据训练AI可能引发全球隐私监管。",
-      "chinaMarketMapping": "中国科技巨头（腾讯、阿里）也可能实施类似重组，但国内劳动法更严格。A股AI应用公司（如拓尔思）可能受益于企业数字化转型。但数据隐私问题也促使中国加速《个人信息保护法》执法。"
-    },
-    "publishedAt": "2026-05-21T05:18:28Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "摩根大通戴蒙警告利率可能大幅攀升 债市风险加剧",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/小摩戴蒙示警利率恐大幅攀升-債市風險加劇-051639757.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "戴蒙表示利率可能从当前水平大幅上升",
-      "担心政府支出和AI投资推高通胀"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "摩根大通CEO杰米·戴蒙在接受采访中警告，由于政府支出和AI投资驱动的经济增长，利率可能大幅攀升，债券投资者面临风险。",
-      "transmissionChain": "利率上升预期压制债券价格，提高企业融资成本，尤其影响高杠杆科技公司和成长股。银行股通常受益于利率上升（净息差扩大），但急剧上升可能引发宏观风险。",
-      "chinaMarketMapping": "中国债市受影响较小，因央行维持宽松。但全球利率上升可能加剧人民币贬值压力，倒逼中国政策利率调整。A股成长股（如AI、半导体）可能受情绪影响波动，但国内利率中枢不同。"
-    },
-    "publishedAt": "2026-05-21T05:16:39Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T05:50:02.685Z"
-  },
-  {
-    "title": "OpenAI抢跑万亿美元IPO，AI资本战烧向公开市场",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/openai%E6%90%B6%E8%B7%91%E5%85%86%E7%BE%8E%E5%85%83ipo-ai%E8%B3%87%E6%9C%AC%E6%88%B0%E5%BE%9E%E6%A8%A1%E5%9E%8B%E7%AB%B6%E8%B3%BD%E7%87%92%E5%90%91%E5%85%AC%E9%96%8B%E5%B8%82%E5%A0%B4-002801250.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "OpenAI最快本周秘密提交IPO申请，目标9月挂牌",
-      "估值目标超1万亿美元，与高盛、摩根士丹利合作"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "外电报道OpenAI最快本周秘密提交IPO申请，最早9月上市，目标估值超过1万亿美元（上一轮私人估值8520亿）。公司已聘请高盛、摩根士丹利起草文件，这是AI产业迄今最大规模公开募股。同时OpenAI CEO Altman警告投资者可能对AI过度投资。",
-      "transmissionChain": "直接利好好莱坞（索尼、迪士尼）等IP合作方及微软（Azure OpenAI服务）。推动AI板块信心，吸引全球资本涌入头部模型公司，挤压中小AI创企融资空间。对英伟达等硬件股形成长期利好（训练与推理需求持续）。引发监管机构对AI垄断的审查。",
-      "chinaMarketMapping": "对A股/港股：加剧国内AI公司竞争压力，但加速国产替代逻辑。中国AI公司（百度、商汤、寒武纪）估值可能承压，但政策支持国产大模型（如阿里通义、百度文心）以避免数据外流。创业者应聚焦中美技术隔离下的本土机会，如针对中文场景的垂直模型。"
-    },
-    "publishedAt": "2026-05-20T16:28:01Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "Anthropic营收翻倍首度获利，改写AI烧钱叙事",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/anthropic%E7%87%9F%E6%94%B6%E7%88%86%E7%82%B8%E5%BC%8F%E7%BF%BB%E5%80%8D-ai%E6%96%B0%E5%89%B5%E9%A6%96%E5%BA%A6%E7%8D%B2%E5%88%A9%E6%94%B9%E5%AF%AB%E7%87%92%E9%8C%A2%E6%95%98%E4%BA%8B-002714677.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "Anthropic第二季营收预估109亿美元，环比翻倍",
-      "预计实现运营利润5.59亿美元，首度获利"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Anthropic公布第二季度营收预估109亿美元（环比48亿美元增长127%），并首次实现运营利润5.59亿美元。这标志着AI初创公司从烧钱扩张转向盈利成长期，营收增速超越Zoom疫情期与Facebook上市前。",
-      "transmissionChain": "直接利好Anthropic的投资者（谷歌、Spark Capital）及算力提供商（甲骨文、AWS）。间接证明企业级AI需求（Claude）进入爆发期，拉动AI服务器、数据中心建设需求，上游芯片（英伟达、AMD）受益。同时推动OpenAI加速IPO，引发市场对AI泡沫的重新评估。",
-      "chinaMarketMapping": "对A股/港股：利好AI应用层标的（如百度、科大讯飞），证明国内大模型商业化路径可行。但需警惕中美AI技术差距扩大，国内模型（文心一言、通义千问）突破盈利能力难度较大。创业公司应关注垂直行业AI Agent，而非盲目追通用大模型。"
-    },
-    "publishedAt": "2026-05-20T16:27:14Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "俄罗斯与中国就西伯利亚力量2号管道达成一致，加速能源去美元化",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/russia-china-power-siberia-2-pipeline-deal/",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "俄中就西伯利亚力量2号管道路线达成一致",
-      "管道将以人民币/卢布结算，削弱美元霸权"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "俄罗斯与中国就西伯利亚力量2号天然气管道路线达成最终协议，该管道每年可输送500亿立方米天然气，采用人民币/卢布结算。这是继普京访华后落实的重要能源合作，旨在降低对美元依赖并增强中国能源安全。历史事件中俄中已在能源领域深化合作。",
-      "transmissionChain": "直接削弱美元在全球能源贸易中的储备地位，利好人民币国际化。中国获得稳定且低政治风险的天然气来源，减少对马六甲海峡依赖。欧洲天然气供应份额可能下降，推高TTF价格。管道建设带动钢管（久立特材）、压缩机等设备需求。",
-      "chinaMarketMapping": "对A股/港股：利好天然气管道设备商（中油工程、金洲管道）及中国天然气消费城市燃气（新奥能源）。人民币国际化加速，利好银行与跨境支付系统（CIPS）。但中俄合作加深可能加剧西方制裁风险，敏感行业公司需注意合规。"
-    },
-    "publishedAt": "2026-05-20T16:06:35Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "ASML CEO预警芯片市场长期供应受限，AI需求远超供给",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1563110.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "ASML CEO称AI需求远超行业产能扩张速度",
-      "2030年全球芯片市场规模剑指1.5万亿美元"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "ASML首席执行官Christophe Fouquet在访谈中表示，全球半导体将进入长期供应紧张状态，AI需求浪潮超越产能扩张速度。预测2030年芯片市场达1.5万亿美元，供应链面临零星瓶颈。科技巨头今年资本开支合计近7000亿美元，台积电被迫加速海外建厂。",
-      "transmissionChain": "直接利好ASML及设备商（应用材料、东京电子），同时推高晶圆代工（台积电、三星）的议价能力。AI芯片客户（英伟达、AMD）面临产能限制，需提前锁定产能。光刻胶、特种气体等耗材供应商受益。汽车芯片供应可能被AI挤占，导致汽车行业二次缺芯。",
-      "chinaMarketMapping": "对A股/港股：利好国产半导体设备（北方华创、中微公司）及材料（沪硅产业、安集科技），因中国加大自给率以突破封锁。但ASML制约下中国先进制程进展缓慢，成熟制程扩产（中芯国际、华虹）更为确定。对国内AI芯片创业公司（地平线、壁仞）是挑战，需依赖国产替代设备。"
-    },
-    "publishedAt": "2026-05-20T16:05:10Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
-  },
-  {
-    "title": "谷歌1900亿美元重金投资AI基建，自研芯片加速摆脱英伟达",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E8%B0%B7%E6%AD%8C1900%E5%84%84%E7%BE%8E%E5%85%83%E9%87%8D%E9%87%91%E6%8A%95%E8%B3%87ai%E5%9F%BA%E5%BB%BA-%E9%A1%AF%E6%93%BA%E8%84%AB%E8%BC%9D%E9%81%94-%E8%87%AA%E7%A0%94%E6%99%B6%E7%89%87%E7%AD%96%E7%95%A5%E8%BD%89%E8%AE%8A-000153528.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "Alphabet计划2026年投入1900亿美元AI基础设施",
-      "自研芯片TPU战略挑战英伟达主导地位"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Alphabet宣布2026年资本开支高达1900亿美元（2022年310亿美元的6倍），用于AI数据中心建设与自研TPU芯片。同时与黑石合资成立TPU云公司（首期50亿美元），目标2027年500MW容量。此举是谷歌摆脱对英伟达依赖的系统性战略。",
-      "transmissionChain": "直接冲击英伟达数据中心GPU份额预期，但短期英伟达仍主导训练。利好谷歌自身广告与云业务（Gemini集成），同时惠及TPU供应链（博通、台积电）。黑石加入带热AI基建REITs。对AMD等竞品亦有示范效应。全球电力设备（ABB、施耐德）受益于数据中心建设潮。",
-      "chinaMarketMapping": "对A股/港股：中国科技巨头（阿里、腾讯、百度）可能效仿加大自研芯片投入，利好国产AI芯片设计公司（寒武纪、海光信息）。同时推高国内数据中心光模块（中际旭创）、服务器（浪潮信息）需求。但谷歌与黑石合资可能吸引资本流入美国，对中国AI算力形成压制。"
-    },
-    "publishedAt": "2026-05-20T16:01:53Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-21T16:31:13.924Z"
   }
 ]
