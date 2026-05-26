@@ -24,7 +24,7 @@ A 100% serverless, zero-cost, GitOps-driven market intelligence platform that ag
 *   **Frontend**: Next.js 15+ (App Router), TypeScript, Tailwind CSS, shadcn/ui.
 *   **Data Visualization**: Recharts (for clean, high-contrast graphs).
 *   **Scripting Runtime**: Node.js (with `axios`, `rss-parser`).
-*   **LLM Provider**: DeepSeek V4 Flash via OpenAI-compatible SDK (Endpoint: `api.deepseek.com`, Model: `deepseek-v4-flash`).
+*   **LLM Provider**: DeepSeek via OpenAI-compatible SDK (Endpoint: `api.deepseek.com`, Model: `deepseek-chat`).
 
 ---
 
