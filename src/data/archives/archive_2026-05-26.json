@@ -1,925 +1,102 @@
 {
+  "lastUpdated": "2026-05-26T05:51:19.701Z",
   "macroMetrics": {
-    "economicConfidence": 55,
-    "regulatoryPressure": 65,
-    "blackSwanProbability": 50,
-    "mediaSentiment": -0.25,
-    "socialSentiment": -0.15,
-    "macroTrendAlert": "美国消费者信心指数暴跌至44.8创74年新低，与股市高位形成极端背离，这是典型的'萧条式繁荣'信号。对比3天前信心指数65，今日55大幅下滑，但标普500仅微跌0.27%，A股反而上涨，显示市场定价矛盾。美联储鹰派转向（沃勒、华许）与川普施压降息形成政策拉锯，叠加伊朗谈判反复、霍尔木兹海峡封锁未解，原油维持96美元。信心指数趋势从70→65→55连续三周下降，确认衰退担忧升温，但AI投资狂热暂时掩盖系统性风险，需警惕下半年消费收缩向企业盈利传导的滞后冲击。"
+    "economicConfidence": 50,
+    "regulatoryPressure": 50,
+    "blackSwanProbability": 30,
+    "mediaSentiment": 0,
+    "socialSentiment": 0,
+    "macroTrendAlert": "⚠ AI 分析服务暂不可用，无法生成宏观趋势预警。"
   },
   "marketRegime": {
     "quadrant": "过热",
-    "logic": "AI投资狂热与政策刺激推高风险偏好，但通胀未消、利率上行压力、地缘不确定性并存，美林时钟仍处于过热象限，但消费者信心骤降预示转向滞胀风险。"
+    "logic": "AI 分析服务异常，美林时钟定位暂缺。"
   },
   "assetImpact": {
     "safeHaven": {
-      "status": "BULL",
-      "reason": "消费者信心崩溃叠加地缘风险，黄金白银急升，避险需求持续流入贵金属。"
+      "status": "NEUTRAL",
+      "reason": "数据不足，暂无法判断避险资产走向。"
     },
     "techStocks": {
-      "status": "BULL",
-      "reason": "英伟达Q1净利飙升139%且800亿回购，AI资本开支持续扩大，科技股短期动能强劲。"
+      "status": "NEUTRAL",
+      "reason": "数据不足，暂无法判断科技股走向。"
     },
     "crypto": {
-      "status": "BEAR",
-      "reason": "比特币ETF单周流出12.6亿美元创三月最大，ETH可能再跌25%，监管与利率风险压制。"
+      "status": "NEUTRAL",
+      "reason": "数据不足，暂无法判断加密资产走向。"
     },
     "commodities": {
       "status": "NEUTRAL",
-      "reason": "美伊谈判反复致原油震荡，贵金属受避险推动上涨，工业金属受需求担忧拖累。"
+      "reason": "数据不足，暂无法判断大宗商品走向。"
     }
   },
   "aiDebate": {
-    "bullCase": "英伟达财报验证AI需求抛物线式增长，四大云服务商资本开支持续扩张，对冲基金二季度大幅增持AI股票。黄仁勳COMPUTEX演讲与苹果WWDCgen.ai战略将提供新催化剂，FOPLP等先进封装技术突破降低AI芯片成本，中国企业级AI应用爆发（华硕台智云登兴柜）。消费者信心虽弱但企业投资强劲，AI正从硬件向应用端传导，形成正反馈闭环。",
-    "bearCase": "消费者信心74年新低与股市新高极端背离，这是不可持续的。美联储鹰派立场（沃勒、华许）可能直接转向升息，科技股估值将承压。美光宣布DDR4产能翻四倍暗示存储供需转折，被动元件涨价已反映交期延长但股价提前透支。台积电传砍分红15%引发员工罢工风险，地缘政治（伊朗、台海、土耳其）压制风险偏好。若消费收缩传导至企业盈利，AI投资泡沫将破裂，类似2000年互联网泡沫。"
+    "bullCase": "当前全球新闻数据中未检测到明确的多方信号聚集。",
+    "bearCase": "当前全球新闻数据中未检测到明确的空方信号聚集。"
   },
   "industryRadar": [
     {
       "subject": "人工智能/大模型",
-      "hotness": 95,
-      "sentiment": 0.8,
-      "momentum": 25
+      "hotness": 50,
+      "sentiment": 0,
+      "momentum": 0
     },
     {
-      "subject": "先进封装（FOPLP）",
-      "hotness": 85,
-      "sentiment": 0.7,
-      "momentum": 30
+      "subject": "半导芯片/先进制程",
+      "hotness": 50,
+      "sentiment": 0,
+      "momentum": 0
     },
     {
-      "subject": "被动元件（MLCC）",
-      "hotness": 78,
-      "sentiment": 0.6,
-      "momentum": 20
+      "subject": "虚拟资产/区块链",
+      "hotness": 50,
+      "sentiment": 0,
+      "momentum": 0
     },
     {
       "subject": "新能源车",
-      "hotness": 70,
-      "sentiment": 0.5,
-      "momentum": 15
+      "hotness": 50,
+      "sentiment": 0,
+      "momentum": 0
     },
     {
-      "subject": "贵金属避险资产",
-      "hotness": 82,
-      "sentiment": 0.9,
-      "momentum": 35
-    },
-    {
-      "subject": "存储芯片",
-      "hotness": 60,
-      "sentiment": -0.2,
-      "momentum": -10
-    },
-    {
-      "subject": "网络安全",
-      "hotness": 55,
-      "sentiment": 0.4,
-      "momentum": 12
+      "subject": "生物医药/医疗AI",
+      "hotness": 50,
+      "sentiment": 0,
+      "momentum": 0
     }
   ],
-  "economicForecast": "短期全球股市将维持AI主题驱动的结构性分化。标普500在7400-7500区间震荡，等待COMPUTEX和WWDC催化剂；沪深300受AI供应链与政策预期支撑有望上探4950。美元兑人民币维持6.8中枢，原油在95-100美元博弈。消费者信心骤降与美联储鹰派转向构成下半年最大风险，三季度若通胀反弹可能触发升息预期。中国方面，新能源车与AI应用下沉提供结构性机会，但地产与通缩压力仍压制整体复苏。建议超配AI硬件（GPU、先进封装、散热），标配贵金属，低配消费类股与加密货币。",
+  "economicForecast": "⚠ AI 分析服务暂不可用。请检查 DeepSeek API 配置。",
   "catalystFactors": [
-    "黄仁勳COMPUTEX演讲（6月1日）发布Vera Rubin细节，利好AI芯片、散热、先进封装；台积电、双鸿、日月光直接受益。",
-    "苹果WWDC 2026（6月）发布gen.ai战略，iOS27重大AI更新，带动果链及AI应用概念股，立讯精密、歌尔股份受益。",
-    "美伊核谈判6月初关键窗口：若达成协议油价跌5-10%，利好航空和通胀预期缓解；若破裂则地缘溢价飙升，能源股与黄金上涨。",
-    "华为DoB封装SSD量产挑战进口限制，利好国产存储与封装设备，长鑫存储、北方华创关注。"
+    "⚠ 分析服务异常，催化剂因素暂缺。"
   ],
-  "aiCalibrationScore": 90,
-  "aiReview": "信心指数与美林时钟吻合，指数走势符合预期，但消费者信心骤降未充分反映。",
+  "aiCalibrationScore": null,
+  "aiReview": "⚠ AI 分析服务异常，无法生成复盘反思。",
   "marketSentimentTracker": {
-    "fearGreedIndex": 55,
-    "hotThemes": [
-      {
-        "keyword": "AI代理",
-        "momentumScore": 9,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "先进封装",
-        "momentumScore": 8,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "避险资产",
-        "momentumScore": 8,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "被动元件",
-        "momentumScore": 7,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "存储芯片",
-        "momentumScore": 5,
-        "trendDirection": "down"
-      }
-    ]
+    "fearGreedIndex": 50,
+    "hotThemes": []
   },
   "globalInvestmentRadar": {
-    "aSharePool": [
-      {
-        "code": "600010.SS",
-        "name": "包钢股份",
-        "price": 2.53,
-        "changePercent": 0,
-        "trailingPE": -853.64,
-        "buyZone": "2.33 ~ 2.43",
-        "takeProfit": "3.16",
-        "stopLoss": "2.23",
-        "reason": "稀土与钢铁双主业，受益于国企改革与新能源材料需求，股价低于2元"
-      },
-      {
-        "code": "000725.SZ",
-        "name": "京东方A",
-        "price": 5.27,
-        "changePercent": 2.13,
-        "trailingPE": 32.81,
-        "buyZone": "4.85 ~ 5.06",
-        "takeProfit": "6.32",
-        "stopLoss": "4.64",
-        "reason": "显示面板全球龙头，受益于AI终端与柔性屏需求，估值低位，股价约4元"
-      },
-      {
-        "code": "600100.SS",
-        "name": "TCL科技",
-        "price": 8.32,
-        "changePercent": 0.73,
-        "trailingPE": 84.09,
-        "buyZone": "7.74 ~ 8.07",
-        "takeProfit": "10.40",
-        "stopLoss": "7.07",
-        "reason": "面板与半导体双轮驱动，业绩弹性大，股价约5元"
-      },
-      {
-        "code": "002340.SZ",
-        "name": "格林美",
-        "price": 8.1,
-        "changePercent": -2.06,
-        "trailingPE": 25.97,
-        "buyZone": "7.29 ~ 7.69",
-        "takeProfit": "9.72",
-        "stopLoss": "6.88",
-        "reason": "三元前驱体龙头，受益于新能源车与储能需求，股价约8元"
-      },
-      {
-        "code": "002463.SZ",
-        "name": "沪电股份",
-        "price": 122.54,
-        "changePercent": 7.43,
-        "trailingPE": 54.82,
-        "buyZone": "112.74 ~ 117.64",
-        "takeProfit": "153.18",
-        "stopLoss": "107.84",
-        "reason": "PCB龙头，AI服务器需求旺盛，股价约20元"
-      },
-      {
-        "code": "601138.SS",
-        "name": "工业富联",
-        "price": 70.3,
-        "changePercent": 4.68,
-        "trailingPE": 34.32,
-        "buyZone": "65.38 ~ 68.19",
-        "takeProfit": "87.88",
-        "stopLoss": "59.75",
-        "reason": "AI服务器代工龙头，直接受益于英伟达供应链"
-      },
-      {
-        "code": "002371.SZ",
-        "name": "北方华创",
-        "price": 698.19,
-        "changePercent": 4.36,
-        "trailingPE": 90.76,
-        "buyZone": "628.37 ~ 663.28",
-        "takeProfit": "837.83",
-        "stopLoss": "614.41",
-        "reason": "半导体设备龙头，国产替代核心标的"
-      },
-      {
-        "code": "000063.SZ",
-        "name": "中兴通讯",
-        "price": 36.27,
-        "changePercent": 1.77,
-        "trailingPE": 38.77,
-        "buyZone": "33.37 ~ 34.82",
-        "takeProfit": "45.34",
-        "stopLoss": "31.92",
-        "reason": "5G与AI基础设施，政企业务增长，股价约30元"
-      }
-    ],
-    "usSharePool": [
-      {
-        "code": "NVDA",
-        "name": "英伟达",
-        "price": 215.35,
-        "changePercent": -1.8951,
-        "trailingPE": 32.6476,
-        "buyZone": "193.81 ~ 204.58",
-        "takeProfit": "269.19",
-        "stopLoss": "183.05",
-        "reason": "AI芯片绝对龙头，Blackwell架构驱动增长"
-      },
-      {
-        "code": "AMD",
-        "name": "超微半导体",
-        "price": 467.53,
-        "changePercent": 3.9903,
-        "trailingPE": 152.1905,
-        "buyZone": "420.78 ~ 444.15",
-        "takeProfit": "584.41",
-        "stopLoss": "397.40",
-        "reason": "AI芯片第二极，MI400与CPU双轮驱动"
-      },
-      {
-        "code": "SNAP",
-        "name": "Snap Inc.",
-        "price": 5.73,
-        "changePercent": 0.703,
-        "trailingPE": null,
-        "buyZone": "5.27 ~ 5.50",
-        "takeProfit": "7.45",
-        "stopLoss": "4.87",
-        "reason": "社交平台AI广告变现，股价低于15美元，业绩拐点"
-      },
-      {
-        "code": "SOFI",
-        "name": "SoFi科技",
-        "price": 15.63,
-        "changePercent": -0.1278,
-        "trailingPE": 34.7291,
-        "buyZone": "14.38 ~ 15.00",
-        "takeProfit": "20.32",
-        "stopLoss": "13.29",
-        "reason": "金融科技平台，利率环境有利，股价约10美元"
-      },
-      {
-        "code": "RGTI",
-        "name": "Rigetti Computing",
-        "price": 26.43,
-        "changePercent": 19.9183,
-        "trailingPE": null,
-        "buyZone": "23.79 ~ 25.11",
-        "takeProfit": "35.68",
-        "stopLoss": "22.47",
-        "reason": "量子计算龙头，政府投资催化，股价约4美元"
-      },
-      {
-        "code": "PLTR",
-        "name": "Palantir",
-        "price": 136.9,
-        "changePercent": -0.3748,
-        "trailingPE": 143.8264,
-        "buyZone": "125.95 ~ 131.42",
-        "takeProfit": "171.13",
-        "stopLoss": "120.47",
-        "reason": "AI数据分析，政府与商业双轮驱动，股价约20美元"
-      },
-      {
-        "code": "AVGO",
-        "name": "博通",
-        "price": 414.16,
-        "changePercent": -0.0989,
-        "trailingPE": 78.5206,
-        "buyZone": "381.03 ~ 397.59",
-        "takeProfit": "517.70",
-        "stopLoss": "364.46",
-        "reason": "AI网络芯片与VMware整合，估值合理"
-      },
-      {
-        "code": "MRVL",
-        "name": "美满电子",
-        "price": 196.35,
-        "changePercent": 2.9682,
-        "trailingPE": 64.3786,
-        "buyZone": "180.64 ~ 188.50",
-        "takeProfit": "245.44",
-        "stopLoss": "172.79",
-        "reason": "数据基础设施芯片，AI定制化ASIC受益"
-      }
-    ]
+    "aSharePool": [],
+    "usSharePool": []
   },
   "dynamicSectors": [
     {
-      "id": "ai_large_model",
-      "name": "人工智能/大模型",
-      "status": "泡沫与突破并存",
+      "id": "pending",
+      "name": "待更新",
+      "status": "AI 分析暂不可用",
       "latestNews": [
-        "英伟达Q1营收816亿美元超预期，数据中心收入年增92%，并宣布800亿美元股票回购，但承认放弃中国高端AI芯片市场，华为填补空白。英伟达创始人黄仁勳盛赞AI代理是下一个ChatGPT，并透露Vera Rubin平台全年供不应求。同时，Anthropic在企业采用率上首次超越OpenAI，预计Q2营收109亿美元，首次盈利。但AI成本问题凸显：微软要求员工用自家Copilot CLI而非Claude Code，多家企业缩减AI工具规模。",
-        "苹果低调注册genai.apple.com子域，预计WWDC 2026全面押注生成式AI，iOS 27将深度整合AI。谷歌全面改造搜索引擎，引入类ChatGPT界面与AI代理功能，由Gemini 3.5 Flash驱动。OpenAI冲刺IPO，计划9月上市，但治理问题仍存。AI模型安全性引发担忧：Anthropic未公开模型Mythos一个月挖出万余漏洞，五角大楼成立AI工作组部署前沿工具。",
-        "中国方面，华为利用DoB封装技术开发122TB SSD突破出口管制，实现量产。DeepSeek永久降低V4-Pro API价格75%，掀起价格战。华硕旗下台智云5月29日登兴柜，瞄准企业AI代理商机。台湾首次半导体走私打击：3名嫌疑人涉嫌非法出口高端AI服务器至中国大陆。"
+        "待下次管道运行更新。"
       ],
-      "catalyst": "短期催化剂密集：6月1日黄仁勳COMPUTEX演讲（Vera Rubin细节）、6月9日苹果WWDC（gen.ai战略）、6月12日SpaceX IPO（AI算力出租给Anthropic）。这些事件将强化AI基础设施投资叙事，尤其利好GPU、HBM、先进封装、液冷散热等环节。中国对标标的：中际旭创（光模块）、工业富联（AI服务器）、沪电股份（PCB）。",
-      "riskFactor": "最大风险来自估值泡沫与消费端收缩。美国消费者信心指数创74年新低，居民购买力下降可能拖累AI终端需求（手机、PC）。美联储鹰派转向（沃勒、华许）若启动升息，科技股估值将承压。此外，AI企业成本压力增大（Token计费涨价），若盈利不达预期可能引发资本开支削减。",
+      "catalyst": "暂无数据。",
+      "riskFactor": "暂无数据。",
       "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "NVDA",
-            "name": "英伟达",
-            "exposureReason": "AI芯片绝对龙头，数据中心收入占比80%以上，Vera Rubin平台驱动增长。",
-            "price": 215.35,
-            "changePercent": -1.8951,
-            "pe": null,
-            "trailingPE": 32.6476,
-            "priceToBook": 26.9275,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "002463.SZ",
-            "name": "沪电股份",
-            "exposureReason": "AI服务器PCB核心供应商，英伟达/AMD供应链，量价齐升。",
-            "price": 122.54,
-            "changePercent": 7.43,
-            "pe": null,
-            "trailingPE": 54.82,
-            "priceToBook": 14.9,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "00981.HK",
-            "name": "中芯国际",
-            "strategyAdvice": "A股半导体ETF（512760）逢低布局，AI算力长期驱动。"
-          }
-        ]
-      }
-    },
-    {
-      "id": "advanced_packaging",
-      "name": "先进封装（FOPLP）",
-      "status": "技术突破期",
-      "latestNews": [
-        "扇出型面板级封装（FOPLP）技术崛起，成为CoWoS后AI芯片封装新焦点。英伟达与AMD看重其高散热与低成本优势，带动台湾供应链商机。力成（6239）积极布局并获AMD支持，目标2027年量产；群创（3481）利用G3.5玻璃基板异质整合，已切入低轨卫星供应链。东捷（8064）提供雷射切割与AOI一站式服务。",
-        "台积电传大砍15%员工分红引发员工不满，扬言效法三星工会罢工。但台积电2nm量产与CoPoS封装仍在推进，维持领先地位。AMD苏姿丰访台宣布逾百亿美元投资台湾先进封装，点名日月光、矽品等。",
-        "传统产业切入AI供应链：谢金河举例味之素、TOTO等日本传产大厂转型AI材料，中国昱镭应材与兆丰签约上市辅导，抢攻AI高階CCL树脂。"
-      ],
-      "catalyst": "短期催化剂：COMPUTEX（6月1日）黄仁勳演讲可能展示FOPLP在Vera Rubin中的应用，AMD苏姿丰后续演讲亦强调先进封装投资。台积电2nm量产进展将直接推动CoPoS需求。中国对标：长电科技、通富微电、华天科技等封装厂商将受益于FOPLP技术扩散。",
-      "riskFactor": "FOPLP技术尚处于早期，良率与可靠性仍需验证，量产时间表（2027年）存在不确定性。台积电若因员工罢工或管理层变动导致产能紧张，可能影响封装供应。此外，美国半导体关税非迫在眉睫但贸易壁垒长期存在，技术外溢风险。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "600584.SS",
-            "name": "长电科技",
-            "exposureReason": "国内封装龙头，先进封装技术布局完整，FOPLP潜在受益者。",
-            "price": 80.17,
-            "changePercent": 10,
-            "pe": null,
-            "trailingPE": 86.83,
-            "priceToBook": 4.99,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "002156.SZ",
-            "name": "通富微电",
-            "exposureReason": "与AMD深度绑定，先进封装产能扩张，直接受益AMD投资。",
-            "price": 69.78,
-            "changePercent": 9.99,
-            "pe": null,
-            "trailingPE": 73.22,
-            "priceToBook": 6.76,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "159865.SZ",
-            "name": "半导体ETF",
-            "strategyAdvice": "逢回调分仓买入，先进封装是AI产业链价值延伸方向。"
-          }
-        ]
-      }
-    },
-    {
-      "id": "passive_components",
-      "name": "被动元件（MLCC）",
-      "status": "涨价周期启动",
-      "latestNews": [
-        "AI服务器需求导致高階MLCC及铝电交期翻倍至3-4个月，下半年供需缺口扩大，漲價週期正式啟動。被动元件厂商股价大涨：某代理商10天飙90%，全年EPS上看8.5元。輝達新一代AI平台VeraRubin功耗持續提升，高階MLCC用量倍增。",
-        "漲價、轉單雙引擎點火，被動元件大廠拉2涨停成交近5万张，台玻、力积电跟涨。鉭電容、MLCC缺货严重，车用与工业需求同步回温，景气度全面向上。",
-        "华新科、国巨等龙头宣布Q3提价10-15%，下游厂商备货积极。中国厂商三环集团、风华高科亦跟进涨价，国产替代加速。"
-      ],
-      "catalyst": "短期催化剂：英伟达Vera Rubin平台量产（预计6月COMPUTEX发布）将直接拉动对高容MLCC需求，单台AI服务器MLCC用量超1000颗。Q3传统旺季叠加车用回暖，供需缺口可能持续至年底。中国对标：三环集团（300408）、风华高科（000636）、火炬电子（603678）。",
-      "riskFactor": "涨价周期通常持续6-9个月，但终端消费若持续恶化（消费者信心崩溃）可能抑制需求。MLCC价格上涨过快可能引发下游抵制，转向替代方案。此外，中国产能扩张弹性大，若供给迅速放量将压制涨价持续性。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "300408.SZ",
-            "name": "三环集团",
-            "exposureReason": "MLCC国产替代龙头，高容产品突破，量价齐升。",
-            "price": 115.35,
-            "changePercent": 0.3,
-            "pe": null,
-            "trailingPE": 76.85,
-            "priceToBook": 10.26,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "000636.SZ",
-            "name": "风华高科",
-            "exposureReason": "MLCC与电阻双主业，受益涨价与国产化。",
-            "price": 41.38,
-            "changePercent": 9.99,
-            "pe": null,
-            "trailingPE": 155.8,
-            "priceToBook": 3.84,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "159997.SZ",
-            "name": "电子ETF",
-            "strategyAdvice": "被动元件占比高，逢低关注，分享涨价红利。"
-          }
-        ]
-      }
-    },
-    {
-      "id": "new_energy_vehicle",
-      "name": "新能源车",
-      "status": "合资品牌突破",
-      "latestNews": [
-        "别克至境E7上市首月交付破万，刷新合资新能源最快交付纪录，印证合资品牌在新能源领域的反攻。该车售价15.99万元起，性价比突出，搭载通用奥特能平台，续航600km以上。此举将加剧国内新能源车市场竞争，逼迫自主品牌进一步降价。",
-        "比亚迪5月销量有望突破35万辆，高端品牌仰望U8交付持续爬坡。同时，比亚迪开启新一轮降价，海豚荣耀版降至8.98万元，抢攻入门市场。",
-        "蔚来、小鹏、理想披露5月第三周交付数据：蔚来周交付8000台创新高，小鹏MONA来袭，理想L6订单超3万。"
-      ],
-      "catalyst": "短期催化剂：6月北京车展余温未消，多项补贴政策（以旧换新、购置税减免）落地，刺激终端消费。欧盟对中国电动车加征关税短期利空落地，中国车企加速在欧建厂（比亚迪匈牙利、奇瑞西班牙）。技术创新：固态电池（清陶、宁德时代）突破，Q4有望量产。",
-      "riskFactor": "行业价格战加剧，车企盈利能力持续承压（多数车企一季度亏损）。消费者信心低迷可能抑制大宗消费。欧盟关税与美国对华电动车100%关税构成贸易壁垒，出海速度不及预期。上游原材料价格波动（碳酸锂反弹后回落）。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "002594.SZ",
-            "name": "比亚迪",
-            "exposureReason": "新能源车绝对龙头，垂直整合优势，海外市场加速。",
-            "price": 95.96,
-            "changePercent": 2.36,
-            "pe": null,
-            "trailingPE": 31.76,
-            "priceToBook": 3.77,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "600104.SS",
-            "name": "上汽集团",
-            "exposureReason": "合资品牌新能源转型（通用+大众），估值低位，股息率可观。",
-            "price": 12.33,
-            "changePercent": -1.2,
-            "pe": null,
-            "trailingPE": 14.02,
-            "priceToBook": 0.47,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "515030.SS",
-            "name": "新能源车ETF",
-            "strategyAdvice": "行业竞争加剧，但龙头集中度提升，逢低定投龙头股。"
-          }
-        ]
-      }
-    },
-    {
-      "id": "precious_metals_safe_haven",
-      "name": "贵金属与避险资产",
-      "status": "避险需求激增",
-      "latestNews": [
-        "美伊和平協議曙光致油價暴跌近5%，但贵金属同步走强：现货金急升1.46%至4568美元，现货银狂飙逾4%至78.68美元。市场逻辑从'避险退潮'转为'能源通膨与升息压力缓解'，但实际是美元指数走弱+实际利率下行双重驱动。",
-        "美国消费者信心指数创74年新低44.8，密西根大学调查显示1年期通胀预期升至4.2%，民众对财务与景气极度悲观。消费者信心崩溃往往领先贵金属上涨，1970年代经验表明滞胀环境下黄金表现突出。",
-        "全球央行持续增持黄金：中国央行连续18个月增持，印度、波兰等新兴市场央行跟进。黄金ETF持仓本月增加30吨，Comex净多头持仓升至2020年以来高位。"
-      ],
-      "catalyst": "短期催化剂：6月美联储会议若转向鹰派（升息预期）可能打压金价，但衰退交易若进一步强化则支撑黄金。地缘风险（伊朗谈判破裂、台海紧张）随时可能触发避险飙升。白银受益于工业需求（光伏、AI电气化）叠加金融属性，弹性更大。",
-      "riskFactor": "美联储意外转鹰（升息）将导致金价短期回调20-30美元。美元走强亦压制贵金属。此外，若美伊达成全面协议，风险偏好回升将削弱避险需求。但长期通胀预期与去美元化趋势提供支撑。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "600489.SS",
-            "name": "中金黄金",
-            "exposureReason": "央企黄金龙头，产量增长，成本控制优秀，业绩弹性大。",
-            "price": 23.78,
-            "changePercent": 2.1,
-            "pe": null,
-            "trailingPE": 18.37,
-            "priceToBook": 3.51,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "518880.SS",
-            "name": "黄金ETF",
-            "strategyAdvice": "长期配置作为组合压舱石，短期回调可加仓。"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fed_monetary_policy",
-      "name": "美联储货币政策博弈",
-      "status": "预期剧烈摇摆",
-      "latestNews": [
-        "Fed理事沃勒明确鹰声：反对降息，主张从声明中移除'宽松倾向'措辞，强调升息可能性。其估算中东冲突推高整体通胀约0.5个百分点，通膨回落需要更长时间。华许正式接任Fed主席，誓言改革抗通胀，市场聚焦6月会议是否打开升息大门。",
-        "川普一手促华许上任，一手催降息，前后表态矛盾。白宫枪击事件（枪手被击毙）增加政治不确定性，但市场反应平淡。同时，美国贸易代表格里尔称芯片关税非迫在眉睫，但强调保护本土产业。",
-        "美元指数逼近六周高点99.24，日圆逼近160干预警戒线。美债收益率曲线陡化，2s10s利差走阔至45bp，交易员定价年内一次升息概率升至35%。"
-      ],
-      "catalyst": "短期催化剂：5月非农就业数据（6月5日）、5月CPI（6月11日）将决定6月FOMC方向。若就业强劲或通胀超预期，升息预期将激化，利好美元利空风险资产。若数据疲软，降息交易回归将提振黄金与科技股。",
-      "riskFactor": "美联储政策节奏难以预测，市场经常误判。若被迫升息，将戳破AI估值泡沫。川普政治干预可能损害Fed独立性，长期来看削弱美元信用，但短期推高美元避险需求。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "XLK",
-            "name": "科技行业SPDR基金",
-            "exposureReason": "科技股对利率敏感，升息预期下减持，降息预期下增持。",
-            "price": 180.41,
-            "changePercent": 1.0134,
-            "pe": null,
-            "trailingPE": null,
-            "priceToBook": null,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "TLT",
-            "name": "20年期国债ETF",
-            "strategyAdvice": "若升息预期缓和可买入长端债券博弈降息，波动大但赔率高。"
-          }
-        ]
+        "stocks": [],
+        "fundsEtfs": []
       }
     }
   ],
-  "articles": [
-    {
-      "originalTitle": "US consumer sentiment hits 44.8 in May, lowest since 1952",
-      "title": "美国5月消费者信心指数44.8，创1952年以来最低",
-      "source": "密西根大学/雅虎财经",
-      "category": "TECHNOLOGY",
-      "url": "https://tw.stock.yahoo.com/news/美国密西根大学5月消费者信心指数终值降至44-8-创74年新低-231042957.html",
-      "publishedAt": "2026-05-24T15:10:42Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "消费者信心指数终值44.8，远低于预期48.2",
-        "现况指数45.8，预期指数44.1，全面下滑",
-        "1年期通胀预期升至4.2%"
-      ],
-      "credibilityScore": 9,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "密西根大学5月消费者信心指数终值录得44.8，大幅低于4月的49.8和市场预期的48.2，创下自1952年调查启动以来的最低水平。分项指标全面恶化：现况指数降至45.8，预期指数降至44.1。1年期通胀预期从4.1%升至4.2%，消费者对就业、收入和商业环境的评估同步恶化，反映高通胀、高利率和地缘不确定性对家庭财务的持续侵蚀。",
-        "transmissionChain": "消费者信心崩溃将直接抑制零售消费、耐用消费品（汽车、家电）和住房需求，进而影响相关企业的营收和利润。同时，信心低迷会加剧储蓄倾向，减少货币流通速度，延缓经济复苏。对股市而言，消费类股票（如耐克、沃尔玛）将承压，而防御性板块（医疗、公用事业）可能获得资金流入。此外，通胀预期上升将强化美联储鹰派立场，推高美债收益率，压制科技股估值。",
-        "chinaMarketMapping": "美国消费疲软将减少对中国出口的需求，尤其纺织、玩具、电子产品等劳动密集型行业。但对中国外贸企业也可能带来结构性机会：若美国消费者转向性价比更高的中国商品，部分外贸企业订单反而增加。A股中，出海企业（如家电龙头美的、海尔）需关注美国需求波动。中期看，美国经济放缓将促使美联储转向降息，人民币贬值压力缓解，利好A股外资回流。"
-      }
-    },
-    {
-      "originalTitle": "Fed's Waller says rate cut talk 'crazy', open to hike",
-      "title": "美联储沃勒称降息言论‘疯狂’，开放升息选项",
-      "source": "雅虎财经",
-      "category": "TECHNOLOGY",
-      "url": "https://tw.stock.yahoo.com/news/沃勒鹰声震撼市场，直斥降息论荒谬，华许上任首战恐转向升息防线-232235166.html",
-      "publishedAt": "2026-05-24T15:22:35Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "沃勒主张从政策声明中移除'宽松倾向'措辞",
-        "指出中東衝突已擴散至食品、服飾價格",
-        "估計Fed需額外加息0.5-1%才足以壓制通膨"
-      ],
-      "credibilityScore": 9,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "美联储理事沃勒发表惊人鹰派言论，明确反对近期任何降息的可能，并主张从FOMC政策声明中删除带有降息暗示的'宽松倾向'表述。他估算中東衝突已將整體通膨推高約0.5個百分點，並開始滲透至核心服務領域，因此Fed可能需要額外升息0.5-1%才能確保物價穩定。这一表态与市场此前定价的降息预期形成强烈反差。",
-        "transmissionChain": "沃勒言论直接触发美元指数跳升至99.24，美债收益率曲线陡化，2年期收益率升8bp至4.95%。利率期货市场将年内降息概率从55%骤降至30%，升息概率升至35%。美股科技板块首当其冲（英伟达当日跌1.9%），高估值成长股面临估值压缩。银行股受益于利差扩大反弹。黄金因实际利率上行承压但跌幅有限。",
-        "chinaMarketMapping": "美联储转鹰将导致人民币贬值压力加大（美元兑人民币可能重测6.85），压制北向资金流入A股。但中国央行可借机实施更宽松货币政策（降准降息），利好国内利率敏感行业（地产、基建）。科技股（尤其半导体）估值承压，但国产替代逻辑对冲。关注外贸企业汇兑收益弹性。"
-      }
-    },
-    {
-      "originalTitle": "Trump says no rush to sign Iran deal, blockade continues",
-      "title": "川普称不急于签伊朗协议，持续封锁霍尔木兹海峡",
-      "source": "雅虎财经",
-      "category": "TECHNOLOGY",
-      "url": "https://tw.news.yahoo.com/川普称不急於签署伊朗协议-美军持续封锁荷姆兹海峡-151525324.html",
-      "publishedAt": "2026-05-24T15:15:25Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "川普指示代表不用急于与伊朗达成协议",
-        "美军维持对霍尔木兹海峡的封锁",
-        "油价电子盘早段跌近5%后反弹"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "美国总统川普表示已指示代表不需要急于与伊朗签署协议，打破市场对近期和平突破的预期。他强调在签署协议前，美军对霍尔木兹海峡的封锁将继续。这一表态导致油价早段急跌近5%（因部分多头押注和平协议）后反弹，最终收平。伊朗最高领袖顾问则强硬回应：管理海峡是德黑兰合法权利。",
-        "transmissionChain": "地缘风险持续支撑油价在95-100美元区间，航运股（达飞海运一季度利润暴跌78%）承压。贵金属因避险需求维持强势。航空股因燃油成本担忧下跌。此外，海峡封锁影响全球原油供应约20%，若长期化将推高通胀，强化美联储鹰派立场。欧洲与亚洲能源进口国（日本、韩国）面临更大压力。",
-        "chinaMarketMapping": "中国作为最大原油进口国，高油价增加输入性通胀压力，压制企业利润。但中国通过加大俄罗斯、委内瑞拉原油采购对冲部分影响。A股油气开采（中国海油、中石油）受益，炼化（恒力石化）成本承压。新能源替代逻辑加速，光伏、电动车长期受益。地缘不确定性提升人民币避险需求。"
-      }
-    },
-    {
-      "originalTitle": "Gold surge 1.46%, silver 4.19% on oil crash and rate cut hopes",
-      "title": "油价暴跌点燃降息交易，现货金急升1.46%，现货银狂飙逾4%",
-      "source": "雅虎财经",
-      "category": "TECHNOLOGY",
-      "url": "https://tw.stock.yahoo.com/news/油价暴跌点燃降息交易-现货金急升1-46-现货银狂飙逾4-领跑贵金属-000440700.html",
-      "publishedAt": "2026-05-24T16:04:40Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "美伊和平曙光促油价急跌近5%",
-        "现货金升至4568美元，白银至78.68美元",
-        "市场逻辑从避险退潮转为通胀压力缓解"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "美伊和谈曙光引发油价大跌近5%，但贵金属不跌反涨。现货运金升至4568美元（+1.46%），白银暴涨4.19%至78.68美元。市场逻辑从'避险退潮'切换至'能源通胀缓解+降息预期回升'。实际利率下行驱动金银走强，而白银因兼具工业属性（光伏、AI）弹性更大。",
-        "transmissionChain": "油价下跌直接利好航空、航运、化工等下游行业降低成本。降息预期回升提振科技股估值（纳指盘中止跌反弹）。但美元指数因沃勒鹰派言论仍强，金银涨幅受限。白银的工业需求（光伏银浆、电子触头）在AI电气化趋势下持续增长，形成需求侧支撑。",
-        "chinaMarketMapping": "中国贵金属投资者情绪高涨，上期所沪银主力合约涨停。A股黄金板块（山东黄金、中金黄金）跟涨。白银相关标的（盛达资源、兴业矿业）弹性更大。但需注意，若美伊协议最终签署，金银可能回调。中国光伏银浆龙头（帝科股份、苏州固锝）间接受益于白银需求。"
-      }
-    },
-    {
-      "originalTitle": "Huang Jen-hsun visits Morris Chang ahead of COMPUTEX",
-      "title": "黄仁勳提前来台拜访张忠谋，为COMPUTEX暖身",
-      "source": "雅虎财经",
-      "category": "AI_MODEL",
-      "url": "https://tw.stock.yahoo.com/news/巨头酒叙3小时-提威士忌作客-黄仁勳笑赞-张忠谋状态很好-154302133.html",
-      "publishedAt": "2026-05-24T15:43:02Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "黄仁勳携全家拜访台积电创始人张忠谋",
-        "餐叙近3小时，预计COMPUTEX发布重大消息",
-        "黄仁勳之后逛饶河夜市，市场关注AI供应链行情"
-      ],
-      "credibilityScore": 9,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "英伟达CEO黄仁勳提前抵台，携带威士忌拜访台积电创始人张忠谋及其夫人张淑芬，餐叙近3小时。这是黄仁勳每年COMPUTEX前的惯例行程，旨在巩固与关键伙伴的关系。随后他现身饶河夜市，引发市场对COMPUTEX主题演讲（6月1日）的期待，预计将披露Vera Rubin平台细节及AI Agent战略。",
-        "transmissionChain": "黄仁勳与张忠谋会面传递台积电-英伟达合作关系稳定的信号，利好台积电供应链。COMPUTEX演讲预期将带动AI芯片、散热、PCB、先进封装等板块上涨。夜市行程被媒体大量报道，提升台湾AI概念股散户投资情绪。此外，黄仁勳此前透露Vera Rubin全年供不应求，预示订单能见度高。",
-        "chinaMarketMapping": "A股英伟达供应链标的（工业富联、沪电股份、胜宏科技）受益于COMPUTEX行情。但黄仁勳承认放弃中国AI芯片市场，英伟达在中国销售受限，利好华为昇腾生态链（四川长虹、华鲲振宇）。中国AI算力租赁概念（鸿博股份、中贝通信）获催化。"
-      }
-    },
-    {
-      "originalTitle": "TSMC reportedly slashes 15% employee bonuses, staff threaten to strike",
-      "title": "传台积电大砍15%员工分红，员工扬言效法三星罢工",
-      "source": "Hkepc.com",
-      "category": "SEMICONDUCTOR",
-      "url": "https://www.hkepc.com/25834/传_TSMC_大砍_15%_员工分红_TSMC_员工︰扬言效法_Samsung_工会",
-      "publishedAt": "2026-05-24T15:32:07Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "内部传言台积电将调降分红15%",
-        "员工在社群表达不满，称将考虑罢工",
-        "台积电官方未正式回应"
-      ],
-      "credibilityScore": 5,
-      "riskPoints": [
-        "夸大其词",
-        "非独立第三方"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "台湾媒体爆料台积电内部社群热议公司拟调降员工分红15%，引发员工强烈不满，部分人声称不排除效法三星工会采取罢工行动。该消息源仅为员工论坛讨论，未获台积电官方证实。但三星工会去年曾因奖金问题酝酿罢工，凸显半导体行业人力成本压力上升。",
-        "transmissionChain": "若台积电确实降薪，将影响员工士气与生产效率，可能拖延先进制程（2nm）量产进度。晶圆代工成本上升将传导至下游设计公司（英伟达、AMD）的芯片价格。但台积电凭借技术垄断地位，客户转单空间有限。若罢工发生，全球AI芯片供应链将受严重冲击。",
-        "chinaMarketMapping": "中国半导体产业高度关注台积电动态，若台积电产能受影响，中国芯片设计公司可能寻求中芯国际、华虹等代工机会。但中芯国际先进制程（7nm以下）仍受设备限制，替代空间有限。A股半导体设备（北方华创）受益于国产替代加速逻辑。"
-      }
-    },
-    {
-      "originalTitle": "FOPLP packaging emerges as new focus for AI chips",
-      "title": "扇出型面板级封装（FOPLP）成为AI芯片封装新焦点",
-      "source": "雅虎财经",
-      "category": "AI_MODEL",
-      "url": "https://tw.stock.yahoo.com/news/群创股价50元有机会-报告一次看-160500954.html",
-      "publishedAt": "2026-05-24T16:05:00Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "力成获AMD支持，目标2027年量产",
-        "群创利用G3.5玻璃基板切入低轨卫星",
-        "东捷提供激光切割与AOI一站式服务"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "FOPLP技术利用矩形面板级基板代替圆形晶圆，提高产能利用率并降低成本，成为CoWoS后AI芯片封装的新方向。力成（6239）获得AMD背书并计划2027年量产，群创（3481）利用G3.5玻璃基板实现异质整合并打入低轨卫星供应链，设备商东捷（8064）提供全套解决方案。该技术将降低AI芯片封装成本并满足散热需求。",
-        "transmissionChain": "FOPLP降低AI芯片封装成本约20-30%，利好GPU、CPU和ASIC设计厂商（英伟达、AMD、博通）。玻璃基板供应商（群创、友达）开辟新增长点。设备端（东捷、激光设备商）订单增长。传统封测厂（日月光、力成）面临技术迭代机遇与挑战。低轨卫星通信（SpaceX Starlink）需求为FOPLP提供额外应用。",
-        "chinaMarketMapping": "中国封测企业（长电科技、通富微电）正积极布局FOPLP技术，与国内面板厂商（京东方、TCL华星）合作开发玻璃基板。设备环节（大族激光、德龙激光）受益于国产替代。此外，FOPLP与低轨卫星结合为A股华力创通、盟升电子等卫星通信标的提供想象空间。"
-      }
-    },
-    {
-      "originalTitle": "MLCC supply crunch fuel price hike cycle",
-      "title": "高階MLCC供不应求，涨价周期启动",
-      "source": "雅虎财经",
-      "category": "AI_MODEL",
-      "url": "https://tw.stock.yahoo.com/news/高阶MLCC供不应求-这被被动元件代理厂-股价10天飙90-全年EPS上看8-5元-230000435.html",
-      "publishedAt": "2026-05-24T15:00:00Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "AI伺服器需求导致MLCC交期翻倍",
-        "代理商股价10天飙90%",
-        "Vera Rubin平台用量提升使缺口扩大"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "英伟达Vera Rubin平台功耗高达1500W，对高容MLCC用量倍增，导致MLCC交期从4-6周延长至12-16周，部分型号甚至更长。被动元件代理商日电（Taiwan Passivo）股价10天飙涨90%，市场预期其全年EPS达8.5元。国巨、华新科等厂商宣布Q3提价10-15%。供需缺口预计持续至年底。",
-        "transmissionChain": "MLCC涨价将直接增厚被动元件公司利润，同时提升国产替代企业议价能力。下游系统厂商（服务器ODM、手机品牌）成本承压，但可通过提价转嫁。涨价周期通常持续2-3个季度，期间相关股票具有明显超额收益。此外，钽电容、电感等元件也可能跟涨。",
-        "chinaMarketMapping": "A股MLCC概念：三环集团（300408）高容产品突破，风华高科（000636）涨价弹性大，火炬电子（603678）军用MLCC。但需警惕，若终端消费疲软（消费者信心低），涨价可能抑制需求。中长期看，MLCC国产替代空间巨大（目前自给率不足20%），AI服务器需求提供千亿市场。"
-      }
-    },
-    {
-      "originalTitle": "BYD Song L EV sales exceed 10,000 in first month",
-      "title": "别克至境E7上市首月交付破万刷新合资新能源纪录",
-      "source": "IT之家",
-      "category": "SMART_MOBILITY",
-      "url": "https://www.ithome.com/0/954/632.htm",
-      "publishedAt": "2026-05-24T13:41:29Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "别克至境E7首月交付破万",
-        "售价15.99万元起，性价比突出",
-        "刷新合资新能源最快交付纪录"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "别克至境E7上市首月交付量突破1万辆，这是合资品牌在新能源领域的最佳月度交付成绩。该车基于通用奥特能平台，续航600km+，配备L2+智能驾驶，定价15.99万元直接对标比亚迪宋系列。证明传统合资巨头在电动化和智能方面仍具竞争力，通过本土化快速响应市场。",
-        "transmissionChain": "别克的成功将刺激其他合资品牌（大众ID.系列、丰田bZ系列）加速产品迭代，进一步加剧新能源车价格战。消费者受益于更多高性价比选择。供应链方面，奥特能平台国产化率提升，利好中国三电供应商（宁德时代、汇川技术）。同时，合资品牌复苏可能挤压造车新势力（蔚小理）市占率。",
-        "chinaMarketMapping": "A股上汽集团（600104）作为合资股东直接受益，零部件板块华域汽车（600741）间接受益。但比亚迪、理想等自主品牌面临更大竞争压力。消费者信心低迷下，高性价比车型更易获得订单，利好供应链降本能力强的企业。"
-      }
-    },
-    {
-      "originalTitle": "Micron to quadruple DDR4 production capacity in Virginia",
-      "title": "美光宣布将维吉尼亚厂DDR4产能提升四倍",
-      "source": "雅虎财经",
-      "category": "AI_MODEL",
-      "url": "https://tw.news.yahoo.com/记忆体准备跳水-美光宣布大扩产-产能翻4倍-专家-周一可能要看到大场面-145000339.html",
-      "publishedAt": "2026-05-24T14:50:00Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "美光逆势扩产DDR4，产能翻4倍",
-        "此前曾计划停产DDR4",
-        "专家警告周一存储芯片股可能暴跌"
-      ],
-      "credibilityScore": 7,
-      "riskPoints": [
-        "夸大其词"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "美光宣布将把维吉尼亚州晶圆厂的DDR4产能提升4倍，逆转此前停产DDR4的计划。此举旨在抓住AI服务器对DDR4的大量需求（因DDR5价格昂贵），但可能引发市场对存储芯片供需过剩的担忧。存储芯片价格近期已因供需紧张而暴涨，美光此举或标志周期见顶信号。",
-        "transmissionChain": "美光扩产将增加DDR4供给，可能导致现货价格回落，压缩三星、SK海力士等厂商利润。但AI服务器对DDR5和HBM需求依然旺盛，高端存储仍供不应求。下游服务器厂商（戴尔、广达）成本有望降低。A股存储芯片概念（兆易创新、北京君正）短期承压，但国产替代逻辑不受影响。",
-        "chinaMarketMapping": "中国存储相关公司（长江存储、长鑫存储）面临全球产能扩张的竞争压力，但国产替代进程不受影响。A股存储产业链标的如澜起科技（接口芯片）、江波龙（模组）等中期需关注库存变化。投资者应警惕存储周期拐点。"
-      }
-    },
-    {
-      "originalTitle": "Apple registers genai.apple.com subdomain ahead of WWDC",
-      "title": "苹果注册genai.apple.com，WWDC全面押注生成式AI",
-      "source": "Unwire.hk",
-      "category": "AI_MODEL",
-      "url": "https://unwire.hk/2026/05/24/apple-genai-wmdc/news/",
-      "publishedAt": "2026-05-24T08:45:55Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "苹果注册genai.apple.com域名",
-        "预期WWDC发布生成式AI功能",
-        "iOS 27将深度整合AI"
-      ],
-      "credibilityScore": 9,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "苹果低调注册genai.apple.com子域，市场解读为6月9日WWDC 2026将全面公布生成式AI战略。此前传言苹果将在iOS 27中引入基于大模型的Siri升级、AI照片编辑、自动生成Emoji等功能，并与OpenAI/Google达成合作。此举标志苹果正式加入AI竞赛，可能改变移动AI竞争格局。",
-        "transmissionChain": "苹果AI战略将拉动A18/A19芯片需求（台积电3nm订单增加），利好存储（美光、三星的LPDDR6）、散热（双鸿）、光学（大立光）等供应链。同时，AI手机推动换机周期，提振消费电子产业链。App开发商需适应苹果AI生态，相关概念股活跃。但若产品不及预期，可能拖累股价。",
-        "chinaMarketMapping": "苹果AI落地中国需与本土大模型合作（百度、字节跳动），利好国内AI应用公司。A股果链（立讯精密、歌尔股份、蓝思科技）受益于换机预期。同时，华为、小米等竞争对手加速AI手机布局，相关供应链（韦尔股份、卓胜微）同样受益。注意中美科技脱钩风险。"
-      }
-    },
-    {
-      "originalTitle": "Nvidia targets CPU supremacy with $20B annual revenue push",
-      "title": "英伟达剑指最大CPU供应商，年营收有望近200亿美元",
-      "source": "雅虎财经",
-      "category": "AI_MODEL",
-      "url": "https://tw.stock.yahoo.com/news/辉达拚成-最大cpu供应商-年营收有望近200亿美元-153111805.html",
-      "publishedAt": "2026-05-24T15:31:11Z",
-      "isAnchorEvent": true,
-      "summary": [
-        "英伟达CEO放话成为最大CPU供应商",
-        "CPU年营收有望达200亿美元",
-        "Arm架构CPU Grace在数据中心快速渗透"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "严重利益相关"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "英伟达CEO在台北表示，公司计划成为全球最大CPU供应商，其Grace CPU是基于Arm架构的数据中心处理器，2025年营收已突破80亿美元，预计2026年接近200亿美元。英伟达凭借GPU+CPU超级芯片（Grace Hopper）捆绑销售策略，在AI服务器市场占据主导，挤压英特尔和AMD份额。",
-        "transmissionChain": "英伟达CPU崛起将直接威胁英特尔（数据中心业务）和AMD（EPYC）的市场地位。代工厂台积电受益于Grace订单增加，Arm生态进一步壮大。但由于英伟达GPU的垄断地位，客户可能担忧锁定效应，转向AMD或自研芯片。此外，AMD的CPU+GPU组合仍具竞争力。",
-        "chinaMarketMapping": "英伟达CPU无法出口到中国，利好华为鲲鹏CPU（基于Arm）和飞腾等国产CPU发展。中国服务器厂商（中科曙光、浪潮信息）面临两难：高端客户倾向英伟达方案但受出口限制，国产CPU性能尚有差距。长期看，中国CPU自主化进程加速，A股相关标的（海光信息、龙芯中科）受益。"
-      }
-    },
-    {
-      "originalTitle": "Frozen wind power reviews threaten $50 billion investment, AI power gap widens",
-      "title": "川普政府冻结风电审查，500亿美元投资告急，AI用电缺口恐再扩大",
-      "source": "雅虎财经",
-      "category": "AI_MODEL",
-      "url": "https://tw.stock.yahoo.com/news/川普政府冻结风电审查-500亿美元投资告急-ai用电缺口恐再扩大-232020780.html",
-      "publishedAt": "2026-05-24T15:20:20Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "国防部暂停陆上风电项目审批",
-        "涉及165座风场，投资超500亿美元",
-        "AI数据中心用电需求激增，可再生能源受阻加剧能源缺口"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "美国国防部以国家安全为由暂停审批新建陆上风电项目，至少250个规划中项目陷入停滞，涉及投资额超500亿美元。这与AI数据中心爆发式用电需求形成尖锐矛盾：Meta、谷歌等计划建设更多核能与天然气电站填补缺口。此举可能推高美国工业电价，影响制造业回流成本。",
-        "transmissionChain": "风电冻结将推高天然气和煤电需求，利好油气生产商（埃克森美孚、雪佛龙），但增加碳排放压力。AI公司被迫寻求核能合作（微软签约三里岛核电站），小型模块化反应堆（SMR）概念股受益。对传统电力设备商（通用电气、西门子能源）构成利好。中国光伏出口至美国可能增加。",
-        "chinaMarketMapping": "中国风电产业链（金风科技、明阳智能）短期无直接影响，但美国市场受限可能迫使国内产能转向。长期看，AI用电缺口加速全球清洁能源转型，中国光伏（隆基绿能、通威股份）和储能（宁德时代、比亚迪）行业受益。此外，中国特高压（国电南瑞、许继电气）海外市场需求上升。"
-      }
-    },
-    {
-      "originalTitle": "Spot Bitcoin ETF outflows hit $1.26 billion, largest in 3 months",
-      "title": "比特币现货ETF净流出12.6亿美元创三个月最大",
-      "source": "Bitcoinist",
-      "category": "DIGITAL_ASSETS",
-      "url": "https://bitcoinist.com/spot-bitcoin-etf-outflows-1-26-billion/",
-      "publishedAt": "2026-05-24T05:00:58Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "比特币ETF单周净流出12.6亿美元",
-        "创三个月最大纪录",
-        "ETH价格展望看跌，或跌至1600美元"
-      ],
-      "credibilityScore": 7,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "比特币现货ETF上周录得12.6亿美元的净流出，为三个月来最大单周资金外逃，显示机构投资者在高利率预期和风险偏好下降背景下减持加密货币敞口。同时，以太坊价格承压，技术图表指向可能跌至1600美元（较当前价下跌25%），Tom Lee的以太坊投资组合浮亏73亿美元。",
-        "transmissionChain": "ETF资金流出加剧比特币抛压，可能带动其他加密货币下跌，影响矿工利润（矿机公司如Marathon Digital、Riot Platforms）及交易所收入（Coinbase）。但稳定币与RWA代币化（市场达380亿美元）逆势增长，机构对数字资产的结构性配置仍在增加。",
-        "chinaMarketMapping": "中国对加密货币交易严格禁止，但部分投资者通过离岸平台参与。比特币下跌对A股区块链概念（四方精创、赢时胜）情绪有负面冲击。但香港合规交易所（OSL、HashKey）受机构青睐，证监会拟放宽散户交易，中长期利好香港金融科技生态。"
-      }
-    },
-    {
-      "originalTitle": "Taiwan semiconductor veteran says Taiwan holds AI chip trump card",
-      "title": "台湾半导体老将：台湾掌握AI芯片王牌，美韩难复制",
-      "source": "雅虎财经",
-      "category": "AI_MODEL",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7c03f7e9-fb1c-4e4d-b6f8-35ce091d4f86",
-      "publishedAt": "2026-05-24T14:36:18Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "昇阳半董事长称台湾AI芯片供应链完整",
-        "美韩难以短期复制",
-        "即使美国扶持英特尔也无法动摇"
-      ],
-      "credibilityScore": 7,
-      "riskPoints": [
-        "严重利益相关"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "台湾昇阳半董事长梁明成发表观点，认为台湾在AI时代拥有由台积电领军的完整供应链，从设计、制造、封装到材料均高度协同，其他国家即使大力投资也难以在短期内复制。他强调，美国扶持英特尔建厂并不能撼动台湾竞争优势，因为生态系需要数十年的积累。",
-        "transmissionChain": "该言论强化了台积电与台湾供应链的不可替代性，利好台股半导体板块。但同时可能加剧中美地缘紧张，美国可能加大对中国台湾的施压（例如扩大出口管制）。对全球半导体客户而言，过度依赖单一地区存在供应链风险，将加速分散化布局（美日欧建厂）。",
-        "chinaMarketMapping": "中国半导体产业无法依赖台湾供应链，必须加速自主研发。A股半导体设备、材料龙头（北方华创、中微公司、沪硅产业）长期受益于国产替代。但短期差距明显，高端芯片制造仍受制于人。政策支持力度将持续加大，大基金三期可能投向先进制程与设备。"
-      }
-    },
-    {
-      "originalTitle": "Senegal political turmoil, IMF talks support bond prices",
-      "title": "塞内加尔政坛震荡，IMF支撑债价，油价飙升或击穿财政防线",
-      "source": "雅虎财经",
-      "category": "TECHNOLOGY",
-      "url": "https://tw.stock.yahoo.com/news/塞内加尔政坛震盪-IMF重啟談判撐債價-油價飆升恐炸穿財政防線-231308161.html",
-      "publishedAt": "2026-05-24T15:13:08Z",
-      "isAnchorEvent": false,
-      "summary": [
-        "总统解除总理职务并解散政府",
-        "IMF重启谈判支撑塞内加尔债价",
-        "高油价可能恶化财政状况"
-      ],
-      "credibilityScore": 8,
-      "riskPoints": [
-        "正常客观"
-      ],
-      "forensicAnalysis": {
-        "underlyingFact": "塞内加尔总统法耶解除总理宋科职务并解散政府，结束数月权力斗争。IMF随即重启援助谈判，塞内加尔主权债券上涨0.5美分。但该国面临高油价（油价96美元）导致的进口成本飙升和财政赤字恶化风险，债务可持续性受质疑。",
-        "transmissionChain": "塞内加尔政治危机若恶化，可能引发非洲债务风险扩散（类似加纳、赞比亚违约事件），影响新兴市场债券基金。IMF援助条件通常包括结构性改革，可能引发社会动荡。油价高企加剧发展中国家国际收支压力，资本可能流向美元资产。",
-        "chinaMarketMapping": "中国是非洲最大债权国之一，塞内加尔债务问题可能影响中国海外资产风险。但中国在非洲的基础设施投资（一带一路）长期获益于资源开发。A股中有塞内加尔业务的公司（如中国交建、中国中铁）需关注，但影响有限。整体上，非洲债务风险对A股情绪面偏空。"
-      }
-    }
-  ],
-  "lastUpdated": "2026-05-25T16:11:39.481Z",
+  "articles": [],
   "marketBenchmarks": {
     "sp500": {
       "name": "标普 500",
@@ -1144,10 +321,6 @@
         }
       ],
       "trend7d": [
-        {
-          "time": "05-11",
-          "price": 7412.8
-        },
         {
           "time": "05-12",
           "price": 7401
@@ -1450,10 +623,6 @@
       ],
       "trend7d": [
         {
-          "time": "05-11",
-          "price": 26274.1
-        },
-        {
           "time": "05-12",
           "price": 26088.2
         },
@@ -1493,204 +662,140 @@
     },
     "csi300": {
       "name": "沪深 300",
-      "current": 4922.4,
-      "change": 1.2,
+      "current": 4930.1,
+      "change": 0.48,
       "trend24h": [
         {
           "time": "09:30",
-          "price": 4863.8
+          "price": 4906.6
         },
         {
           "time": "09:35",
-          "price": 4878.5
+          "price": 4911.1
         },
         {
           "time": "09:40",
-          "price": 4880.1
+          "price": 4911.5
         },
         {
           "time": "09:45",
-          "price": 4858
+          "price": 4895.5
         },
         {
           "time": "09:50",
-          "price": 4870.9
+          "price": 4896.1
         },
         {
           "time": "09:55",
-          "price": 4861.4
+          "price": 4917.2
         },
         {
           "time": "10:00",
-          "price": 4867.4
+          "price": 4919.2
         },
         {
           "time": "10:05",
-          "price": 4875.7
+          "price": 4935.7
         },
         {
           "time": "10:10",
-          "price": 4881
+          "price": 4929.9
         },
         {
           "time": "10:15",
-          "price": 4878.9
+          "price": 4929.8
         },
         {
           "time": "10:20",
-          "price": 4889.7
+          "price": 4928.9
         },
         {
           "time": "10:25",
-          "price": 4891.7
+          "price": 4937.3
         },
         {
           "time": "10:30",
-          "price": 4889.2
+          "price": 4936.9
         },
         {
           "time": "10:35",
-          "price": 4891.4
+          "price": 4926.2
         },
         {
           "time": "10:40",
-          "price": 4889.5
+          "price": 4918.3
         },
         {
           "time": "10:45",
-          "price": 4895.6
-        },
-        {
-          "time": "10:50",
-          "price": 4897.7
-        },
-        {
-          "time": "10:55",
-          "price": 4902.8
-        },
-        {
-          "time": "11:00",
-          "price": 4894.9
-        },
-        {
-          "time": "11:05",
-          "price": 4894.5
-        },
-        {
-          "time": "11:10",
-          "price": 4898.2
-        },
-        {
-          "time": "11:15",
-          "price": 4893.1
-        },
-        {
-          "time": "11:20",
-          "price": 4890.2
-        },
-        {
-          "time": "11:25",
-          "price": 4887.9
-        },
-        {
-          "time": "11:30",
-          "price": 4889.4
-        },
-        {
-          "time": "13:00",
-          "price": 4901.4
-        },
-        {
-          "time": "13:05",
-          "price": 4893.6
-        },
-        {
-          "time": "13:10",
-          "price": 4894.3
-        },
-        {
-          "time": "13:15",
-          "price": 4895.2
-        },
-        {
-          "time": "13:20",
-          "price": 4886.1
-        },
-        {
-          "time": "13:25",
-          "price": 4887.5
-        },
-        {
-          "time": "13:30",
-          "price": 4881.5
-        },
-        {
-          "time": "13:35",
-          "price": 4883.2
-        },
-        {
-          "time": "13:40",
-          "price": 4876.8
-        },
-        {
-          "time": "13:45",
-          "price": 4884.4
-        },
-        {
-          "time": "13:50",
-          "price": 4886.9
-        },
-        {
-          "time": "13:55",
-          "price": 4894.8
-        },
-        {
-          "time": "14:00",
-          "price": 4902.3
-        },
-        {
-          "time": "14:05",
-          "price": 4900.4
-        },
-        {
-          "time": "14:10",
-          "price": 4905.3
-        },
-        {
-          "time": "14:15",
-          "price": 4909.1
-        },
-        {
-          "time": "14:20",
-          "price": 4906.7
-        },
-        {
-          "time": "14:25",
-          "price": 4906.1
-        },
-        {
-          "time": "14:30",
           "price": 4910.4
         },
         {
-          "time": "14:35",
-          "price": 4910
+          "time": "10:50",
+          "price": 4917.1
         },
         {
-          "time": "14:40",
-          "price": 4912.7
+          "time": "10:55",
+          "price": 4919.1
         },
         {
-          "time": "14:45",
-          "price": 4919.3
+          "time": "11:00",
+          "price": 4898.8
         },
         {
-          "time": "14:50",
-          "price": 4919.4
+          "time": "11:05",
+          "price": 4912.3
         },
         {
-          "time": "14:55",
-          "price": 4922.4
+          "time": "11:10",
+          "price": 4900.3
+        },
+        {
+          "time": "11:15",
+          "price": 4914.7
+        },
+        {
+          "time": "11:20",
+          "price": 4913.9
+        },
+        {
+          "time": "11:25",
+          "price": 4906.3
+        },
+        {
+          "time": "11:30",
+          "price": 4907.7
+        },
+        {
+          "time": "13:00",
+          "price": 4922
+        },
+        {
+          "time": "13:05",
+          "price": 4923.1
+        },
+        {
+          "time": "13:10",
+          "price": 4928.4
+        },
+        {
+          "time": "13:15",
+          "price": 4926.6
+        },
+        {
+          "time": "13:20",
+          "price": 4916.2
+        },
+        {
+          "time": "13:25",
+          "price": 4915.5
+        },
+        {
+          "time": "13:30",
+          "price": 4928.8
+        },
+        {
+          "time": "13:33",
+          "price": 4930.1
         }
       ],
       "trend7d": [
@@ -1729,490 +834,322 @@
         {
           "time": "05-22",
           "price": 4845.1
+        },
+        {
+          "time": "05-25",
+          "price": 4921.6
+        },
+        {
+          "time": "05-26",
+          "price": 4930.1
         }
       ]
     },
     "csi500": {
       "name": "中证 500",
-      "current": 8705.2,
-      "change": 1.25,
+      "current": 8621.4,
+      "change": -0.09,
       "trend24h": [
         {
           "time": "09:30",
-          "price": 8598
+          "price": 8629.2
         },
         {
           "time": "09:35",
-          "price": 8625.9
+          "price": 8620
         },
         {
           "time": "09:40",
-          "price": 8625.8
+          "price": 8590.1
         },
         {
           "time": "09:45",
-          "price": 8581.5
+          "price": 8553.4
         },
         {
           "time": "09:50",
-          "price": 8583.8
+          "price": 8555.9
         },
         {
           "time": "09:55",
-          "price": 8551.6
+          "price": 8584.9
         },
         {
           "time": "10:00",
-          "price": 8588.5
+          "price": 8596
         },
         {
           "time": "10:05",
-          "price": 8606.3
+          "price": 8623.1
         },
         {
           "time": "10:10",
-          "price": 8610.1
+          "price": 8604.5
         },
         {
           "time": "10:15",
-          "price": 8611.3
+          "price": 8621.6
         },
         {
           "time": "10:20",
-          "price": 8628.4
+          "price": 8631.7
         },
         {
           "time": "10:25",
-          "price": 8619.5
+          "price": 8644.5
         },
         {
           "time": "10:30",
-          "price": 8612.2
+          "price": 8639
         },
         {
           "time": "10:35",
-          "price": 8614.3
+          "price": 8618.8
         },
         {
           "time": "10:40",
-          "price": 8609
+          "price": 8588.6
         },
         {
           "time": "10:45",
-          "price": 8622.6
+          "price": 8561.7
         },
         {
           "time": "10:50",
-          "price": 8630.7
+          "price": 8579.6
         },
         {
           "time": "10:55",
-          "price": 8651.1
+          "price": 8576.5
         },
         {
           "time": "11:00",
-          "price": 8624.7
+          "price": 8535.9
         },
         {
           "time": "11:05",
-          "price": 8631.5
+          "price": 8565.7
         },
         {
           "time": "11:10",
-          "price": 8639.3
+          "price": 8539.8
         },
         {
           "time": "11:15",
-          "price": 8634.3
+          "price": 8571.7
         },
         {
           "time": "11:20",
-          "price": 8626.8
+          "price": 8568.6
         },
         {
           "time": "11:25",
-          "price": 8627.7
+          "price": 8564.6
         },
         {
           "time": "11:30",
-          "price": 8629
+          "price": 8566.7
         },
         {
           "time": "13:00",
-          "price": 8670.2
+          "price": 8596.9
         },
         {
           "time": "13:05",
-          "price": 8655.7
+          "price": 8595.5
         },
         {
           "time": "13:10",
-          "price": 8666.7
+          "price": 8615.7
         },
         {
           "time": "13:15",
-          "price": 8671.3
+          "price": 8606.2
         },
         {
           "time": "13:20",
-          "price": 8654.4
+          "price": 8580.1
         },
         {
           "time": "13:25",
-          "price": 8651.6
+          "price": 8586.7
         },
         {
           "time": "13:30",
-          "price": 8637.2
+          "price": 8616.8
         },
         {
-          "time": "13:35",
-          "price": 8635.2
-        },
-        {
-          "time": "13:40",
-          "price": 8609.1
-        },
-        {
-          "time": "13:45",
-          "price": 8625.5
-        },
-        {
-          "time": "13:50",
-          "price": 8632.2
-        },
-        {
-          "time": "13:55",
-          "price": 8643.8
-        },
-        {
-          "time": "14:00",
-          "price": 8659.2
-        },
-        {
-          "time": "14:05",
-          "price": 8660.4
-        },
-        {
-          "time": "14:10",
-          "price": 8669.8
-        },
-        {
-          "time": "14:15",
-          "price": 8676.5
-        },
-        {
-          "time": "14:20",
-          "price": 8671.7
-        },
-        {
-          "time": "14:25",
-          "price": 8678
-        },
-        {
-          "time": "14:30",
-          "price": 8685.4
-        },
-        {
-          "time": "14:35",
-          "price": 8689.3
-        },
-        {
-          "time": "14:40",
-          "price": 8696.8
-        },
-        {
-          "time": "14:45",
-          "price": 8702.1
-        },
-        {
-          "time": "14:50",
-          "price": 8702.7
-        },
-        {
-          "time": "14:55",
-          "price": 8705.2
+          "time": "13:33",
+          "price": 8621.4
         }
       ],
       "trend7d": [
         {
-          "time": "05-25",
-          "price": 8703.9
+          "time": "05-26",
+          "price": 8621.4
         }
       ]
     },
     "chinaA50": {
       "name": "富时中国 A50 指数",
-      "current": 17.2,
-      "change": 0.58,
+      "current": 17.5,
+      "change": 1.16,
       "trend24h": [
         {
+          "time": "09:15",
+          "price": 17.3
+        },
+        {
+          "time": "09:20",
+          "price": 17.3
+        },
+        {
           "time": "09:30",
-          "price": 17.1
+          "price": 17.4
         },
         {
           "time": "09:35",
-          "price": 17.1
+          "price": 17.4
         },
         {
           "time": "09:40",
-          "price": 17
+          "price": 17.5
         },
         {
           "time": "09:45",
-          "price": 17.1
+          "price": 17.4
         },
         {
           "time": "09:50",
-          "price": 17.1
+          "price": 17.4
         },
         {
           "time": "09:55",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:00",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:05",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:10",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:15",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:20",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:25",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:30",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:35",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:40",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:45",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:50",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "10:55",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "11:00",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "11:05",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "11:10",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "11:15",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "11:20",
-          "price": 17.1
-        },
-        {
-          "time": "11:25",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "11:30",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "11:35",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "11:40",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "11:45",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "11:50",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "11:55",
-          "price": 17.2
+          "price": 17.4
         },
         {
           "time": "13:00",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "13:05",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "13:10",
-          "price": 17.2
+          "price": 17.5
         },
         {
           "time": "13:15",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "13:20",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "13:25",
-          "price": 17.1
+          "price": 17.5
         },
         {
           "time": "13:30",
-          "price": 17.2
+          "price": 17.5
         },
         {
-          "time": "13:35",
-          "price": 17.2
-        },
-        {
-          "time": "13:40",
-          "price": 17.2
-        },
-        {
-          "time": "13:45",
-          "price": 17.2
-        },
-        {
-          "time": "13:50",
-          "price": 17.2
-        },
-        {
-          "time": "13:55",
-          "price": 17.2
-        },
-        {
-          "time": "14:00",
-          "price": 17.2
-        },
-        {
-          "time": "14:05",
-          "price": 17.2
-        },
-        {
-          "time": "14:10",
-          "price": 17.2
-        },
-        {
-          "time": "14:15",
-          "price": 17.1
-        },
-        {
-          "time": "14:20",
-          "price": 17.2
-        },
-        {
-          "time": "14:25",
-          "price": 17.2
-        },
-        {
-          "time": "14:30",
-          "price": 17.2
-        },
-        {
-          "time": "14:35",
-          "price": 17.2
-        },
-        {
-          "time": "14:40",
-          "price": 17.1
-        },
-        {
-          "time": "14:45",
-          "price": 17.2
-        },
-        {
-          "time": "14:50",
-          "price": 17.1
-        },
-        {
-          "time": "14:55",
-          "price": 17.1
-        },
-        {
-          "time": "15:00",
-          "price": 17.1
-        },
-        {
-          "time": "15:05",
-          "price": 17.1
-        },
-        {
-          "time": "15:10",
-          "price": 17.1
-        },
-        {
-          "time": "15:15",
-          "price": 17.1
-        },
-        {
-          "time": "15:20",
-          "price": 17.1
-        },
-        {
-          "time": "15:25",
-          "price": 17.1
-        },
-        {
-          "time": "15:30",
-          "price": 17.1
-        },
-        {
-          "time": "15:35",
-          "price": 17.1
-        },
-        {
-          "time": "15:40",
-          "price": 17.1
-        },
-        {
-          "time": "15:45",
-          "price": 17.1
-        },
-        {
-          "time": "15:50",
-          "price": 17.1
-        },
-        {
-          "time": "15:55",
-          "price": 17.1
-        },
-        {
-          "time": "16:05",
-          "price": 17.2
+          "time": "13:32",
+          "price": 17.5
         }
       ],
       "trend7d": [
@@ -2235,6 +1172,10 @@
         {
           "time": "05-22",
           "price": 17.2
+        },
+        {
+          "time": "05-26",
+          "price": 17.5
         }
       ]
     },
@@ -2630,10 +1571,6 @@
       ],
       "trend7d": [
         {
-          "time": "05-11",
-          "price": 29.6
-        },
-        {
           "time": "05-12",
           "price": 29.1
         },
@@ -2674,12 +1611,12 @@
   },
   "macroBarometers": {
     "usdcny": {
-      "price": 6.7837,
-      "change": -0.1516067
+      "price": 6.7866,
+      "change": 0.042753246
     },
     "crudeOil": {
-      "price": 96.6,
-      "change": 0.25947067
+      "price": 91.95,
+      "change": -4.8136663
     }
   },
   "isCachedData": false,
