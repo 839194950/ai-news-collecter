@@ -231,8 +231,8 @@
   },
   {
     "date": "2026-05-27",
-    "confidence": 55,
-    "liquidity": 45,
+    "confidence": 45,
+    "liquidity": 40,
     "mediaSentiment": -0.1,
     "socialSentiment": -0.2,
     "regime": "滞胀",
@@ -249,18 +249,18 @@
         "trendDirection": "up"
       },
       {
-        "keyword": "被动元件/MLCC",
-        "momentumScore": 8,
-        "trendDirection": "up"
-      },
-      {
-        "keyword": "美伊和平协议",
+        "keyword": "避险资产",
         "momentumScore": 7,
         "trendDirection": "up"
       },
       {
-        "keyword": "避险资产",
+        "keyword": "存储芯片",
         "momentumScore": 6,
+        "trendDirection": "down"
+      },
+      {
+        "keyword": "消费电子",
+        "momentumScore": 4,
         "trendDirection": "down"
       }
     ]

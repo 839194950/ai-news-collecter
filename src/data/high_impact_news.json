@@ -1,5 +1,41 @@
 [
   {
+    "title": "教宗Leo XIV警告AI危险，呼吁'解除'技术武装",
+    "source": "Rolling Stone",
+    "url": "http://www.rollingstone.com/culture/culture-news/pope-leo-xiv-warns-dangers-ai-disarm-technology-common-good-1235568179/",
+    "category": "AI_MODEL",
+    "summary": [
+      "教宗发布首份AI通谕《伟大的人性》，警告AI可能引发无止尽战争与假訊息氾濫",
+      "呼吁各国政府加强监管，AI数据所有权不应仅由私人掌握"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "教宗Leo XIV发布天主教史上首份专门针对AI的通谕，从伦理与宗教角度对AI快速发展提出系统性警告，强调AI必须服务于人类共同利益，而非少数私人利益。",
+      "transmissionChain": "该事件将加剧全球AI监管讨论，欧盟可能加速DMA等法规执行，美国国会或重启AI立法辩论。科技巨头面临更严格的伦理审查与合规成本，AI安全与伦理公司（如Anthropic）可能获得更多关注。",
+      "chinaMarketMapping": "中国AI监管框架已相对完善（如生成式AI管理办法），教宗通谕对国内直接影响有限，但可能强化中国在AI伦理领域的国际话语权。国内AI企业需关注出口市场合规要求，伦理审查或成为AI产品出海的新壁垒。"
+    },
+    "publishedAt": "2026-05-25T16:40:19Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-26T16:43:15.452Z"
+  },
+  {
+    "title": "华为Kirin 9050被传性能超越苹果A18 Pro，将采用全新堆叠技术绕过旧制程限制",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/huawei-kirin-9050-breakthrough-3d-ic-design-beats-a18-pro/",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "华为Kirin 9050将采用3D IC堆叠技术，绕过EUV设备限制",
+      "SMIC受限于5nm以下制程，但通过创新设计实现性能突破"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "华为与SMIC通过3D IC堆叠技术（如WoW、CoWoS）将成熟制程芯片组合，实现接近先进制程的性能，这是中国在半导体受限下的重要技术路径。",
+      "transmissionChain": "若Kirin 9050量产成功，将打破美国对华为的芯片封锁，提振国产手机与AI芯片产业链。利好SMIC、长电科技等封测厂商，以及华为供应链企业。同时可能加剧中美科技战，美国或进一步收紧出口管制。",
+      "chinaMarketMapping": "A股中芯国际、长电科技、华天科技等封测龙头将直接受益。华为手机回归将带动消费电子产业链复苏，但需警惕美国制裁升级风险。国产替代逻辑强化，半导体设备与材料板块（北方华创、中微公司）迎来长期利好。"
+    },
+    "publishedAt": "2026-05-25T16:35:24Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-26T16:43:15.452Z"
+  },
+  {
     "title": "美债收益率差创一年新低，华许时代利率或长时间维持高档",
     "source": "Yahoo Entertainment",
     "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E5%B7%AE%E5%89%B5-%E5%B9%B4%E6%96%B0%E4%BD%8E-%E8%8F%AF%E8%A8%B1%E6%99%82%E4%BB%A3%E5%88%A9%E7%8E%87%E6%88%96%E9%95%B7%E6%99%82%E9%96%93%E7%B6%AD%E6%8C%81%E9%AB%98%E6%AA%94-002027366.html",
@@ -36,6 +72,24 @@
     "addedAt": "2026-05-26T16:24:25.399Z"
   },
   {
+    "title": "油价暴泻、DRAM双雄领攻，KOSPI早盘飙逾3%，海力士首次突破200万韩元",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E6%9A%B4%E7%80%89-dram%E9%9B%99%E9%9B%84%E9%A0%98%E6%94%BB-kospi%E6%97%A9%E7%9B%A4%E9%A3%86%E9%80%BE3-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B4200%E8%90%AC%E9%9F%93%E5%85%83-001549546.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "美伊和平协议预期升温，国际油价大跌缓解韩国能源进口与通胀压力",
+      "SK海力士首次突破200万韩元，DRAM双雄领涨KOSPI"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "油价暴跌直接利好韩国等能源进口国，降低企业成本与通胀压力，同时AI需求驱动存储芯片景气上行，DRAM双雄受益。",
+      "transmissionChain": "韩国KOSPI上涨将带动亚洲科技股情绪，A股存储芯片板块（兆易创新、北京君正）可能跟涨。油价下跌利好航空、化工等下游行业。但需注意美伊协议不确定性，若谈判破裂油价反弹将逆转利好。",
+      "chinaMarketMapping": "A股存储芯片概念股（兆易创新、深科技）受益于AI需求与韩国映射。航空股（中国国航、南方航空）受益于油价下跌。但中国作为石油净进口国，油价下跌整体利好经济，但需关注通缩风险。"
+    },
+    "publishedAt": "2026-05-25T16:15:49Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-26T16:43:15.452Z"
+  },
+  {
     "title": "COMPUTEX AI投资主轴来了！法人：光通讯COUPE题材将是主升段",
     "source": "Yahoo Entertainment",
     "url": "https://tw.stock.yahoo.com/news/computex-ai%E6%8A%95%E8%B3%87%E4%B8%BB%E8%BB%B8%E4%BE%86%E4%BA%86-%E6%B3%95%E4%BA%BA-%E5%85%89%E9%80%9A%E8%A8%8Acoupe%E9%A1%8C%E6%9D%90%E5%B0%87%E6%98%AF%E4%B8%BB%E5%8D%87%E6%AE%B5-161500447.html",
@@ -52,6 +106,24 @@
     "publishedAt": "2026-05-25T16:15:00Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-26T16:24:25.399Z"
+  },
+  {
+    "title": "COMPUTEX AI投资主轴来了！法人：光通讯COUPE题材将是主升段",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/computex-ai%E6%8A%95%E8%B3%87%E4%B8%BB%E8%BB%B8%E4%BE%86%E4%BA%86-%E6%B3%95%E4%BA%BA-%E5%85%89%E9%80%9A%E8%A8%8Acoupe%E9%A1%8C%E6%9D%90%E5%B0%87%E6%98%AF%E4%B8%BB%E5%8D%87%E6%AE%B5-161500447.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "COMPUTEX展将登场，市场关注辉达是否推进CPO技术",
+      "台积电技术论坛点名COUPE，代表AI数据中心从电子互连进入光电融合新世代"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台积电COUPE（共封装光学）技术被视为AI数据中心互连的下一代方案，解决带宽与功耗瓶颈，COMPUTEX可能成为该题材的引爆点。",
+      "transmissionChain": "COUPE技术将带动矽光子、光模块、先进封装产业链。台积电、日月光等封测厂，中际旭创、新易盛等光模块厂商，以及联亚、光环等光芯片企业将受益。AI投资主轴从GPU扩散到光通讯。",
+      "chinaMarketMapping": "A股光模块龙头中际旭创、新易盛直接受益，矽光子概念股（光迅科技、华工科技）迎来催化。国内光通讯产业链完整，但高端光芯片仍依赖进口，国产替代空间大。COMPUTEX期间相关个股波动加大，可逢低布局。"
+    },
+    "publishedAt": "2026-05-25T16:15:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-26T16:43:15.452Z"
   },
   {
     "title": "川普对伊朗强硬表态，直言浓缩铀须移交美方或就地销毁",
@@ -162,6 +234,24 @@
     "addedAt": "2026-05-26T16:24:25.399Z"
   },
   {
+    "title": "伊朗战火若熄仍救不了美债，高盛、巴克萊示警殖利率恐长期困在高档",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%81%AB%E8%8B%A5%E7%84%94%E4%BB%8D%E6%95%91%E4%B8%8D%E4%BA%86%E7%BE%8E%E5%82%B5-%E9%AB%98%E7%9B%9B-%E5%B7%B4%E5%85%8B%E8%90%8A%E7%A4%BA%E8%AD%A6%E6%AE%96%E5%88%A9%E7%8E%87%E6%81%90%E9%95%B7%E6%9C%9F%E5%9B%B0%E5%9C%A8%E9%AB%98%E6%AA%94-235132736.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "高盛、巴克萊警告即使伊朗停火，美债收益率仍将维持高位",
+      "推动收益率上升的主因已从通胀预期转向实际利率"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美债收益率上行驱动因素从通胀预期切换至实际利率，反映市场对美联储长期维持高利率的定价，与地缘政治无关。",
+      "transmissionChain": "实际利率上升将压制黄金、科技股等利率敏感资产，利好美元。新兴市场面临资本外流压力。美国财政赤字问题恶化，政府融资成本上升。",
+      "chinaMarketMapping": "中国央行面临中美利差倒挂压力，人民币汇率承压。A股高估值成长股（AI、半导体）估值受压制，但国内流动性宽松提供缓冲。债券市场外资流出压力加大。"
+    },
+    "publishedAt": "2026-05-25T15:51:32Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-26T16:43:15.452Z"
+  },
+  {
     "title": "DMA史上最重罚单在即，欧盟拟重罚Google数亿欧元、狙击搜寻霸权",
     "source": "Yahoo Entertainment",
     "url": "https://tw.stock.yahoo.com/news/dma%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%87%8D%E7%BD%B0%E5%96%AE%E5%9C%A8%E5%8D%B3-%E6%AD%90%E7%9B%9F%E6%93%AC%E9%87%8D%E7%BD%B0google%E6%95%B8%E5%84%84%E6%AD%90%E5%85%83-%E7%8B%99%E6%93%8A%E6%90%9C%E5%B0%8B%E9%9C%B8%E6%AC%8A-234826567.html",
@@ -232,6 +322,24 @@
     "publishedAt": "2026-05-25T15:19:40Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-26T16:24:25.399Z"
+  },
+  {
+    "title": "伊朗强硬喊话不投降，美伊协议逼近落槌却深陷核问题与制裁交换僵局",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E5%BC%B7%E7%A1%AC%E5%96%8A%E8%A9%B1%E4%B8%8D%E6%8A%95%E9%99%8D-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E9%80%BC%E8%BF%91%E8%90%BD%E6%A7%8C%E5%8D%BB%E6%B7%B1%E9%99%B7%E6%A0%B8%E5%95%8F%E9%A1%8C%E8%88%87%E5%88%B6%E8%A3%81%E4%BA%A4%E6%8D%A2%E5%83%B5%E5%B1%80-231940957.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "伊朗最高国家安全委员会称'不会投降或后退'",
+      "美伊谈判在核问题与制裁交换上陷入僵局"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "伊朗在谈判中释放强硬信号，拒绝在核问题上让步，美伊协议核心分歧未解，市场可能过度乐观定价协议达成。",
+      "transmissionChain": "若谈判破裂，油价将报复性反弹，全球通胀预期升温，股市承压。避险资产黄金、美元大涨。若伊朗妥协，油价暴跌，风险资产狂欢。当前油价已部分定价协议，破裂风险被低估。",
+      "chinaMarketMapping": "中国需为美伊谈判破裂做准备，增加战略石油储备。A股能源股（中国石油）受益于油价上涨，但航空、化工等成本上升。人民币汇率可能因美元走强而承压。"
+    },
+    "publishedAt": "2026-05-25T15:19:40Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-26T16:43:15.452Z"
   },
   {
     "title": "扇出型面板级封装（FOPLP）成为AI芯片封装新焦点",
@@ -631,119 +739,5 @@
     "publishedAt": "2026-05-24T05:00:58Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-25T06:10:54.640Z"
-  },
-  {
-    "title": "黄仁勳盛赞AI代理是下一个ChatGPT 透露Vera Rubin量产量进度",
-    "source": "Cool3c.com",
-    "url": "https://www.cool3c.com/article/248826",
-    "category": "AI_MODEL",
-    "summary": [
-      "AI代理将是下一个ChatGPT",
-      "OpenClaw生态",
-      "Vera Rubin量产量将史上最大"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "黄仁勳在台北开发者大会表示AI代理将引爆下一波技术革命，比ChatGPT带来的影响更大。同时确认Vera Rubin芯片将在Q3量产，且将是英伟达史上最大规模产量。他此前曾表示AI需求呈抛物线式增长，此次进一步强调AI代理（Agent AI）的重要性，并展示OpenClaw平台。",
-      "transmissionChain": "AI代理概念催化软件应用层（如Salesforce、ServiceNow等客服自动化）及框架提供商（LangChain、LlamaIndex）。对硬件端，Vera Rubin量产提升对先进封装（台积电CoPoS）、HBM3e（三星、海力士）、散热（双鸿）、PCB（欣兴）的需求。台股供应链直接受益，A股工业富联、沪电股份间接受益。",
-      "chinaMarketMapping": "腾讯开源openclaw-weixin直接对接微信生态，成为中国AI代理最现实落地场景。A股：金山办公（WPS AI）、科大讯飞（语音助手）等AI应用厂率先受益。但需关注：中国AI代理生态依赖国产大模型（DeepSeek、通义千问），华为昇腾算力底座供应是否充足。港股：美团（配送代理）、美图（图像生成）等可能整合AI agent功能。"
-    },
-    "publishedAt": "2026-05-24T04:26:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T06:10:54.640Z"
-  },
-  {
-    "title": "华为研发全新DoB封装技术实现122TB SSD 绕过400层NAND限制",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/954/502.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "华为展示DoB封装SSD",
-      "61.44TB和122.88TB已量产",
-      "未来规划245TB版本"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "华为在巴黎IDI Forum 2026展示基于Die-on-Board（DoB）封装技术的大容量SSD，已量产61.44TB和122.88TB两款产品，245TB版本规划中。华为因被列入实体清单无法获取美国技术生产的3D NAND，转而使用长江存储的国产NAND芯片，通过创新封装集成实现容量突破。DoB技术将多颗NAND die直接封装在基板上，无需先进制程。",
-      "transmissionChain": "此技术直接冲击国内外存储厂商格局：对美光、三星、SK海力士构成长期竞争压力，但短期影响有限，因华为供应受限。国内存储产业链受益：长江存储获得订单，封装测试厂（长电科技、通富微电）获得DoB封装订单，设备厂商（北方华创、中微公司）有望获得封装设备升级需求。对于AI数据中心客户，国产高容量SSD可降低对海外存储依赖，促使国内云厂商（阿里云、华为云）优先采购。",
-      "chinaMarketMapping": "A股：长电科技（封装）、深科技（存储封测）、朗科科技（存储模组）直接受益；北方华创、中微公司（半导体设备）间接受益。但需注意：长江存储产能有限且良率待提升，华为SSD产量爬坡慢。港股：华虹半导体（代工）可能获得逻辑芯片订单。风险：若美国将DoB技术所需材料列入管制，可能影响量产。"
-    },
-    "publishedAt": "2026-05-24T03:46:28Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T06:10:54.640Z"
-  },
-  {
-    "title": "川普关税退稅炸弹逼近，1490亿美元财政缺口考验白宫新战术",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/trump-tariff-refund-149b-000000574.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "川普批评最高法院关税裁决，可能需退还1490亿美元关税",
-      "白宫不愿放弃关税作为财政工具",
-      "市场担忧财政混乱与政策不确定性"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "最高法院裁定川普加征关税超越总统权限，白宫面临巨额退款压力，关税作为财政收入工具受重创。",
-      "transmissionChain": "短期利好进口商（零售、汽车零部件），利空出口导向型国家（中国、欧盟）。若退款落实，美国财政赤字扩大，可能推高国债收益率，压抑股市估值。",
-      "chinaMarketMapping": "对A股偏正面：若关税退还美国企业，中国出口商被加征的关税可能部分取消？不确定。但消息本身加剧中美贸易政策不确定性，国产替代逻辑持续强化。"
-    },
-    "publishedAt": "2026-05-21T15:56:01Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T16:08:22.771Z"
-  },
-  {
-    "title": "Anthropic传洽谈租用微软自研AI伺服器晶片Maia",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/anthropic-microsoft-maia-chip-000000574.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "Anthropic正与微软洽谈租用其Maia AI芯片",
-      "目的是降低对英伟达芯片的依赖",
-      "谈判仍早期，不一定达成协议"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "Anthropic寻求算力多元化，微软自研芯片Maia取得突破，若成功将改写AI芯片竞争格局。",
-      "transmissionChain": "利好微软（自研芯片商业化）、利空英伟达（客户流失风险）、利好AMD（若Anthropic转而采用AMD MI系列）；对台积电偏中性，因为芯片仍可能由台积电代工。",
-      "chinaMarketMapping": "强化国内自研GPU逻辑，尤其阿里巴巴平头哥、华为昇腾等。腾讯、百度等也会加速自研。A股芯片设计公司（芯原股份、国芯科技）获得概念催化，但实际影响有限。"
-    },
-    "publishedAt": "2026-05-21T15:35:42Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T16:08:22.771Z"
-  },
-  {
-    "title": "南亚科出货辉达快达阵，低功耗产品传在台积亚利桑那厂验证",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/nanya-nvidia-lpddr5-tsmc-000000574.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "南亚科LPDDR5X在台积电美国厂验证",
-      "将用于英伟达Vera Rubin平台",
-      "台湾记忆体厂首度打入英伟达AI服务器主记忆体"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "南亚科产品进入英伟达验证流程，若成功将打破三星/ SK海力士在AI存储的垄断。",
-      "transmissionChain": "利好南亚科（营收与毛利提升）、利空三星与SK海力士（竞争加剧）；对台积电中性（封装服务增加），利好台湾半导体整体被认可。",
-      "chinaMarketMapping": "A股存储概念有所带动（兆易创新），但南亚科为台股，映射效应有限。国产替代情绪暂时得不到直接提振，因为南亚科是境外企业。"
-    },
-    "publishedAt": "2026-05-21T14:43:39Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T16:08:22.771Z"
-  },
-  {
-    "title": "黄仁勳：AI需求呈现抛物线式成长，Vera Rubin平台全年供不应求",
-    "source": "Yahoo Entertainment (via reporter)",
-    "url": "https://tw.stock.yahoo.com/news/黄仁勳AI需求抛物线成长-000000574.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达CEO表示AI需求正以抛物线式增长",
-      "代理AI时代到来是主要增长动力",
-      "下半年Vera Rubin平台在整个产品周期内都将供不应求"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "黄仁勳明确给出供给受限指引，表明英伟达产能根本无法满足当下需求，供应链确定性提升。",
-      "transmissionChain": "利好台积电（先进封装CoPoS产能满载）、SK海力士/三星（HBM与LPDDR5X）、散热（双鸿）、PCB（胜宏）等；利好所有与英伟达绑定的供应链厂商；但也暗示非英伟达阵营（AMD、谷歌TPU）份额可能被挤压。",
-      "chinaMarketMapping": "国内AI芯片替代逻辑强化，但短期算力缺口扩大，利好使用英伟达芯片的中概股公司？但受限于出口管制，中国客户无法买到Vera，需转向国产昇腾等，进一步刺激国产算力投资。A股AI芯片设计公司（寒武纪、景嘉微）迎情绪催化。"
-    },
-    "publishedAt": "2026-05-21T14:42:50Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-22T16:08:22.771Z"
   }
 ]
