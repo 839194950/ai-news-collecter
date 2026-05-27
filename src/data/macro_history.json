@@ -231,12 +231,12 @@
   },
   {
     "date": "2026-05-27",
-    "confidence": 45,
-    "liquidity": 43,
-    "mediaSentiment": -0.1,
-    "socialSentiment": -0.2,
+    "confidence": 50,
+    "liquidity": 48,
+    "mediaSentiment": 0,
+    "socialSentiment": -0.1,
     "regime": "滞胀",
-    "fearGreedIndex": 40,
+    "fearGreedIndex": 55,
     "hotThemes": [
       {
         "keyword": "AI代理",
@@ -249,11 +249,6 @@
         "trendDirection": "up"
       },
       {
-        "keyword": "光通讯/CPO",
-        "momentumScore": 8,
-        "trendDirection": "up"
-      },
-      {
         "keyword": "避险资产",
         "momentumScore": 7,
         "trendDirection": "up"
@@ -261,6 +256,11 @@
       {
         "keyword": "存储芯片",
         "momentumScore": 6,
+        "trendDirection": "down"
+      },
+      {
+        "keyword": "消费电子",
+        "momentumScore": 4,
         "trendDirection": "down"
       }
     ]

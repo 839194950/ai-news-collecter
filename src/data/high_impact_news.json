@@ -1,5 +1,113 @@
 [
   {
+    "title": "朋亿通吃FOPLP与CoWoS先进封装扩厂商机",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E9%80%9A%E5%90%83foplp%E8%88%87cowos%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E6%93%B4%E5%BB%A0%E5%95%86%E6%A9%9F-%E6%9C%8B%E5%84%84-%E7%9C%8B%E5%A5%BD2026%E7%87%9F%E9%81%8B%E9%80%90%E5%AD%A3%E8%B5%B0%E9%AB%98-%E5%AD%90%E5%85%AC%E5%8F%B8%E6%8B%9Aa%E8%82%A1%E4%B8%8A%E5%B8%82-054521922.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "朋亿为半导体厂务工程龙头，受益于先进封装扩产潮",
+      "子公司计划A股上市，显示中国半导体产业链扩张"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "朋亿股东会表示通吃FOPLP与CoWoS先进封装扩厂商机，看好2026年营运逐季走高，子公司计划A股上市。这显示先进封装扩产潮持续，厂务工程需求旺盛。",
+      "transmissionChain": "朋亿订单增长将带动上游设备（北方华创、中微公司）与材料（沪硅产业）需求。同时，子公司A股上市将提升中国半导体产业链的融资能力。",
+      "chinaMarketMapping": "对A股，利好半导体设备与材料公司（北方华创、沪硅产业）。对港股，利好中芯国际。对国内创业者，可关注先进封装设备国产替代机会。"
+    },
+    "publishedAt": "2026-05-26T05:45:21Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T06:01:13.342Z"
+  },
+  {
+    "title": "阿里Qwen3.7-Max编程能力全球第二，超越Claude Opus",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/955/271.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "Code Arena榜单显示Qwen3.7-Max得分1541，全球第二",
+      "采用用户随机盲测，防止刷榜，含金量高"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "阿里旗舰模型Qwen3.7-Max在权威编程榜单Code Arena上排名全球第二，仅次于Claude系列，超越所有2B以下参数模型。该榜单采用用户随机盲测，防止刷榜，含金量高。",
+      "transmissionChain": "Qwen3.7-Max的突破将提升阿里云在AI编程领域的竞争力，利好阿里云客户（如钉钉、淘宝等）。同时，推动国内AI编程工具（如通义灵码）的采用，对海外GitHub Copilot形成竞争。",
+      "chinaMarketMapping": "对A股，利好AI应用公司（科大讯飞、金山办公）与云计算厂商（浪潮信息）。对港股，利好阿里巴巴。对国内创业者，可基于Qwen3.7-Max开发垂直编程工具，降低开发成本。"
+    },
+    "publishedAt": "2026-05-26T05:38:20Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T06:01:13.342Z"
+  },
+  {
+    "title": "英伟达首款Vera CPU正式交付，黄仁勋瞄准中国市场",
+    "source": "Cnbeta.com.tw",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1563662.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "英伟达CEO黄仁勋表示Vera CPU将切入2000亿美元市场",
+      "已获美国政府许可对华出口，显示美中科技紧张下仍看好中国市场"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "英伟达正式交付首款Vera CPU，黄仁勋在财报会议中指出该产品将切入2000亿美元CPU市场，并明确表示对中国市场开放。这标志着英伟达从GPU向CPU领域扩张，与AMD、英特尔直接竞争。",
+      "transmissionChain": "Vera CPU将直接冲击英特尔和AMD的服务器CPU市场份额，利好英伟达供应链（台积电、联发科等）。同时，对华出口许可将加速中国AI服务器厂商（浪潮、中科曙光）的CPU替代进程，但可能引发美国政策审查。",
+      "chinaMarketMapping": "对A股而言，利好国产CPU替代概念（海光信息、龙芯中科），但英伟达CPU进入可能加剧竞争。对港股，利好联想（AI服务器）与中芯国际（代工）。对国内创业者，需关注CPU生态兼容性，可围绕Vera CPU开发AI应用。"
+    },
+    "publishedAt": "2026-05-26T05:35:24Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T06:01:13.342Z"
+  },
+  {
+    "title": "颖崴董事长：AI需求远超预期，订单排到半年后",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E7%A9%8E%E5%B4%B4%E8%91%A3%E5%BA%A7-i%E9%9C%80%E6%B1%82%E6%AF%94%E9%A0%90%E6%9C%9F-%E5%A5%BD%E5%A4%AA%E5%A4%9A-%E5%AE%A2%E6%88%B6%E8%AE%A2%E5%96%AE%E6%8E%92%E5%88%B0%E5%8D%8A%E5%B9%B4%E5%BE%8C-053256687.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "颖崴Q1 EPS达19.54元，今年营收创新高无虞",
+      "测试接口厂直接受益于AI芯片与先进封装需求"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "测试接口厂颖崴董事长表示AI需求比预期'好太多'，客户订单排到半年后，Q1 EPS达19.54元，今年营收创新高无虞。这显示AI产业链景气度远超预期。",
+      "transmissionChain": "颖崴订单排满将带动上游探针、载板等材料需求，利好供应链公司（如旺矽、精测）。同时，验证AI芯片出货量持续高增，利好台积电、英伟达等。",
+      "chinaMarketMapping": "对A股，利好测试设备厂商（华峰测控、长川科技）与封测龙头（长电科技）。对港股，利好ASMPT。对国内创业者，可关注测试接口国产替代机会。"
+    },
+    "publishedAt": "2026-05-26T05:32:56Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T06:01:13.342Z"
+  },
+  {
+    "title": "面壁智能开源MiniCPM5-1B端侧模型，性能超越2B参数模型",
+    "source": "Ithome.com",
+    "url": "https://www.ithome.com/0/955/267.htm",
+    "category": "AI_MODEL",
+    "summary": [
+      "MiniCPM5-1B仅1B参数，INT4量化后0.5GB",
+      "可运行在手机、浏览器上，端侧AI进入实用阶段"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "面壁智能联合清华大学开源MiniCPM5-1B端侧模型，在AA-Index上超越所有2B以下参数模型，INT4量化后权重仅0.5GB，可运行在手机、浏览器上。这标志着端侧AI进入实用阶段。",
+      "transmissionChain": "MiniCPM5-1B将推动AI在消费电子（手机、PC、IoT）中的渗透，利好芯片厂商（高通、联发科）与终端厂商（小米、华为）。同时，降低AI应用部署成本，加速边缘计算发展。",
+      "chinaMarketMapping": "对A股，利好端侧AI芯片公司（全志科技、瑞芯微）与物联网模组厂商（移远通信）。对港股，利好小米。对国内创业者，可基于MiniCPM5-1B开发离线AI应用，如智能客服、语音助手等。"
+    },
+    "publishedAt": "2026-05-26T05:13:08Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T06:01:13.342Z"
+  },
+  {
+    "title": "鲁比欧称美伊协议仍需数日，军事打击持续",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/rubio-us-iran-deal-crypto-sanctions/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "美伊谈判期间军事行动升级，增加协议不确定性",
+      "加密货币成为影子战场，影响全球市场"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国国务卿鲁比欧表示美伊停火协议仍需数日敲定，同时美军继续军事打击。这显示美伊谈判处于关键窗口，但军事行动升级增加不确定性。",
+      "transmissionChain": "美伊局势直接影响油价（CL=F已跌至92美元），进而影响全球通胀预期与央行政策。若协议达成，油价暴跌利好航空、消费；若破裂，油价飙升利空全球股市。",
+      "chinaMarketMapping": "对A股，利好航空股（中国国航）与石化下游（恒力石化），利空能源股（中国石油）。对港股，利好中石化。对国内创业者，需关注能源成本变化对制造业的影响。"
+    },
+    "publishedAt": "2026-05-26T05:00:15Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T06:01:13.342Z"
+  },
+  {
     "title": "深圳十五五规划：前瞻布局6G、量子科技、脑机接口等未来产业",
     "source": "36kr.com",
     "url": "https://36kr.com/newsflashes/3825614816301700",
@@ -614,119 +722,5 @@
     "publishedAt": "2026-05-24T15:31:11Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-25T16:11:40.906Z"
-  },
-  {
-    "title": "美联储沃勒称降息言论‘疯狂’，开放升息选项",
-    "source": "雅虎财经",
-    "url": "https://tw.stock.yahoo.com/news/沃勒鹰声震撼市场，直斥降息论荒谬，华许上任首战恐转向升息防线-232235166.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "沃勒主张从政策声明中移除'宽松倾向'措辞",
-      "指出中東衝突已擴散至食品、服飾價格",
-      "估計Fed需額外加息0.5-1%才足以壓制通膨"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美联储理事沃勒发表惊人鹰派言论，明确反对近期任何降息的可能，并主张从FOMC政策声明中删除带有降息暗示的'宽松倾向'表述。他估算中東衝突已將整體通膨推高約0.5個百分點，並開始滲透至核心服務領域，因此Fed可能需要額外升息0.5-1%才能確保物價穩定。这一表态与市场此前定价的降息预期形成强烈反差。",
-      "transmissionChain": "沃勒言论直接触发美元指数跳升至99.24，美债收益率曲线陡化，2年期收益率升8bp至4.95%。利率期货市场将年内降息概率从55%骤降至30%，升息概率升至35%。美股科技板块首当其冲（英伟达当日跌1.9%），高估值成长股面临估值压缩。银行股受益于利差扩大反弹。黄金因实际利率上行承压但跌幅有限。",
-      "chinaMarketMapping": "美联储转鹰将导致人民币贬值压力加大（美元兑人民币可能重测6.85），压制北向资金流入A股。但中国央行可借机实施更宽松货币政策（降准降息），利好国内利率敏感行业（地产、基建）。科技股（尤其半导体）估值承压，但国产替代逻辑对冲。关注外贸企业汇兑收益弹性。"
-    },
-    "publishedAt": "2026-05-24T15:22:35Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T16:11:40.906Z"
-  },
-  {
-    "title": "川普称不急于签伊朗协议，持续封锁霍尔木兹海峡",
-    "source": "雅虎财经",
-    "url": "https://tw.news.yahoo.com/川普称不急於签署伊朗协议-美军持续封锁荷姆兹海峡-151525324.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "川普指示代表不用急于与伊朗达成协议",
-      "美军维持对霍尔木兹海峡的封锁",
-      "油价电子盘早段跌近5%后反弹"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国总统川普表示已指示代表不需要急于与伊朗签署协议，打破市场对近期和平突破的预期。他强调在签署协议前，美军对霍尔木兹海峡的封锁将继续。这一表态导致油价早段急跌近5%（因部分多头押注和平协议）后反弹，最终收平。伊朗最高领袖顾问则强硬回应：管理海峡是德黑兰合法权利。",
-      "transmissionChain": "地缘风险持续支撑油价在95-100美元区间，航运股（达飞海运一季度利润暴跌78%）承压。贵金属因避险需求维持强势。航空股因燃油成本担忧下跌。此外，海峡封锁影响全球原油供应约20%，若长期化将推高通胀，强化美联储鹰派立场。欧洲与亚洲能源进口国（日本、韩国）面临更大压力。",
-      "chinaMarketMapping": "中国作为最大原油进口国，高油价增加输入性通胀压力，压制企业利润。但中国通过加大俄罗斯、委内瑞拉原油采购对冲部分影响。A股油气开采（中国海油、中石油）受益，炼化（恒力石化）成本承压。新能源替代逻辑加速，光伏、电动车长期受益。地缘不确定性提升人民币避险需求。"
-    },
-    "publishedAt": "2026-05-24T15:15:25Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T16:11:40.906Z"
-  },
-  {
-    "title": "美国5月消费者信心指数44.8，创1952年以来最低",
-    "source": "密西根大学/雅虎财经",
-    "url": "https://tw.stock.yahoo.com/news/美国密西根大学5月消费者信心指数终值降至44-8-创74年新低-231042957.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "消费者信心指数终值44.8，远低于预期48.2",
-      "现况指数45.8，预期指数44.1，全面下滑",
-      "1年期通胀预期升至4.2%"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "密西根大学5月消费者信心指数终值录得44.8，大幅低于4月的49.8和市场预期的48.2，创下自1952年调查启动以来的最低水平。分项指标全面恶化：现况指数降至45.8，预期指数降至44.1。1年期通胀预期从4.1%升至4.2%，消费者对就业、收入和商业环境的评估同步恶化，反映高通胀、高利率和地缘不确定性对家庭财务的持续侵蚀。",
-      "transmissionChain": "消费者信心崩溃将直接抑制零售消费、耐用消费品（汽车、家电）和住房需求，进而影响相关企业的营收和利润。同时，信心低迷会加剧储蓄倾向，减少货币流通速度，延缓经济复苏。对股市而言，消费类股票（如耐克、沃尔玛）将承压，而防御性板块（医疗、公用事业）可能获得资金流入。此外，通胀预期上升将强化美联储鹰派立场，推高美债收益率，压制科技股估值。",
-      "chinaMarketMapping": "美国消费疲软将减少对中国出口的需求，尤其纺织、玩具、电子产品等劳动密集型行业。但对中国外贸企业也可能带来结构性机会：若美国消费者转向性价比更高的中国商品，部分外贸企业订单反而增加。A股中，出海企业（如家电龙头美的、海尔）需关注美国需求波动。中期看，美国经济放缓将促使美联储转向降息，人民币贬值压力缓解，利好A股外资回流。"
-    },
-    "publishedAt": "2026-05-24T15:10:42Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T16:11:40.906Z"
-  },
-  {
-    "title": "高階MLCC供不应求，涨价周期启动",
-    "source": "雅虎财经",
-    "url": "https://tw.stock.yahoo.com/news/高阶MLCC供不应求-这被被动元件代理厂-股价10天飙90-全年EPS上看8-5元-230000435.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "AI伺服器需求导致MLCC交期翻倍",
-      "代理商股价10天飙90%",
-      "Vera Rubin平台用量提升使缺口扩大"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达Vera Rubin平台功耗高达1500W，对高容MLCC用量倍增，导致MLCC交期从4-6周延长至12-16周，部分型号甚至更长。被动元件代理商日电（Taiwan Passivo）股价10天飙涨90%，市场预期其全年EPS达8.5元。国巨、华新科等厂商宣布Q3提价10-15%。供需缺口预计持续至年底。",
-      "transmissionChain": "MLCC涨价将直接增厚被动元件公司利润，同时提升国产替代企业议价能力。下游系统厂商（服务器ODM、手机品牌）成本承压，但可通过提价转嫁。涨价周期通常持续2-3个季度，期间相关股票具有明显超额收益。此外，钽电容、电感等元件也可能跟涨。",
-      "chinaMarketMapping": "A股MLCC概念：三环集团（300408）高容产品突破，风华高科（000636）涨价弹性大，火炬电子（603678）军用MLCC。但需警惕，若终端消费疲软（消费者信心低），涨价可能抑制需求。中长期看，MLCC国产替代空间巨大（目前自给率不足20%），AI服务器需求提供千亿市场。"
-    },
-    "publishedAt": "2026-05-24T15:00:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T16:11:40.906Z"
-  },
-  {
-    "title": "AI服务器需求导致被动元件交期翻倍 MLCC涨价周期启动",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/mlcc-lead-time-double/",
-    "category": "AI_MODEL",
-    "summary": [
-      "高贴MLCC及铝电交期翻倍至3-4个月",
-      "下半年供需缺口扩大",
-      "台厂受益于日韩产能外溢"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "通路商日电贸指出，高贴MLCC和固混铝电交期从正常8周延长至12-16周，部分型号长达6个月。AI服务器每台搭载MLCC数量是传统服务器的3-5倍，且电压/温度要求提高带来单价提升。日韩大厂产能被AI订单挤占，台厂国巨、华新科、信昌电等承接溢出订单。",
-      "transmissionChain": "被动元件涨价将沿供应链传导至服务器、基站、通信设备等终端，成本压力可能向下游转嫁。台系元器件厂商Q2 EPS预期上调，股价已反应部分涨幅。设备商和材料商（如陶瓷粉末厂商）也受益。",
-      "chinaMarketMapping": "A股被动元件标的（风华高科、三环集团、顺络电子）受益于国产替代和涨价周期，但需注意产能释放节奏。创业公司可关注高贴MLCC用介电陶瓷粉末国产化机会，当前该材料主要依赖日商提供，存在高壁垒和高利润空间。"
-    },
-    "publishedAt": "2026-05-24T11:05:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T11:19:29.185Z"
-  },
-  {
-    "title": "对冲基金大幅增持AI股票 芯片制造商成为华尔街首选",
-    "source": "Kalinga TV",
-    "url": "https://kalingatv.com/business/hedge-funds-increase-bets-on-ai-stocks-as-chipmakers-become-wall-streets-top-pick-report/",
-    "category": "AI_MODEL",
-    "summary": [
-      "对冲基金二季度大幅增配AI股",
-      "半导体和AI基础设施最受青睐",
-      "英伟达、AMD、台积电持仓增加"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "根据报道，全球对冲基金在2026年第二季度初大幅增加对人工智能相关公司的押注，半导体和AI基础设施公司成为最大赢家。英伟达、AMD、台积电、MRVL等获得显著增持。此趋势表明机构投资者对AI长期增长信心十足，资金流入为股价提供支撑。",
-      "transmissionChain": "对冲基金增持强化AI板块赚钱效应，吸引更多散户和养老金资金配置。芯片代工、封测、存储、设备全产业链受益。同时，AI软件和应用公司（如Palantir、CrowdStrike）也获得资金青睐，形成正反馈。",
-      "chinaMarketMapping": "A股AI芯片概念（寒武纪、海光信息）短期受情绪带动，但基本面对比海外龙头仍有差距。国产替代逻辑（中芯国际、华大九天）将获得溢价。对于投资者，可借道半导体ETF参与，但需警惕短期过度拥挤后的回调风险。"
-    },
-    "publishedAt": "2026-05-24T10:53:58Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T11:19:29.185Z"
   }
 ]
