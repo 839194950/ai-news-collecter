@@ -573,27 +573,41 @@ function buildAssetItem(input, label) {
    AI 分析调用
    ====================================================================== */
 
+function isContentRiskError(err) {
+  const message = err?.message || '';
+  return message.includes('Content Exists Risk') || (err?.status === 400 && message.includes('Risk'));
+}
+
+function sanitizeTextStreamForRisk(textStream) {
+  return String(textStream)
+    .split('\n')
+    .filter(line => !/^\s*(Link|Summary):/i.test(line))
+    .join('\n');
+}
+
 async function analyzeTextStream(textStream, options = {}) {
   const { enableThinking = false, historyContext = [], reconciliationContext = null, highImpactPool = [] } = options;
 
-  const requestMessages = [
-    { role: 'system', content: SYSTEM_PROMPT },
-    { role: 'user', content: buildUserPrompt(textStream, historyContext, reconciliationContext, highImpactPool) },
-  ];
-
-  const requestBody = {
-    model: DEEPSEEK_MODEL,
-    messages: requestMessages,
-    response_format: { type: 'json_object' },
-    temperature: 0.3,
-    max_tokens: 65536,
-  };
-
-  if (enableThinking) {
-    requestBody.extra_body = {
-      thinking: { type: 'deep', budget_tokens: 4096 },
+  const createRequestBody = (stream, retry = false) => {
+    const requestBody = {
+      model: DEEPSEEK_MODEL,
+      messages: [
+        { role: 'system', content: SYSTEM_PROMPT },
+        { role: 'user', content: buildUserPrompt(stream, historyContext, reconciliationContext, retry ? [] : highImpactPool) },
+      ],
+      response_format: { type: 'json_object' },
+      temperature: 0.3,
+      max_tokens: 65536,
     };
-  }
+
+    if (enableThinking && !retry) {
+      requestBody.extra_body = {
+        thinking: { type: 'deep', budget_tokens: 4096 },
+      };
+    }
+
+    return requestBody;
+  };
 
   console.log(`[analyze] 🤖 正在调用 DeepSeek V4 (${DEEPSEEK_MODEL})...`);
   if (reconciliationContext) console.log('[analyze] 📋 已加载 AI 预测真理对账上下文');
@@ -601,7 +615,14 @@ async function analyzeTextStream(textStream, options = {}) {
   if (enableThinking) console.log('[analyze] 🧠 思考模式已开启');
 
   try {
-    const response = await getClient().chat.completions.create(requestBody);
+    let response;
+    try {
+      response = await getClient().chat.completions.create(createRequestBody(textStream));
+    } catch (err) {
+      if (!isContentRiskError(err)) throw err;
+      console.warn('[analyze] ⚠ DeepSeek 内容风控触发，使用精简新闻流重试一次');
+      response = await getClient().chat.completions.create(createRequestBody(sanitizeTextStreamForRisk(textStream), true));
+    }
 
     const rawContent = response.choices?.[0]?.message?.content;
     if (!rawContent) throw new Error('API 返回内容为空');
@@ -656,6 +677,8 @@ function handleAnalysisError(err, textStream) {
     globalInvestmentRadar: { aSharePool: [], usSharePool: [] },
     dynamicSectors: JSON.parse(JSON.stringify(DEFAULT_DYNAMIC_SECTORS)),
     articles: [],
+    isAnalysisFallback: true,
+    analysisError: err.message || 'unknown analysis error',
   };
 
   return fallback;

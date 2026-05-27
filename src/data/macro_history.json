@@ -231,12 +231,38 @@
   },
   {
     "date": "2026-05-27",
-    "confidence": 50,
-    "liquidity": 50,
-    "mediaSentiment": 0,
-    "socialSentiment": 0,
-    "regime": "过热",
-    "fearGreedIndex": 50,
-    "hotThemes": []
+    "confidence": 45,
+    "liquidity": 40,
+    "mediaSentiment": -0.1,
+    "socialSentiment": -0.2,
+    "regime": "滞胀",
+    "fearGreedIndex": 45,
+    "hotThemes": [
+      {
+        "keyword": "AI代理",
+        "momentumScore": 9,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "先进封装",
+        "momentumScore": 8,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "避险资产",
+        "momentumScore": 7,
+        "trendDirection": "up"
+      },
+      {
+        "keyword": "存储芯片",
+        "momentumScore": 6,
+        "trendDirection": "down"
+      },
+      {
+        "keyword": "消费电子",
+        "momentumScore": 4,
+        "trendDirection": "down"
+      }
+    ]
   }
 ]

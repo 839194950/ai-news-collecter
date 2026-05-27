@@ -898,6 +898,10 @@ async function main() {
     highImpactPool: highImpactPool,
   });
 
+  if (report.isAnalysisFallback) {
+    throw new Error(`AI analysis fallback generated; aborting data overwrite: ${report.analysisError || 'unknown error'}`);
+  }
+
   // ---- Stage 3b: 注入定量行情 ----
   report.marketBenchmarks = marketBenchmarks;
   report.macroBarometers = macroBarometers;
