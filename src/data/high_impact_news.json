@@ -1,5 +1,131 @@
 [
   {
+    "title": "台湾股市市值超越印度，AI热潮推动上涨",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/taiwan-surpasses-india-market-cap-ai-boom/",
+    "category": "AI_MODEL",
+    "summary": [
+      "台股市值4.95万亿美元超越印度，跃居全球第5大",
+      "AI晶片狂潮与半导体供应链推动"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台湾股市总市值攀升至4.95万亿美元，超越印度的4.92万亿美元，成为全球第5大股市。主要驱动力是AI芯片与半导体供应链的强劲表现，台积电、联发科等权重股领涨。",
+      "transmissionChain": "台股市值超越印度，反映全球资金从新兴市场向AI硬件经济体转移。台积电作为AI芯片制造核心，带动整个半导体产业链（设计、封装、设备）估值提升。印度股市受外资流出与地缘风险影响，市值缩水。",
+      "chinaMarketMapping": "对中国A股而言，台股市值超越印度凸显半导体产业在AI时代的战略价值。中国半导体国产替代进程加速，中芯国际、长电科技等有望受益于全球AI硬件需求。但中国AI芯片受制于出口管制，需关注国产算力突破。"
+    },
+    "publishedAt": "2026-05-26T11:00:12Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T11:03:33.783Z"
+  },
+  {
+    "title": "Skymizer与VIA NEXT合作推进下一代AI推理基础设施与Chiplet集成生态",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/skymizer-and-via-next-collaborate-to-advance-next-generation-ai-inference-infrastructure-and-chiplet-integration-ecosystem-302781095.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "合作聚焦AI推理基础设施、先进封装、Chiplet集成",
+      "LPU评估、EVB/DVB开发与系统级验证"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Skymizer（AI推理基础设施公司）与VIA NEXT（威盛电子旗下）合作，共同推进下一代AI推理基础设施与Chiplet集成生态。合作涵盖先进封装、LPU评估、EVB/DVB开发与系统级验证。",
+      "transmissionChain": "该合作将加速Chiplet技术在AI推理场景的落地，降低AI芯片设计门槛。LPU（语言处理单元）评估可能推动专用AI芯片发展。先进封装与系统级验证需求将利好相关设备与服务商。",
+      "chinaMarketMapping": "对中国AI芯片设计公司（如寒武纪、地平线）而言，Chiplet生态成熟可降低芯片开发成本，加速国产AI芯片迭代。同时，中国先进封装厂商（长电科技、通富微电）有望承接更多Chiplet集成订单。"
+    },
+    "publishedAt": "2026-05-26T11:00:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T11:03:33.783Z"
+  },
+  {
+    "title": "中国限制阿里巴巴和DeepSeek顶级AI人才出境",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/china-restricts-travel-ai-talent-alibaba-deepseek/",
+    "category": "AI_MODEL",
+    "summary": [
+      "中国扩大对私营企业AI人才的出境限制",
+      "可能影响创新与全球AI人才流动"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "中国政府对阿里巴巴、DeepSeek等私营企业的顶级AI人才实施出境限制，防止技术外流与人才流失。此举旨在保护中国AI技术优势，但可能抑制创新。",
+      "transmissionChain": "限制AI人才出境将加速中国AI自主研发，但可能导致国际交流减少，影响技术合作。短期利好国产AI芯片与软件替代，长期可能削弱中国AI全球竞争力。",
+      "chinaMarketMapping": "对中国AI产业而言，人才限制将倒逼企业加大本土研发投入，利好国产AI芯片（寒武纪、海光信息）与基础软件（百度飞桨、华为昇思）。但高端人才流失风险上升，需关注人才激励政策。"
+    },
+    "publishedAt": "2026-05-26T10:59:14Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T11:03:33.783Z"
+  },
+  {
+    "title": "台积电员工因奖金削减威胁罢工，公司考虑削减15%分红以支持资本支出",
+    "source": "Tom's Hardware UK",
+    "url": "https://www.tomshardware.com/tech-industry/tsmc-employees-threaten-samsung-style-strike-over-rumored-15-percent-bonus-cuts-despite-record-profits",
+    "category": "AI_MODEL",
+    "summary": [
+      "台积电员工因传闻15%分红削减威胁罢工",
+      "公司回应称2026年分红将比2025年增长更快"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台积电员工因传闻公司计划削减15%分红以支持资本支出，威胁罢工与工会化。尽管公司营收创纪录，但员工不满情绪上升，可能影响生产稳定性。",
+      "transmissionChain": "若罢工发生，将直接影响台积电先进制程与封装产能，冲击AI芯片供应。英伟达、AMD等客户可能面临交货延迟，推动芯片价格上涨。",
+      "chinaMarketMapping": "对中国半导体产业而言，台积电产能不稳可能加速订单向中芯国际等本土厂商转移，但中芯国际受制于设备限制，替代能力有限。短期利好中国芯片设计公司自研替代，但长期需关注供应链风险。"
+    },
+    "publishedAt": "2026-05-26T10:57:30Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T11:03:33.783Z"
+  },
+  {
+    "title": "欧洲央行警告中东紧张可能推升欧元区通胀超过4%",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/ecb-lane-inflation-middle-east-tensions/",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "ECB官员Lane警告中东紧张可能导致欧元区滞胀",
+      "挑战ECB货币政策，影响资产市场"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "欧洲央行首席经济学家Lane警告，中东紧张局势持续可能导致欧元区通胀超过4%，并引发滞胀风险。能源价格飙升将推高生产成本，抑制经济增长。",
+      "transmissionChain": "欧元区通胀超预期将迫使ECB维持或收紧货币政策，利空欧洲股市与债券。能源成本上升将冲击制造业，汽车、化工等板块承压。全球避险情绪升温，资金流向美元与黄金。",
+      "chinaMarketMapping": "对中国而言，欧元区滞胀将削弱外部需求，出口承压。但中国通胀压力较小，货币政策空间更大，可能吸引外资流入。同时，中国新能源与节能技术出口有望受益于欧洲能源转型。"
+    },
+    "publishedAt": "2026-05-26T10:55:50Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T11:03:33.783Z"
+  },
+  {
+    "title": "中国新突破：微波技术可为无人机空中充电",
+    "source": "BGR",
+    "url": "https://www.bgr.com/2177681/china-drone-breakthrough/",
+    "category": "SMART_MOBILITY",
+    "summary": [
+      "中国在无人机空中充电领域取得突破",
+      "微波充电技术军事意义重大"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "中国在无人机空中充电技术方面取得突破，利用微波为飞行中的无人机充电。该技术军事应用前景广阔，可大幅提升无人机续航能力。",
+      "transmissionChain": "空中充电技术将推动无人机在物流、巡检、军事等领域的应用。微波充电设备与无人机改装需求增长，利好相关军工与科技公司。",
+      "chinaMarketMapping": "对中国无人机产业（大疆、航天彩虹）而言，空中充电技术突破将解决续航痛点，推动低空经济发展。同时，军事应用利好国防军工板块。但技术成熟度与成本仍需观察。"
+    },
+    "publishedAt": "2026-05-26T10:47:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T11:03:33.783Z"
+  },
+  {
+    "title": "SK海力士展示散热救星！新技术「iHBM」热阻降低30%，计划导入HBM5",
+    "source": "Yahoo Entertainment",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_802b6ee1-4f87-4c3a-b9d3-5c7d33328e06",
+    "category": "AI_MODEL",
+    "summary": [
+      "iHBM技术在HBM封装中直接植入冷却元件",
+      "热阻降低30%以上，确保AI芯片高负载稳定运行"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "SK海力士发布iHBM散热技术，在HBM封装中直接植入冷却元件，使热阻降低30%以上。该技术针对AI芯片散热瓶颈，计划导入HBM5，提升AI芯片性能与可靠性。",
+      "transmissionChain": "iHBM技术将提升HBM5的性能与散热效率，推动AI芯片算力升级。SK海力士作为HBM龙头，技术领先将进一步巩固其市场地位。散热技术突破也将利好散热材料与封装设备供应商。",
+      "chinaMarketMapping": "对中国存储厂商（长鑫存储、长江存储）而言，iHBM技术树立了HBM散热新标杆，国产HBM研发需跟进。同时，中国散热材料企业（中石科技、飞荣达）有望受益于AI芯片散热需求增长。"
+    },
+    "publishedAt": "2026-05-26T10:31:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-27T11:03:33.783Z"
+  },
+  {
     "title": "朋亿通吃FOPLP与CoWoS先进封装扩厂商机",
     "source": "Yahoo Entertainment",
     "url": "https://tw.news.yahoo.com/%E9%80%9A%E5%90%83foplp%E8%88%87cowos%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E6%93%B4%E5%BB%A0%E5%95%86%E6%A9%9F-%E6%9C%8B%E5%84%84-%E7%9C%8B%E5%A5%BD2026%E7%87%9F%E9%81%8B%E9%80%90%E5%AD%A3%E8%B5%B0%E9%AB%98-%E5%AD%90%E5%85%AC%E5%8F%B8%E6%8B%9Aa%E8%82%A1%E4%B8%8A%E5%B8%82-054521922.html",
@@ -593,134 +719,5 @@
     "publishedAt": "2026-05-25T15:48:26Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-26T16:24:25.399Z"
-  },
-  {
-    "title": "土耳其政坛大地震！法院判决撤换反对党领袖 Erdogan 23年统治恐再延长",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E5%9C%9F%E8%80%B3%E5%85%B6%E6%94%BF%E5%A3%87%E5%A4%A7%E5%9C%B0%E9%9C%87-%E6%B3%95%E9%99%A2%E5%88%A4%E6%B1%BA%E6%92%A4%E6%8F%9B%E5%8F%8D%E5%B0%8D%E9%BB%A8%E9%A0%98%E8%A2%96-erdogan-23%E5%B9%B4%E7%B5%B1%E6%B2%BB%E6%81%90%E5%86%8D%E5%BB%B6%E9%95%B7-154209445.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "土耳其法院撤换最大反对党领袖",
-      "里拉汇率重挫，Erdogan权力巩固"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "土耳其法院做出争议判决，撤换最大反对党共和人民党领袖，被反对派痛批为'司法政变'。此举巩固Erdogan权力，但引发政治动荡与里拉贬值。",
-      "transmissionChain": "里拉贬值将推高土耳其通胀，利空土耳其资产。政治不确定性可能影响外资流入，但Erdogan的宽松货币政策可能延续。地缘上，土耳其与北约关系可能紧张。",
-      "chinaMarketMapping": "对中国A股，土耳其动荡可能影响一带一路项目，但整体影响有限。里拉贬值利好中国出口企业（纺织、家电），但需警惕汇率风险。"
-    },
-    "publishedAt": "2026-05-25T15:42:09Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:24:25.399Z"
-  },
-  {
-    "title": "能源冲击掀欧洲通膨警报，ECB官员称必要时应转向限制性货币政策",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A%E6%8E%80%E6%AD%90%E6%B4%B2%E9%80%9A%E8%86%A8%E8%AD%A6%E5%A0%B1-ecb%E5%AE%98%E5%93%A1%E7%A8%B1%E5%BF%85%E8%A6%81%E6%99%82%E6%87%89%E8%BD%89%E5%90%91%E9%99%90%E5%88%B6%E6%80%A7%E8%B2%A8%E5%B9%A3%E6%94%BF%E7%AD%96-232850487.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "ECB官员Stournaras称若通膨因能源冲击明显高于目标，应转向限制性政策",
-      "伊朗战争导致石油与天然气价格急涨，可能引发第二轮效应"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "欧洲央行管委Stournaras表示，若能源冲击导致通膨明显高于目标，即使暂时性，ECB也应转向限制性货币政策，以防止第二轮效应。伊朗战争推高油气价格，欧洲通膨风险上升。",
-      "transmissionChain": "ECB转鹰将利空欧洲股市与债券，欧元可能走强。能源成本上升将挤压欧洲企业利润，尤其制造业。高利率将抑制投资与消费，增加衰退风险。",
-      "chinaMarketMapping": "对中国A股，欧洲需求放缓将利空出口企业（光伏、机械）。但欧元走强可能推动人民币升值，利好进口企业。中国央行可能维持宽松，中美欧政策分化加大。"
-    },
-    "publishedAt": "2026-05-25T15:28:50Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:24:25.399Z"
-  },
-  {
-    "title": "伊朗强硬喊话不投降，美伊协议逼近落槌却深陷核问题与制裁交换僵局",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E5%BC%B7%E7%A1%AC%E5%96%8A%E8%A9%B1%E4%B8%8D%E6%8A%95%E9%99%8D-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E9%80%BC%E8%BF%91%E8%90%BD%E6%A7%8C%E5%8D%BB%E6%B7%B1%E9%99%B7%E6%A0%B8%E5%95%8F%E9%A1%8C%E8%88%87%E5%88%B6%E8%A3%81%E4%BA%A4%E6%8F%9B%E5%83%B5%E5%B1%80-231940957.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "伊朗最高国家安全委员会称'不会投降或后退'",
-      "美伊谈判在核问题与制裁交换上陷入僵局"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "伊朗最高国家安全委员会发表强硬声明，称'不会投降或后退'，同时美伊谈判在核问题与制裁交换上陷入僵局。川普此前要求伊朗浓缩铀移交美国，双方立场差距大。",
-      "transmissionChain": "谈判僵局增加地缘不确定性，油价可能反弹，避险资产受益。若谈判破裂，美军可能重返战场，霍尔木兹海峡封锁持续，全球能源供应危机加剧。",
-      "chinaMarketMapping": "对中国A股，地缘风险上升将利好军工与能源板块，但利空航空与制造业。中国可能加大战略石油储备，并推动人民币结算。"
-    },
-    "publishedAt": "2026-05-25T15:19:40Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:24:25.399Z"
-  },
-  {
-    "title": "伊朗强硬喊话不投降，美伊协议逼近落槌却深陷核问题与制裁交换僵局",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E5%BC%B7%E7%A1%AC%E5%96%8A%E8%A9%B1%E4%B8%8D%E6%8A%95%E9%99%8D-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E9%80%BC%E8%BF%91%E8%90%BD%E6%A7%8C%E5%8D%BB%E6%B7%B1%E9%99%B7%E6%A0%B8%E5%95%8F%E9%A1%8C%E8%88%87%E5%88%B6%E8%A3%81%E4%BA%A4%E6%8D%A2%E5%83%B5%E5%B1%80-231940957.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "伊朗最高国家安全委员会称'不会投降或后退'",
-      "美伊谈判在核问题与制裁交换上陷入僵局"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "伊朗在谈判中释放强硬信号，拒绝在核问题上让步，美伊协议核心分歧未解，市场可能过度乐观定价协议达成。",
-      "transmissionChain": "若谈判破裂，油价将报复性反弹，全球通胀预期升温，股市承压。避险资产黄金、美元大涨。若伊朗妥协，油价暴跌，风险资产狂欢。当前油价已部分定价协议，破裂风险被低估。",
-      "chinaMarketMapping": "中国需为美伊谈判破裂做准备，增加战略石油储备。A股能源股（中国石油）受益于油价上涨，但航空、化工等成本上升。人民币汇率可能因美元走强而承压。"
-    },
-    "publishedAt": "2026-05-25T15:19:40Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:43:15.452Z"
-  },
-  {
-    "title": "扇出型面板级封装（FOPLP）成为AI芯片封装新焦点",
-    "source": "雅虎财经",
-    "url": "https://tw.stock.yahoo.com/news/群创股价50元有机会-报告一次看-160500954.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "力成获AMD支持，目标2027年量产",
-      "群创利用G3.5玻璃基板切入低轨卫星",
-      "东捷提供激光切割与AOI一站式服务"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "FOPLP技术利用矩形面板级基板代替圆形晶圆，提高产能利用率并降低成本，成为CoWoS后AI芯片封装的新方向。力成（6239）获得AMD背书并计划2027年量产，群创（3481）利用G3.5玻璃基板实现异质整合并打入低轨卫星供应链，设备商东捷（8064）提供全套解决方案。该技术将降低AI芯片封装成本并满足散热需求。",
-      "transmissionChain": "FOPLP降低AI芯片封装成本约20-30%，利好GPU、CPU和ASIC设计厂商（英伟达、AMD、博通）。玻璃基板供应商（群创、友达）开辟新增长点。设备端（东捷、激光设备商）订单增长。传统封测厂（日月光、力成）面临技术迭代机遇与挑战。低轨卫星通信（SpaceX Starlink）需求为FOPLP提供额外应用。",
-      "chinaMarketMapping": "中国封测企业（长电科技、通富微电）正积极布局FOPLP技术，与国内面板厂商（京东方、TCL华星）合作开发玻璃基板。设备环节（大族激光、德龙激光）受益于国产替代。此外，FOPLP与低轨卫星结合为A股华力创通、盟升电子等卫星通信标的提供想象空间。"
-    },
-    "publishedAt": "2026-05-24T16:05:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T16:11:40.906Z"
-  },
-  {
-    "title": "黄仁勳提前来台拜访张忠谋，为COMPUTEX暖身",
-    "source": "雅虎财经",
-    "url": "https://tw.stock.yahoo.com/news/巨头酒叙3小时-提威士忌作客-黄仁勳笑赞-张忠谋状态很好-154302133.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "黄仁勳携全家拜访台积电创始人张忠谋",
-      "餐叙近3小时，预计COMPUTEX发布重大消息",
-      "黄仁勳之后逛饶河夜市，市场关注AI供应链行情"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达CEO黄仁勳提前抵台，携带威士忌拜访台积电创始人张忠谋及其夫人张淑芬，餐叙近3小时。这是黄仁勳每年COMPUTEX前的惯例行程，旨在巩固与关键伙伴的关系。随后他现身饶河夜市，引发市场对COMPUTEX主题演讲（6月1日）的期待，预计将披露Vera Rubin平台细节及AI Agent战略。",
-      "transmissionChain": "黄仁勳与张忠谋会面传递台积电-英伟达合作关系稳定的信号，利好台积电供应链。COMPUTEX演讲预期将带动AI芯片、散热、PCB、先进封装等板块上涨。夜市行程被媒体大量报道，提升台湾AI概念股散户投资情绪。此外，黄仁勳此前透露Vera Rubin全年供不应求，预示订单能见度高。",
-      "chinaMarketMapping": "A股英伟达供应链标的（工业富联、沪电股份、胜宏科技）受益于COMPUTEX行情。但黄仁勳承认放弃中国AI芯片市场，英伟达在中国销售受限，利好华为昇腾生态链（四川长虹、华鲲振宇）。中国AI算力租赁概念（鸿博股份、中贝通信）获催化。"
-    },
-    "publishedAt": "2026-05-24T15:43:02Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T16:11:40.906Z"
-  },
-  {
-    "title": "英伟达剑指最大CPU供应商，年营收有望近200亿美元",
-    "source": "雅虎财经",
-    "url": "https://tw.stock.yahoo.com/news/辉达拚成-最大cpu供应商-年营收有望近200亿美元-153111805.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达CEO放话成为最大CPU供应商",
-      "CPU年营收有望达200亿美元",
-      "Arm架构CPU Grace在数据中心快速渗透"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达CEO在台北表示，公司计划成为全球最大CPU供应商，其Grace CPU是基于Arm架构的数据中心处理器，2025年营收已突破80亿美元，预计2026年接近200亿美元。英伟达凭借GPU+CPU超级芯片（Grace Hopper）捆绑销售策略，在AI服务器市场占据主导，挤压英特尔和AMD份额。",
-      "transmissionChain": "英伟达CPU崛起将直接威胁英特尔（数据中心业务）和AMD（EPYC）的市场地位。代工厂台积电受益于Grace订单增加，Arm生态进一步壮大。但由于英伟达GPU的垄断地位，客户可能担忧锁定效应，转向AMD或自研芯片。此外，AMD的CPU+GPU组合仍具竞争力。",
-      "chinaMarketMapping": "英伟达CPU无法出口到中国，利好华为鲲鹏CPU（基于Arm）和飞腾等国产CPU发展。中国服务器厂商（中科曙光、浪潮信息）面临两难：高端客户倾向英伟达方案但受出口限制，国产CPU性能尚有差距。长期看，中国CPU自主化进程加速，A股相关标的（海光信息、龙芯中科）受益。"
-    },
-    "publishedAt": "2026-05-24T15:31:11Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-25T16:11:40.906Z"
   }
 ]

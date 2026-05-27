@@ -231,9 +231,9 @@
   },
   {
     "date": "2026-05-27",
-    "confidence": 50,
-    "liquidity": 48,
-    "mediaSentiment": 0,
+    "confidence": 55,
+    "liquidity": 55,
+    "mediaSentiment": 0.1,
     "socialSentiment": -0.1,
     "regime": "滞胀",
     "fearGreedIndex": 55,
