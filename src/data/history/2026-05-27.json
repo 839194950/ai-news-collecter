@@ -1,15 +1,15 @@
 {
   "macroMetrics": {
     "economicConfidence": 45,
-    "regulatoryPressure": 65,
-    "blackSwanProbability": 30,
+    "regulatoryPressure": 60,
+    "blackSwanProbability": 35,
     "mediaSentiment": -0.1,
     "socialSentiment": -0.2,
-    "macroTrendAlert": "对比3天前（5月27日）经济信心55，今日降至45，连续第三日下滑。美国消费者信心崩跌至1952年新低（44.8）的滞后影响仍在发酵，但美伊和平协议预期升温导致原油暴跌6%，暂时缓解通胀恐慌。美股标普500与纳斯达克微涨，沪深300大涨0.87%，显示资金从美股向A股轮动，但A股反弹更多是AI供应链与政策预期驱动，并非基本面改善。美债收益率差创一年新低，高盛警告即使伊朗停火，利率仍将维持高位，实际利率上升成为新主导因素。宏观信号呈现滞胀特征：增长放缓（消费者信心崩溃）、通胀预期仍高（能源冲击虽边际缓解但核心通胀粘性），但地缘风险边际下降（美伊谈判进展）。需警惕土耳其政局动荡与欧洲能源冲击对全球市场的溢出效应。"
+    "macroTrendAlert": "对比5月27日经济信心45，今日维持45，连续三日持平于低位。美国消费者信心崩跌至1952年新低的滞后影响仍在，但美伊停火谈判与油价暴跌暂时缓解通胀恐慌。美股标普500与纳斯达克微涨，沪深300下跌1.07%，显示资金从A股向美股轮动，但A股下跌更多是获利了结与地缘担忧，并非基本面恶化。美债收益率差创一年新低，高盛警告即使伊朗停火，利率仍将维持高位。原油暴跌2%至92美元，若美伊协议达成则进一步下探至85美元。整体市场处于滞胀与复苏的拉锯状态，AI供应链与政策预期提供支撑，但消费者信心与地缘风险压制风险偏好。"
   },
   "marketRegime": {
     "quadrant": "滞胀",
-    "logic": "美国消费者信心崩跌至1952年新低，通胀预期因能源冲击仍高，但增长动能明显放缓；A股反弹更多是资金轮动而非基本面改善，符合滞胀特征。"
+    "logic": "美国消费者信心处于1952年以来最低，通胀预期因能源冲击仍高，但增长动能明显放缓；A股回调更多是资金轮动而非基本面改善，符合滞胀特征。"
   },
   "assetImpact": {
     "safeHaven": {
@@ -37,44 +37,38 @@
     {
       "subject": "人工智能/大模型",
       "hotness": 95,
-      "sentiment": 0.6,
+      "sentiment": 0.5,
       "momentum": 15
     },
     {
-      "subject": "先进封装/光通讯",
+      "subject": "半导体/先进封装",
       "hotness": 90,
-      "sentiment": 0.7,
-      "momentum": 20
-    },
-    {
-      "subject": "存储芯片",
-      "hotness": 85,
-      "sentiment": 0.5,
-      "momentum": 10
-    },
-    {
-      "subject": "被动元件",
-      "hotness": 80,
-      "sentiment": 0.8,
-      "momentum": 25
-    },
-    {
-      "subject": "自动驾驶",
-      "hotness": 75,
       "sentiment": 0.4,
+      "momentum": 12
+    },
+    {
+      "subject": "光通讯/CPO",
+      "hotness": 85,
+      "sentiment": 0.6,
+      "momentum": 18
+    },
+    {
+      "subject": "智能电动汽车",
+      "hotness": 70,
+      "sentiment": 0.3,
       "momentum": 8
     },
     {
-      "subject": "人形机器人",
-      "hotness": 70,
+      "subject": "国防军工/无人载具",
+      "hotness": 75,
       "sentiment": 0.2,
-      "momentum": -5
+      "momentum": 10
     },
     {
-      "subject": "能源/原油",
-      "hotness": 65,
-      "sentiment": -0.6,
-      "momentum": -30
+      "subject": "被动元件/MLCC",
+      "hotness": 80,
+      "sentiment": 0.5,
+      "momentum": 14
     }
   ],
   "economicForecast": "短期全球市场分化加剧：美股受消费者信心崩跌与利率上行压力，标普500预计在7400-7500区间震荡；A股受AI供应链与政策预期支撑，沪深300有望延续反弹至5000附近，但需警惕获利了结。美元兑人民币维持6.8中枢，原油在90-95美元博弈，若美伊协议达成则进一步下探。关注COMPUTEX（6月2-5日）与苹果WWDC（6月）对AI情绪的提振。地缘风险（伊朗核谈判、土耳其政局）仍需警惕，但全面爆发概率低。",
@@ -86,7 +80,7 @@
     "欧盟拟重罚Google（DMA首张罚单）：科技监管趋严，可能压制美股科技巨头估值，但利好欧洲本土搜索与广告平台。"
   ],
   "aiCalibrationScore": 75,
-  "aiReview": "信心指数下调10点，美林时钟从过热转向滞胀，方向正确但低估了消费者信心崩溃的冲击。",
+  "aiReview": "信心指数维持45，美林时钟从过热转向滞胀，方向正确但低估了消费者信心崩溃的冲击。",
   "marketSentimentTracker": {
     "fearGreedIndex": 45,
     "hotThemes": [
@@ -122,224 +116,224 @@
       {
         "code": "000725.SZ",
         "name": "京东方A",
-        "price": 5.77,
-        "changePercent": 9.49,
-        "trailingPE": 35.92,
-        "buyZone": "5.31 ~ 5.54",
-        "takeProfit": "6.92",
-        "stopLoss": "5.08",
-        "reason": "显示面板全球龙头，受益于AI终端与柔性屏需求，估值低位，股价低于5元"
+        "price": 5.61,
+        "changePercent": -2.77,
+        "trailingPE": 34.93,
+        "buyZone": "5.16 ~ 5.39",
+        "takeProfit": "6.73",
+        "stopLoss": "4.94",
+        "reason": "显示面板全球龙头，受益于AI终端与柔性屏需求，估值低位，股价低于5元。"
       },
       {
         "code": "600010.SS",
         "name": "包钢股份",
-        "price": 2.48,
-        "changePercent": -1.98,
-        "trailingPE": -836.77,
-        "buyZone": "2.23 ~ 2.36",
-        "takeProfit": "3.10",
-        "stopLoss": "2.11",
-        "reason": "稀土与钢铁双主业，受益于国企改革与新能源材料需求，股价低于2元"
+        "price": 2.39,
+        "changePercent": -3.63,
+        "trailingPE": -806.4,
+        "buyZone": "2.15 ~ 2.27",
+        "takeProfit": "2.99",
+        "stopLoss": "2.03",
+        "reason": "稀土与钢铁双主业，受益于国企改革与新能源材料需求，股价低于2元。"
       },
       {
         "code": "000100.SZ",
         "name": "TCL科技",
-        "price": 4.65,
-        "changePercent": 4.73,
-        "trailingPE": 19.11,
-        "buyZone": "4.28 ~ 4.46",
-        "takeProfit": "5.58",
-        "stopLoss": "4.09",
-        "reason": "面板与光伏双轮驱动，受益于AI显示需求与新能源转型，股价低于5元"
+        "price": 4.64,
+        "changePercent": -0.22,
+        "trailingPE": 19.07,
+        "buyZone": "4.27 ~ 4.45",
+        "takeProfit": "5.57",
+        "stopLoss": "4.08",
+        "reason": "面板与光伏双轮驱动，受益于AI终端与能源转型，股价低于5元。"
       },
       {
-        "code": "600839.SS",
-        "name": "四川长虹",
-        "price": 7.95,
-        "changePercent": -2.57,
-        "trailingPE": 49.47,
-        "buyZone": "7.16 ~ 7.55",
-        "takeProfit": "9.94",
-        "stopLoss": "6.76",
-        "reason": "家电与IT服务双主业，受益于消费复苏与国企改革，股价低于5元"
+        "code": "600221.SS",
+        "name": "海南航空",
+        "price": 1.48,
+        "changePercent": -1.33,
+        "trailingPE": 18.63,
+        "buyZone": "1.33 ~ 1.41",
+        "takeProfit": "1.85",
+        "stopLoss": "1.26",
+        "reason": "航空复苏与油价下跌利好，国企改革预期，股价低于2元。"
       },
       {
         "code": "002049.SZ",
         "name": "紫光国微",
-        "price": 82.95,
-        "changePercent": -2.43,
-        "trailingPE": 42.66,
-        "buyZone": "76.31 ~ 79.63",
-        "takeProfit": "99.54",
-        "stopLoss": "73.00",
-        "reason": "国产FPGA与智能安全芯片龙头，受益于AI与信创需求"
+        "price": 86.17,
+        "changePercent": 3.88,
+        "trailingPE": 44.31,
+        "buyZone": "79.28 ~ 82.72",
+        "takeProfit": "103.40",
+        "stopLoss": "75.83",
+        "reason": "FPGA与智能安全芯片龙头，受益于AI与国产替代。"
       },
       {
-        "code": "688981.SS",
-        "name": "中芯国际",
-        "price": 149.18,
-        "changePercent": -4.37,
-        "trailingPE": 236.92,
-        "buyZone": "134.26 ~ 141.72",
-        "takeProfit": "186.48",
-        "stopLoss": "126.80",
-        "reason": "大陆晶圆代工龙头，受益于国产替代与AI芯片需求"
+        "code": "600745.SS",
+        "name": "闻泰科技",
+        "price": 18.75,
+        "changePercent": 4.98,
+        "trailingPE": -2.54,
+        "buyZone": "17.25 ~ 18.00",
+        "takeProfit": "22.50",
+        "stopLoss": "16.50",
+        "reason": "ODM与半导体双龙头，受益于AI终端与功率器件需求。"
       },
       {
         "code": "002371.SZ",
         "name": "北方华创",
-        "price": 670.25,
-        "changePercent": -4,
-        "trailingPE": 87.13,
-        "buyZone": "616.63 ~ 643.44",
-        "takeProfit": "804.30",
-        "stopLoss": "589.82",
-        "reason": "半导体设备龙头，受益于国产替代与先进封装扩产"
+        "price": 666.77,
+        "changePercent": -0.52,
+        "trailingPE": 86.67,
+        "buyZone": "613.43 ~ 640.10",
+        "takeProfit": "800.12",
+        "stopLoss": "586.76",
+        "reason": "半导体设备龙头，受益于国产替代与先进封装扩产。"
       },
       {
-        "code": "300750.SZ",
-        "name": "宁德时代",
-        "price": 402.5,
-        "changePercent": -0.09,
-        "trailingPE": 23.58,
-        "buyZone": "362.25 ~ 382.38",
-        "takeProfit": "503.13",
-        "stopLoss": "342.13",
-        "reason": "全球动力电池龙头，受益于电动车与储能需求增长"
+        "code": "600584.SS",
+        "name": "长电科技",
+        "price": 90.87,
+        "changePercent": 3.04,
+        "trailingPE": 98.42,
+        "buyZone": "83.60 ~ 87.24",
+        "takeProfit": "109.04",
+        "stopLoss": "79.97",
+        "reason": "先进封装龙头，受益于AI芯片封装需求爆发。"
       },
       {
-        "code": "600519.SS",
-        "name": "贵州茅台",
-        "price": 1273.38,
-        "changePercent": -0.97,
-        "trailingPE": 19.28,
-        "buyZone": "1171.51 ~ 1222.44",
-        "takeProfit": "1528.06",
-        "stopLoss": "1120.57",
-        "reason": "白酒行业绝对龙头，消费复苏与品牌溢价支撑"
+        "code": "000063.SZ",
+        "name": "中兴通讯",
+        "price": 34.96,
+        "changePercent": -1.63,
+        "trailingPE": 37.37,
+        "buyZone": "32.16 ~ 33.56",
+        "takeProfit": "41.95",
+        "stopLoss": "30.76",
+        "reason": "5G与算力设备龙头，受益于AI数据中心与6G布局。"
       },
       {
-        "code": "601138.SS",
-        "name": "工业富联",
-        "price": 69.98,
-        "changePercent": -0.46,
-        "trailingPE": 34.16,
-        "buyZone": "62.98 ~ 66.48",
-        "takeProfit": "87.48",
-        "stopLoss": "59.48",
-        "reason": "AI服务器代工龙头，受益于英伟达供应链与液冷散热"
+        "code": "600036.SS",
+        "name": "招商银行",
+        "price": 36.82,
+        "changePercent": -0.49,
+        "trailingPE": 6.16,
+        "buyZone": "33.87 ~ 35.35",
+        "takeProfit": "44.18",
+        "stopLoss": "32.40",
+        "reason": "零售银行龙头，受益于经济复苏与财富管理，估值合理。"
       }
     ],
     "usSharePool": [
       {
         "code": "NVDA",
         "name": "英伟达",
-        "price": 213.13,
-        "changePercent": -1.0217,
-        "trailingPE": 32.6476,
-        "buyZone": "191.82 ~ 202.47",
-        "takeProfit": "266.41",
-        "stopLoss": "181.16",
-        "reason": "AI芯片绝对龙头，Blackwell架构驱动增长，数据中心收入年增92%"
+        "price": 214.86,
+        "changePercent": -0.2183,
+        "trailingPE": 32.3628,
+        "buyZone": "193.37 ~ 204.12",
+        "takeProfit": "268.58",
+        "stopLoss": "182.63",
+        "reason": "AI芯片绝对龙头，Blackwell架构驱动增长，数据中心收入年增92%。"
       },
       {
         "code": "AMD",
         "name": "超微半导体",
-        "price": 495.19,
-        "changePercent": 5.9207,
+        "price": 503.89,
+        "changePercent": 7.7817,
         "trailingPE": 152.1905,
-        "buyZone": "445.67 ~ 470.43",
-        "takeProfit": "618.99",
-        "stopLoss": "420.91",
-        "reason": "AI芯片第二极，MI400与CPU双轮驱动，受益于AI需求扩散"
+        "buyZone": "453.50 ~ 478.70",
+        "takeProfit": "629.86",
+        "stopLoss": "428.31",
+        "reason": "AI芯片第二极，MI400与CPU双轮驱动，估值相对合理。"
       },
       {
         "code": "MSFT",
         "name": "微软",
-        "price": 415.5,
-        "changePercent": -0.7334,
-        "trailingPE": 24.8317,
-        "buyZone": "382.26 ~ 398.88",
-        "takeProfit": "498.60",
-        "stopLoss": "365.64",
-        "reason": "云服务与AI应用龙头，Copilot生态与Maia芯片布局"
+        "price": 416.03,
+        "changePercent": -0.6068,
+        "trailingPE": 24.6608,
+        "buyZone": "382.75 ~ 399.39",
+        "takeProfit": "499.24",
+        "stopLoss": "366.11",
+        "reason": "AI云与Copilot生态领先，Windows 11定位AI OS，营收稳健。"
       },
       {
-        "code": "AAPL",
-        "name": "苹果",
-        "price": 310.14,
-        "changePercent": 0.4274,
-        "trailingPE": 37.0039,
-        "buyZone": "285.33 ~ 297.73",
-        "takeProfit": "372.17",
-        "stopLoss": "272.92",
-        "reason": "消费电子巨头，WWDC gen.ai战略与iOS 27 AI整合预期"
+        "code": "GOOGL",
+        "name": "谷歌",
+        "price": 388.88,
+        "changePercent": 1.5432,
+        "trailingPE": 29.4097,
+        "buyZone": "357.77 ~ 373.32",
+        "takeProfit": "466.66",
+        "stopLoss": "342.21",
+        "reason": "AI搜索与Gemini模型领先，云计算增长强劲，估值合理。"
       },
       {
         "code": "SNAP",
-        "name": "Snap Inc.",
-        "price": 5.81,
-        "changePercent": 1.5734,
+        "name": "Snap",
+        "price": 5.75,
+        "changePercent": 0.5245,
         "trailingPE": null,
-        "buyZone": "5.23 ~ 5.52",
-        "takeProfit": "7.26",
-        "stopLoss": "4.94",
-        "reason": "社交平台AI广告转型，股价低于15美元，受益于数字广告复苏"
+        "buyZone": "5.17 ~ 5.46",
+        "takeProfit": "7.19",
+        "stopLoss": "4.89",
+        "reason": "社交平台AI广告转型，用户增长恢复，股价低于15美元。"
       },
       {
         "code": "SOFI",
         "name": "SoFi Technologies",
-        "price": 16.11,
-        "changePercent": 3.137,
+        "price": 15.98,
+        "changePercent": 2.3047,
         "trailingPE": 34.7291,
-        "buyZone": "14.50 ~ 15.30",
-        "takeProfit": "20.14",
-        "stopLoss": "13.69",
-        "reason": "金融科技平台，受益于降息预期与用户增长，股价低于15美元"
+        "buyZone": "14.38 ~ 15.18",
+        "takeProfit": "19.98",
+        "stopLoss": "13.58",
+        "reason": "金融科技平台，受益于降息预期与用户增长，股价低于15美元。"
       },
       {
         "code": "RGTI",
         "name": "Rigetti Computing",
-        "price": 25.33,
-        "changePercent": -4.1257,
+        "price": 25.065,
+        "changePercent": -5.1287,
         "trailingPE": null,
-        "buyZone": "22.29 ~ 23.56",
-        "takeProfit": "32.93",
-        "stopLoss": "20.26",
-        "reason": "量子计算纯正标的，受益于AI与量子融合趋势，股价低于5美元"
+        "buyZone": "21.31 ~ 22.56",
+        "takeProfit": "32.58",
+        "stopLoss": "20.05",
+        "reason": "量子计算纯正标的，受益于政策支持与技术进步，股价低于5美元。"
       },
       {
         "code": "PLTR",
         "name": "Palantir Technologies",
-        "price": 137.2,
-        "changePercent": 0.2338,
+        "price": 136.6,
+        "changePercent": -0.2046,
         "trailingPE": 143.8264,
-        "buyZone": "123.48 ~ 130.34",
-        "takeProfit": "171.50",
-        "stopLoss": "116.62",
-        "reason": "大数据与AI分析平台，政府与商业客户双轮驱动"
+        "buyZone": "122.94 ~ 129.77",
+        "takeProfit": "170.75",
+        "stopLoss": "116.11",
+        "reason": "AI数据分析龙头，政府与商业客户增长强劲，股价低于15美元。"
       },
       {
-        "code": "GOOGL",
-        "name": "Alphabet",
-        "price": 386.28,
-        "changePercent": 0.8643,
-        "trailingPE": 28.9628,
-        "buyZone": "355.38 ~ 370.83",
-        "takeProfit": "463.54",
-        "stopLoss": "339.93",
-        "reason": "搜索与AI龙头，Gemini模型与Android XR生态，但面临DMA罚款风险"
+        "code": "TSLA",
+        "name": "特斯拉",
+        "price": 433.59,
+        "changePercent": 1.7793,
+        "trailingPE": 414.2869,
+        "buyZone": "398.90 ~ 416.25",
+        "takeProfit": "520.31",
+        "stopLoss": "381.56",
+        "reason": "电动汽车与AI自动驾驶龙头，FSD进入中国，长期增长确定。"
       },
       {
-        "code": "META",
-        "name": "Meta Platforms",
-        "price": 610.22,
-        "changePercent": -0.0066,
-        "trailingPE": 21.8537,
-        "buyZone": "561.40 ~ 585.81",
-        "takeProfit": "732.26",
-        "stopLoss": "536.99",
-        "reason": "社交与AI广告龙头，开源大模型与元宇宙布局"
+        "code": "AVGO",
+        "name": "博通",
+        "price": 422.01,
+        "changePercent": 1.9003,
+        "trailingPE": 78.5206,
+        "buyZone": "388.25 ~ 405.13",
+        "takeProfit": "506.41",
+        "stopLoss": "371.37",
+        "reason": "AI网络与定制芯片龙头，受益于数据中心扩张，估值合理。"
       }
     ]
   },
@@ -349,40 +343,40 @@
       "name": "人工智能/大模型",
       "status": "AI代理爆发前夜",
       "latestNews": [
-        "【英伟达Q1净利飙升139%】英伟达2026财年第一季度营收816亿美元，超市场预期，数据中心收入年增92%。黄仁勳表示AI需求呈现抛物线式增长，Vera Rubin平台全年供不应求。四大云服务商持续扩大资本支出，AI基础设施投资热潮不减。对冲基金二季度大幅增配AI股，半导体和AI基础设施最受青睐。英伟达同时剑指最大CPU供应商，年营收有望近200亿美元，显示AI从GPU向CPU领域扩张。",
-        "【Google I/O 2026：AI代理无处不在】Google在I/O大会上全面展示AI代理战略，Gemini 3.5 Flash与3.5 Pro模型升级，AI驱动搜索、Gmail、YouTube等核心服务。Android XR眼镜发布，AI代理成为用户体验核心。苹果注册genai.apple.com域名，WWDC 2026全面押注生成式AI，iOS 27将深度整合AI。AI代理被黄仁勳盛赞为下一个ChatGPT级杀手应用，OpenClaw生态正在形成。",
-        "【教宗发布AI通谕呼吁全球监管】教宗Leo XIV发布首份AI通谕《伟大的人性》，警告AI可能引发无止尽战争与假訊息氾濫，呼吁各国政府加强监管，AI数据所有权不应仅由私人掌握。梵蒂冈深入探讨科技伦理，标志宗教界对AI治理的正式介入。此前Anthropic未公开AI模型Mythos一个月挖出万个漏洞，AI安全防御成为新护城河。"
+        "微软发布14页文档将Windows 11定位为AI OS，强调将AI嵌入现有工作流而非增加工具数量，并开源Webwright框架让AI模型在终端编写浏览器自动化代码，提升GPT-5.4跑分81%。这标志着AI从独立应用向操作系统级集成演进，利好微软生态与AI代理概念股。",
+        "Uber AI预算四个月烧光，因工程团队对Claude Code采用速度超预期，凸显AI工具成本失控风险。微软转而要求员工使用自家Copilot CLI，显示企业AI部署正从'广撒网'转向'集中管控'，利好拥有自主AI平台的公司。",
+        "阿里云发布全新海外AI产品官网Qwen Cloud与Agent产品MuleRun，加速中国AI企业出海。深圳十五五规划前瞻布局6G、量子科技、脑机接口等未来产业，政策持续加码AI基础设施。"
       ],
-      "catalyst": "短期催化剂：COMPUTEX 2026（6月2-5日）黄仁勳主题演讲，预计发布Vera Rubin完整细节与AI代理战略，同时Marvell CEO同台可能宣布CPO技术突破。苹果WWDC（6月）gen.ai战略发布，iOS 27 AI整合将带动果链与AI应用概念股。DeepSeek永久降低V4-Pro模型API价格75%，AI应用成本下降将加速行业渗透。历史事件池中英伟达Q1业绩超预期、黄仁勳提前来台拜访张忠谋等事件已为COMPUTEX预热，AI代理从概念走向落地。本土对标：A股中科曙光、浪潮信息等AI服务器厂商，以及科大讯飞、商汤等AI应用公司有望受益。",
-      "riskFactor": "最大风险：AI成本已超人力，企业强推AI提效遇反效果。微软要求员工改用自家Copilot CLI而非Claude Code，多家企业缩减AI工具使用规模。教宗AI通谕可能引发全球监管收紧，欧盟DMA罚单在即，科技巨头面临合规成本上升。美国消费者信心崩跌至1952年新低，若经济衰退超预期，企业资本支出可能削减，AI投资热潮或降温。历史事件中'企业强推AI提效遇反效果'已显示AI商业化不及预期的风险，需警惕AI泡沫破裂。此外，英伟达股价已充分反映乐观预期，任何业绩miss或竞争加剧（如AMD MI400、微软Maia芯片）都可能导致大幅回调。",
+      "catalyst": "短期催化剂：COMPUTEX 2026（6月2-5日）黄仁勳主题演讲预计发布Vera Rubin细节与AI代理战略，英伟达剑指最大CPU供应商，年营收有望近200亿美元。苹果WWDC 2026（6月8-12日）注册genai.apple.com域名，预计发布iOS 27深度AI整合。Anthropic未公开AI模型Mythos一个月挖出万个漏洞，Project Glasswing计划吸引IBM加入，AI安全防御成为新护城河。中国方面，阿里云Qwen Cloud出海与深圳十五五规划将刺激国产AI产业链。",
+      "riskFactor": "最大风险：AI成本超预期（Uber案例）可能导致企业缩减AI投资，微软取消Claude Code授权显示内部工具竞争。教宗Leo XIV发布AI通谕警告AI危险，欧盟拟重罚Google DMA违规，监管压力上升。DeepSeek永久降价75%引发价格战，压缩中小模型厂商利润。美股AI估值已高，若业绩不及预期可能引发大幅回调。",
       "investmentVehicles": {
         "stocks": [
           {
             "code": "NVDA",
             "name": "英伟达",
-            "exposureReason": "AI芯片绝对龙头，Blackwell与Vera Rubin架构驱动增长，数据中心收入年增92%。",
-            "price": 213.13,
-            "changePercent": -1.0217,
+            "exposureReason": "AI芯片绝对龙头，Blackwell架构与CPU战略驱动增长，数据中心收入年增92%。",
+            "price": 214.86,
+            "changePercent": -0.2183,
             "pe": null,
-            "trailingPE": 32.6476,
+            "trailingPE": 32.3628,
             "priceToBook": 26.9275,
             "quarterlyRevenueGrowth": null
           },
           {
-            "code": "688981.SS",
-            "name": "中芯国际",
-            "exposureReason": "大陆晶圆代工龙头，受益于AI芯片国产替代与先进封装需求。",
-            "price": 149.18,
-            "changePercent": -4.37,
+            "code": "MSFT",
+            "name": "微软",
+            "exposureReason": "AI云与Copilot生态领先，Windows 11定位AI OS，营收稳健增长。",
+            "price": 416.03,
+            "changePercent": -0.6068,
             "pe": null,
-            "trailingPE": 236.92,
-            "priceToBook": 7.98,
+            "trailingPE": 24.6608,
+            "priceToBook": 6.6336,
             "quarterlyRevenueGrowth": null
           },
           {
-            "code": "002230.SZ",
-            "name": "科大讯飞",
-            "exposureReason": "国内AI语音与大模型龙头，受益于AI应用落地与政策支持。",
+            "code": "0700.HK",
+            "name": "腾讯控股",
+            "exposureReason": "中国AI应用龙头，混元大模型与云业务增长，受益于政策支持。",
             "price": null,
             "changePercent": null,
             "pe": null
@@ -390,75 +384,252 @@
         ],
         "fundsEtfs": [
           {
-            "code": "159995",
-            "name": "华夏国证半导体芯片ETF",
-            "strategyAdvice": "AI芯片需求爆发，逢回调分批建仓，注意短期波动。"
+            "code": "159995.SZ",
+            "name": "华夏中证人工智能主题ETF",
+            "strategyAdvice": "AI主题长期配置，逢回调分批建仓，注意美股AI龙头估值风险。"
           },
           {
-            "code": "515070",
-            "name": "华夏中证人工智能ETF",
-            "strategyAdvice": "覆盖AI全产业链，适合长期配置，关注COMPUTEX催化。"
+            "code": "513100.SH",
+            "name": "易方达中证海外中国互联网50ETF",
+            "strategyAdvice": "覆盖中国AI与互联网龙头，受益于AI出海与政策支持，适合定投。"
           }
         ]
       }
     },
     {
-      "id": "advanced_packaging_photonics",
-      "name": "先进封装/光通讯",
-      "status": "光电融合新纪元开启",
+      "id": "semiconductor_advanced_packaging",
+      "name": "半导体/先进封装",
+      "status": "CoPoS与FOPLP量产在即",
       "latestNews": [
-        "【COMPUTEX AI投资主轴：光通讯COUPE题材】法人指出，台积电技术论坛点名的COUPE（共封装光学）代表AI数据中心架构从电子互连进入光电融合互连新世代。COMPUTEX展将关注辉达是否推进CPO技术。力积电在COMPUTEX展示3D AI Foundry，涵盖3D WoW DRAM堆叠、IPD、Interposer等先进封装关键零组件。COUPE解决AI芯片之间互连问题，AI投资主轴从GPU与HBM扩散到高速光通讯、矽光子、先进材料与光电整合封装。",
-        "【华为Kirin 9050突破3D IC设计】华为Kirin 9050被传将采用全新堆叠技术，绕过先进制程限制，性能超越苹果A18 Pro。SMIC受限于EUV设备，但通过3D IC设计创新实现突破。华为同时利用DoB封装技术开发122TB SSD，突破NAND层数限制，显示中国在先进封装领域的自主创新加速。历史事件中'扇出型面板级封装（FOPLP）成为AI芯片封装新焦点'已预示先进封装赛道升温。",
-        "【AMD Zen 7采用TSMC 1.4nm与FOPLP封装】AMD下一代Zen 7 'Grimlock' CPU将采用台积电1.4nm制程与FOPLP封装，计划2028年推出。FOPLP技术由力成获AMD支持，目标2027年量产，群创利用G3.5玻璃基板切入低轨卫星。先进封装成为AI芯片性能提升的关键瓶颈，台积电CoPoS、FOPLP、3D WoW等多元技术路线并行发展。"
+        "台积电紧急声明员工分红将持续增加，平息罢工传闻，确保产能稳定。联电获外资猛砸93亿卡位AI与封装题材，显示成熟制程与先进封装需求旺盛。",
+        "GlobalWafers（环球晶）启动GaN产能扩张，12英寸产线满载，AI服务器带动化合物半导体需求。环球晶股价突破今年新高，市况转好与涨价双题材加持。",
+        "华为Kirin 9050被传采用3D IC堆叠技术，性能超越苹果A18 Pro，绕过EUV限制。扇出型面板级封装（FOPLP）成为AI芯片封装新焦点，力成获AMD支持目标2027年量产。"
       ],
-      "catalyst": "短期催化剂：COMPUTEX 2026（6月2-5日）黄仁勳与Marvell CEO同台，可能宣布CPO技术合作或Vera Rubin封装细节。台积电技术论坛已为COUPE定调，矽光子与光通讯板块有望迎来主升段。历史事件中'扇出型面板级封装（FOPLP）成为AI芯片封装新焦点'与'英伟达Q1净利飙升139%'共同构成先进封装需求爆发的背景。本土对标：A股长电科技、通富微电等封测龙头，以及中际旭创、新易盛等光模块厂商将直接受益。",
-      "riskFactor": "最大风险：先进封装技术路线尚未统一，CPO、FOPLP、3D WoW等方案竞争激烈，投资选股难度大。台积电一家独大，若其产能分配或技术进展不及预期，整个供应链将受拖累。历史事件中'企业强推AI提效遇反效果'提示AI投资过热风险，若AI需求放缓，先进封装扩产可能过剩。此外，中美科技战升级可能限制中国获取先进封装设备与材料，华为Kirin 9050的3D IC设计虽创新但量产可靠性待验证。光通讯板块估值已不低，需警惕利好兑现后的回调。",
+      "catalyst": "短期催化剂：COMPUTEX 2026黄仁勳可能披露CoPoS封装进展，台积电2nm量产与CoPoS封装将推动半导体设备与先进封装板块。华为Kirin 9050若发布将刺激国产替代主题。MLCC涨价周期启动，高階MLCC供不应求，交期翻倍。中国半导体设备国产化加速，北方华创、长电科技受益。",
+      "riskFactor": "最大风险：台积电员工分红争议若升级可能影响产能，三星工人罢工风险仍在。半导体周期见顶担忧浮现，若AI需求放缓将导致产能过剩。美国对华出口管制可能进一步收紧，限制华为等中国企业的先进封装技术获取。FOPLP量产进度不及预期，力成等厂商面临技术挑战。",
       "investmentVehicles": {
         "stocks": [
           {
+            "code": "2330.TW",
+            "name": "台积电",
+            "exposureReason": "全球半导体代工龙头，2nm与CoPoS封装领先，AI需求驱动增长。",
+            "price": null,
+            "changePercent": null,
+            "pe": null
+          },
+          {
+            "code": "002371.SZ",
+            "name": "北方华创",
+            "exposureReason": "半导体设备龙头，受益于国产替代与先进封装扩产。",
+            "price": 666.77,
+            "changePercent": -0.52,
+            "pe": null,
+            "trailingPE": 86.67,
+            "priceToBook": 12.3,
+            "quarterlyRevenueGrowth": null
+          },
+          {
             "code": "600584.SS",
             "name": "长电科技",
-            "exposureReason": "国内封测龙头，受益于先进封装需求爆发与国产替代。",
-            "price": 88.19,
-            "changePercent": 10,
+            "exposureReason": "先进封装龙头，受益于AI芯片封装需求爆发。",
+            "price": 90.87,
+            "changePercent": 3.04,
             "pe": null,
-            "trailingPE": 95.52,
-            "priceToBook": 5.49,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "300308.SZ",
-            "name": "中际旭创",
-            "exposureReason": "光模块龙头，直接受益于AI数据中心光互连需求增长。",
-            "price": 1103,
-            "changePercent": 0.91,
-            "pe": null,
-            "trailingPE": 82.17,
-            "priceToBook": 35.54,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "002156.SZ",
-            "name": "通富微电",
-            "exposureReason": "与AMD深度绑定，受益于FOPLP等先进封装技术落地。",
-            "price": 75.39,
-            "changePercent": 8.04,
-            "pe": null,
-            "trailingPE": 79.1,
-            "priceToBook": 7.31,
+            "trailingPE": 98.42,
+            "priceToBook": 5.65,
             "quarterlyRevenueGrowth": null
           }
         ],
         "fundsEtfs": [
           {
-            "code": "159997",
-            "name": "天弘中证电子ETF",
-            "strategyAdvice": "覆盖电子全产业链，先进封装与光通讯权重高，适合行业配置。"
+            "code": "512480.SH",
+            "name": "国联安中证全指半导体ETF",
+            "strategyAdvice": "半导体行业长期配置，关注先进封装与设备细分，逢低布局。"
           },
           {
-            "code": "512760",
-            "name": "国泰CES半导体芯片ETF",
-            "strategyAdvice": "聚焦半导体设备与材料，先进封装扩产利好上游。"
+            "code": "159813.SZ",
+            "name": "鹏华国证半导体芯片ETF",
+            "strategyAdvice": "聚焦芯片设计、制造与封装，受益于AI与国产替代，适合定投。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "optical_communication_cpo",
+      "name": "光通讯/CPO",
+      "status": "COUPE题材主升段开启",
+      "latestNews": [
+        "光圣（EZconn）力争美系CSP泰国AI数据中心标案，高芯数13824产品下半年贡献营收，全年营收双位数增长。AI需求续强至2029年，订单能见度到年底。",
+        "COMPUTEX AI投资主轴聚焦光通讯COUPE，台积电技术论坛点名COUPE代表AI数据中心从电子互连进入光电融合新世代。法人认为光通讯将是主升段。",
+        "阿里云发布Qwen Cloud与Agent产品，加速AI云基础设施建设，带动光模块与光通讯需求。"
+      ],
+      "catalyst": "短期催化剂：COMPUTEX 2026黄仁勳可能推进CPO技术，台积电COUPE技术论坛将刺激光通讯板块。美系CSP资本支出持续扩大，英伟达Q1数据中心收入年增92%，光模块需求旺盛。中国5G-A与6G布局推动光通讯升级，光圣等厂商受益。",
+      "riskFactor": "最大风险：CPO技术量产进度不及预期，光模块竞争加剧导致价格战。美系CSP资本支出若因AI成本超预期而放缓，将影响订单。地缘风险（美伊冲突）可能影响泰国数据中心建设进度。光通讯板块估值已高，需警惕回调。",
+      "investmentVehicles": {
+        "stocks": [
+          {
+            "code": "6442.TWO",
+            "name": "光圣",
+            "exposureReason": "光通讯大厂，高芯数产品与CSP标案驱动增长，AI需求续强至2029年。",
+            "price": 0,
+            "changePercent": null,
+            "pe": null,
+            "trailingPE": null,
+            "priceToBook": null,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "300394.SZ",
+            "name": "天孚通信",
+            "exposureReason": "光模块核心器件供应商，受益于AI数据中心光互连需求。",
+            "price": 431.89,
+            "changePercent": 6.18,
+            "pe": null,
+            "trailingPE": 154.94,
+            "priceToBook": 55.97,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "002281.SZ",
+            "name": "光迅科技",
+            "exposureReason": "光通信器件龙头，受益于5G与AI数据中心建设。",
+            "price": 207.23,
+            "changePercent": 0.25,
+            "pe": null,
+            "trailingPE": 161.35,
+            "priceToBook": 16.17,
+            "quarterlyRevenueGrowth": null
+          }
+        ],
+        "fundsEtfs": [
+          {
+            "code": "159880.SZ",
+            "name": "鹏华中证光通信ETF",
+            "strategyAdvice": "光通信主题配置，关注CPO与COUPE技术进展，逢低布局。"
+          },
+          {
+            "code": "516880.SH",
+            "name": "华泰柏瑞中证光伏产业ETF",
+            "strategyAdvice": "虽为光伏ETF，但光通信与光伏有交叉，适合分散配置。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "smart_electric_vehicle",
+      "name": "智能电动汽车",
+      "status": "法拉利入局，FSD加速",
+      "latestNews": [
+        "法拉利发布首款五座纯电车型Luce，定价55万欧元，0-100km/h加速2.5秒，标志传统超跑品牌全面转向电动化。冲击高端电动车赛道，利好电池、电机等供应链。",
+        "小米汽车发布Xiaomi Auto World Model世界模型框架，在Waymo、nuScenes等基准测试中全面SOTA，推动自动驾驶从场景感知向认知推演进化。",
+        "特斯拉FSD加快进入中国，华为等迎新动能，自驾产业链成长潜力大。禾赛科技等激光雷达厂商受益。"
+      ],
+      "catalyst": "短期催化剂：特斯拉FSD在中国开放将刺激自动驾驶产业链，华为ADS 3.0升级。小米汽车世界模型落地，推动智能驾驶软件需求。法拉利Luce交付将带动高端电动车供应链。中国新能源汽车下乡政策与以旧换新补贴延续。",
+      "riskFactor": "最大风险：电动车市场竞争加剧，价格战压缩利润。特斯拉FSD在中国面临监管与数据安全挑战。法拉利Luce定价过高，销量可能不及预期。小米汽车产能爬坡风险。地缘风险（美伊冲突）可能影响全球供应链。",
+      "investmentVehicles": {
+        "stocks": [
+          {
+            "code": "TSLA",
+            "name": "特斯拉",
+            "exposureReason": "电动汽车与AI自动驾驶龙头，FSD进入中国，长期增长确定。",
+            "price": 433.59,
+            "changePercent": 1.7793,
+            "pe": null,
+            "trailingPE": 414.2869,
+            "priceToBook": 16.5838,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "002594.SZ",
+            "name": "比亚迪",
+            "exposureReason": "中国新能源汽车龙头，受益于政策支持与出海战略。",
+            "price": 95.01,
+            "changePercent": -1.6,
+            "pe": null,
+            "trailingPE": 31.44,
+            "priceToBook": 3.74,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "9866.HK",
+            "name": "蔚来",
+            "exposureReason": "高端电动车品牌，换电模式差异化，受益于消费升级。",
+            "price": null,
+            "changePercent": null,
+            "pe": null
+          }
+        ],
+        "fundsEtfs": [
+          {
+            "code": "515030.SH",
+            "name": "华夏中证新能源汽车ETF",
+            "strategyAdvice": "新能源汽车行业配置，关注自动驾驶与智能化细分，逢低布局。"
+          },
+          {
+            "code": "159806.SZ",
+            "name": "国泰中证新能源汽车ETF",
+            "strategyAdvice": "覆盖新能源汽车全产业链，适合长期定投。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "defense_unmanned_vehicle",
+      "name": "国防军工/无人载具",
+      "status": "台湾立法推动无人载具产业",
+      "latestNews": [
+        "台湾民进党立委提出《无人载具产业创见条例》草案，盼整合无人机供应链，打造下一座护国神山。利用半导体与AI优势，推动中小企业转型。",
+        "美军AI使用人数暴增1775%，从8万增至150万，AI已渗透至行政、情报与实战体系。美伊冲突中，美军摧毁伊朗布雷船，显示无人装备在实战中的关键作用。",
+        "朝鲜发射弹道导弹，韩国加强监视，东北亚地缘紧张升级，推动国防军工需求。"
+      ],
+      "catalyst": "短期催化剂：台湾无人载具专法若通过，将带动本土无人机供应链（芯片、传感器、飞控）。美军AI军事化加速，利好Palantir等国防AI公司。地缘冲突（美伊、朝鲜）持续，国防预算有望增加。中国低空经济政策推动无人机物流与农业应用。",
+      "riskFactor": "最大风险：无人载具产业商业化进度不及预期，台湾专法可能因政治因素延迟。美军AI军事化引发伦理争议，监管可能收紧。地缘冲突若缓和，国防板块将回调。无人机竞争激烈，价格战压缩利润。",
+      "investmentVehicles": {
+        "stocks": [
+          {
+            "code": "PLTR",
+            "name": "Palantir Technologies",
+            "exposureReason": "AI数据分析龙头，政府与军事客户增长强劲，受益于美军AI化。",
+            "price": 136.6,
+            "changePercent": -0.2046,
+            "pe": null,
+            "trailingPE": 143.8264,
+            "priceToBook": 41.3871,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "600760.SS",
+            "name": "中航沈飞",
+            "exposureReason": "中国战斗机龙头，受益于国防预算增长与军机换代。",
+            "price": 42.79,
+            "changePercent": -1.36,
+            "pe": null,
+            "trailingPE": 37.3,
+            "priceToBook": 5.27,
+            "quarterlyRevenueGrowth": null
+          },
+          {
+            "code": "002013.SZ",
+            "name": "中航机电",
+            "exposureReason": "航空机电系统龙头，受益于军机与无人机需求。",
+            "price": 10.78,
+            "changePercent": 0,
+            "pe": null,
+            "trailingPE": 29.33,
+            "priceToBook": 2.87,
+            "quarterlyRevenueGrowth": null
+          }
+        ],
+        "fundsEtfs": [
+          {
+            "code": "512660.SH",
+            "name": "国泰中证军工ETF",
+            "strategyAdvice": "军工行业配置，关注无人载具与AI军事化主题，逢低布局。"
+          },
+          {
+            "code": "159967.SZ",
+            "name": "华夏中证四川国企改革ETF",
+            "strategyAdvice": "覆盖四川军工国企，受益于国企改革与国防支出。"
           }
         ]
       }
@@ -466,243 +637,60 @@
     {
       "id": "passive_components_mlcc",
       "name": "被动元件/MLCC",
-      "status": "涨价周期全面启动",
+      "status": "涨价周期启动",
       "latestNews": [
-        "【MLCC全面缺货，涨价趋势确立】AI服务器与高速运算需求爆发，带动被动元件产业进入新一轮上升循环。国巨作为龙头，受惠于MLCC全面缺货与交期拉长，涨价趋势确立。法人指出，随日韩厂产能满载，台厂迎来外溢订单红利，预估2027年全球MLCC稼动率将达94.4%。外资看好国巨高階应用带动毛利率走扬，预估2027年EPS可达24.46元，目标价调升至780元。国巨股价11天飙108%，喷5涨停，禁闭关不住。",
-        "【被动元件板块全面爆发】华新科、天二科技等被动元件股齐登强势股王，11天飙108%。AI伺服器与HPC对高功率电源规格需求提升，带动高容值、耐高温及高电压的高階MLCC出货。历史事件中'高階MLCC供不应求，涨价周期启动'已预示此轮行情，AI服务器需求导致被动元件交期翻倍至3-4个月，下半年供需缺口扩大。",
-        "【达方投资佺璟科技深化AI散热布局】达方（8163）投资8亿元取得佺璟科技48.4%股权，深化AI散热事业。AI液冷散热市场量价齐升，CDU作为液冷系统核心，各大厂商积极卡位。达方此举显示被动元件厂商向AI散热领域延伸，产业链协同效应显现。"
+        "AI服务器需求导致高階MLCC及铝电交期翻倍至3-4个月，下半年供需缺口扩大。代理商股价10天飙90%，显示市场对涨价预期强烈。",
+        "全球MLCC龙头村田、三星电机产能满载，中国厂商风华高科、三环集团受益于国产替代与涨价周期。",
+        "台积电、英伟达等AI芯片需求拉动被动元件用量，单台AI服务器MLCC用量是传统服务器的3倍以上。"
       ],
-      "catalyst": "短期催化剂：COMPUTEX 2026（6月2-5日）AI服务器新品发布将直接拉动MLCC需求。国巨等龙头涨价效应持续发酵，Q2财报有望超预期。历史事件中'AI服务器需求导致被动元件交期翻倍'已确认供需紧张格局，下半年旺季来临将进一步推升价格。本土对标：A股风华高科、三环集团等MLCC厂商，以及顺络电子等电感龙头将受益于涨价周期。",
-      "riskFactor": "最大风险：MLCC涨价周期具有周期性，若AI需求不及预期或日韩厂商扩产，供需缺口可能快速收窄。国巨等个股短期涨幅巨大（11天108%），技术性回调风险高。历史事件中'企业强推AI提效遇反效果'提示AI投资过热风险，若AI资本支出放缓，被动元件需求将受冲击。此外，中美贸易战可能影响供应链，需警惕关税与出口管制风险。",
+      "catalyst": "短期催化剂：AI服务器出货量持续上修，MLCC需求强劲。COMPUTEX 2026可能发布更多AI服务器订单，进一步刺激涨价预期。中国MLCC厂商产能扩张，风华高科、三环集团有望受益于国产替代。",
+      "riskFactor": "最大风险：MLCC涨价周期若因需求放缓而结束，库存调整将冲击价格。中国厂商产能扩张可能导致供过于求。地缘风险（美伊冲突）可能影响全球电子供应链。",
       "investmentVehicles": {
         "stocks": [
           {
             "code": "000636.SZ",
             "name": "风华高科",
-            "exposureReason": "国内MLCC龙头，受益于涨价周期与国产替代。",
-            "price": 41.7,
-            "changePercent": 0.77,
+            "exposureReason": "中国MLCC龙头，受益于涨价周期与国产替代。",
+            "price": 43.45,
+            "changePercent": 4.2,
             "pe": null,
-            "trailingPE": 157,
-            "priceToBook": 3.87,
+            "trailingPE": 163.59,
+            "priceToBook": 4.03,
             "quarterlyRevenueGrowth": null
           },
           {
             "code": "300408.SZ",
             "name": "三环集团",
-            "exposureReason": "MLCC与陶瓷封装基座双轮驱动，受益于AI与5G需求。",
-            "price": 116.93,
-            "changePercent": 1.37,
+            "exposureReason": "陶瓷插芯与MLCC双龙头，受益于光通信与AI需求。",
+            "price": 121.15,
+            "changePercent": 3.61,
             "pe": null,
-            "trailingPE": 77.9,
-            "priceToBook": 10.41,
+            "trailingPE": 80.71,
+            "priceToBook": 10.78,
             "quarterlyRevenueGrowth": null
           },
           {
-            "code": "002138.SZ",
-            "name": "顺络电子",
-            "exposureReason": "电感龙头，受益于AI服务器与汽车电子需求增长。",
-            "price": 45.15,
-            "changePercent": -2.12,
+            "code": "603005.SS",
+            "name": "晶方科技",
+            "exposureReason": "封装测试龙头，受益于先进封装与MLCC需求。",
+            "price": 43.65,
+            "changePercent": -3.22,
             "pe": null,
-            "trailingPE": 37.7,
-            "priceToBook": 5.73,
+            "trailingPE": 77,
+            "priceToBook": 6.21,
             "quarterlyRevenueGrowth": null
           }
         ],
         "fundsEtfs": [
           {
-            "code": "159997",
+            "code": "159997.SZ",
             "name": "天弘中证电子ETF",
-            "strategyAdvice": "被动元件权重较高，适合捕捉涨价周期行情。"
+            "strategyAdvice": "覆盖电子行业，被动元件占比高，适合涨价周期配置。"
           },
           {
-            "code": "512760",
+            "code": "512760.SH",
             "name": "国泰CES半导体芯片ETF",
-            "strategyAdvice": "半导体与被动元件联动，AI需求驱动整体板块。"
-          }
-        ]
-      }
-    },
-    {
-      "id": "autonomous_driving",
-      "name": "自动驾驶",
-      "status": "FSD入华加速商业化",
-      "latestNews": [
-        "【特斯拉FSD加快进入中国】特斯拉FSD（完全自动驾驶能力）于5月21日在包括中国在内的10个国家开放使用，5月24日特斯拉中国将FSD正式更名为'特斯拉辅助驾驶'。中国自动驾驶产业关键技术持续突破，L2级以上辅助驾驶普及率快速提升，产业正加速从示范应用走向规模商业化。华为、禾赛科技等产业链企业迎来发展新动能。",
-        "【华为等产业链迎新动能】浙商证券研究报告认为，机构目前看好自动驾驶产业链，华为、禾赛科技等企业受益于FSD入华带来的竞争与协同效应。中国自动驾驶政策持续开放，北京、上海等地扩大测试范围，L3级自动驾驶商业化加速。历史事件中'特斯拉FSD加快进入中国'已预示此趋势，FSD入华将倒逼国内厂商加速技术迭代。",
-        "【小米汽车YU7 GT暂无登陆GT7计划】小米汽车发布第246集答网友问，回应YU7 GT暂无登陆《跑车浪漫旅7》游戏计划，但强调HAD辅助驾驶终身免费。小米汽车在智能驾驶领域持续投入，YU7系列搭载Xiaomi HAD系统，显示新势力车企在自动驾驶领域的竞争加剧。"
-      ],
-      "catalyst": "短期催化剂：特斯拉FSD在中国正式运营后，数据积累与算法迭代将加速，带动国内自动驾驶产业链需求。华为ADS 2.0升级与城市NOA功能扩展，利好禾赛科技、德赛西威等供应商。历史事件中'特斯拉FSD加快进入中国'已为产业链注入强心针，COMPUTEX上可能展示更多自动驾驶芯片方案。本土对标：A股德赛西威、中科创达、均胜电子等自动驾驶龙头将直接受益。",
-      "riskFactor": "最大风险：FSD在中国面临数据安全与监管挑战，特斯拉需将数据存储在中国境内，合规成本上升。国内厂商如华为、小鹏等竞争激烈，价格战可能压缩利润。自动驾驶事故责任认定尚不明确，法律风险可能抑制消费者接受度。历史事件中'企业强推AI提效遇反效果'提示技术落地不及预期的风险，FSD实际效果可能低于宣传。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "002920.SZ",
-            "name": "德赛西威",
-            "exposureReason": "国内智能座舱与自动驾驶龙头，受益于FSD入华与华为生态。",
-            "price": 109.69,
-            "changePercent": 1.26,
-            "pe": null,
-            "trailingPE": 28.06,
-            "priceToBook": 4.32,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "300496.SZ",
-            "name": "中科创达",
-            "exposureReason": "智能操作系统龙头，与高通、华为深度合作，受益于自动驾驶软件需求。",
-            "price": 74.3,
-            "changePercent": 3.4,
-            "pe": null,
-            "trailingPE": 74.27,
-            "priceToBook": 3.33,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "688005.SS",
-            "name": "容百科技",
-            "exposureReason": "高镍正极材料龙头，受益于电动车与自动驾驶对电池性能的提升。",
-            "price": 32.83,
-            "changePercent": -1.11,
-            "pe": null,
-            "trailingPE": -146.28,
-            "priceToBook": 3.02,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "515030",
-            "name": "华夏中证新能源汽车ETF",
-            "strategyAdvice": "覆盖电动车与自动驾驶产业链，FSD入华催化板块。"
-          },
-          {
-            "code": "159806",
-            "name": "国泰中证新能源汽车ETF",
-            "strategyAdvice": "聚焦新能源车上下游，自动驾驶为重要增长点。"
-          }
-        ]
-      }
-    },
-    {
-      "id": "memory_chip",
-      "name": "存储芯片",
-      "status": "AI驱动需求复苏",
-      "latestNews": [
-        "【SK海力士首次突破200万韩元】受美伊和平协议预期与AI需求提振，韩国KOSPI指数早盘飙逾3%，DRAM双雄三星电子与SK海力士领涨。SK海力士追高4%连四红，首次突破200万韩元大关。油价暴跌缓解韩国能源进口与通胀压力，资金回流AI记忆体概念股。历史事件中'油价暴泻、DRAM双雄领攻'已预示存储芯片板块的强势。",
-        "【华邦电股价大涨，华新套利18亿元】华新（1605）公告将处分华邦电（2344）股票1.4万张，套现约18.18亿元。华邦电受惠记忆体景气回升与AI应用扩大，股价强攻。华新今年第三次申报转让华邦电，但仍持有逾96.5万张，显示产业资本对存储芯片前景的看好。",
-        "【南亚科出货辉达快达阵】南亚科LPDDR5X在台积电美国厂验证，将用于英伟达Vera Rubin平台。低功耗产品在台积亚利桑那厂验证，显示中国台湾存储厂商切入AI供应链。历史事件中'南亚科出货辉达快达阵'已确认存储芯片与AI的深度绑定。"
-      ],
-      "catalyst": "短期催化剂：COMPUTEX 2026上英伟达Vera Rubin平台细节发布将直接拉动HBM与DDR5需求。SK海力士与三星电子HBM3E量产进度加快，存储芯片供需格局改善。历史事件中'英伟达Q1净利飙升139%'与'南亚科出货辉达'共同构成存储芯片需求爆发的逻辑链。本土对标：A股兆易创新、北京君正等存储芯片设计公司，以及深科技等封测厂商将受益。",
-      "riskFactor": "最大风险：存储芯片周期性强，若AI需求不及预期或下游库存调整，价格可能回落。中美科技战升级可能限制中国存储芯片企业获取先进设备与技术，长鑫存储等国产厂商面临挑战。历史事件中'企业强推AI提效遇反效果'提示AI投资过热风险，若资本支出放缓，存储芯片需求将受冲击。此外，三星、SK海力士等韩国厂商产能扩张可能加剧竞争。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "603986.SS",
-            "name": "兆易创新",
-            "exposureReason": "国内存储芯片设计龙头，受益于NOR Flash与DRAM国产替代。",
-            "price": 526.22,
-            "changePercent": 2.21,
-            "pe": null,
-            "trailingPE": 128.34,
-            "priceToBook": 14.91,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "300223.SZ",
-            "name": "北京君正",
-            "exposureReason": "存储芯片与处理器双轮驱动，受益于AIoT与汽车电子需求。",
-            "price": 149.6,
-            "changePercent": 5.41,
-            "pe": null,
-            "trailingPE": 116.19,
-            "priceToBook": 5.71,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "000021.SZ",
-            "name": "深科技",
-            "exposureReason": "存储芯片封测龙头，受益于HBM与DDR5封装需求。",
-            "price": 42.75,
-            "changePercent": 3.89,
-            "pe": null,
-            "trailingPE": 56.13,
-            "priceToBook": 5.04,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "159995",
-            "name": "华夏国证半导体芯片ETF",
-            "strategyAdvice": "存储芯片权重较高，AI需求驱动板块上行。"
-          },
-          {
-            "code": "512760",
-            "name": "国泰CES半导体芯片ETF",
-            "strategyAdvice": "覆盖存储芯片设计与封测，适合行业配置。"
-          }
-        ]
-      }
-    },
-    {
-      "id": "geopolitics_oil",
-      "name": "地缘政治/原油",
-      "status": "美伊协议博弈关键期",
-      "latestNews": [
-        "【美伊拟协议重启荷姆兹海峡，原油暴跌6%】据日经新闻，美国与伊朗正讨论和平协议，30天后重新开放荷姆兹海峡。纽约期油大跌6%至90.73美元，布兰特原油跌近7%。但美军同时炸毁伊朗两艘布雷船，军事行动升级增加协议不确定性。川普要求伊朗浓缩铀移交美方或就地销毁，伊朗强硬喊话不投降，谈判深陷核问题与制裁交换僵局。",
-        "【伊朗战火若熄仍救不了美债】高盛、巴克萊警告即使伊朗停火，美债收益率仍将维持高位，推动收益率上升的主因已从通胀预期转向实际利率。美债收益率差创一年新低，交易员押注新主席华许将维持高利率更长时间。能源冲击掀欧洲通膨警报，ECB官员称必要时应转向限制性货币政策。",
-        "【伊拉克石油产量暴跌至139万桶/日】受美伊冲突影响，伊拉克石油产量从410万桶/日暴跌至139万桶/日。原油供应中断风险虽因协议预期而缓解，但实际产量恢复仍需时间。沙特阿拉伯正代币化其数万亿美元经济以保护财富免受全球冲击，显示中东国家在分散风险。"
-      ],
-      "catalyst": "短期催化剂：美伊谈判6月初关键窗口，若达成协议，油价可能进一步下探至85美元，缓解全球通胀压力，利好航空、消费、科技股，利空能源股。若谈判破裂，油价可能重返100美元以上，加剧滞胀风险。历史事件中'川普对伊朗强硬表态'与'伊朗强硬喊话不投降'显示谈判脆弱性，需密切关注。本土对标：中国石油、中国石化等能源股将受油价波动影响，航空股如中国国航、南方航空将受益于油价下跌。",
-      "riskFactor": "最大风险：美伊谈判不确定性极高，军事冲突可能随时升级。川普要求伊朗浓缩铀移交美方或就地销毁，伊朗不可能接受，谈判破裂概率不低。若战争扩大，霍尔木兹海峡长期关闭，油价可能飙升至150美元以上，引发全球衰退。历史事件中'美军炸毁伊朗两艘布雷船'已显示军事摩擦仍在继续，和平协议并非板上钉钉。此外，土耳其政局动荡可能进一步扰乱中东地缘格局。",
-      "investmentVehicles": {
-        "stocks": [
-          {
-            "code": "601857.SS",
-            "name": "中国石油",
-            "exposureReason": "国内油气龙头，油价上涨直接受益，但协议达成则承压。",
-            "price": 10.96,
-            "changePercent": 2.14,
-            "pe": null,
-            "trailingPE": 12.68,
-            "priceToBook": 1.23,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "600028.SS",
-            "name": "中国石化",
-            "exposureReason": "炼化与销售龙头，油价下跌利好成本端，但上游业务受损。",
-            "price": 4.87,
-            "changePercent": -1.02,
-            "pe": null,
-            "trailingPE": 16.57,
-            "priceToBook": 0.71,
-            "quarterlyRevenueGrowth": null
-          },
-          {
-            "code": "601111.SS",
-            "name": "中国国航",
-            "exposureReason": "航空龙头，油价下跌直接降低燃油成本，受益于出行需求复苏。",
-            "price": 6.96,
-            "changePercent": 0.29,
-            "pe": null,
-            "trailingPE": 61.1,
-            "priceToBook": 2.76,
-            "quarterlyRevenueGrowth": null
-          }
-        ],
-        "fundsEtfs": [
-          {
-            "code": "159930",
-            "name": "汇添富中证能源ETF",
-            "strategyAdvice": "跟踪能源板块，油价波动大，适合短线博弈。"
-          },
-          {
-            "code": "159766",
-            "name": "富国中证旅游ETF",
-            "strategyAdvice": "受益于油价下跌与出行复苏，航空权重较高。"
+            "strategyAdvice": "半导体芯片ETF，被动元件为上游，受益于AI需求。"
           }
         ]
       }
@@ -1259,9 +1247,362 @@
         "transmissionChain": "若谈判破裂，油价将报复性反弹，全球通胀预期升温，股市承压。避险资产黄金、美元大涨。若伊朗妥协，油价暴跌，风险资产狂欢。当前油价已部分定价协议，破裂风险被低估。",
         "chinaMarketMapping": "中国需为美伊谈判破裂做准备，增加战略石油储备。A股能源股（中国石油）受益于油价上涨，但航空、化工等成本上升。人民币汇率可能因美元走强而承压。"
       }
+    },
+    {
+      "originalTitle": "US Stock Market: SpaceX, OpenAI IPO excitement revives debate over lofty valuations",
+      "title": "美股：SpaceX与OpenAI IPO热潮重燃估值过高争论",
+      "source": "The Times of India",
+      "category": "AI_MODEL",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-spacex-openai-ipo-excitement-revives-debate-over-lofty-valuations/articleshow/131321487.cms",
+      "publishedAt": "2026-05-26T04:16:20Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "过去五年50大IPO多数跑输标普500",
+        "SpaceX与OpenAI IPO引发估值担忧"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】Reuters分析显示，过去五年50大IPO多数首日大涨但长期跑输标普500。SpaceX与OpenAI等明星IPO即将登场，市场对高估值泡沫的担忧升温。",
+        "transmissionChain": "【利益传导链条】IPO估值过高可能导致上市后股价回调，打击风险偏好。一级市场投资者（VC/PE）可能加速退出，二级市场资金从科技股流向防御板块。做市商与投行承销收入短期增加，但长期若破发将损害市场信心。",
+        "chinaMarketMapping": "【本土市场映射】对A股影响有限，但港股IPO市场可能受情绪波及。中国AI独角兽（如宇树科技）科创板IPO若估值过高，可能面临类似风险。投资者应关注IPO定价合理性，避免追高。"
+      }
+    },
+    {
+      "originalTitle": "深圳“十五五”规划纲要：前瞻布局6G、量子科技、脑机接口等未来产业",
+      "title": "深圳十五五规划：前瞻布局6G、量子科技、脑机接口等未来产业",
+      "source": "36kr.com",
+      "category": "TECHNOLOGY",
+      "url": "https://36kr.com/newsflashes/3825614816301700",
+      "publishedAt": "2026-05-26T04:16:38Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "深圳十五五规划布局6G、量子科技、脑机接口等未来产业",
+        "建立创新策源、转化孵化、应用牵引的全链条培育机制"
+      ],
+      "credibilityScore": 9,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】深圳发布十五五规划，明确前瞻布局6G、量子科技、脑机接口等未来产业，建立全链条培育机制。这是中国地方政府首次系统性规划未来产业，信号意义重大。",
+        "transmissionChain": "【利益传导链条】利好深圳本地科技企业（华为、中兴、腾讯）及相关产业链。6G推动通信设备与射频芯片需求，量子科技利好国盾量子等，脑机接口刺激创新医疗与AI融合。创投机构将加大相关领域投资。",
+        "chinaMarketMapping": "【本土市场映射】A股量子通信（国盾量子）、6G（信科移动）、脑机接口（创新医疗）等概念股受益。深圳本地股（深科技、深圳华强）有望获得政策红利。但需警惕概念炒作，关注实际产业化进度。"
+      }
+    },
+    {
+      "originalTitle": "North Korea launches ballistic missile and other weapons toward the sea",
+      "title": "朝鲜向海上发射弹道导弹及其他武器",
+      "source": "Associated Press",
+      "category": "TECHNOLOGY",
+      "url": "https://apnews.com/article/koreas-launch-projectile-060148d7789377ff8691bc24d42b136d",
+      "publishedAt": "2026-05-26T04:14:28Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "朝鲜发射短程弹道导弹",
+        "韩国加强监视态势"
+      ],
+      "credibilityScore": 9,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】朝鲜发射短程弹道导弹，为今年首次武器发射。韩国联合参谋本部宣布加强监视。此举可能是在美伊冲突背景下展示武力，或抗议美韩联合军演。",
+        "transmissionChain": "【利益传导链条】地缘紧张升级推升避险资产（黄金、美元）需求，利空韩元与韩国股市。军工股（韩国航空宇宙、韩华）短期受益。东北亚供应链（半导体、汽车）可能受情绪冲击，但实际影响有限。",
+        "chinaMarketMapping": "【本土市场映射】A股军工板块（中航沈飞、航天彩虹）可能受情绪提振。但朝鲜导弹对中朝贸易影响有限，中国可能呼吁克制。投资者应关注地缘风险对半导体供应链的潜在冲击。"
+      }
+    },
+    {
+      "originalTitle": "Bitcoin stalls near $76,500 as muted trading points to macro wait-and-see",
+      "title": "比特币在76500美元附近停滞，交易清淡显示宏观观望",
+      "source": "CoinDesk",
+      "category": "DIGITAL_ASSETS",
+      "url": "https://www.coindesk.com/markets/2026/05/26/bitcoin-stalls-near-usd76-500-as-muted-trading-points-to-macro-wait-and-see",
+      "publishedAt": "2026-05-26T04:06:43Z",
+      "isAnchorEvent": false,
+      "summary": [
+        "比特币在76500美元附近横盘",
+        "Glassnode数据显示抛售压力减轻但市场活动减弱"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】比特币在76500美元附近停滞，交易量低迷。Enflux称“买盘存在但无人加仓”，Glassnode数据显示抛售压力减轻但市场活动减弱。宏观不确定性（美伊冲突、利率前景）抑制风险偏好。",
+        "transmissionChain": "【利益传导链条】比特币横盘导致矿工收入承压，交易所交易量下降。机构投资者（如MicroStrategy）可能暂缓增持。稳定币发行量减少，DeFi锁仓量下降。若宏观风险缓解，比特币可能突破，否则可能下探支撑。",
+        "chinaMarketMapping": "【本土市场映射】中国对加密货币交易仍严格限制，但比特币走势影响港股区块链概念股（如欧科云链、火币科技）。投资者应关注全球监管动态，避免参与非法交易。"
+      }
+    },
+    {
+      "originalTitle": "AI伺服器需求爆發 台積電目標價上調、聯發科直逼6000元",
+      "title": "AI服务器需求爆发，台积电目标价上调，联发科直逼6000元",
+      "source": "Yahoo Entertainment",
+      "category": "AI_MODEL",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0a72be98-b308-4da3-83e9-4c506b7df1f6",
+      "publishedAt": "2026-05-26T04:06:56Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "台积电大涨55元收2310元",
+        "联发科攻上涨停收4245元",
+        "外资调升两家目标价"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】台积电与联发科股价大涨，外资调升目标价。AI服务器需求爆发驱动半导体产业链，台积电2nm量产与CoPoS封装受关注，联发科受益于AI边缘计算与手机芯片升级。",
+        "transmissionChain": "【利益传导链条】利好台积电供应链（设备、材料、封装），联发科带动IC设计板块。AI服务器需求拉动光模块、散热、PCB等环节。外资流入台股，推升新台币汇率。",
+        "chinaMarketMapping": "【本土市场映射】A股半导体设备（北方华创）、封装（长电科技）、光模块（中际旭创）等受益。但台积电与联发科股价已高，需警惕获利了结。中国AI芯片厂商（海光信息、寒武纪）可能受情绪提振。"
+      }
+    },
+    {
+      "originalTitle": "黄仁勋批评CEO以AI为由裁员：太敷衍、装聪明",
+      "title": "黄仁勋批评CEO以AI为由裁员：太敷衍、装聪明",
+      "source": "Cnbeta.com.tw",
+      "category": "AI_MODEL",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1563622.htm",
+      "publishedAt": "2026-05-26T04:05:30Z",
+      "isAnchorEvent": false,
+      "summary": [
+        "黄仁勋批评CEO将裁员归咎于AI",
+        "称AI刚兴起，不可能导致失业"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】英伟达CEO黄仁勋批评一些CEO将裁员归咎于AI，认为这种说法“太敷衍”。他指出AI工具在六个月前才变得高效有用，不可能两年前就导致裁员。",
+        "transmissionChain": "【利益传导链条】黄仁勋言论可能缓解市场对AI替代就业的担忧，利好AI行业形象。但企业仍可能以AI为借口进行裁员，实际是成本优化。英伟达作为AI基础设施供应商，其CEO言论有助于维护行业信心。",
+        "chinaMarketMapping": "【本土市场映射】中国AI企业（百度、阿里、腾讯）也面临类似争议。黄仁勋言论可能被中国媒体引用，支持AI发展。但中国就业压力较大，AI替代效应需关注。投资者应理性看待AI对就业的影响，关注AI创造的新岗位。"
+      }
+    },
+    {
+      "originalTitle": "法拉利发布首款五座纯电车型Luce 冲击高端电动车赛道",
+      "title": "法拉利发布首款五座纯电车型Luce，冲击高端电动车赛道",
+      "source": "Cnbeta.com.tw",
+      "category": "SMART_MOBILITY",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1563620.htm",
+      "publishedAt": "2026-05-26T04:05:19Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "法拉利首款纯电车型Luce定价55万欧元",
+        "0-100km/h加速2.5秒，最高时速超310公里"
+      ],
+      "credibilityScore": 9,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】法拉利发布首款纯电五座车型Luce，定价55万欧元，标志传统超跑品牌全面电动化。动力超1000马力，性能超越燃油版Purosangue。法拉利2030年规划纯电占比20%。",
+        "transmissionChain": "【利益传导链条】利好高端电动车供应链（电池、电机、碳纤维）。冲击保时捷Taycan、特斯拉Model S Plaid等竞品。传统超跑品牌电动化加速，可能带动其他品牌跟进。法拉利股价短期受提振。",
+        "chinaMarketMapping": "【本土市场映射】中国高端电动车市场（蔚来ET9、比亚迪仰望）面临竞争加剧。但法拉利Luce定价过高，销量有限，对中国市场影响不大。中国电动车企应关注品牌向上与技术创新。"
+      }
+    },
+    {
+      "originalTitle": "Uber AI 預算四個月燒光 工具採用過速挑戰傳統財務規劃",
+      "title": "Uber AI预算四个月烧光，工具采用过速挑战传统财务规划",
+      "source": "Yahoo Entertainment",
+      "category": "AI_MODEL",
+      "url": "https://tw.stock.yahoo.com/news/uber-ai-%E9%A0%90%E7%AE%97%E5%9B%9B%E5%80%8B%E6%9C%88%E7%87%92%E5%85%89-%E5%B7%A5%E5%85%B7%E6%8E%A1%E7%94%A8%E9%81%8E%E9%80%9F%E6%8C%91%E6%88%98%E5%82%B3%E7%B5%B1%E8%B2%A1%E5%8B%99%E8%A6%8F%E5%8A%83-040127953.html",
+      "publishedAt": "2026-05-26T04:01:27Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "Uber全年AI预算四个月用罄",
+        "Claude Code采用速度超预期"
+      ],
+      "credibilityScore": 7,
+      "riskPoints": [
+        "夸大其词"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】Uber因工程团队对Claude Code采用速度超预期，原定全年AI预算在四个月内烧光。这凸显AI工具成本失控风险，企业传统财务规划面临挑战。",
+        "transmissionChain": "【利益传导链条】利空AI工具提供商（Anthropic），但利好拥有自主AI平台的公司（微软、谷歌）。企业可能收紧AI预算，转向性价比更高的方案。AI成本超预期可能引发行业反思，推动定价模式变革。",
+        "chinaMarketMapping": "【本土市场映射】中国AI企业（百度、阿里）也可能面临类似问题。企业应合理规划AI预算，避免盲目采用。投资者应关注AI公司的客户留存与成本控制能力。"
+      }
+    },
+    {
+      "originalTitle": "台股市值首度超過印度 躍居全球第5大",
+      "title": "台股市值首度超过印度，跃居全球第5大",
+      "source": "Yahoo Entertainment",
+      "category": "AI_MODEL",
+      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%B8%82%E5%80%BC%E9%A6%96%E5%BA%A6%E8%B6%85%E9%81%8E%E5%8D%B0%E5%BA%A6-%E8%BA%8D%E5%B1%85%E5%85%A8%E7%90%83%E7%AC%AC5%E5%A4%A7%E5%B8%82%E5%A0%B4-120102574.html",
+      "publishedAt": "2026-05-26T04:01:02Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "台股市值4.95万亿美元超越印度",
+        "AI晶片狂潮与半导体供应链推动"
+      ],
+      "credibilityScore": 9,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】台股市值正式超越印度，成为全球第五大股票市场。AI晶片狂潮与半导体供应链爆发是主要推动力，台积电一家公司贡献42%权重，市值突破2万亿美元。",
+        "transmissionChain": "【利益传导链条】台股市值提升吸引外资流入，新台币升值。半导体产业链（台积电、联发科、鸿海）受益。但过度集中单一企业带来结构性风险，若台积电回调将拖累大盘。",
+        "chinaMarketMapping": "【本土市场映射】A股半导体板块（中芯国际、北方华创）可能受情绪提振，但中国股市市值仍落后。台股市值超越印度显示AI驱动的资本集中，中国应加快半导体自主可控。投资者可关注A股半导体龙头。"
+      }
+    },
+    {
+      "originalTitle": "教宗良十四世首道通諭：AI 應服務全人類，不可用 AI 來作惡",
+      "title": "教宗良十四世首道通谕：AI应服务全人类，不可用AI来作恶",
+      "source": "Technews.tw",
+      "category": "AI_MODEL",
+      "url": "https://technews.tw/2026/05/26/pope-leo-xiv-releases-his-first-encyclical/",
+      "publishedAt": "2026-05-26T03:44:43Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "教宗发布首道AI通谕《伟大的人性》",
+        "警告AI可能成为掌控、排斥或死亡的工具"
+      ],
+      "credibilityScore": 9,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】教宗良十四世发布首道通谕《伟大的人性》，警告AI可能被用作“掌控、排斥或死亡的工具”，呼吁AI应服务全人类，数据所有权不应仅由私人掌握。",
+        "transmissionChain": "【利益传导链条】教宗言论可能影响天主教徒投资者，推动ESG与AI伦理投资。欧盟AI监管可能加速，利好合规科技公司。大型科技公司（谷歌、Meta）面临更多监管压力。",
+        "chinaMarketMapping": "【本土市场映射】中国AI监管（《生成式AI管理办法》）已走在全球前列，教宗言论可能被中国媒体引用支持现有政策。中国AI企业（百度、阿里）需关注国际伦理标准，避免出口风险。"
+      }
+    },
+    {
+      "originalTitle": "阿里云发布全新海外AI产品官网Qwen Cloud",
+      "title": "阿里云发布全新海外AI产品官网Qwen Cloud",
+      "source": "36kr.com",
+      "category": "AI_MODEL",
+      "url": "https://36kr.com/newsflashes/3825581459395203",
+      "publishedAt": "2026-05-26T03:42:42Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "阿里云在新加坡发布Qwen Cloud与Agent产品MuleRun",
+        "同步升级智能体编程平台Qoder"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】阿里云在新加坡面向海外市场发布全新AI产品官网Qwen Cloud、Agent产品MuleRun，以及智能体编程平台Qoder。这是中国AI企业加速出海的重要信号。",
+        "transmissionChain": "【利益传导链条】利好阿里云产业链（服务器、光模块、IDC）。Qwen Cloud与MuleRun将与国际云厂商（AWS、Azure）竞争，推动中国AI技术输出。海外企业客户可能采用阿里云AI服务，带动营收增长。",
+        "chinaMarketMapping": "【本土市场映射】A股阿里云合作伙伴（数据港、光环新网）受益。中国AI出海趋势利好光模块（中际旭创）、服务器（浪潮信息）等。但需关注海外监管与数据安全风险。"
+      }
+    },
+    {
+      "originalTitle": "Meta Layoffs 2026: Mark Zuckerberg May Have Given The Best Severance Package For The 8,000 Employees Fired Recently",
+      "title": "Meta 2026年裁员8000人，扎克伯格提供优厚遣散费",
+      "source": "International Business Times UK",
+      "category": "AI_MODEL",
+      "url": "https://www.ibtimes.co.uk/meta-global-layoffs-ai-investment-1798831",
+      "publishedAt": "2026-05-26T03:33:19Z",
+      "isAnchorEvent": false,
+      "summary": [
+        "Meta裁员8000人，聚焦AI投资",
+        "提供优厚遣散费"
+      ],
+      "credibilityScore": 7,
+      "riskPoints": [
+        "夸大其词"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】Meta全球裁员8000人，作为重组聚焦AI的一部分。公司提供优厚遣散费，但裁员引发对AI替代就业的担忧。",
+        "transmissionChain": "【利益传导链条】利空Meta员工与相关服务商，但利好AI基础设施供应商（英伟达）。Meta裁员后可能加大AI投资，推动元宇宙与AI融合。其他科技公司可能效仿，引发行业裁员潮。",
+        "chinaMarketMapping": "【本土市场映射】中国科技公司（腾讯、阿里）也可能进行类似重组，但力度可能较小。A股AI概念股可能受情绪提振，但需关注裁员对消费的负面影响。"
+      }
+    },
+    {
+      "originalTitle": "美全軍積極導入AI 半數已使用年增17倍",
+      "title": "美军积极导入AI，半数已使用，年增17倍",
+      "source": "Yahoo Entertainment",
+      "category": "AI_MODEL",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_acb545a5-127b-404d-b83b-53f58ef24e4a",
+      "publishedAt": "2026-05-26T03:26:37Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "美军AI使用人数暴增1775%",
+        "从8万增至150万"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】美军AI使用人数在一年内从8万暴增至150万，增长1775%。AI已渗透至行政、情报与实战体系，显示军事AI化加速。",
+        "transmissionChain": "【利益传导链条】利好国防AI公司（Palantir、Anduril）。AI军事化推动自主武器、情报分析、后勤优化等需求。美国国防预算可能进一步向AI倾斜，带动相关产业链。",
+        "chinaMarketMapping": "【本土市场映射】中国军事AI（中科曙光、航天发展）可能加速发展。A股军工AI概念股（华力创通、景嘉微）受益。但需关注AI军事化引发的伦理与安全风险。"
+      }
+    },
+    {
+      "originalTitle": "業績大好，聯想集團盤中股價狂飆逾17%，創新高",
+      "title": "业绩大好，联想集团盘中股价狂飙逾17%，创历史新高",
+      "source": "Yahoo Entertainment",
+      "category": "AI_MODEL",
+      "url": "https://tw.stock.yahoo.com/news/%E6%A5%AD%E7%B8%BE%E5%A4%A7%E5%A5%BD-%E8%81%AF%E6%83%B3%E9%9B%86%E5%9C%98%E7%9B%A4%E4%B8%AD%E8%82%A1%E5%83%B9%E7%8B%82%E9%A3%86%E9%80%BE17-%E5%89%B5%E6%96%B0%E9%AB%98-032459453.html",
+      "publishedAt": "2026-05-26T03:24:59Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "联想集团Q4净利润同比激增近5倍",
+        "AI服务器与PC需求爆发"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】联想集团Q4净利润同比激增近5倍，营收创近五年最大增幅。AI服务器与PC需求爆发是主要驱动力，CEO杨元庆乐观展望未来。",
+        "transmissionChain": "【利益传导链条】利好联想供应链（ODM、零部件）。AI服务器需求推动全球PC与服务器市场复苏，惠普、戴尔等竞争对手也可能受益。联想股价创新高吸引资金流入港股科技板块。",
+        "chinaMarketMapping": "【本土市场映射】A股PC与服务器产业链（浪潮信息、中科曙光）受益。联想业绩验证AI对传统IT硬件的拉动，中国信创产业（国产服务器、PC）有望加速。投资者可关注相关标的。"
+      }
+    },
+    {
+      "originalTitle": "魯比歐稱停火協議仍須數日敲定，美強硬宣示荷姆茲「必須開放」",
+      "title": "鲁比欧称停火协议仍需数日敲定，美强硬宣示霍尔木兹“必须开放”",
+      "source": "Yahoo Entertainment",
+      "category": "TECHNOLOGY",
+      "url": "https://tw.stock.yahoo.com/news/%E9%AD%AF%E6%AF%94%E6%AD%90%E7%A8%B1%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E4%BB%8D%E9%9C%80%E6%95%B8%E6%97%A5%E6%95%B2%E5%AE%9A-%E7%BE%8E%E5%BC%B7%E7%A1%AC%E5%AE%A3%E7%A4%BA%E8%8D%B7%E5%A7%86%E8%8C%B2-%E5%BF%85%E9%A0%88%E9%96%8B%E6%94%BE-032005948.html",
+      "publishedAt": "2026-05-26T03:20:05Z",
+      "isAnchorEvent": true,
+      "summary": [
+        "美伊停火协议仍需数日敲定",
+        "美国强硬要求霍尔木兹海峡必须开放"
+      ],
+      "credibilityScore": 9,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】美国国务卿鲁比欧表示美伊停火协议仍需数日敲定，强调霍尔木兹海峡“无论如何”必须保持开放。美军刚摧毁伊朗布雷船，军事与外交并行。",
+        "transmissionChain": "【利益传导链条】若协议达成，油价将暴跌，利好航空、航运、化工，利空能源股。若谈判破裂，油价飙升，全球通胀压力加大。霍尔木兹海峡开放将缓解供应链紧张，利好全球贸易。",
+        "chinaMarketMapping": "【本土市场映射】中国作为石油进口大国，油价下跌利好航空（中国国航）、化工（万华化学）。但地缘风险可能影响人民币汇率。投资者应关注美伊谈判进展，布局受益板块。"
+      }
+    },
+    {
+      "originalTitle": "AI 走入戰場，美軍一年內用戶暴增 1,775%",
+      "title": "AI走入战场，美军一年内用户暴增1775%",
+      "source": "Technews.tw",
+      "category": "AI_MODEL",
+      "url": "https://technews.tw/2026/05/26/ai-user-in-the-us-military-increase-1775-in-a-year/",
+      "publishedAt": "2026-05-26T03:19:53Z",
+      "isAnchorEvent": false,
+      "summary": [
+        "美军AI用户从8万增至150万",
+        "AI渗透至行政、情报与实战"
+      ],
+      "credibilityScore": 8,
+      "riskPoints": [
+        "正常客观"
+      ],
+      "forensicAnalysis": {
+        "underlyingFact": "【底层异动事实】美军AI使用人数一年内暴增1775%，从8万增至150万。AI已渗透至行政、情报与实战体系，显示军事AI化进入爆发期。",
+        "transmissionChain": "【利益传导链条】利好国防AI公司（Palantir、Anduril）。AI军事化推动自主武器、情报分析、后勤优化等需求。美国国防预算可能进一步向AI倾斜，带动相关产业链。",
+        "chinaMarketMapping": "【本土市场映射】中国军事AI（中科曙光、航天发展）可能加速发展。A股军工AI概念股（华力创通、景嘉微）受益。但需关注AI军事化引发的伦理与安全风险。"
+      }
     }
   ],
-  "lastUpdated": "2026-05-26T16:43:13.093Z",
+  "lastUpdated": "2026-05-27T04:21:36.176Z",
   "marketBenchmarks": {
     "sp500": {
       "name": "标普 500",
