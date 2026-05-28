@@ -1,5 +1,149 @@
 [
   {
+    "title": "美光市值突破1万亿美元，AI需求推动有望达到1.8万亿美元",
+    "source": "Doorblog.jp",
+    "url": "https://money-life.doorblog.jp/archives/59858762.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "美光科技市值突破1万亿美元",
+      "AI驱动HBM与DRAM需求爆发"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美光科技股价暴涨19%，市值突破1万亿美元，成为继SK海力士之后第二家达到这一里程碑的存储芯片厂商。AI数据中心对HBM（高带宽内存）的需求呈指数级增长，美光HBM3E产品已全面量产，并计划在2026年下半年推出HBM4。",
+      "transmissionChain": "美光市值突破直接利好存储芯片产业链，包括HBM设备供应商（如东京电子）、封装测试厂（如日月光）、以及材料供应商（如信越化学）。同时，AI服务器厂商（如戴尔、超微电脑）将受益于存储供应稳定。竞争对手SK海力士与三星也将受到正面情绪带动。",
+      "chinaMarketMapping": "对A股而言，美光市值突破将提振国内存储芯片概念股，如兆易创新、北京君正。但美光与长江存储的竞争关系可能加剧，国产替代逻辑强化。港股中，华虹半导体与中芯国际也可能受益于存储芯片景气外溢。投资者可关注存储封测厂长电科技与设备商北方华创。"
+    },
+    "publishedAt": "2026-05-27T11:00:47Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T11:04:41.362Z"
+  },
+  {
+    "title": "三星芯片工人投票接受平均34万美元奖金，结束数月罢工威胁",
+    "source": "Tom's Hardware UK",
+    "url": "https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "三星芯片工人接受奖金协议",
+      "罢工威胁结束，但内部不满情绪可能影响效率"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星半导体部门工人投票接受平均34万美元的股票奖金，结束数月罢工威胁。协议分配半导体部门营业利润的10.5%作为股票奖金。但内部不满情绪仍存，可能影响三星晶圆代工部门的竞争力。",
+      "transmissionChain": "三星罢工威胁解除将稳定存储芯片供应，缓解市场对供应中断的担忧。但内部不满可能影响三星在先进制程（3nm、2nm）上的追赶速度，利好台积电与SK海力士。同时，三星的奖金协议可能引发其他韩国科技公司效仿，增加人力成本。",
+      "chinaMarketMapping": "对A股而言，三星供应稳定将缓解存储芯片价格波动，但国产替代逻辑不变。港股中，三星相关供应链企业（如三星电机）可能受益。投资者可关注与三星有合作的中国材料企业，但需注意三星在存储市场的份额变化。"
+    },
+    "publishedAt": "2026-05-27T10:56:23Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T11:04:41.362Z"
+  },
+  {
+    "title": "韩国调查发现伊朗制导弹可能击中霍尔木兹海峡船只",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/south-korea-iran-missile-ship-hormuz/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "伊朗制导弹可能击中霍尔木兹海峡船只",
+      "地缘紧张升级，影响全球油市"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "韩国调查发现伊朗制导弹可能击中霍尔木兹海峡的一艘船只，事件加剧地缘紧张，可能影响全球石油市场与航运安全。霍尔木兹海峡是全球最重要的石油运输通道。",
+      "transmissionChain": "该事件将推高油价与航运保险成本，利好能源股（埃克森美孚、雪佛龙）与航运股（马士基）。同时，地缘风险上升将提振避险资产（黄金、美债）。若冲突升级，可能引发全球市场动荡。",
+      "chinaMarketMapping": "对A股而言，油价上涨利好中国石油、中国石化，但增加输入性通胀压力。航运股（中远海控）可能受益于运价上涨。港股中，中海油与中远海控可能上涨。投资者需警惕地缘风险对全球市场的冲击。"
+    },
+    "publishedAt": "2026-05-27T10:54:22Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T11:04:41.362Z"
+  },
+  {
+    "title": "台湾怀疑辉达芯片经日本走私至中国",
+    "source": "Slashdot.org",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183428182",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "台湾检方怀疑辉达AI芯片经日本走私至中国",
+      "已查扣约50台美超微服务器"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台湾基隆地检署拘提3名嫌疑人，涉嫌将搭载辉达AI芯片的美超微服务器出口至日本后转运至中国，违反美国出口管制规定。这是台湾首度公开破获AI芯片转运案件，已查扣约50台服务器。",
+      "transmissionChain": "该事件凸显美国对华芯片出口管制的执行力度加强，可能促使美国进一步收紧管制，影响英伟达、AMD等芯片厂商的对华销售。同时，美超微作为服务器供应商可能面临合规调查。中国AI芯片国产替代（华为昇腾、寒武纪）将加速。",
+      "chinaMarketMapping": "对A股而言，芯片走私案将强化国产替代逻辑，利好华为昇腾产业链（如拓维信息、神州数码）以及国产GPU厂商（如景嘉微）。但短期可能引发市场对中美科技战升级的担忧，压制半导体板块估值。港股中，中芯国际与华虹半导体可能受益于国产替代加速。"
+    },
+    "publishedAt": "2026-05-27T10:52:26Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T11:04:41.362Z"
+  },
+  {
+    "title": "以色列在加沙空袭中杀死哈马斯军事首领穆罕默德·奥德",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/israel-kills-hamas-chief-mohammed-odeh/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "以色列杀死哈马斯军事首领",
+      "可能破坏停火努力"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "以色列在加沙空袭中杀死哈马斯军事首领穆罕默德·奥德，此举可能破坏停火谈判，加剧地区紧张。哈马斯可能报复，导致冲突升级。",
+      "transmissionChain": "该事件将推高油价与避险资产需求，利好军工股（洛克希德·马丁、雷神）。同时，中东和平进程受挫可能影响全球风险偏好，利空股市。",
+      "chinaMarketMapping": "对A股而言，地缘风险上升将提振军工板块（中航沈飞、航发动力）与黄金股（山东黄金）。港股中，中海油可能受益于油价上涨。投资者需关注停火谈判进展，若冲突升级，全球市场将承压。"
+    },
+    "publishedAt": "2026-05-27T10:52:21Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T11:04:41.362Z"
+  },
+  {
+    "title": "SK海力士加入万亿美元俱乐部",
+    "source": "Business Insider",
+    "url": "https://www.businessinsider.com/korean-chipmaker-sk-hynix-1-trillion-club-ai-rally-2026-5",
+    "category": "AI_MODEL",
+    "summary": [
+      "SK海力士市值突破1万亿美元",
+      "AI热潮推动韩国芯片股"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "SK海力士股价首次突破200万韩元，市值突破1万亿美元，成为韩国第二家万亿美元市值公司。AI服务器对HBM的需求是主要驱动力，SK海力士HBM3E市场份额领先，并计划在HBM5中引入iHBM技术。",
+      "transmissionChain": "SK海力士市值突破将带动韩国半导体产业链，包括设备商（如SEMES）、材料商（如东进世美）。同时，HBM供应紧张可能推动价格上涨，利好竞争对手美光与三星。AI服务器厂商（如超微电脑）也将受益于HBM产能扩张。",
+      "chinaMarketMapping": "对A股而言，SK海力士的里程碑将提振国内存储芯片概念股，但国产HBM尚处早期，短期受益有限。港股中，ASM太平洋（半导体设备）可能受益于HBM扩产。投资者可关注与SK海力士有合作关系的中国材料企业，如雅克科技（前驱体供应商）。"
+    },
+    "publishedAt": "2026-05-27T10:46:10Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T11:04:41.362Z"
+  },
+  {
+    "title": "黄仁勳重申：我们需要更多电力",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%87%8D%E7%94%B3-%E6%88%91%E5%80%91%E9%9C%80%E8%A6%81%E6%9B%B4%E5%A4%9A%E9%9B%BB%E5%8A%9B-%E7%B6%B2%E7%B4%85-%E8%B2%BC%E8%87%89%E9%96%8B%E5%A4%A7%E6%89%93%E8%87%89%E6%B2%88%E4%BC%AF%E6%B4%8B-103300845.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "黄仁勳在台北员工大会上重申AI发展需要更多电力",
+      "辉达每年在台投资4.8兆新台币建设AI生态圈"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "黄仁勳在辉达北士科员工大会上明确表示“我们需要更多电力”，并透露NVIDIA每年在台湾投资4.8兆新台币建设AI生态圈。此前他曾表示台湾发展AI需要更多能源，此次直接强调电力，凸显AI数据中心对能源基础设施的迫切需求。",
+      "transmissionChain": "黄仁勳的表态将直接利好电力基础设施板块，包括光伏、核电、储能以及电网设备。同时，AI数据中心建设将带动冷却系统（液冷）、电力设备（变压器、UPS）需求。台湾电力公司（台电）可能加速核电与可再生能源投资。",
+      "chinaMarketMapping": "对A股而言，AI电力需求将提振光伏（隆基绿能、通威股份）、储能（宁德时代、阳光电源）以及电网设备（国电南瑞、许继电气）板块。港股中，中广核电力与华能国际可能受益。投资者可关注AI数据中心配套的液冷散热概念股，如英维克、高澜股份。"
+    },
+    "publishedAt": "2026-05-27T10:33:00Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T11:04:41.362Z"
+  },
+  {
+    "title": "台股暴涨731点登全球第五",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/%E7%98%8B%E7%8B%82%E5%86%8D%E5%AE%9A%E5%83%B9-%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B2731%E9%BB%9E%E7%99%BB%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94-102132012.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "台股加权指数大涨731点，成交量1.557兆元",
+      "台股市值超越印度升至全球第五"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "台股加权指数大涨731.43点，收在44,256.80点，涨幅1.68%，成交量爆出1.557兆元天量。台股市值超越印度升至全球第五大，AI半导体权值股（台积电、联发科）领涨。",
+      "transmissionChain": "台股暴涨直接利好台湾半导体供应链，包括晶圆代工（台积电）、封测（日月光）、IC设计（联发科）以及设备材料（帆宣、家登）。同时，台股市值提升将吸引更多外资流入，形成正反馈。",
+      "chinaMarketMapping": "对A股而言，台股暴涨可能带动A股半导体板块情绪，但需警惕资金分流效应。港股中，台股ETF（如富邦台50）可能受益。投资者可关注A股半导体设备与材料龙头，如北方华创、中微公司，但需注意估值已不低。"
+    },
+    "publishedAt": "2026-05-27T10:21:32Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T11:04:41.362Z"
+  },
+  {
     "title": "高通与字节跳动AI ASIC交易传闻：中国数据中心芯片供应可能生变",
     "source": "Digitimes",
     "url": "https://www.digitimes.com/news/a20260527VL208/qualcomm-bytedance-ai-asic-data-center-market.html",
@@ -579,149 +723,5 @@
     "publishedAt": "2026-05-26T03:42:42Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "美军积极导入AI，半数已使用，年增17倍",
-    "source": "Yahoo Entertainment",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_acb545a5-127b-404d-b83b-53f58ef24e4a",
-    "category": "AI_MODEL",
-    "summary": [
-      "美军AI使用人数暴增1775%",
-      "从8万增至150万"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】美军AI使用人数在一年内从8万暴增至150万，增长1775%。AI已渗透至行政、情报与实战体系，显示军事AI化加速。",
-      "transmissionChain": "【利益传导链条】利好国防AI公司（Palantir、Anduril）。AI军事化推动自主武器、情报分析、后勤优化等需求。美国国防预算可能进一步向AI倾斜，带动相关产业链。",
-      "chinaMarketMapping": "【本土市场映射】中国军事AI（中科曙光、航天发展）可能加速发展。A股军工AI概念股（华力创通、景嘉微）受益。但需关注AI军事化引发的伦理与安全风险。"
-    },
-    "publishedAt": "2026-05-26T03:26:37Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "业绩大好，联想集团盘中股价狂飙逾17%，创历史新高",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E6%A5%AD%E7%B8%BE%E5%A4%A7%E5%A5%BD-%E8%81%AF%E6%83%B3%E9%9B%86%E5%9C%98%E7%9B%A4%E4%B8%AD%E8%82%A1%E5%83%B9%E7%8B%82%E9%A3%86%E9%80%BE17-%E5%89%B5%E6%96%B0%E9%AB%98-032459453.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "联想集团Q4净利润同比激增近5倍",
-      "AI服务器与PC需求爆发"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】联想集团Q4净利润同比激增近5倍，营收创近五年最大增幅。AI服务器与PC需求爆发是主要驱动力，CEO杨元庆乐观展望未来。",
-      "transmissionChain": "【利益传导链条】利好联想供应链（ODM、零部件）。AI服务器需求推动全球PC与服务器市场复苏，惠普、戴尔等竞争对手也可能受益。联想股价创新高吸引资金流入港股科技板块。",
-      "chinaMarketMapping": "【本土市场映射】A股PC与服务器产业链（浪潮信息、中科曙光）受益。联想业绩验证AI对传统IT硬件的拉动，中国信创产业（国产服务器、PC）有望加速。投资者可关注相关标的。"
-    },
-    "publishedAt": "2026-05-26T03:24:59Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "鲁比欧称停火协议仍需数日敲定，美强硬宣示霍尔木兹“必须开放”",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E9%AD%AF%E6%AF%94%E6%AD%90%E7%A8%B1%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E4%BB%8D%E9%9C%80%E6%95%B8%E6%97%A5%E6%95%B2%E5%AE%9A-%E7%BE%8E%E5%BC%B7%E7%A1%AC%E5%AE%A3%E7%A4%BA%E8%8D%B7%E5%A7%86%E8%8C%B2-%E5%BF%85%E9%A0%88%E9%96%8B%E6%94%BE-032005948.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "美伊停火协议仍需数日敲定",
-      "美国强硬要求霍尔木兹海峡必须开放"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】美国国务卿鲁比欧表示美伊停火协议仍需数日敲定，强调霍尔木兹海峡“无论如何”必须保持开放。美军刚摧毁伊朗布雷船，军事与外交并行。",
-      "transmissionChain": "【利益传导链条】若协议达成，油价将暴跌，利好航空、航运、化工，利空能源股。若谈判破裂，油价飙升，全球通胀压力加大。霍尔木兹海峡开放将缓解供应链紧张，利好全球贸易。",
-      "chinaMarketMapping": "【本土市场映射】中国作为石油进口大国，油价下跌利好航空（中国国航）、化工（万华化学）。但地缘风险可能影响人民币汇率。投资者应关注美伊谈判进展，布局受益板块。"
-    },
-    "publishedAt": "2026-05-26T03:20:05Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "教宗Leo XIV警告AI危险，呼吁'解除'技术武装",
-    "source": "Rolling Stone",
-    "url": "http://www.rollingstone.com/culture/culture-news/pope-leo-xiv-warns-dangers-ai-disarm-technology-common-good-1235568179/",
-    "category": "AI_MODEL",
-    "summary": [
-      "教宗发布首份AI通谕《伟大的人性》，警告AI可能引发无止尽战争与假訊息氾濫",
-      "呼吁各国政府加强监管，AI数据所有权不应仅由私人掌握"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "教宗Leo XIV发布天主教史上首份专门针对AI的通谕，从伦理与宗教角度对AI快速发展提出系统性警告，强调AI必须服务于人类共同利益，而非少数私人利益。",
-      "transmissionChain": "该事件将加剧全球AI监管讨论，欧盟可能加速DMA等法规执行，美国国会或重启AI立法辩论。科技巨头面临更严格的伦理审查与合规成本，AI安全与伦理公司（如Anthropic）可能获得更多关注。",
-      "chinaMarketMapping": "中国AI监管框架已相对完善（如生成式AI管理办法），教宗通谕对国内直接影响有限，但可能强化中国在AI伦理领域的国际话语权。国内AI企业需关注出口市场合规要求，伦理审查或成为AI产品出海的新壁垒。"
-    },
-    "publishedAt": "2026-05-25T16:40:19Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:43:15.452Z"
-  },
-  {
-    "title": "华为Kirin 9050被传性能超越苹果A18 Pro，将采用全新堆叠技术绕过旧制程限制",
-    "source": "Wccftech",
-    "url": "https://wccftech.com/huawei-kirin-9050-breakthrough-3d-ic-design-beats-a18-pro/",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "华为Kirin 9050将采用3D IC堆叠技术，绕过EUV设备限制",
-      "SMIC受限于5nm以下制程，但通过创新设计实现性能突破"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "华为与SMIC通过3D IC堆叠技术（如WoW、CoWoS）将成熟制程芯片组合，实现接近先进制程的性能，这是中国在半导体受限下的重要技术路径。",
-      "transmissionChain": "若Kirin 9050量产成功，将打破美国对华为的芯片封锁，提振国产手机与AI芯片产业链。利好SMIC、长电科技等封测厂商，以及华为供应链企业。同时可能加剧中美科技战，美国或进一步收紧出口管制。",
-      "chinaMarketMapping": "A股中芯国际、长电科技、华天科技等封测龙头将直接受益。华为手机回归将带动消费电子产业链复苏，但需警惕美国制裁升级风险。国产替代逻辑强化，半导体设备与材料板块（北方华创、中微公司）迎来长期利好。"
-    },
-    "publishedAt": "2026-05-25T16:35:24Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:43:15.452Z"
-  },
-  {
-    "title": "美债收益率差创一年新低，华许时代利率或长时间维持高档",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E5%B7%AE%E5%89%B5-%E5%B9%B4%E6%96%B0%E4%BD%8E-%E8%8F%AF%E8%A8%B1%E6%99%82%E4%BB%A3%E5%88%A9%E7%8E%87%E6%88%96%E9%95%B7%E6%99%82%E9%96%93%E7%B6%AD%E6%8C%81%E9%AB%98%E6%AA%94-002027366.html",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "5年期和30年期国债收益率差收窄至约81个基点，为2025年5月以来最低",
-      "交易员押注新主席华许将维持高利率更长时间"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美债收益率曲线趋平，短端利率因加息预期上升而长端利率受通胀预期回落影响，反映市场定价美联储新主席华许可能维持高利率更久，以应对伊朗战争引发的通胀。",
-      "transmissionChain": "收益率曲线趋平压缩银行净息差，利空金融股；高利率环境压制科技股估值，但利好美元与避险资产。长端利率维持高位将增加美国政府融资成本，可能挤出私人投资。",
-      "chinaMarketMapping": "对中国A股而言，美债收益率高企将压制外资流入，尤其对成长股估值不利。但中国央行可能维持宽松，中美利差倒挂加深，人民币贬值压力加大，利好出口导向型企业。"
-    },
-    "publishedAt": "2026-05-25T16:20:27Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:24:25.399Z"
-  },
-  {
-    "title": "油价暴泻、DRAM双雄领攻，KOSPI早盘飙逾3%，海力士首次突破200万韩元",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E6%9E%B6%E6%9A%B4%E7%80%89-dram%E9%9B%99%E9%9B%84%E9%A0%98%E6%94%BB-kospi%E6%97%A9%E7%9B%A4%E9%A3%86%E9%80%BE3-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B4200%E8%90%AC%E9%9F%93%E5%85%83-001549546.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "美伊和平协议预期升温，国际油价大跌缓解韩国能源进口与通胀压力",
-      "SK海力士首次突破200万韩元，DRAM双雄领涨KOSPI"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美伊和平协议预期导致油价暴跌6%，韩国作为能源进口国受益，同时AI记忆体需求推动DRAM双雄股价创新高，SK海力士突破200万韩元。",
-      "transmissionChain": "油价下跌降低韩国企业成本，利好炼化、航空、运输板块；DRAM涨价提升三星与海力士盈利，带动半导体设备与材料股。KOSPI大涨3%显示风险偏好回升。",
-      "chinaMarketMapping": "对中国A股，油价下跌利好航空、化工等成本敏感行业，同时缓解输入性通胀压力。但DRAM涨价可能推升中国手机与服务器成本，国产存储替代逻辑强化。"
-    },
-    "publishedAt": "2026-05-25T16:15:49Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:24:25.399Z"
-  },
-  {
-    "title": "油价暴泻、DRAM双雄领攻，KOSPI早盘飙逾3%，海力士首次突破200万韩元",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E6%9A%B4%E7%80%89-dram%E9%9B%99%E9%9B%84%E9%A0%98%E6%94%BB-kospi%E6%97%A9%E7%9B%A4%E9%A3%86%E9%80%BE3-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B4200%E8%90%AC%E9%9F%93%E5%85%83-001549546.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "美伊和平协议预期升温，国际油价大跌缓解韩国能源进口与通胀压力",
-      "SK海力士首次突破200万韩元，DRAM双雄领涨KOSPI"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "油价暴跌直接利好韩国等能源进口国，降低企业成本与通胀压力，同时AI需求驱动存储芯片景气上行，DRAM双雄受益。",
-      "transmissionChain": "韩国KOSPI上涨将带动亚洲科技股情绪，A股存储芯片板块（兆易创新、北京君正）可能跟涨。油价下跌利好航空、化工等下游行业。但需注意美伊协议不确定性，若谈判破裂油价反弹将逆转利好。",
-      "chinaMarketMapping": "A股存储芯片概念股（兆易创新、深科技）受益于AI需求与韩国映射。航空股（中国国航、南方航空）受益于油价下跌。但中国作为石油净进口国，油价下跌整体利好经济，但需关注通缩风险。"
-    },
-    "publishedAt": "2026-05-25T16:15:49Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-26T16:43:15.452Z"
   }
 ]

@@ -268,7 +268,7 @@
   {
     "date": "2026-05-28",
     "confidence": 55,
-    "liquidity": 45,
+    "liquidity": 48,
     "mediaSentiment": 0.1,
     "socialSentiment": -0.1,
     "regime": "滞胀",
@@ -290,13 +290,13 @@
         "trendDirection": "up"
       },
       {
-        "keyword": "避险资产",
+        "keyword": "光伏/新能源",
         "momentumScore": 7,
         "trendDirection": "up"
       },
       {
-        "keyword": "地缘风险",
-        "momentumScore": 6,
+        "keyword": "硅光子",
+        "momentumScore": 5,
         "trendDirection": "down"
       }
     ]
