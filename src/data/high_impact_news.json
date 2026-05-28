@@ -1,5 +1,239 @@
 [
   {
+    "title": "Robinhood向AI代理开放平台，允许其交易股票和进行购买",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/robinhood-ai-agents-trading-platform/",
+    "category": "AI_MODEL",
+    "summary": [
+      "Robinhood推出AI代理股票交易功能",
+      "AI代理可读取投资组合、生成交易策略"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Robinhood推出AI代理交易功能，用户可为AI代理创建独立账户并连接专用钱包，代理可读取投资组合、生成交易策略，但实际下单需预先充值。公司加入反欺诈保护机制。这标志着AI代理从概念走向金融实操，可能重塑零售交易生态。",
+      "transmissionChain": "直接利好Robinhood平台用户增长与交易量提升；对券商（嘉信理财、盈透证券）形成竞争压力，可能迫使其跟进AI功能。AI代理开发商（如Anthropic、OpenAI）获得新应用场景。同时，监管机构（SEC）可能加强对AI交易的风险审查。",
+      "chinaMarketMapping": "对A股影响：国内券商（东方财富、同花顺）可能加速AI投顾功能开发，利好金融科技板块。但监管层对AI交易持谨慎态度，可能限制功能范围。对港股：港交所可能受益于AI交易带来的成交量提升，但需关注合规风险。"
+    },
+    "publishedAt": "2026-05-27T17:25:46Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "长鑫295亿人民币IPO过会，中国DRAM龙头冲刺科创板第二大募资案",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E9%95%B7%E9%91%AB295%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3ipo%E9%81%8E%E9%97%9C-%E4%B8%AD%E5%9C%8Bdram%E9%BE%8D%E9%A0%AD%E8%A1%9D%E5%88%BA%E7%A7%91%E5%89%B5%E6%9D%BF%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%8B%9F%E8%B3%87%E6%A1%88-010609684.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "长鑫科技科创板IPO过会，拟募资295亿元",
+      "中国DRAM龙头冲刺科创板第二大募资案"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "中国DRAM龙头长鑫科技通过科创板上市委审议，IPO拟募资295亿元，将成为科创板第二大IPO（仅次于中芯国际532亿元）。公司预计2026年上半年营收1100-1200亿元，同比暴增612%-653%，受益于全球DRAM供需吃紧与价格上扬。",
+      "transmissionChain": "长鑫IPO利好中国存储芯片产业链：设备商（北方华创、中微公司）、材料商（沪硅产业）、封测（长电科技）需求增长。同时，对竞争对手（兆易创新、北京君正）形成估值提振。但募资规模大可能对市场资金面造成短期压力。",
+      "chinaMarketMapping": "对A股影响：存储芯片国产替代主题强化，长鑫产业链公司（太极实业、通富微电）受益。但需警惕IPO抽血效应。对港股：中芯国际、华虹半导体等代工厂受益于存储芯片需求外溢。此外，长鑫上市可能加速中国存储芯片自主化进程。"
+    },
+    "publishedAt": "2026-05-27T17:06:09Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "黑石与古根海姆因AI颠覆担忧削减新CLO中的软件贷款",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/blackstone-guggenheim-reduce-software-clo-exposure/",
+    "category": "AI_MODEL",
+    "summary": [
+      "黑石与古根海姆削减软件贷款",
+      "AI颠覆风险促使投资策略调整"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "黑石与古根海姆因AI颠覆风险，正在削减新发行的贷款抵押债券（CLO）中的软件贷款敞口。AI的快速进化正在重塑投资策略，促使这些机构重新评估软件行业的风险，可能改变软件融资格局。",
+      "transmissionChain": "直接利空软件公司（尤其是SaaS企业），融资成本可能上升。利好AI基础设施公司（英伟达、微软）因资金转向。同时，传统软件公司可能加速AI转型以维持竞争力。对CLO市场整体影响有限，但信号意义重大。",
+      "chinaMarketMapping": "对A股影响：国内软件公司（用友网络、广联达）可能面临海外融资收紧压力，但国内资本市场独立，影响有限。对港股：金蝶国际、微盟集团等SaaS公司需关注海外融资环境变化。长期看，AI转型能力将成为软件公司估值核心。"
+    },
+    "publishedAt": "2026-05-27T17:05:16Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "IREN斥资16亿美元追买Blackwell算力，营收能见度暴增，周三股价飙升逾13%",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/iren%E7%A0%B816%E5%84%84%E7%BE%8E%E5%85%83%E8%BF%BD%E8%B2%B7blackwell%E7%AE%97%E5%8A%9B-%E7%87%9F%E6%94%B6%E8%83%BD%E8%A6%8B%E5%BA%A6%E6%9A%B4%E5%A2%9E-%E9%80%B1%E4%B8%89%E8%82%A1%E5%83%B9%E9%A3%86%E9%80%BE13-005911893.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "IREN向戴尔采购16亿美元Blackwell AI运算系统",
+      "营收能见度暴增，股价飙升13%"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "AI数据中心运营商IREN宣布斥资16亿美元向戴尔采购搭载英伟达Blackwell架构的AI运算系统，包括GPU、服务器、存储、网络设备等。设备将部署于德州园区。此举显示AI算力需求持续旺盛，Blackwell架构加速渗透。",
+      "transmissionChain": "直接利好英伟达（Blackwell GPU出货量增加）、戴尔（服务器订单增长）。间接利好供应链：散热（奇鋐、双鸿）、PCB（沪电股份）、光模块（中际旭创）。同时，IREN的营收能见度提升，可能吸引更多资本进入AI数据中心领域。",
+      "chinaMarketMapping": "对A股影响：AI算力产业链受益，光模块（中际旭创、新易盛）、服务器（工业富联、浪潮信息）需求提振。但美国对华AI芯片出口限制可能限制国内企业采购Blackwell，国产替代（华为昇腾）逻辑强化。对港股：联想集团、中兴通讯等服务器厂商受益。"
+    },
+    "publishedAt": "2026-05-27T16:59:11Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "美光科技续涨3.63%，两日飙升23%，瑞银上调目标价至1625美元，掀起万亿美元存储狂潮",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E9%80%B1%E4%B8%89%E7%BA%8C%E6%BC%B23-63-%E5%85%A9%E6%97%A5%E9%A3%8623-%E7%91%9E%E9%8A%80%E5%96%8A%E4%B8%8A1-625%E7%BE%8E%E5%85%83%E6%8E%80%E5%85%86%E7%BE%8E%E5%85%83%E8%A8%98%E6%86%B6%E9%AB%94%E7%8B%82%E6%BD%AE-004324022.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "美光科技市值突破1万亿美元",
+      "AI驱动HBM与DRAM需求爆发"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美光科技股价两日飙升23%，市值突破1万亿美元，瑞银将目标价上调至1625美元。核心驱动力是AI对高带宽存储器（HBM）和DRAM的爆发式需求，美光作为全球存储芯片三巨头之一，直接受益于AI数据中心建设浪潮。",
+      "transmissionChain": "美光股价暴涨直接利好存储芯片产业链：上游设备商（应用材料、东京电子）、材料商（信越化学）需求增加；下游服务器厂商（戴尔、超微电脑）成本承压但出货量提升；竞争对手SK海力士、三星电子估值同步重估。同时，HBM产能紧张可能推动先进封装（CoWoS）需求。",
+      "chinaMarketMapping": "对A股影响：存储芯片国产替代主题升温，长鑫科技（科创板IPO 295亿元）估值对标美光，利好兆易创新、北京君正等存储设计公司。但美光股价暴涨可能引发A股存储板块跟风炒作，需警惕估值泡沫。对港股：中芯国际、华虹半导体等代工厂受益于存储芯片需求外溢。"
+    },
+    "publishedAt": "2026-05-27T16:43:24Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "由圆转方突破限制！日月光首条310mm面板级封装产线预计2027年量产",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E7%94%B1%E5%9C%93%E8%BD%89%E6%96%B9%E7%AA%81%E7%A0%B4%E9%99%90%E5%88%B6-%E6%97%A5%E6%9C%88%E5%85%89%E9%A6%96%E6%A2%9D310mm%E9%9D%A2%E6%9D%BF%E7%B4%9A%E5%B0%81%E8%A3%9D%E7%94%A2%E7%B7%9A%E4%BC%B02027%E5%B9%B4%E9%87%8F%E7%94%A2-%E5%85%86%E7%B4%9A%E6%99%B6%E7%89%87%E6%94%BBai%E8%88%87hpc%E9%9C%80%E6%B1%82-162418827.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "日月光开发310mm面板级封装产线",
+      "预计2027年量产，瞄准AI与HPC"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "日月光宣布开发出业界首见310mm×310mm面板级封装自动化产线，预计2027年上半年量产，瞄准AI加速器、HPC、Chiplet、ASIC与HBM快速整合需求。面板级封装相比传统晶圆级封装在面积、产出效率与材料成本上具有优势。",
+      "transmissionChain": "直接利好日月光（技术领先）、设备商（ASMPT、K&S）。对竞争对手（台积电CoWoS、英特尔EMIB）形成技术挑战。同时，面板级封装可降低AI芯片成本，推动AI应用普及。对上游材料（ABF载板、封装胶）需求增加。",
+      "chinaMarketMapping": "对A股影响：国内封测企业（长电科技、通富微电）可能跟进面板级封装，利好设备商（北方华创、中微公司）。但日月光技术领先，国内企业需加速研发。对港股：中芯国际、华虹半导体等代工厂可能受益于先进封装需求外溢。"
+    },
+    "publishedAt": "2026-05-27T16:24:18Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "SpaceX早期投资人预言并购特斯拉，马斯克地面+太空帝国整合浮现",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/spacex%E6%97%A9%E6%9C%9F%E9%87%91%E4%B8%BB%E9%A0%90%E8%A8%80%E5%90%88%E4%BD%B5%E7%89%B9%E6%96%AF%E6%8B%89-%E9%A6%AC%E6%96%AF%E5%85%8B-%E5%9C%B0%E9%9D%A2-%E5%A4%AA%E7%A9%BA-%E5%B8%9D%E5%9C%8B%E6%95%B4%E5%90%88%E6%B5%AE%E7%8F%BE-002356419.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "SpaceX早期投资人预言与特斯拉合并",
+      "马斯克帝国整合浮现"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "SpaceX早期投资人Peter Diamandis表示，SpaceX在IPO后与特斯拉合并不是会不会发生，而是何时发生的问题。SpaceX正推进IPO，估值约1.75万亿美元。合并将整合电动车、太空、卫星通信与AI业务，创造全球最大科技帝国。",
+      "transmissionChain": "若合并实现，直接利好特斯拉（获得太空技术）、SpaceX（获得汽车制造能力）。对竞争对手（Rivian、Lucid）形成压力。同时，卫星通信（Starlink）与电动车（特斯拉）的协同可能颠覆通信与出行行业。对AI芯片（英伟达）需求进一步增长。",
+      "chinaMarketMapping": "对A股影响：特斯拉供应链（拓普集团、三花智控）受益于合并后规模效应。卫星通信概念（中国卫星、中国卫通）可能受提振。但国内对马斯克帝国的整合持谨慎态度，可能加强本土竞争（华为、比亚迪）。对港股：比亚迪股份、吉利汽车等面临竞争压力。"
+    },
+    "publishedAt": "2026-05-27T16:23:56Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "AI猎股潮烧向小型科技股，MXL与VIAV年内飙逾倍引爆泡沫警讯",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/ai%E7%8D%B5%E8%82%A1%E6%BD%AE%E7%87%92%E5%90%91%E5%B0%8F%E5%9E%8B%E7%A7%91%E6%8A%80%E8%82%A1-mxl%E8%88%87viav%E5%B9%B4%E5%85%A7%E9%A3%86%E9%80%BE%E5%80%8D%E5%BC%95%E7%88%86%E6%B3%A1%E6%B2%AB%E8%AD%A6%E8%A8%8A-002305850.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "AI投资热潮外溢至小型科技股",
+      "MXL与VIAV年内翻倍，泡沫警讯浮现"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国AI投资热潮正从大型科技股外溢至小型科技股，标普600小型科技股指今年累涨54%，大幅跑赢标普500科技指数20.1%的升幅，两者绩效差距创1995年以来最大。资金流向Invesco S&P SmallCap Information Technology ETF，今年已吸引4亿美元流入。",
+      "transmissionChain": "小型科技股暴涨可能引发泡沫风险，资金从龙头外溢至次线标的，历史上类似阶段往往以调整收场。但若AI需求持续，小型股中可能诞生新龙头。对大型科技股（英伟达、微软）形成资金分流，但整体AI产业链仍受益。",
+      "chinaMarketMapping": "对A股影响：A股小盘科技股（AI芯片、光模块）可能跟风炒作，但需警惕泡沫。国内投资者应关注基本面扎实的小盘股（如中际旭创、新易盛）。对港股：恒生科技指数成分股中，小型科技股（如金蝶国际、微盟集团）可能受益于资金外溢。"
+    },
+    "publishedAt": "2026-05-27T16:23:05Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "美联储理事示警：若通胀未降温 不排除进一步升息",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E7%90%86%E4%BA%8B%E7%A4%BA%E8%AD%A6-%E8%8B%A5%E9%80%9A%E8%86%A8%E6%9C%AA%E9%99%8D%E6%BA%AB-%E4%B8%8D%E6%8E%92%E9%99%A4%E9%80%B2-%E6%AD%A5%E5%8D%87%E6%81%AF-001904430.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "美联储理事库克警告可能进一步升息",
+      "通胀风险仍偏上行"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美联储理事Lisa Cook表示，若通胀未能如预期降温，美联储仍可能考虑进一步升息。她强调风险仍倾向于通胀上行，美联储已做好准备再次调升利率。目前美国基准利率维持在3.5%-3.75%。这一鹰派言论与鲍威尔此前警告中东战火推升通胀一致。",
+      "transmissionChain": "升息预期利空高估值科技股（英伟达、特斯拉），利好银行股（摩根大通、高盛）因净息差扩大。同时，美元可能走强，新兴市场资金流出压力加大。对大宗商品（黄金、原油）形成压制，因利率上升增加持有成本。",
+      "chinaMarketMapping": "对A股影响：外资流出压力加大，北向资金可能减持A股，尤其是高估值成长股。但国内货币政策独立，央行可能维持宽松，利好内需与基建板块。对港股：恒生科技指数承压，但低估值国企股（中移动、中石油）可能受益于资金轮动。"
+    },
+    "publishedAt": "2026-05-27T16:19:04Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "美联储鲍威尔示警：中东战火推升通胀，股市面临严峻考验",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E9%AE%91%E7%88%BE%E7%A4%BA%E8%AD%A6-%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E6%8E%A8%E5%8D%87%E9%80%9A%E8%86%A8-%E8%82%A1%E5%B8%82%E9%9D%A2%E8%87%A8%E5%9A%B4%E5%B3%BB%E8%80%83%E9%A9%97-001336369.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "鲍威尔警告中东冲突推升通胀",
+      "排除短期降息可能"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美联储主席鲍威尔在卸任前夕记者会上指出，经济前景高度不确定，中东冲突加剧风险。短期能源价格上涨将推升整体通胀，潜在影响范围与持续时间不明。鲍威尔同时排除短期降息可能性。美国4月CPI已因关税与伊朗冲突升至多年高点。",
+      "transmissionChain": "鲍威尔鹰派言论利空股市（尤其是高估值科技股），利好美元与美债收益率。对新兴市场资金流出压力加大。同时，通胀预期上升可能推动黄金等避险资产需求。对大宗商品（原油、农产品）形成支撑。",
+      "chinaMarketMapping": "对A股影响：外资流出压力加大，但国内货币政策独立，央行可能维持宽松。对港股：恒生指数承压，但低估值国企股（中移动、中石油）可能受益于资金轮动。此外，中国通胀压力较小，政策空间更大。"
+    },
+    "publishedAt": "2026-05-27T16:13:36Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "Snowflake盘后暴涨近四成，AWS大单与财报利好齐发",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/aws%E5%A4%A7%E5%96%AE%E8%88%87%E8%B2%A1%E5%A0%B1%E5%88%A9%E5%A4%9A%E9%BD%8A%E7%99%BC-snowflake%E7%9B%A4%E5%BE%8C%E6%9A%B4%E6%BC%B2%E8%BF%91%E5%9B%9B%E6%88%90-000430012.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "Snowflake财报超预期",
+      "与AWS签下60亿美元五年大单"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Snowflake公布2026财年第一财季业绩，营收与获利全面超预期，第二财季指引亦优于预期。同时，亚马逊宣布Snowflake承诺未来五年向AWS采购价值60亿美元的服务与技术，涵盖Graviton芯片与AI GPU。消息刺激Snowflake盘后暴涨近40%。",
+      "transmissionChain": "直接利好亚马逊AWS（获得大单）、Snowflake（营收增长）。间接利好英伟达（GPU需求）、AMD（Graviton芯片）。对云服务竞争对手（微软Azure、谷歌云）形成压力。同时，Snowflake的AI数据仓库需求增长，利好数据中台与AI应用公司。",
+      "chinaMarketMapping": "对A股影响：国内云服务商（阿里云、腾讯云）可能加速AI数据仓库布局，利好数据中台公司（星环科技、东方国信）。但Snowflake与AWS的合作显示海外云巨头生态壁垒，国内企业需关注国产替代（华为云、百度云）机会。对港股：金蝶国际、用友网络等SaaS公司受益。"
+    },
+    "publishedAt": "2026-05-27T16:04:30Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "AI算力需求引爆储能商机，台普威兴柜首日冲上178.5元",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/ai%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E5%BC%95%E7%88%86%E5%84%B2%E8%83%BD%E5%95%86%E6%A9%9F-%E5%8F%B0%E6%99%AE%E5%A8%81%E8%88%88%E6%AB%83%E9%A6%96%E6%97%A5%E8%A1%9D%E4%B8%8A178-5%E5%85%83-000403135.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "台普威兴柜首日大涨65%",
+      "AI算力需求引爆储能商机"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "云豹能源旗下储能子公司台普威能源兴柜首日大涨65%，收盘价150.5元。公司宣布日本再新增一座储能案场完成併网，累计海外内建置实绩达412MW/1,055MWh。AI数据中心与高科技产业用电需求快速攀升，储能系统成为新世代电力架构的重要基础设施。",
+      "transmissionChain": "直接利好台普威（营收增长）、云豹能源（母公司受益）。对储能产业链（电池、逆变器、系统集成）需求提振。同时，AI数据中心储能需求可能推动锂电池（宁德时代）、液流电池（大连融科）技术发展。",
+      "chinaMarketMapping": "对A股影响：储能板块（宁德时代、阳光电源、派能科技）受益于AI数据中心需求。但需关注储能项目回报周期与政策补贴变化。对港股：比亚迪股份、中创新航等电池企业受益。此外，国内储能政策加码可能进一步刺激需求。"
+    },
+    "publishedAt": "2026-05-27T16:04:03Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
+    "title": "美伊协议曙光抽走战争溢价，布伦特、纽约期油周三重挫逾5%退回六周新低",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E6%9B%99%E5%85%89%E6%8A%BD%E8%B5%B0%E6%88%B0%E7%88%AD%E6%BA%A2%E5%83%B9-%E5%B8%83%E8%98%AD%E7%89%B9-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E9%80%B1%E4%B8%89%E9%87%8D%E6%8C%AB%E9%80%BE5-%E9%80%80%E5%9B%9E%E5%85%AD%E9%80%B1%E6%96%B0%E4%BD%8E-235224368.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "美伊谈判推进，油价暴跌5%",
+      "布伦特原油跌至94.29美元"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美国与伊朗就结束冲突及重新开放霍尔木兹海峡的谈判持续推进，市场押注能源运输秩序可望恢复，先前累积的战争风险溢价快速退潮。布伦特原油暴跌5.3%至94.29美元，纽约原油跌5.6%至88.68美元，均创六周新低。",
+      "transmissionChain": "油价暴跌直接利好航空（美国航空、达美航空）、航运（马士基）、化工（陶氏化学）等成本敏感行业。利空能源股（埃克森美孚、雪佛龙）及新能源替代逻辑。同时，通胀预期缓解可能减轻美联储加息压力，利好利率敏感型科技股。",
+      "chinaMarketMapping": "对A股影响：航空（中国国航、南方航空）、化工（万华化学）受益于成本下降。但能源股（中国石油、中国石化）承压。对港股：中石油、中海油等能源股回调，但航空与消费板块受益。此外，油价下跌可能缓解输入性通胀，利好央行货币政策空间。"
+    },
+    "publishedAt": "2026-05-27T15:52:24Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-28T17:30:07.595Z"
+  },
+  {
     "title": "美光市值突破1万亿美元，AI需求推动有望达到1.8万亿美元",
     "source": "Doorblog.jp",
     "url": "https://money-life.doorblog.jp/archives/59858762.html",
@@ -488,240 +722,5 @@
     "publishedAt": "2026-05-26T05:38:20Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-27T06:01:13.342Z"
-  },
-  {
-    "title": "英伟达首款Vera CPU正式交付，黄仁勋瞄准中国市场",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1563662.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "英伟达CEO黄仁勋表示Vera CPU将切入2000亿美元市场",
-      "已获美国政府许可对华出口，显示美中科技紧张下仍看好中国市场"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "英伟达正式交付首款Vera CPU，黄仁勋在财报会议中指出该产品将切入2000亿美元CPU市场，并明确表示对中国市场开放。这标志着英伟达从GPU向CPU领域扩张，与AMD、英特尔直接竞争。",
-      "transmissionChain": "Vera CPU将直接冲击英特尔和AMD的服务器CPU市场份额，利好英伟达供应链（台积电、联发科等）。同时，对华出口许可将加速中国AI服务器厂商（浪潮、中科曙光）的CPU替代进程，但可能引发美国政策审查。",
-      "chinaMarketMapping": "对A股而言，利好国产CPU替代概念（海光信息、龙芯中科），但英伟达CPU进入可能加剧竞争。对港股，利好联想（AI服务器）与中芯国际（代工）。对国内创业者，需关注CPU生态兼容性，可围绕Vera CPU开发AI应用。"
-    },
-    "publishedAt": "2026-05-26T05:35:24Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T06:01:13.342Z"
-  },
-  {
-    "title": "颖崴董事长：AI需求远超预期，订单排到半年后",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E7%A9%8E%E5%B4%B4%E8%91%A3%E5%BA%A7-i%E9%9C%80%E6%B1%82%E6%AF%94%E9%A0%90%E6%9C%9F-%E5%A5%BD%E5%A4%AA%E5%A4%9A-%E5%AE%A2%E6%88%B6%E8%AE%A2%E5%96%AE%E6%8E%92%E5%88%B0%E5%8D%8A%E5%B9%B4%E5%BE%8C-053256687.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "颖崴Q1 EPS达19.54元，今年营收创新高无虞",
-      "测试接口厂直接受益于AI芯片与先进封装需求"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "测试接口厂颖崴董事长表示AI需求比预期'好太多'，客户订单排到半年后，Q1 EPS达19.54元，今年营收创新高无虞。这显示AI产业链景气度远超预期。",
-      "transmissionChain": "颖崴订单排满将带动上游探针、载板等材料需求，利好供应链公司（如旺矽、精测）。同时，验证AI芯片出货量持续高增，利好台积电、英伟达等。",
-      "chinaMarketMapping": "对A股，利好测试设备厂商（华峰测控、长川科技）与封测龙头（长电科技）。对港股，利好ASMPT。对国内创业者，可关注测试接口国产替代机会。"
-    },
-    "publishedAt": "2026-05-26T05:32:56Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T06:01:13.342Z"
-  },
-  {
-    "title": "面壁智能开源MiniCPM5-1B端侧模型，性能超越2B参数模型",
-    "source": "Ithome.com",
-    "url": "https://www.ithome.com/0/955/267.htm",
-    "category": "AI_MODEL",
-    "summary": [
-      "MiniCPM5-1B仅1B参数，INT4量化后0.5GB",
-      "可运行在手机、浏览器上，端侧AI进入实用阶段"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "面壁智能联合清华大学开源MiniCPM5-1B端侧模型，在AA-Index上超越所有2B以下参数模型，INT4量化后权重仅0.5GB，可运行在手机、浏览器上。这标志着端侧AI进入实用阶段。",
-      "transmissionChain": "MiniCPM5-1B将推动AI在消费电子（手机、PC、IoT）中的渗透，利好芯片厂商（高通、联发科）与终端厂商（小米、华为）。同时，降低AI应用部署成本，加速边缘计算发展。",
-      "chinaMarketMapping": "对A股，利好端侧AI芯片公司（全志科技、瑞芯微）与物联网模组厂商（移远通信）。对港股，利好小米。对国内创业者，可基于MiniCPM5-1B开发离线AI应用，如智能客服、语音助手等。"
-    },
-    "publishedAt": "2026-05-26T05:13:08Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T06:01:13.342Z"
-  },
-  {
-    "title": "鲁比欧称美伊协议仍需数日，军事打击持续",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/rubio-us-iran-deal-crypto-sanctions/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "美伊谈判期间军事行动升级，增加协议不确定性",
-      "加密货币成为影子战场，影响全球市场"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "美国国务卿鲁比欧表示美伊停火协议仍需数日敲定，同时美军继续军事打击。这显示美伊谈判处于关键窗口，但军事行动升级增加不确定性。",
-      "transmissionChain": "美伊局势直接影响油价（CL=F已跌至92美元），进而影响全球通胀预期与央行政策。若协议达成，油价暴跌利好航空、消费；若破裂，油价飙升利空全球股市。",
-      "chinaMarketMapping": "对A股，利好航空股（中国国航）与石化下游（恒力石化），利空能源股（中国石油）。对港股，利好中石化。对国内创业者，需关注能源成本变化对制造业的影响。"
-    },
-    "publishedAt": "2026-05-26T05:00:15Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T06:01:13.342Z"
-  },
-  {
-    "title": "深圳十五五规划：前瞻布局6G、量子科技、脑机接口等未来产业",
-    "source": "36kr.com",
-    "url": "https://36kr.com/newsflashes/3825614816301700",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "深圳十五五规划布局6G、量子科技、脑机接口等未来产业",
-      "建立创新策源、转化孵化、应用牵引的全链条培育机制"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】深圳发布十五五规划，明确前瞻布局6G、量子科技、脑机接口等未来产业，建立全链条培育机制。这是中国地方政府首次系统性规划未来产业，信号意义重大。",
-      "transmissionChain": "【利益传导链条】利好深圳本地科技企业（华为、中兴、腾讯）及相关产业链。6G推动通信设备与射频芯片需求，量子科技利好国盾量子等，脑机接口刺激创新医疗与AI融合。创投机构将加大相关领域投资。",
-      "chinaMarketMapping": "【本土市场映射】A股量子通信（国盾量子）、6G（信科移动）、脑机接口（创新医疗）等概念股受益。深圳本地股（深科技、深圳华强）有望获得政策红利。但需警惕概念炒作，关注实际产业化进度。"
-    },
-    "publishedAt": "2026-05-26T04:16:38Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "美股：SpaceX与OpenAI IPO热潮重燃估值过高争论",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-spacex-openai-ipo-excitement-revives-debate-over-lofty-valuations/articleshow/131321487.cms",
-    "category": "AI_MODEL",
-    "summary": [
-      "过去五年50大IPO多数跑输标普500",
-      "SpaceX与OpenAI IPO引发估值担忧"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】Reuters分析显示，过去五年50大IPO多数首日大涨但长期跑输标普500。SpaceX与OpenAI等明星IPO即将登场，市场对高估值泡沫的担忧升温。",
-      "transmissionChain": "【利益传导链条】IPO估值过高可能导致上市后股价回调，打击风险偏好。一级市场投资者（VC/PE）可能加速退出，二级市场资金从科技股流向防御板块。做市商与投行承销收入短期增加，但长期若破发将损害市场信心。",
-      "chinaMarketMapping": "【本土市场映射】对A股影响有限，但港股IPO市场可能受情绪波及。中国AI独角兽（如宇树科技）科创板IPO若估值过高，可能面临类似风险。投资者应关注IPO定价合理性，避免追高。"
-    },
-    "publishedAt": "2026-05-26T04:16:20Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "朝鲜向海上发射弹道导弹及其他武器",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/koreas-launch-projectile-060148d7789377ff8691bc24d42b136d",
-    "category": "TECHNOLOGY",
-    "summary": [
-      "朝鲜发射短程弹道导弹",
-      "韩国加强监视态势"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】朝鲜发射短程弹道导弹，为今年首次武器发射。韩国联合参谋本部宣布加强监视。此举可能是在美伊冲突背景下展示武力，或抗议美韩联合军演。",
-      "transmissionChain": "【利益传导链条】地缘紧张升级推升避险资产（黄金、美元）需求，利空韩元与韩国股市。军工股（韩国航空宇宙、韩华）短期受益。东北亚供应链（半导体、汽车）可能受情绪冲击，但实际影响有限。",
-      "chinaMarketMapping": "【本土市场映射】A股军工板块（中航沈飞、航天彩虹）可能受情绪提振。但朝鲜导弹对中朝贸易影响有限，中国可能呼吁克制。投资者应关注地缘风险对半导体供应链的潜在冲击。"
-    },
-    "publishedAt": "2026-05-26T04:14:28Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "AI服务器需求爆发，台积电目标价上调，联发科直逼6000元",
-    "source": "Yahoo Entertainment",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0a72be98-b308-4da3-83e9-4c506b7df1f6",
-    "category": "AI_MODEL",
-    "summary": [
-      "台积电大涨55元收2310元",
-      "联发科攻上涨停收4245元",
-      "外资调升两家目标价"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】台积电与联发科股价大涨，外资调升目标价。AI服务器需求爆发驱动半导体产业链，台积电2nm量产与CoPoS封装受关注，联发科受益于AI边缘计算与手机芯片升级。",
-      "transmissionChain": "【利益传导链条】利好台积电供应链（设备、材料、封装），联发科带动IC设计板块。AI服务器需求拉动光模块、散热、PCB等环节。外资流入台股，推升新台币汇率。",
-      "chinaMarketMapping": "【本土市场映射】A股半导体设备（北方华创）、封装（长电科技）、光模块（中际旭创）等受益。但台积电与联发科股价已高，需警惕获利了结。中国AI芯片厂商（海光信息、寒武纪）可能受情绪提振。"
-    },
-    "publishedAt": "2026-05-26T04:06:56Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "法拉利发布首款五座纯电车型Luce，冲击高端电动车赛道",
-    "source": "Cnbeta.com.tw",
-    "url": "https://www.cnbeta.com.tw/articles/tech/1563620.htm",
-    "category": "SMART_MOBILITY",
-    "summary": [
-      "法拉利首款纯电车型Luce定价55万欧元",
-      "0-100km/h加速2.5秒，最高时速超310公里"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】法拉利发布首款纯电五座车型Luce，定价55万欧元，标志传统超跑品牌全面电动化。动力超1000马力，性能超越燃油版Purosangue。法拉利2030年规划纯电占比20%。",
-      "transmissionChain": "【利益传导链条】利好高端电动车供应链（电池、电机、碳纤维）。冲击保时捷Taycan、特斯拉Model S Plaid等竞品。传统超跑品牌电动化加速，可能带动其他品牌跟进。法拉利股价短期受提振。",
-      "chinaMarketMapping": "【本土市场映射】中国高端电动车市场（蔚来ET9、比亚迪仰望）面临竞争加剧。但法拉利Luce定价过高，销量有限，对中国市场影响不大。中国电动车企应关注品牌向上与技术创新。"
-    },
-    "publishedAt": "2026-05-26T04:05:19Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "Uber AI预算四个月烧光，工具采用过速挑战传统财务规划",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.stock.yahoo.com/news/uber-ai-%E9%A0%90%E7%AE%97%E5%9B%9B%E5%80%8B%E6%9C%88%E7%87%92%E5%85%89-%E5%B7%A5%E5%85%B7%E6%8E%A1%E7%94%A8%E9%81%8E%E9%80%9F%E6%8C%91%E6%88%98%E5%82%B3%E7%B5%B1%E8%B2%A1%E5%8B%99%E8%A6%8F%E5%8A%83-040127953.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "Uber全年AI预算四个月用罄",
-      "Claude Code采用速度超预期"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】Uber因工程团队对Claude Code采用速度超预期，原定全年AI预算在四个月内烧光。这凸显AI工具成本失控风险，企业传统财务规划面临挑战。",
-      "transmissionChain": "【利益传导链条】利空AI工具提供商（Anthropic），但利好拥有自主AI平台的公司（微软、谷歌）。企业可能收紧AI预算，转向性价比更高的方案。AI成本超预期可能引发行业反思，推动定价模式变革。",
-      "chinaMarketMapping": "【本土市场映射】中国AI企业（百度、阿里）也可能面临类似问题。企业应合理规划AI预算，避免盲目采用。投资者应关注AI公司的客户留存与成本控制能力。"
-    },
-    "publishedAt": "2026-05-26T04:01:27Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "台股市值首度超过印度，跃居全球第5大",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%B8%82%E5%80%BC%E9%A6%96%E5%BA%A6%E8%B6%85%E9%81%8E%E5%8D%B0%E5%BA%A6-%E8%BA%8D%E5%B1%85%E5%85%A8%E7%90%83%E7%AC%AC5%E5%A4%A7%E5%B8%82%E5%A0%B4-120102574.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "台股市值4.95万亿美元超越印度",
-      "AI晶片狂潮与半导体供应链推动"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】台股市值正式超越印度，成为全球第五大股票市场。AI晶片狂潮与半导体供应链爆发是主要推动力，台积电一家公司贡献42%权重，市值突破2万亿美元。",
-      "transmissionChain": "【利益传导链条】台股市值提升吸引外资流入，新台币升值。半导体产业链（台积电、联发科、鸿海）受益。但过度集中单一企业带来结构性风险，若台积电回调将拖累大盘。",
-      "chinaMarketMapping": "【本土市场映射】A股半导体板块（中芯国际、北方华创）可能受情绪提振，但中国股市市值仍落后。台股市值超越印度显示AI驱动的资本集中，中国应加快半导体自主可控。投资者可关注A股半导体龙头。"
-    },
-    "publishedAt": "2026-05-26T04:01:02Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "教宗良十四世首道通谕：AI应服务全人类，不可用AI来作恶",
-    "source": "Technews.tw",
-    "url": "https://technews.tw/2026/05/26/pope-leo-xiv-releases-his-first-encyclical/",
-    "category": "AI_MODEL",
-    "summary": [
-      "教宗发布首道AI通谕《伟大的人性》",
-      "警告AI可能成为掌控、排斥或死亡的工具"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】教宗良十四世发布首道通谕《伟大的人性》，警告AI可能被用作“掌控、排斥或死亡的工具”，呼吁AI应服务全人类，数据所有权不应仅由私人掌握。",
-      "transmissionChain": "【利益传导链条】教宗言论可能影响天主教徒投资者，推动ESG与AI伦理投资。欧盟AI监管可能加速，利好合规科技公司。大型科技公司（谷歌、Meta）面临更多监管压力。",
-      "chinaMarketMapping": "【本土市场映射】中国AI监管（《生成式AI管理办法》）已走在全球前列，教宗言论可能被中国媒体引用支持现有政策。中国AI企业（百度、阿里）需关注国际伦理标准，避免出口风险。"
-    },
-    "publishedAt": "2026-05-26T03:44:43Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
-  },
-  {
-    "title": "阿里云发布全新海外AI产品官网Qwen Cloud",
-    "source": "36kr.com",
-    "url": "https://36kr.com/newsflashes/3825581459395203",
-    "category": "AI_MODEL",
-    "summary": [
-      "阿里云在新加坡发布Qwen Cloud与Agent产品MuleRun",
-      "同步升级智能体编程平台Qoder"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "【底层异动事实】阿里云在新加坡面向海外市场发布全新AI产品官网Qwen Cloud、Agent产品MuleRun，以及智能体编程平台Qoder。这是中国AI企业加速出海的重要信号。",
-      "transmissionChain": "【利益传导链条】利好阿里云产业链（服务器、光模块、IDC）。Qwen Cloud与MuleRun将与国际云厂商（AWS、Azure）竞争，推动中国AI技术输出。海外企业客户可能采用阿里云AI服务，带动营收增长。",
-      "chinaMarketMapping": "【本土市场映射】A股阿里云合作伙伴（数据港、光环新网）受益。中国AI出海趋势利好光模块（中际旭创）、服务器（浪潮信息）等。但需关注海外监管与数据安全风险。"
-    },
-    "publishedAt": "2026-05-26T03:42:42Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-27T04:21:37.683Z"
   }
 ]
