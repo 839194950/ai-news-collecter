@@ -1,5 +1,119 @@
 [
   {
+    "title": "比亚迪发表自研4纳米智驾芯片璇玑A3，推亲民方案承诺事故全额赔付",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%99%BC%E8%A1%A8%E8%87%AA%E7%A0%944%E5%A5%88%E7%B1%B3%E6%99%BA%E9%A7%95%E6%99%B6%E7%89%87%E7%92%87%E7%92%A3a3-%E6%8E%A8%E8%A6%AA%E6%B0%91%E6%96%B9%E6%A1%88%E6%89%BF%E8%AB%BE%E4%BA%8B%E6%95%85%E5%85%A8%E9%A1%8D%E8%B5%94%E4%BB%98-005754372.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "比亚迪发布4纳米智驾芯片璇玑A3",
+      "单车三颗算力超2100TOPS",
+      "全系车型可选装智驾系统"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "比亚迪发布自研4纳米智驾芯片璇玑A3，单位算力功耗较同级低20%，单车搭载三颗总算力超2100TOPS。王传福宣布全系车型可选装'天神之眼'智驾系统，并承诺事故全额赔付。",
+      "transmissionChain": "比亚迪自研芯片将降低对外部供应商（英伟达、Mobileye）依赖，提升毛利率。智驾系统普及将带动传感器（摄像头、激光雷达）、执行器（线控制动）需求。事故全额赔付可能增加保险成本，但有助于提升消费者信心。对竞争对手（特斯拉、小鹏）形成压力，加速行业智驾普及。",
+      "chinaMarketMapping": "利好A股智驾产业链：德赛西威（域控制器）、中科创达（软件）、韦尔股份（CIS）。比亚迪芯片若成功量产，将带动国产芯片设计（芯原股份）与封测（长电科技）需求。但4纳米制程依赖台积电或三星，地缘风险犹存。事故全额赔付模式可能被其他车企效仿，推动行业标准升级。"
+    },
+    "publishedAt": "2026-05-28T16:57:54Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-29T17:03:28.686Z"
+  },
+  {
+    "title": "专项债开闸撬动城市更新，中国'十五五'稳房市扩内需再出重招",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E5%B0%88%E9%A0%85%E5%82%B5%E9%96%8B%E9%96%98%E6%92%AC%E5%8B%95%E5%9F%8E%E5%B8%82%E6%9B%B4%E6%96%B0-%E4%B8%AD%E5%9C%8B-%E5%8D%81%E4%BA%94%E4%BA%94-%E7%A9%A9%E6%88%BF%E5%B8%82%E6%93%B4%E5%85%A7%E9%9C%80%E5%86%8D%E5%87%BA%E9%87%8D%E6%8B%9B-005603333.html",
+    "category": "TECHNOLOGY",
+    "summary": [
+      "国务院印发城市更新'十五五'规划",
+      "专项债可用于城市更新项目资本金",
+      "目标改造危旧房50万套"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "中国国务院印发《城市更新'十五五'规划》，中央财政支持城市更新行动，地方政府可通过专项债支持项目建设，甚至用作项目资本金。规划到2030年取得重要进展，改造城镇危旧房50万套。",
+      "transmissionChain": "专项债开闸将直接拉动基建投资，利好工程机械（三一重工）、水泥（海螺水泥）、钢铁（宝钢股份）、建筑装饰（中国建筑）等行业。城市更新涉及旧改、管网、停车场等，带动建材与装修需求。同时，稳定房地产市场预期，缓解房企流动性压力，利好优质房企（保利发展、万科A）。",
+      "chinaMarketMapping": "对A股基建与地产链形成直接利好，但需注意专项债发行节奏与项目落地效率。城市更新模式从增量开发转向存量改造，利好拥有运营能力的国企（上海建工、北京城建）。对港股内房股（华润置地、中国海外发展）也有提振。但房市整体仍承压，政策效果需观察。"
+    },
+    "publishedAt": "2026-05-28T16:56:03Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-29T17:03:28.686Z"
+  },
+  {
+    "title": "三星抢先出货HBM4E样品，AI记忆体霸权战剑指英伟达新世代平台",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E6%98%9F%E6%90%B6%E5%85%88%E5%87%BA%E8%B2%A8hbm4e%E6%A8%A3%E5%93%81-ai%E8%A8%98%E6%86%B6%E9%AB%94%E9%9C%B8%E6%AC%8A%E6%88%B0%E5%8D%91%E6%8C%87%E8%BC%9D%E9%81%94%E6%96%B0%E4%B8%96%E4%BB%A3%E5%B9%B3%E5%8F%B0-003915367.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "三星出货12层堆叠HBM4E样品",
+      "容量48GB，脚位速度稳定",
+      "巩固AI记忆体领导地位"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "三星宣布向全球主要客户出货业界首款12层堆叠HBM4E样品，容量48GB，脚位速度稳定。继HBM4量产后，三星将竞争战线推向下一代AI记忆体，意在巩固新世代AI基础设施供应链中的主导地位。",
+      "transmissionChain": "HBM4E出货直接利好三星自身及其设备供应商（韩美半导体、东京电子）。对英伟达而言，HBM4E将提升其下一代GPU（Vera Rubin）性能，但三星若独家供应可能提高议价能力。SK海力士与美光面临竞争压力，需加速HBM4E研发。HBM产能扩张也将带动TSV、封装设备需求。",
+      "chinaMarketMapping": "中国存储芯片厂商（长鑫存储、长江存储）在HBM领域仍落后，但长鑫科技科创板IPO（295亿元）将加速国产HBM研发。A股HBM概念股（华海诚科、雅克科技）可能受情绪提振，但技术差距较大。三星HBM4E出货也提醒中国需加快自主可控，避免被'卡脖子'。"
+    },
+    "publishedAt": "2026-05-28T16:39:15Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-29T17:03:28.686Z"
+  },
+  {
+    "title": "IBM拟未来五年投资逾100亿美元，押注2029年前建成大规模量子计算机",
+    "source": "Cnbeta.com.tw",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1563950.htm",
+    "category": "SEMICONDUCTOR",
+    "summary": [
+      "IBM未来五年投资超100亿美元",
+      "目标2029年建成大规模量子计算机",
+      "美国政府20亿美元支持量子产业"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "IBM宣布未来五年在量子计算领域投资超100亿美元，目标2029年前建成首台稳定运行的大规模量子计算机。美国政府上周以股权形式向九家量子企业投入20亿美元，其中一半流向IBM参与的'Anderon'芯片制造设施。",
+      "transmissionChain": "IBM投资将直接利好其量子计算硬件与软件供应商（如Rigetti、IonQ），并带动超导材料、稀释制冷机等产业链。量子计算突破将对密码学、药物研发、金融建模产生颠覆性影响，威胁现有加密体系，推动后量子密码学发展。政府投资显示量子计算战略地位上升，全球竞赛加剧。",
+      "chinaMarketMapping": "中国量子计算政策可能跟进，利好国盾量子、科大国创等标的。但中国在超导量子比特、离子阱等技术路线上仍落后美国。IBM投资提醒中国需加大投入，避免在下一代计算技术中被'卡脖子'。A股量子计算概念股（浙江东方、神州信息）可能受情绪提振，但业绩兑现尚早。"
+    },
+    "publishedAt": "2026-05-28T16:36:24Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-29T17:03:28.686Z"
+  },
+  {
+    "title": "Anthropic估值飙升至9650亿美元，正式超越OpenAI",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.news.yahoo.com/anthropic%E4%BC%B0%E5%80%BC%E9%A3%86%E5%8D%87%E8%87%B39650%E5%84%84%E7%BE%8E%E5%85%83-%E6%AD%A3%E5%BC%8F%E8%B6%85%E8%B6%8Aopenai-002144329.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "Anthropic完成650亿美元H轮融资",
+      "估值9650亿美元超越OpenAI",
+      "企业级AI应用需求旺盛"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "Anthropic完成650亿美元H轮融资，投后估值9650亿美元，首次超越OpenAI的8520亿美元估值。融资由Altimeter Capital、Dragoneer等领投，资金将用于扩大企业AI服务与模型研发。Claude Opus 4.8同期发布，强化代理型AI能力。",
+      "transmissionChain": "Anthropic估值飙升直接利好其股东（如谷歌、Spark Capital），并提升AI模型层整体估值中枢。企业客户采用率增长将带动AI应用与基础设施需求，利好云服务商（AWS、Azure）与算力供应商（英伟达）。同时，竞争压力将迫使OpenAI加速融资与产品迭代，可能引发新一轮AI军备竞赛。",
+      "chinaMarketMapping": "对中国AI企业（百度文心、阿里通义、DeepSeek）形成估值对标，国家大基金领投DeepSeek（450亿美元估值）显示中国AI国家队加速追赶。但美国对华AI芯片出口管制限制中国模型训练能力，国产算力（华为昇腾、寒武纪）需求上升。A股AI概念股（科大讯飞、三六零）可能受情绪提振，但需警惕估值泡沫。"
+    },
+    "publishedAt": "2026-05-28T16:21:44Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-29T17:03:28.686Z"
+  },
+  {
+    "title": "AI服务器需求爆发，戴尔周四盘后飙近40%，全年营收展望暴增逾250亿美元",
+    "source": "Yahoo Entertainment",
+    "url": "https://tw.stock.yahoo.com/news/ai%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC-%E6%88%B4%E7%88%BE%E9%80%B1%E5%9B%9B%E7%9B%A4%E5%BE%8C%E9%A3%86%E8%BF%9140-%E5%85%A8%E5%B9%B4%E7%87%9F%E6%94%B6%E5%B1%95%E6%9C%9B%E6%9A%B4%E5%A2%9E%E9%80%BE250%E5%84%84%E7%BE%8E%E5%85%83-000311128.html",
+    "category": "AI_MODEL",
+    "summary": [
+      "戴尔AI服务器营收飙升757%",
+      "全年AI服务器营收预期上调至600亿美元",
+      "盘后股价暴涨近40%"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "戴尔最新财报显示AI服务器营收同比增长757%，公司上调2027财年AI服务器营收预期至约600亿美元，较此前增加逾250亿美元。运营长表示'AI机遇未见放缓迹象'。盘后股价一度飙升近40%。",
+      "transmissionChain": "戴尔作为全球前三大服务器厂商，其AI服务器需求爆发直接利好上游供应链：GPU供应商英伟达/AMD、内存供应商美光/SK海力士、散热方案商（奇鋐、双鸿）、PCB厂商（沪电股份、深南电路）。同时，云服务商（微软、亚马逊）资本支出持续扩大，形成正反馈。戴尔股价暴涨也将带动整个AI硬件板块估值提升。",
+      "chinaMarketMapping": "对A股服务器产业链形成直接映射：工业富联（AI服务器代工）、中科曙光（国产服务器）、浪潮信息（AI服务器）等受益。但中国AI服务器受芯片出口管制影响，国产替代（华为昇腾、海光信息）需求更迫切。戴尔财报验证AI资本开支高景气，国内光模块（中际旭创、新易盛）等配套环节也将受益。"
+    },
+    "publishedAt": "2026-05-28T16:03:11Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-29T17:03:28.686Z"
+  },
+  {
     "title": "美伊停火破裂，紧张局势升级，油价飙升",
     "source": "Crypto Briefing",
     "url": "https://cryptobriefing.com/us-iran-ceasefire-unravels-tensions-rise-oil-prices-surge/",
@@ -16,6 +130,25 @@
     "publishedAt": "2026-05-28T10:51:56Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-29T10:55:31.473Z"
+  },
+  {
+    "title": "美伊停火协议破裂，紧张局势升级，油价飙升",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/us-iran-ceasefire-strait-of-hormuz/",
+    "category": "DIGITAL_ASSETS",
+    "summary": [
+      "美伊停火协议破裂",
+      "中东紧张局势升级",
+      "油价飙升"
+    ],
+    "forensicAnalysis": {
+      "underlyingFact": "美伊停火协议破裂，中东紧张局势再度升级，霍尔木兹海峡通航风险上升。此前美国与伊朗曾达成60天停火协议，但双方互指对方违反协议。伊朗恢复互联网连接至冲突前86%水平，显示局势可能降温，但不确定性仍高。",
+      "transmissionChain": "停火破裂将推高油价，布伦特原油可能重返100美元以上，加剧全球通胀压力。航空、航运成本上升，利空航空股与消费股。避险资产（黄金、美元）受益。加密货币市场受地缘风险影响，比特币可能作为数字黄金获得避险资金流入。",
+      "chinaMarketMapping": "中国作为原油进口大国，油价上涨将推升输入性通胀，挤压中下游企业利润。利好A股石油板块（中国石油、中国石化），利空航空（中国国航）、化工（万华化学）等成本敏感行业。人民币贬值压力加大，美元兑人民币可能突破6.8。地缘风险也促使中国加速能源多元化（光伏、电动车）。"
+    },
+    "publishedAt": "2026-05-28T10:51:56Z",
+    "isAnchorEvent": true,
+    "addedAt": "2026-05-29T17:03:28.686Z"
   },
   {
     "title": "黄仁勳兆元宴大咖云集，台AI供应链重量级掌门人齐聚",
@@ -592,131 +725,5 @@
     "publishedAt": "2026-05-27T10:54:22Z",
     "isAnchorEvent": true,
     "addedAt": "2026-05-28T11:04:41.362Z"
-  },
-  {
-    "title": "台湾怀疑辉达芯片经日本走私至中国",
-    "source": "Slashdot.org",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183428182",
-    "category": "SEMICONDUCTOR",
-    "summary": [
-      "台湾检方怀疑辉达AI芯片经日本走私至中国",
-      "已查扣约50台美超微服务器"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "台湾基隆地检署拘提3名嫌疑人，涉嫌将搭载辉达AI芯片的美超微服务器出口至日本后转运至中国，违反美国出口管制规定。这是台湾首度公开破获AI芯片转运案件，已查扣约50台服务器。",
-      "transmissionChain": "该事件凸显美国对华芯片出口管制的执行力度加强，可能促使美国进一步收紧管制，影响英伟达、AMD等芯片厂商的对华销售。同时，美超微作为服务器供应商可能面临合规调查。中国AI芯片国产替代（华为昇腾、寒武纪）将加速。",
-      "chinaMarketMapping": "对A股而言，芯片走私案将强化国产替代逻辑，利好华为昇腾产业链（如拓维信息、神州数码）以及国产GPU厂商（如景嘉微）。但短期可能引发市场对中美科技战升级的担忧，压制半导体板块估值。港股中，中芯国际与华虹半导体可能受益于国产替代加速。"
-    },
-    "publishedAt": "2026-05-27T10:52:26Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-28T11:04:41.362Z"
-  },
-  {
-    "title": "以色列在加沙空袭中杀死哈马斯军事首领穆罕默德·奥德",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/israel-kills-hamas-chief-mohammed-odeh/",
-    "category": "DIGITAL_ASSETS",
-    "summary": [
-      "以色列杀死哈马斯军事首领",
-      "可能破坏停火努力"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "以色列在加沙空袭中杀死哈马斯军事首领穆罕默德·奥德，此举可能破坏停火谈判，加剧地区紧张。哈马斯可能报复，导致冲突升级。",
-      "transmissionChain": "该事件将推高油价与避险资产需求，利好军工股（洛克希德·马丁、雷神）。同时，中东和平进程受挫可能影响全球风险偏好，利空股市。",
-      "chinaMarketMapping": "对A股而言，地缘风险上升将提振军工板块（中航沈飞、航发动力）与黄金股（山东黄金）。港股中，中海油可能受益于油价上涨。投资者需关注停火谈判进展，若冲突升级，全球市场将承压。"
-    },
-    "publishedAt": "2026-05-27T10:52:21Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-28T11:04:41.362Z"
-  },
-  {
-    "title": "SK海力士加入万亿美元俱乐部",
-    "source": "Business Insider",
-    "url": "https://www.businessinsider.com/korean-chipmaker-sk-hynix-1-trillion-club-ai-rally-2026-5",
-    "category": "AI_MODEL",
-    "summary": [
-      "SK海力士市值突破1万亿美元",
-      "AI热潮推动韩国芯片股"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "SK海力士股价首次突破200万韩元，市值突破1万亿美元，成为韩国第二家万亿美元市值公司。AI服务器对HBM的需求是主要驱动力，SK海力士HBM3E市场份额领先，并计划在HBM5中引入iHBM技术。",
-      "transmissionChain": "SK海力士市值突破将带动韩国半导体产业链，包括设备商（如SEMES）、材料商（如东进世美）。同时，HBM供应紧张可能推动价格上涨，利好竞争对手美光与三星。AI服务器厂商（如超微电脑）也将受益于HBM产能扩张。",
-      "chinaMarketMapping": "对A股而言，SK海力士的里程碑将提振国内存储芯片概念股，但国产HBM尚处早期，短期受益有限。港股中，ASM太平洋（半导体设备）可能受益于HBM扩产。投资者可关注与SK海力士有合作关系的中国材料企业，如雅克科技（前驱体供应商）。"
-    },
-    "publishedAt": "2026-05-27T10:46:10Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-28T11:04:41.362Z"
-  },
-  {
-    "title": "黄仁勳重申：我们需要更多电力",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%87%8D%E7%94%B3-%E6%88%91%E5%80%91%E9%9C%80%E8%A6%81%E6%9B%B4%E5%A4%9A%E9%9B%BB%E5%8A%9B-%E7%B6%B2%E7%B4%85-%E8%B2%BC%E8%87%89%E9%96%8B%E5%A4%A7%E6%89%93%E8%87%89%E6%B2%88%E4%BC%AF%E6%B4%8B-103300845.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "黄仁勳在台北员工大会上重申AI发展需要更多电力",
-      "辉达每年在台投资4.8兆新台币建设AI生态圈"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "黄仁勳在辉达北士科员工大会上明确表示“我们需要更多电力”，并透露NVIDIA每年在台湾投资4.8兆新台币建设AI生态圈。此前他曾表示台湾发展AI需要更多能源，此次直接强调电力，凸显AI数据中心对能源基础设施的迫切需求。",
-      "transmissionChain": "黄仁勳的表态将直接利好电力基础设施板块，包括光伏、核电、储能以及电网设备。同时，AI数据中心建设将带动冷却系统（液冷）、电力设备（变压器、UPS）需求。台湾电力公司（台电）可能加速核电与可再生能源投资。",
-      "chinaMarketMapping": "对A股而言，AI电力需求将提振光伏（隆基绿能、通威股份）、储能（宁德时代、阳光电源）以及电网设备（国电南瑞、许继电气）板块。港股中，中广核电力与华能国际可能受益。投资者可关注AI数据中心配套的液冷散热概念股，如英维克、高澜股份。"
-    },
-    "publishedAt": "2026-05-27T10:33:00Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-28T11:04:41.362Z"
-  },
-  {
-    "title": "台股暴涨731点登全球第五",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E7%98%8B%E7%8B%82%E5%86%8D%E5%AE%9A%E5%83%B9-%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B2731%E9%BB%9E%E7%99%BB%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94-102132012.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "台股加权指数大涨731点，成交量1.557兆元",
-      "台股市值超越印度升至全球第五"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "台股加权指数大涨731.43点，收在44,256.80点，涨幅1.68%，成交量爆出1.557兆元天量。台股市值超越印度升至全球第五大，AI半导体权值股（台积电、联发科）领涨。",
-      "transmissionChain": "台股暴涨直接利好台湾半导体供应链，包括晶圆代工（台积电）、封测（日月光）、IC设计（联发科）以及设备材料（帆宣、家登）。同时，台股市值提升将吸引更多外资流入，形成正反馈。",
-      "chinaMarketMapping": "对A股而言，台股暴涨可能带动A股半导体板块情绪，但需警惕资金分流效应。港股中，台股ETF（如富邦台50）可能受益。投资者可关注A股半导体设备与材料龙头，如北方华创、中微公司，但需注意估值已不低。"
-    },
-    "publishedAt": "2026-05-27T10:21:32Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-28T11:04:41.362Z"
-  },
-  {
-    "title": "高通与字节跳动AI ASIC交易传闻：中国数据中心芯片供应可能生变",
-    "source": "Digitimes",
-    "url": "https://www.digitimes.com/news/a20260527VL208/qualcomm-bytedance-ai-asic-data-center-market.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "高通与字节跳动可能达成AI ASIC合作",
-      "中国数据中心芯片供应格局或变"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "据彭博报道，高通与字节跳动正在洽谈AI ASIC（专用集成电路）合作，高通将为字节跳动设计定制AI芯片，用于数据中心推理任务。此举可能改变中国AI芯片采购格局，减少对英伟达的依赖。",
-      "transmissionChain": "若合作达成，高通将获得中国AI芯片市场份额，利好其设计服务与IP业务。字节跳动可降低对英伟达GPU的依赖，提升成本效率。同时，可能冲击国内AI芯片厂商（寒武纪、海光信息）的市场预期。",
-      "chinaMarketMapping": "对A股而言，高通与字节跳动的合作可能加速国产AI芯片替代，但短期对寒武纪（688256）、海光信息（688041）形成竞争压力。投资者应关注国产AI芯片的进展，以及字节跳动供应链上的服务器厂商（浪潮信息、中科曙光）。"
-    },
-    "publishedAt": "2026-05-27T05:49:38Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-28T05:55:51.883Z"
-  },
-  {
-    "title": "AI真正的下一场战争：不是芯片 是电力",
-    "source": "Yahoo Entertainment",
-    "url": "https://tw.news.yahoo.com/%E6%94%BE-%E5%B0%88%E9%A1%8C-ai%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%B8%8B-%E5%A0%B4%E6%88%B0%E7%88%AD-%E4%B8%8D%E6%98%AF%E6%99%B6%E7%89%87-054336194.html",
-    "category": "AI_MODEL",
-    "summary": [
-      "AI数据中心电力需求暴增",
-      "能源成为AI竞争新瓶颈"
-    ],
-    "forensicAnalysis": {
-      "underlyingFact": "黄仁勋指出AI劳工需要大量电力，大型数据中心、AI运算、高阶服务器都是超级吃电怪兽。欧洲商会警告台湾未来最大风险是能源韧性。全球科技巨头已进入抢电大战，能源成为AI时代国力的核心。",
-      "transmissionChain": "AI电力需求爆发利好核电、天然气、可再生能源以及电力设备公司。数据中心建设带动变压器、冷却系统、UPS等需求。同时，能源成本上升可能推高AI服务价格，影响行业利润率。",
-      "chinaMarketMapping": "对A股而言，AI电力需求利好国内电力运营商（长江电力、中国核电）以及电力设备公司（特变电工、国电南瑞）。投资者可关注数据中心冷却解决方案（英维克、高澜股份）以及核电重启概念（中国核电、中广核技）。"
-    },
-    "publishedAt": "2026-05-27T05:43:36Z",
-    "isAnchorEvent": true,
-    "addedAt": "2026-05-28T05:55:51.883Z"
   }
 ]
