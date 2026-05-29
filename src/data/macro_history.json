@@ -308,7 +308,7 @@
     "mediaSentiment": 0.1,
     "socialSentiment": -0.2,
     "regime": "滞胀",
-    "fearGreedIndex": 55,
+    "fearGreedIndex": 45,
     "hotThemes": [
       {
         "keyword": "AI代理",
